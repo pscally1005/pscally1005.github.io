@@ -1355,6 +1355,17 @@ def grams(food, mass, vol):
             m = "500"
         elif vol == "5 medium":
             m = "625"
+        elif vol == "5 large":
+            m = "1200"
+
+    # Eggplant
+    elif food == "Eggplant":
+        if vol == "1/2 large":
+            m = "250"
+        elif vol == "1 large":
+            m = "500"
+        elif vol == "2 large":
+            m = "1000"
 
     # Peppers
     elif food == "Bell pepper":

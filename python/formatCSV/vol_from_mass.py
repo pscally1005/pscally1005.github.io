@@ -1250,6 +1250,17 @@ def vol_from_mass(food, mass, vol):
             v = "4 medium"
         elif mass == "625":
             v = "5 medium"
+        elif mass == "1200":
+            v = "5 large"
+
+    # Eggplant
+    elif food == "Eggplant":
+        if mass == "250":
+            v = "1/2 large"
+        elif mass == "500":
+            v = "1 large"
+        elif mass == "1000":
+            v = "2 large"
 
     # Carrots
     elif food == "Carrots":

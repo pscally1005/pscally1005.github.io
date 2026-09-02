@@ -68,6 +68,8 @@ Notes:
     <li>Substituted the <a href='/misc/nuts#almonds'>almond butter</a> in my <a href='/recipes/nutty-veggies'>Nutty Veggies</a> with <a href='#recipe'>Pea Butter</a>.</li>
   </ul>
 - <img src='/assets/Food/Meme/Pea Butter/flatbread.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/Pea Butter/nutty-veggies.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/cover.jpg' alt='' class='instruction-image'>
 
 - <a href='#recipe'>This recipe</a> makes exactly 2 tbsp (32 g) of <a href='#recipe'>pea butter</a> to perfectly replicate a 2 tbsp (32 g) serving of <a href='/recipes/natural-peanut-butter'>peanut butter</a>.  Simply scale this recipe up by x8 to replace 1 cup (256 g) of <a href='/recipes/natural-peanut-butter'>peanut butter</a>.  The recipe to replicate 1 cup (256 g) of <a href='/recipes/natural-peanut-butter'>nut butter</a> is below.
 - INGREDIENTS(peabuttercup)
