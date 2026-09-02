@@ -60,7 +60,7 @@ Description: |
 
   But today, I'm making it even simpler.  I'm letting my <a href='https://amzn.to/49TUS9E'>slow cooker</a> do all the work for me.  Just add raw <a href='/misc/veggies'>veggies</a> with a can of <a href='/misc/veggies#tomato'>tomatoes</a> and some spices in the morning, and check back at dinner time.
 Instructions:
-- Cut your <a href='/misc/veggies#zucchini'>zucchini</a> and <a href='/misc/veggies#eggplant'>eggplant</a> into large chunks, and add to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a> with <a href='/misc/veggies#tomato'>crushed tomatoes</a>, basil, oregano, salt, and pepper.
+- Cut your <a href='/misc/veggies#zucchini'>zucchini</a> and <a href='/misc/veggies#eggplant'>eggplant</a> into large chunks, and add to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a> with <a href='/misc/veggies#tomato'>crushed tomatoes</a>, basil, oregano, salt, pepper, and water.
 - <img src='/assets/Food/Sides/Slow Cook Ratatouille/raw.jpg' alt='' class='instruction-image'>
 
 - Cover and cook on low for about 10 hours, or until soft and bubbly.
