@@ -67,7 +67,7 @@ Instructions:
 - Transfer the batter to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Add in <a href='/misc/psyllium-husk'>psyllium husk</a> and baking powder.  Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and transfer to your prepared pan.  Optionally top with <a href='https://amzn.to/40gmjGE'>everything bagel seasoning</a>.
 - <img src='/assets/Food/Bread/Lentil Loaf/raw.jpg' alt='' class='instruction-image'>
 
-- Bake uncovered at 350F for about 50 minutes, or until lightly golden, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.
+- Bake uncovered at 350F for about 50 minutes, or until lightly golden, a toothpick to the center comes out totally clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.
 - <img src='/assets/Food/Bread/Lentil Loaf/baked.jpg' alt='' class='instruction-image'>
 
 - Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to completely cool before slicing.
@@ -75,26 +75,37 @@ Instructions:
 Notes:
 - Any kind of <a href='/misc/beans#red-lentils'>lentils</a> will work here.  <a href='/misc/beans#brown-lentils'>Brown</a>, <a href='/misc/beans#red-lentils'>red</a>, <a href='/misc/beans#green-lentils'>green</a>; whatever you got.  I went with <a href='/misc/beans#brown-lentils'>brown lentils</a> here.
 
-- You can even use other things besides <a href='/misc/beans#brown-lentils'>lentils</a>.  Below are some examples.  Note that while the volumes will change, the mass is <i>roughly</i> the same.  Also note that <a href='/misc/grains#bulgur'>bulgur</a> and <a href='/misc/grains#barley'>barley</a> are not <a href='/misc/celiac'>gluten free</a>.
+- |
+  You can even use other things besides <a href='/misc/beans#brown-lentils'>lentils</a>.  Below are some examples.  While the volumes will change, the mass is the same.<br><br>
+
+  Note that <a href='/misc/grains#bulgur'>bulgur</a> and <a href='/misc/grains#barley'>barley</a> are not <a href='/misc/celiac'>gluten free</a>.<br><br>
+
+  For the final 3 (<a href='/misc/nuts#cashews'>cashews</a>, <a href='/misc/seeds#chia-seeds'>chia</a>, and <a href='/misc/seeds#flax-seeds'>flax</a>), as these ingredients are higher in <a href='/misc/fats'>fat</a>, I doubled the <a href='/misc/dairy#yogurt'>yogurt</a> to 1/4 cup (56 g), and omitted the <a href='/misc/olive-oil'>oil</a>.
 - INGREDIENTS(lentilloafoptions)
 
 - |
   COMPARE(
     "lentilloaf",
     "oatloaf",
-    "bulgurloaf",
     "riceloaf",
-    "barleyloaf",
     "quinoaloaf",
-    "beanloaf";
+    "beanloaf",
+    "bulgurloaf",
+    "barleyloaf",
+    "cashewloaf",
+    "chialoaf",
+    "flaxloaf";
 
     "<a href='/misc/beans#brown-lentils'>Lentils</a>",
     "<a href='/misc/grains#oats'>Oats</a>",
-    "<a href='/misc/grains#bulgur'>Bulgur</a>",
     "<a href='/misc/grains#brown-rice'>Rice</a>",
-    "<a href='/misc/grains#barley'>Barley</a>",
     "<a href='/misc/grains#quinoa'>Quinoa</a>",
-    "<a href='/misc/beans#black-beans'>Beans</a>";
+    "<a href='/misc/beans#black-beans'>Beans</a>",
+    "<a href='/misc/grains#bulgur'>Bulgur</a>",
+    "<a href='/misc/grains#barley'>Barley</a>",
+    "<a href='/misc/nuts#cashews'>Cashew</a>",
+    "<a href='/misc/seeds#chia-seeds'>Chia</a>",
+    "<a href='/misc/seeds#flax-seeds'>Flax</a>";
 
     "Calories",
     "Protein",
@@ -102,7 +113,15 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+# - <img src='/assets/Food/Bread/Lentil Loaf/bowls.jpg' alt='' class='instruction-image'>
 # - <img src='/assets/Food/Bread/Lentil Loaf/oats-and-bulgur.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Bread/Lentil Loaf/oats.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Bread/Lentil Loaf/rice.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Bread/Lentil Loaf/quinoa.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Bread/Lentil Loaf/beans.jpg' alt='' class='instruction-image'>
 # - <img src='/assets/Food/Bread/Lentil Loaf/bulgur.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Bread/Lentil Loaf/barley.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Bread/Lentil Loaf/cashew.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Bread/Lentil Loaf/chia.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Bread/Lentil Loaf/flax.jpg' alt='' class='instruction-image'>
 ---

@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,69,,
+Calories,71,,
 "Vitamin A, RAE",5.71,mcg,1 %
 "Carotene, alpha",1.34,mcg,
 "Carotene, beta",58.86,mcg,
@@ -27,46 +27,45 @@ Calories,69,,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",9.1,mg,2 %
-"Calcium",23.32,mg,2 %
+"Calcium",44.7,mg,3 %
 "Copper",0.11,mg,12 %
 "Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
-"Iron",0.74,mg,4 %
-"Magnesium",23.22,mg,6 %
-"Manganese",0.179,mg,8 %
-"Phosphorus",50.07,mg,4 %
-"Potassium",201.12,mg,4 %
+"Iron",1.05,mg,6 %
+"Magnesium",23.34,mg,6 %
+"Manganese",0.181,mg,8 %
+"Phosphorus",78.69,mg,6 %
+"Potassium",259.37,mg,6 %
 "Selenium",0.75,mcg,1 %
-"Sodium",189.82,mg,8 %
+"Sodium",227.6,mg,10 %
 "Zinc",0.5,mg,5 %
 "Protein",3.05,g,6 %
-"Alanine",0.123,g,
-"Arginine",0.193,g,
-"Aspartic acid",0.343,g,
-"Cystine",0.032,g,
-"Cysteine",0,g,
-"Glutamic acid",0.486,g,
-"Glycine",0.113,g,
 "Histidine",0.084,g,7 %
-"Hydroxyproline",0,g,
 "Isoleucine",0.133,g,9 %
 "Leucine",0.245,g,7 %
 "Lysine",0.209,g,7 %
 "Methionine",0.048,g,
 "Phenylalanine",0.161,g,
-"Proline",0.154,g,
-"Serine",0.162,g,
 "Threonine",0.126,g,8 %
 "Tryptophan",0.035,g,9 %
-"Tyrosine",0.09,g,
 "Valine",0.161,g,8 %
 "Phenylalanine + Tyrosine",0.251,g,9 %
 "Methionine + Cysteine",0.08,g,5 %
-"Carbohydrate",8.49,g,3 %
-"Fiber",2.14,g,8 %
+"Arginine",0.193,g,
+"Cystine",0.032,g,
+"Cysteine",0,g,
+"Glutamic acid",0.486,g,
+"Glycine",0.113,g,
+"Proline",0.154,g,
+"Tyrosine",0.09,g,
+"Alanine",0.123,g,
+"Aspartic acid",0.343,g,
+"Hydroxyproline",0,g,
+"Carbohydrate",10.02,g,4 %
+"Fiber",3.32,g,12 %
 "Sugars",0.4,g,
-"Net carbs",6.35,g,
-"Fat",2.736,g,4 %
+"Net carbs",6.7,g,
+"Fat",2.738,g,4 %
 "Saturated fatty acids",0.409,g,2 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
@@ -81,7 +80,7 @@ Calories,69,,
 "Eicosenoic acid",0,g,
 "Hexadecenoic acid",0,g,
 "Octadecenoic acid",0.015,g,
-"Polyunsaturated fatty acids",0.36,g,
+"Polyunsaturated fatty acids",0.361,g,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Docosapentaenoic n-3 acid (DPA)",0,g,
 "Eicosapentaenoic n-3 acid (EPA)",0,g,
@@ -94,5 +93,6 @@ Calories,69,,
 "Alcohol, ethyl",0,g,
 "Ash",0.45,g,
 "Caffeine",0,mg,
+"Serine",0.162,g,
 "Theobromine",0,mg,
-"Water",23.45,g,
+"Water",23.48,g,
