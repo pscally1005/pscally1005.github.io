@@ -37,7 +37,7 @@ section5:
 Prep: 5
 Rest: 240
 Cook: 120
-Source1:
+Source1: https://www.poormanprotein.com/recipes/slow-cooked-beans
 Source2:
 Source3:
 Source4:

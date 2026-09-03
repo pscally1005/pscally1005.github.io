@@ -64,6 +64,6 @@ Instructions:
 - <img src='/assets/Food/Sides/Slow Cook Ratatouille/raw.jpg' alt='' class='instruction-image'>
 
 - Cover and cook on low for about 10 hours, or until soft and bubbly.
-- <img src='/assets/Food/Sides/Slow Cook Ratatouille/cooked.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Sides/Slow Cook Ratatouille/pot.jpg' alt='' class='instruction-image'>
 Notes:
 ---
