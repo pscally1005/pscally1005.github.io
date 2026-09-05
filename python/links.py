@@ -3748,6 +3748,10 @@ LINKS = {
         "anthocyanins nasunin",
         "antioixdant compounds",
         "antioxidant compound",
+        "beneficial plant compounds",
+        "beneficial plant compound",
+        "beneficial compounds",
+        "beneficial compound",
         "anthocyanin nasunin",
         "nasunin",
         "carotenoids capsanthin",
@@ -4454,7 +4458,9 @@ LINKS = {
         "grains",
         "grain",
         "grain free",
-        "grain-free"
+        "grain-free",
+        "whole-grains",
+        "whole-grain"
     ],
     "/misc/grains#amaranth": [
         "amaranth"
@@ -4573,7 +4579,8 @@ LINKS = {
         "free of refined flour"
     ],
     "/misc/grains#pasta-white": [
-        "white pasta"
+        "white pasta",
+        # "pastas"
     ],
     "/misc/grains#white-rice": [
         "white rice",
@@ -4598,6 +4605,7 @@ LINKS = {
         "whole wheat pasta",
         "wheat pasta",
         "pasta",
+        "pastas",
         "penne"
     ],
     "/misc/grains#wild-rice": [
@@ -5577,8 +5585,8 @@ LINKS = {
         "unhealthy fat",
         "unhealthy oils",
         "unhealthy oil",
-        "essential fatty acids",
-        "essential fatty acid",
+        # "essential fatty acids",
+        # "essential fatty acid",
         "fatty acids",
         "fatty acid",
         "fatty foods",
@@ -5658,8 +5666,8 @@ LINKS = {
         "branched chain amino acid",
         "branched-chain amino acids",
         "branched-chain amino acid",
-        "essential amino acids",
-        "essential amino acid",
+        # "essential amino acids",
+        # "essential amino acid",
         "amino acids",
         "amino acid",
         "proteins",
@@ -5687,6 +5695,8 @@ LINKS = {
     ],
     "/misc/calories": [
         "It's About More Than Calories",
+        "energy",
+        "energy dense",
         "calorie dense",
         "calorically dense",
         "calorically",
@@ -6615,6 +6625,9 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/nutrition": [
+        "nutrition"
+    ],
     "/misc/carbs-are-underrated": [
         "carbs are underrated",
         "carbohydrates are underrated"
@@ -6739,6 +6752,14 @@ LINKS = {
         "date syrup"
     ],
     "/misc/processed-foods": [
+        "whole or minimally processed foods",
+        "whole or minimally processed food",
+        "whole-foods",
+        "whole-food",
+        "whole foods",
+        "whole food",
+        "minimally processed foods",
+        "minimally processed food",
         "processed stuff",
         "processed foods",
         "processed food",
@@ -7212,7 +7233,11 @@ LINKS = {
         "breakfast cereals",
         "breakfast cereal",
         "cereals",
-        "cereal"
+        "cereal",
+        "sugary cereals",
+        "sugary cereal",
+        "breakfast cereals",
+        "breakfast cereal"
     ],
     "/misc/fake-healthy-foods#dried-fruit": [
         "sweetened canned fruits",
@@ -7412,7 +7437,8 @@ LINKS = {
     "/misc/fake-healthy-foods#bread": [
         "white breads",
         "white bread",
-        "storebought bread"
+        "storebought bread",
+        # "breads"
     ],
     "/misc/fake-healthy-foods#peanut-butter": [
         "processed no-stir peanut butters",
@@ -9173,6 +9199,15 @@ EXCLUDED_PHRASES = [
 EXCLUDED_PHRASES = list(dict.fromkeys(EXCLUDED_PHRASES))
 
 REMOVE_CATEGORIES = [
+    "/misc/nutrition",
+    "/misc/meat-cost-analysis",
+    "/misc/psyllium-husk",
+    "/misc/tea",
+    "/misc/caffeine",
+    "/misc/beans-are-carbs",
+    "/misc/chicken-leg-quarters",
+    "/misc/carbs-are-underrated",
+    "/misc/carbs-are-overrated",
     "/misc/homemade-yogurt",
     "/misc/bone-broth",
     "/misc/costs",
@@ -9524,7 +9559,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-14")):
+            if not file.startswith(("2026-09-15")):
                 continue
 
             # exclude some files
