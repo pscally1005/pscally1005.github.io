@@ -5526,6 +5526,8 @@ LINKS = {
         "whole food sources of sugar",
         "carbohydrate-rich",
         "carb-rich",
+        "carbohydrate rich",
+        "carb rich",
         "whole food carbohydrates",
         "whole food carbs",
         "whole food carbohydrate",
@@ -5542,7 +5544,9 @@ LINKS = {
         "carbohydrates",
         "carbohydrate",
         "low carb",
+        "low-carb",
         "high carb",
+        "high-carb",
         "total carbohydrates",
         "total carbohydrate",
         "total carbs",
@@ -5585,8 +5589,8 @@ LINKS = {
         "unhealthy fat",
         "unhealthy oils",
         "unhealthy oil",
-        # "essential fatty acids",
-        # "essential fatty acid",
+        "essential fatty acids",
+        "essential fatty acid",
         "fatty acids",
         "fatty acid",
         "fatty foods",
@@ -5608,6 +5612,8 @@ LINKS = {
         "heart healthy mono unsaturated fat",
         "high fat",
         "low fat",
+        "low-fat",
+        "high-fat",
         "lowfat",
         "nonfat",
         "monounsaturated fats",
@@ -5666,8 +5672,8 @@ LINKS = {
         "branched chain amino acid",
         "branched-chain amino acids",
         "branched-chain amino acid",
-        # "essential amino acids",
-        # "essential amino acid",
+        "essential amino acids",
+        "essential amino acid",
         "amino acids",
         "amino acid",
         "proteins",
@@ -6626,7 +6632,8 @@ LINKS = {
 
     # MISC
     "/misc/nutrition": [
-        "nutrition"
+        "nutrition",
+        "nutritionally balanced"
     ],
     "/misc/carbs-are-underrated": [
         "carbs are underrated",
@@ -8981,7 +8988,7 @@ EXCLUDED_PHRASES = [
     # "nonfat",
     # "full fat",
     # "fat free",
-    "nutrition",
+    # "nutrition",
     "nutritious",
     "flours",
     "evaporated milk",
@@ -9559,7 +9566,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-15")):
+            if not file.startswith(("2026-09-14")):
                 continue
 
             # exclude some files
