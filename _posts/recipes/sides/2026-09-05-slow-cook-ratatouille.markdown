@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Slow Cooker Ratatouille
-date:   2026-09-02 00:00:00 -0500
+date:   2026-09-05 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

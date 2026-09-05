@@ -6615,6 +6615,14 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/carbs-are-underrated": [
+        "carbs are underrated",
+        "carbohydrates are underrated"
+    ],
+    "/misc/carbs-are-overrated": [
+        "carbs are overrated",
+        "carbohydrates are overrated"
+    ],
     "/misc/meat-cost-analysis": [
         "is fattier meat actually cheaper?",
         "is fattier meat actually cheaper",
@@ -9516,7 +9524,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-05")):
+            if not file.startswith(("2026-09-14")):
                 continue
 
             # exclude some files
