@@ -969,7 +969,7 @@ def grams(food, mass, vol):
             m = "810"
 
     # Flours
-    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Cornstarch" or food == "Unsweetened coconut flakes":
+    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Cornstarch" or food == "Unsweetened coconut flakes" or food == "Sweetened coconut flakes":
         if vol == "1 tsp":
             m = "2.5"
         elif vol == "1/2 tbsp":

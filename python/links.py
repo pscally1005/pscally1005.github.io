@@ -5748,6 +5748,9 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4xzQXZC": [
+        "sweetened coconut flakes"
+    ],
     "https://amzn.to/4xSFbds": [
         "instant espresso powder",
         "instant espresso",
@@ -9707,7 +9710,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-16")):
+            if not file.startswith(("2026-09-25")):
                 continue
 
             # exclude some files

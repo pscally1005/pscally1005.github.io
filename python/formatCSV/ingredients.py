@@ -278,6 +278,8 @@ def ingredients(food):
         f = "Rolled oats"
     elif food == "Unsweetened flaked coconut by Raley's" or food == "Unsweetened coconut flakes by Hy-Vee, Inc." or food == "Shredded unsweetened coconut by Bob's Red Mill Natural Foods, Inc." or food == "Unsweetened coconut flakes by Wal-Mart Stores, Inc.":
         f = "Unsweetened coconut flakes"
+    elif food == "Sweetened Coconut Flakes by Walmart":
+        f = "Sweetened coconut flakes"
     elif food == "Applesauce, unsweetened" or food == "Unsweetened applesauce by Iga, Inc.":
         f = "Unsweetened applesauce"
     elif food == "Raw pure honey":
@@ -405,7 +407,7 @@ def ingredients(food):
         f = "Buttermilk powder"
     elif food == "Fat free ultra-filtered milk by FAIRLIFE" or food == "Fairlife Skim Milk":
         f = "Fairlife skim milk"
-    elif food == "Milk, with added vitamin A, evaporated, canned":
+    elif food == "Milk, with added vitamin A, evaporated, canned" or food == "Milk, evaporated, reduced fat (2%)":
         f = "Evaporated milk"
     elif food == "Milk, fat free (skim), evaporated":
         f = "Fat free evaporated milk"
