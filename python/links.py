@@ -10,6 +10,19 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/date-paste": [
+        "homemade date paste",
+        "date paste",
+        "raisin paste",
+        "fig paste"
+    ],
+    "/recipes/german-chocolate-cake": [
+        "naturally sweetened german chocolate cake",
+        "sugar free german chocolate cake",
+        "gluten free german chocolate cake",
+        "healthy german chocolate cake",
+        "german chocolate cake"
+    ],
     "/recipes/slow-cooker-ratatouille": [
         "slow cooker ratatouille",
         "slowcooker rataouille",
@@ -3692,7 +3705,8 @@ LINKS = {
         "exercises",
         "exercise",
         "sedentary lifestyle",
-        "sedentary"
+        "sedentary",
+        "physically active"
     ],
     "/misc/pcos": [
         "pcos",
@@ -4579,8 +4593,11 @@ LINKS = {
         "free of refined flour"
     ],
     "/misc/grains#pasta-white": [
+        # "pastas",
         "white pasta",
-        # "pastas"
+        "white pastas",
+        "refined pasta",
+        "refined pastas"
     ],
     "/misc/grains#white-rice": [
         "white rice",
@@ -6631,6 +6648,90 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/five-tastes": [
+        # "tastes",
+        # "taste",
+        "five tastes",
+        "five basic tastes",
+        "five basic tastes of food",
+        "five tastes of food",
+        # "sweet",
+        # "salty",
+        # "sour",
+        "bitter",
+        "umami",
+        "5 tastes",
+        "5 basic tastes",
+        "5 basic tastes of food",
+        "5 tastes of food"
+    ],
+    "/misc/aim-for-contrast": [
+        "aim for contrast in cooking",
+        "aim for contrast in food",
+        "contrast in cooking",
+        "contrast in food",
+        "flavors",
+        # "flavor",
+        "textures",
+        # "texture"
+        # "tastes",
+        # "taste",
+        # "temperatures",
+        # "temperature",
+        # "spices",
+        # "spice",
+        # "spicy",
+        "aim for contrast"
+    ],
+    "/misc/more-to-meat-than-protein": [
+        "there's more to meat than protein",
+        "there's more to meat than just protein",
+        "more to meat than protein",
+        "more to meat than just protein"
+    ],
+    "/misc/more-to-protein-than-meat": [
+        "there's more to protein than meat",
+        "there's more to protein than just meat",
+        "more to protein than meat",
+        "more to protein than just meat"
+    ],
+    "/misc/vacation": [
+        "how to be healthy on vacation",
+        "being healthy on vacation",
+        "healthy on vacation",
+        "healthy vacation",
+        "vacation"
+    ],
+    "/misc/eat-more-fiber": [
+        "how to eat more fiber",
+        "eat more fiber"
+    ],
+    "/misc/farticle": [
+        "the farticle",
+        "farticle",
+        "farts",
+        "farting",
+        "fart"
+    ],
+    "/misc/msg": [
+        "what is msg?",
+        "what is monosodium glutamate?",
+        "msg",
+        "monosodium glutamate"
+        "what is msg",
+        "what is monosodium glutamate"
+    ],
+    "/misc/alcohol": [
+        "alcohol",
+        "alcoholic beverages",
+        "alcoholic drinks",
+        "alcoholic drink",
+        "alcoholic beverage",
+        "alcoholic",
+        "alcohols",
+        "alcohol's",
+        "alcohol is a poison"
+    ],
     "/misc/nutrition": [
         "nutrition",
         "nutritionally balanced"
