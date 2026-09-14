@@ -5748,6 +5748,16 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4xSFbds": [
+        "instant espresso powder",
+        "instant espresso",
+        "espresso powder",
+        "decaf instant espresso powder",
+        "decaf instant espresso",
+        "decaf espresso powder",
+        "decaf espresso"
+        "espresso"
+    ],
     "https://amzn.to/4qQYEc4": [
         '5.5 x 3.3"',
         '5.5" x 3.3"',
@@ -6655,33 +6665,59 @@ LINKS = {
         "five basic tastes",
         "five basic tastes of food",
         "five tastes of food",
-        # "sweet",
-        # "salty",
-        # "sour",
-        "bitter",
-        "umami",
         "5 tastes",
         "5 basic tastes",
         "5 basic tastes of food",
         "5 tastes of food"
+    ],
+    "/misc/five-tastes#salt": [
+        # "salt",
+        "salty",
+        "saltiness"
+    ],
+    "/misc/five-tastes#sour": [
+        "sour",
+        "sourness",
+        "acid"
+    ],
+    "/misc/five-tastes#sweet": [
+        "sweet",
+        "sweetness"
+    ],
+    "/misc/five-tastes#bitter": [
+        "bitter",
+        "bitterness"
+    ],
+    "/misc/five-tastes#umami": [
+        "umami",
     ],
     "/misc/aim-for-contrast": [
         "aim for contrast in cooking",
         "aim for contrast in food",
         "contrast in cooking",
         "contrast in food",
-        "flavors",
-        # "flavor",
-        "textures",
-        # "texture"
-        # "tastes",
-        # "taste",
-        # "temperatures",
-        # "temperature",
-        # "spices",
-        # "spice",
-        # "spicy",
         "aim for contrast"
+    ],
+    "/misc/aim-for-contrast#texture": [
+        "textures",
+        "texture"
+    ],
+    # "/misc/aim-for-contrast#taste": [
+    #     "tastes",
+    #     "taste"
+    # ],
+    # "/misc/aim-for-contrast#temperature": [
+    #     "temperatures",
+    #     "temperature"
+    # ],
+    "/misc/aim-for-contrast#spice": [
+        # "spices",
+        "spice",
+        "spicy"
+    ],
+    "/misc/aim-for-contrast#flavor": [
+        "flavors",
+        "flavor"
     ],
     "/misc/more-to-meat-than-protein": [
         "there's more to meat than protein",
@@ -6761,11 +6797,11 @@ LINKS = {
         "psyllium husk: hype or healthy"
     ],
     "/misc/caffeine": [
+        # "espresso",
         "caffeine",
         "coffee",
         "caffeine: productivity tool or daily dependence?",
         "tea",
-        "espresso"
     ],
     "/misc/costs": [
         # "costs",
@@ -7674,7 +7710,11 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "sweet treats",
+    "sweet treat",
     "oat layer",
+    "nicer desserts",
+    "niced dessert",
     "with some monk fruit extract",
     "the monk fruit is there to add additional sweetness that the <a href='https://amzn.to/4lkg3Hr'>erythritol</a> lacks",
     "the monk fruit is there to add additional sweetness that the erythritol lacks",
@@ -9667,7 +9707,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-14")):
+            if not file.startswith(("2026-09-16")):
                 continue
 
             # exclude some files
