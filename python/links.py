@@ -2409,7 +2409,9 @@ LINKS = {
     ],
     "/recipes/white-bean-croutons": [
         "White Bean Croutons",
-        "gluten free croutons"
+        "gluten free croutons",
+        "croutons",
+        "crouton"
     ],
     "/recipes/white-bean-milkshake": [
         "White Bean Milkshake"
@@ -2755,7 +2757,8 @@ LINKS = {
     "/recipes/pasta-sauce": [
         "simple pasta sauce",
         "pasta sauce",
-        "marinara sauce"
+        "marinara sauce",
+        "tomato sauce"
     ],
     "/recipes/nice-cream": [
         "banana nice cream",
@@ -3444,7 +3447,8 @@ LINKS = {
     ],
     "/recipes/sweet-potato-fries": [
         "spices sweet potato fries",
-        "sweet potato fries"
+        "sweet potato fries",
+        "fries"
     ],
     "/recipes/chicken-jerky": [
         # "beef jerky",
@@ -6672,11 +6676,13 @@ LINKS = {
         "5 tastes",
         "5 basic tastes",
         "5 basic tastes of food",
-        "5 tastes of food"
+        "5 tastes of food",
+        "5 main tastes",
+        "five main tastes"
     ],
     "/misc/five-tastes#salt": [
         # "salt",
-        "salty",
+        # "salty",
         "saltiness"
     ],
     "/misc/five-tastes#sour": [
@@ -6685,7 +6691,7 @@ LINKS = {
         "acid"
     ],
     "/misc/five-tastes#sweet": [
-        "sweet",
+        # "sweet",
         "sweetness"
     ],
     "/misc/five-tastes#bitter": [
@@ -6697,9 +6703,13 @@ LINKS = {
     ],
     "/misc/aim-for-contrast": [
         "aim for contrast in cooking",
+        "aim for contrast in your cooking",
         "aim for contrast in food",
+        "aim for contrast in your food",
         "contrast in cooking",
         "contrast in food",
+        "contrast in your cooking",
+        "contrast in your food",
         "aim for contrast"
     ],
     "/misc/aim-for-contrast#texture": [
@@ -7624,9 +7634,9 @@ LINKS = {
         "cornbread"
     ],
     "/misc/fake-healthy-foods#potatoes": [
+        "fries",
         "french fries",
         "french fry",
-        "fries"
     ],
     "/misc/fake-healthy-foods#juice": [
         "fruit juices",
@@ -7715,10 +7725,15 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "german sweet chocolate",
+    "pockets of chocolate",
+    "chili flakes",
+    "chili chocolate",
+    "chili flake",
     "sweet chocolate",
     "chocolate company",
     "baker's chocolate",
     "flatter side",
+    "vanilla ice cream",
     "flat side",
     "on top of the frosting",
     "german chocolate",
@@ -8843,7 +8858,7 @@ EXCLUDED_PHRASES = [
     "chicken parm",
     "tuna salad",
     "tuna fish",
-    "tomato sauce",
+    # "tomato sauce",
     "protein synthesis",
     "crab meat",
     "coconut meat",
@@ -9722,7 +9737,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-25")):
+            if not file.startswith(("2026-09-17")):
                 continue
 
             # exclude some files
