@@ -5198,9 +5198,9 @@ LINKS = {
         "vitamins/minerals",
         "vitamin/mineral",
         "vitamins and minerals",
-        "vitamins, minerals",
-        "vitamins, and minerals",
-        "vitamin, and mineral",
+        # "vitamins, minerals",
+        # "vitamins, and minerals",
+        # "vitamin, and mineral",
         "vitamin and mineral",
         "vitamins & minerals",
         "vitamins",
@@ -5749,7 +5749,8 @@ LINKS = {
 
     # AMAZON
     "https://amzn.to/4xzQXZC": [
-        "sweetened coconut flakes"
+        "sweetened coconut flakes",
+        "sweetened coconut"
     ],
     "https://amzn.to/4xSFbds": [
         "instant espresso powder",
@@ -7713,6 +7714,17 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "german sweet chocolate",
+    "sweet chocolate",
+    "chocolate company",
+    "baker's chocolate",
+    "flatter side",
+    "flat side",
+    "on top of the frosting",
+    "german chocolate",
+    "chocolate cake with a chocolate frosting",
+    "total sugars",
+    "total sugar",
     "sweet treats",
     "sweet treat",
     "oat layer",
