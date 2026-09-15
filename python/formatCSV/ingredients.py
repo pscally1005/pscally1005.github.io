@@ -182,6 +182,8 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "whipped-cream":
+        f = "Aquafaba Whipped Cream"
     elif food == "Ben & jerry's, ice cream, cherry garcia by Ben & Jerry's Homemade Inc.":
         f = "Cherry Garcia Ice Cream"
     elif food == "Ben & jerry's, ice cream, chunky monkey by Ben & Jerry's Homemade Inc.":
@@ -198,8 +200,10 @@ def ingredients(food):
         f = "Electrolyte mix, base"
     elif food == "Sweetener, agave, syrup":
         f = "Agave"
-    elif food == "Molasses" or food == "Blackstrap molasses" or food == "Molasses, blackstrap":
+    elif food == "Molasses":
         f = "Molasses"
+    elif food == "Blackstrap molasses" or food == "Molasses, blackstrap":
+        f = "Blackstrap molasses"
     elif food == "Protein cookie by QUEST":
         f = "Quest Protein Cookie, storebought"
     elif food == "protein-cookie-quest" or food == "protein-cookie-quest-sugar":

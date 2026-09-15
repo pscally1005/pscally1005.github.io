@@ -1145,8 +1145,15 @@ def grams(food, mass, vol):
         elif vol == "8 tbsp" or vol == "1/2 cup":
             m = "136"
 
+    # Whipped cream
+    elif food == "Aquafaba Whipped Cream":
+      if vol == "1/2 batch, about 3 cup" or vol == "1/2 batch" or vol == "3 cup" or vol == "24.5 serving":
+          m = "123"
+      elif vol == "1 batch, about 6 cup" or vol == "1 batch" or vol == "6 cup" or vol == "49 serving":
+          m = "226"
+
     # Syrup
-    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup" or food == "Sugar free chocolate syrup" or food == "Sugar free chocolate syrup, homemade" or food == "Sugar free chocolate syrup, storebought":
+    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup" or food == "Sugar free chocolate syrup" or food == "Sugar free chocolate syrup, homemade" or food == "Sugar free chocolate syrup, storebought" or food == "Molasses, or honey" or food == "Molasses" or food == "Blackstrap molasses":
         if vol == "1 tsp":
             m = "6.5"
         elif vol == "1/2 tbsp" or vol == "0.5 serving":

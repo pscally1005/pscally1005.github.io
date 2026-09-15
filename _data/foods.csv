@@ -305,8 +305,9 @@ Granulated sugar,sugar,8.17,"4,540.00",0.00180,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,F
 Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43wL0zp
 Powdered sugar,sugar,2.22,905.60,0.00245,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
 Brown sugar,sugar,2.22,896.00,0.00248,1.0,64,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
-Molasses,molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,
-"Molasses, or honey",molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,
+Blackstrap molasses,blackstrap,6.79,452.80,0.01500,3.9,55,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,52.4,0.0,0.0,0.0,0,40,https://amzn.to/4h7fdfj
+Molasses,molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
+"Molasses, or honey",molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
 Marshmallow,marshmallow,1.17,283.00,0.00413,1.0,63,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,60.7,0.0,0.0,0.0,0,40,
 Vanilla instant pudding mix,pudding-mix,0.98,96.22,0.01018,2.0,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,79.2,0.0,0.0,0.0,0,0,https://amzn.to/4jjD7mH
 Duncan Hines Keto Brownie Mix,duncan-hines-keto,5.92,280.00,0.02114,3.0,51,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,20.8,0.0,0.0,0,15,https://amzn.to/43uSbYP

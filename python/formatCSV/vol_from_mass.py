@@ -267,8 +267,15 @@ def vol_from_mass(food, mass, vol):
         elif mass == "60":
             v = "4 tbsp"
 
-    # Sugar free syrup
-    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup" or food == "Sugar free chocolate syrup" or food == "Sugar free chocolate syrup, homemade" or food == "Sugar free chocolate syrup, storebought":
+    # Whipped cream
+    elif food == "Aquafaba Whipped Cream":
+      if mass == "123" or mass == "120":
+          v = "1/2 batch, about 3 cup"
+      elif mass == "246" or mass == "240":
+          v = "1 batch, about 6 cup"
+
+    # Syrup
+    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup" or food == "Sugar free chocolate syrup" or food == "Sugar free chocolate syrup, homemade" or food == "Sugar free chocolate syrup, storebought" or food == "Molasses, or honey" or food == "Molasses" or food == "Blackstrap molasses":
         if mass == "6.5":
           v = "1 tsp"
         elif mass == "10":
@@ -315,7 +322,7 @@ def vol_from_mass(food, mass, vol):
             v = "1.5 cup"
 
     # Honey
-    elif food == "Honey" or food == "Honey, or maple syrup" or food == "Molasses, or honey":
+    elif food == "Honey" or food == "Honey, or maple syrup":
         if mass == "7":
             v = "1 tsp"
         elif mass == "10.5":

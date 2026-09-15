@@ -56,11 +56,13 @@ tags:
 - cream of tartar
 Description: Whipped cream is already a surprisingly <a href='/misc/calories'>low calorie</a> food, but this takes it to a whole other level. Without the <a href='/misc/fats'>fat</a> of the cream and <a href='/misc/carbs'>carbs</a> of the <a href='/misc/hidden-sugar'>sugar</a>, this vegan and <a href='/misc/hidden-sugar'>sugar free</a> whipped cream alternative has practically <a href='/misc/calories'>0 calories</a> per serving. It tastes just like the real deal though - sweet, fluffy, airy, and no taste of <a href='/misc/beans'>beans</a>. This recipe makes a little over 6 cups (245 g) of whipped cream.
 Instructions: 
-- Drain your can of <a href='/misc/beans#chickpeas'>chickpeas</a> using a <a href='https://amzn.to/4q2FwWu'>fine mesh strainer</a> over a bowl. Add the aquafaba (<a href='/misc/beans#chickpeas'>chickpea</a> water) to a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Beat on high for about 5 minutes, until stiff peaks
+- Drain your can of <a href='/misc/beans#chickpeas'>chickpeas</a> using a <a href='https://amzn.to/4q2FwWu'>fine mesh strainer</a> over a bowl. Add the aquafaba (<a href='/misc/beans#chickpeas'>chickpea</a> water) to a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Beat on high for about 5 minutes, until stiff peaks.
 
-- Add in the <a href='https://amzn.to/43MkDqr'>vanilla</a> and <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and beat for another 2 minutes to combine. Use as you would whipped cream, like to top my <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>
+- Add in the <a href='https://amzn.to/43MkDqr'>vanilla</a> and <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and beat for another 2 minutes to combine. Use as you would whipped cream, like to top my <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>.
 Notes:
-- <a href='/misc/fruit#lemon-juice'>Lemon juice</a> (or another acid, such as cream of tartar) is necessary to help the aquafaba beat up properly.  It will not taste like <a href='/misc/fruit#lemon'>lemon</a> at all
+- <a href='/misc/fruit#lemon-juice'>Lemon juice</a> (or another acid, such as cream of tartar) is necessary to help the aquafaba beat up properly.  It will not taste like <a href='/misc/fruit#lemon'>lemon</a> at all.
 
-- Per 1 cup (40 g) of whipped cream, this homemade version has just 30 <a href='/misc/calories'>calories</a> instead of the standard 260. My healthier version also has a negligible amount of <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carbs</a>, compared to 22 g of <a href='/misc/fats'>fat</a> and 8 g of <a href='/misc/hidden-sugar'>added sugar</a> in typical whipped cream
+- The sweetener called for in this recipe is 1/4 cup (48 g) of <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  Other options though include 1/2 tbsp (7.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or 1/2 tbsp (4.2 g) <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a>.
+
+- Per 1 cup (40 g) of whipped cream, this homemade version has just 30 <a href='/misc/calories'>calories</a> instead of the standard 260. My healthier version also has a negligible amount of <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carbs</a>, compared to 22 g of <a href='/misc/fats'>fat</a> and 8 g of <a href='/misc/hidden-sugar'>added sugar</a> in typical whipped cream.
 ---

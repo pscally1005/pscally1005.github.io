@@ -10,6 +10,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/shoofly-pie": [
+        "shoofly pie",
+        "lower sugar shoofly pie"
+    ],
     "/recipes/date-paste": [
         "homemade date paste",
         "date paste",
@@ -5752,6 +5756,17 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4h7fdfj": [
+        "blackstrap molaases",
+        "blackstrap"
+    ],
+    "https://amzn.to/4xnOctZ": [
+        "standard molasses",
+        "classic molasses",
+        "regular molasses",
+        "traditional molasses",
+        "molasses"
+    ],
     "https://amzn.to/4xzQXZC": [
         "sweetened coconut flakes",
         "sweetened coconut"
@@ -9737,7 +9752,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-17")):
+            if not file.startswith(("2026-09-26")):
                 continue
 
             # exclude some files
