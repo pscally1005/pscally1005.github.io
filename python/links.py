@@ -2405,7 +2405,8 @@ LINKS = {
         "aquafaba whipped cream",
         "sugar free whipped cream",
         "vegan whipped cream",
-        "dairy free whipped cream"
+        "dairy free whipped cream",
+        "whipped cream"
     ],
     "/recipes/whipped-feta-spread": [
         "Whipped Feta Spread",
@@ -2547,7 +2548,8 @@ LINKS = {
         "graham cracker pie crust",
         "graham cracker crust",
         "homemade pie crust",
-        "homemade graham cracker crust"
+        "homemade graham cracker crust",
+        "pie crust"
     ],
     "/recipes/nutella": [
         "homemade nutella",
@@ -5757,7 +5759,7 @@ LINKS = {
 
     # AMAZON
     "https://amzn.to/4h7fdfj": [
-        "blackstrap molaases",
+        "blackstrap molasses",
         "blackstrap"
     ],
     "https://amzn.to/4xnOctZ": [
@@ -6384,8 +6386,9 @@ LINKS = {
         "9\" circlular pie pans",
         "9\" circlular pie pan",
         "9\" circle pie pans",
-        "9\" circle pie pan"
-
+        "9\" circle pie pan",
+        "pie pans",
+        "pie pan"
     ],
     "https://amzn.to/3YUjIkN": [
         "9x5\" bread pans",
@@ -6745,8 +6748,8 @@ LINKS = {
         "spicy"
     ],
     "/misc/aim-for-contrast#flavor": [
-        "flavors",
-        "flavor"
+        # "flavors",
+        # "flavor"
     ],
     "/misc/more-to-meat-than-protein": [
         "there's more to meat than protein",
@@ -7741,6 +7744,9 @@ EXCLUDED_PHRASES = [
     "certainly be baking",
     "german sweet chocolate",
     "pockets of chocolate",
+    "nutmeg, ginger",
+    "nutrition facts",
+    "cinnamon, ginger",
     "chili flakes",
     "chili chocolate",
     "chili flake",
@@ -9752,7 +9758,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-26")):
+            if not file.startswith(("2026-09-27")):
                 continue
 
             # exclude some files
