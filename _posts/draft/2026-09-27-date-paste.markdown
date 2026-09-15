@@ -55,13 +55,13 @@ tags:
 - sugar free
 - refined sugar-free
 - refined sugar-free
-Description: Date paste is the best sweetener. It's easy, relatively cheap, and nutritious. Dates are a whole food that are a great source of natural energy and carbohydrates.  Unlike other sweeteners, dates contain measurable amounts of nutrients, like fiber and antioxidants. You can also make raisin or fig paste in the exact same way.
+Description: <a href='/misc/fruit#dates'>Date</a> paste is the best sweetener. It's easy, relatively cheap, and nutritious. <a href='/misc/fruit#dates'>Dates</a> are a <a href='/misc/processed-foods'>whole food</a> that are a great source of natural <a href='/misc/calories'>energy</a> and <a href='/misc/carbs'>carbohydrates</a>.  Unlike other sweeteners, <a href='/misc/fruit#dates'>dates</a> contain measurable amounts of <a href='/misc/nutrient-alphabet'>nutrients</a>, like <a href='/misc/fiber'>fiber</a> and <a href='/misc/phytochemicals'>antioxidants</a>. You can also make <a href='/misc/fruit#raisins'>raisin</a> or <a href='/misc/fruit#fig-dried'>fig</a> paste in the exact same way.
 Instructions:
-- Add water to a small microwave safe bowl. Microwave for about 1 minute, until warm
+- Add water to a <a href='https://amzn.to/4zyFnzN'>small microwave safe bowl</a>. Microwave for about 1 minute, until warm.
 
-- Add dates and salt to the bowl. Let soak for at least 10 minutes.
+- Add <a href='/misc/fruit#dates'>dates</a> and salt to the bowl. Let soak for at least 10 minutes.
 
-- Transfer the dates and the soaking liquid to a food processor. Blend until smooth.
+- Transfer the <a href='/misc/fruit#dates'>dates</a> and the soaking liquid to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until smooth.  Store in the fridge.
 - <img src='/assets/Food/Sweet Spreads/Date paste/processor.jpg' alt='' class='instruction-image'>
 Notes:
 ---
