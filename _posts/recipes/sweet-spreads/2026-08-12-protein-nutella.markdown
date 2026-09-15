@@ -51,6 +51,8 @@ tags:
 - chocolate spread
 - cocoa powder
 - almond milk
+- plain nonfat greek yogurt
+- yogurt
 Description: |
   <a href='/misc/high-protein'>High protein</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, <a href='/copycat'>copycat</a> <a href='/misc/fake-healthy-foods#nutella'>Nutella</a>!  Using <a href='/misc/dairy#yogurt'>Greek yogurt</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>protein powder</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a>, you can whip up a single serving chocolate spread in under 5 minutes.<br><br>
 
