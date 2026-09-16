@@ -10,6 +10,14 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/banana-nut-protein-cookies": [
+        "banana-nut protein cookies",
+        "banana-nut protein cookie",
+        "banana nut protein cookies",
+        "banana nut protein cookie",
+        "vegan protein cookies",
+        "vegan protein cookie",
+    ],
     "/recipes/shoofly-pie": [
         "shoofly pie",
         "lower sugar shoofly pie"
@@ -400,6 +408,7 @@ LINKS = {
         "skillet pizza"
     ],
     "/recipes/cottage-cheese-pizza-bowls": [
+        "high protein cottage cheese pizza bowls",
         "high protein cottage cheese pizza bowl",
         "high protein cottage cheese pizza",
         "cottage cheese pizza bowl",
@@ -442,7 +451,11 @@ LINKS = {
         "queso dip",
         "queso",
         "high protein queso dip",
-        "high protein queso"
+        "high protein queso",
+        "protein cottage cheese queso dip",
+        "protein cottage cheese queso",
+        "protein queso dip",
+        "protein queso"
     ],
     "/recipes/tabbouleh": [
         "tabbouleh",
@@ -1630,7 +1643,9 @@ LINKS = {
         "High Protein Mac & Cheese",
         "high protein mac and cheese",
         "mac & cheese",
-        "mac and cheese"
+        "mac and cheese",
+        "protein mac & cheese",
+        "protein mac and cheese"
     ],
     "/recipes/manhattan-clam-chowder": [
         "(No Longer Allowed In) Manhattan Clam Chowder",
@@ -2933,7 +2948,9 @@ LINKS = {
     ],
     "/recipes/whole-wheat-bagels": [
         "whole wheat bagles",
-        "whole wheat bagel"
+        "whole wheat bagel",
+        "half dozen whole wheat bagels",
+        "half dozen whole wheat bagel"
     ],
     "/recipes/roasted-vegetables": [
         "roasted vegetables",
@@ -4003,6 +4020,8 @@ LINKS = {
         "pinto"
     ],
     "/misc/beans#soybeans": [
+        "soy-based",
+        "soy based",
         "soy beans",
         "soy bean",
         "soybeans",
@@ -4079,11 +4098,15 @@ LINKS = {
         "cottage cheeses",
         "cottage cheese",
         "non fat cottage cheeses",
-        "non fat cottage cheese"
+        "non fat cottage cheese",
+        "plain nonfat cottage cheese",
+        "plain non fat cottage cheese"
     ],
     "/misc/dairy#cottage-cheese-whole-milk": [
         "whole milk cottage cheese",
-        "full fat cottage cheese"
+        "full fat cottage cheese",
+        "plain whole milk cottage cheese",
+        "plain full fat cottage cheese"
     ],
     "/misc/dairy#cream-cheese": [
         "full fat cream cheese",
@@ -4102,13 +4125,17 @@ LINKS = {
         "nonfat greek yogurt",
         "plain greek yogurt",
         "greek yogurt",
-        "yogurt"
+        "yogurt",
+        "nonfat yogurt",
+        "non fat yogurt"
     ],
     "/misc/dairy#yogurt-whole-milk": [
         "plain whole milk greek yogurt",
         "whole milk greek yogurt",
         "plain full fat greek yogurt",
-        "full fat greek yogurt"
+        "full fat greek yogurt",
+        "whole milk yogurt",
+        "full fat yogurt"
     ],
     "/misc/dairy#kefir": [
         "kefir (milk)",
@@ -4633,7 +4660,11 @@ LINKS = {
         "wheat pasta",
         "pasta",
         "pastas",
-        "penne"
+        "penne",
+        "pasta & noodles",
+        "pasta and noodles",
+        "noodles & pasta",
+        "noodles and pasta"
     ],
     "/misc/grains#wild-rice": [
         "wild rice"
@@ -4780,7 +4811,9 @@ LINKS = {
         "sausage",
         "sausages",
         "breakfast sausages",
-        "breakfast sausage"
+        "breakfast sausage",
+        "italian sausages",
+        "italian sausage"
     ],
     "/misc/meat#spam": [
         "spam"
@@ -5411,7 +5444,9 @@ LINKS = {
     "/misc/choline": [
         "minerals choline",
         "mineral choline",
-        "choline"
+        "choline",
+        "choline: the nutrient you've never heard of",
+        "choline - the nutrient you've never heard of"
     ],
     "/misc/cholesterol": [
         "cholesterol"
@@ -5472,6 +5507,7 @@ LINKS = {
     ],
     "/misc/vitamin-b12": [
         "B-Ware the Deficiency: The Power of B12",
+        "b-ware the deficiency",
         "vitamins b12 (cobalamin)",
         "vitamins b12",
         "vitamin b12",
@@ -5686,9 +5722,10 @@ LINKS = {
         "dietary fat"
     ],
     "/misc/protein": [
+        "protein-first",
         "protein quality",
-        "plant based protein",
-        "plant-based protein",
+        # "plant based protein",
+        # "plant-based protein",
         "branched-chain amino acids (BCAAs)",
         "branched-chain amino acid (BCAA)",
         "branched chain amino acids (BCAAs)",
@@ -5703,6 +5740,8 @@ LINKS = {
         "essential amino acid",
         "amino acids",
         "amino acid",
+        "amino-acids",
+        "amino-acid",
         "proteins",
         "protein",
         '"protein"',
@@ -5723,6 +5762,7 @@ LINKS = {
         "high protein",
         "high-protein",
         "protein ratio"
+        "high in protein",
         "protein to calorie ratio",
         "protein ratios"
     ],
@@ -5758,6 +5798,9 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://www.amazon.com/?tag=poormanprotei-20": [
+        "Amazon"
+    ],
     "https://amzn.to/4h7fdfj": [
         "blackstrap molasses",
         "blackstrap"
@@ -7001,7 +7044,11 @@ LINKS = {
         "absorb much less liquid",
         "absorb less liquid",
         "absorb much less water",
-        "absorb less water"
+        "absorb less water",
+        "holds onto more water",
+        "absorb liquids",
+        "absorb liquid",
+        "absorb water"
     ],
 
     # FOOD SECTIONS
@@ -7033,7 +7080,8 @@ LINKS = {
         "yogurt recipes",
         "morning yogurt",
         "yogurt bowl",
-        "bowl of yogurt"
+        "bowl of yogurt",
+        "yogurt bowls"
     ],
     "/nut-butter": [
         # "nut butter",
@@ -7194,7 +7242,8 @@ LINKS = {
         "mildly-sweetened dessert",
         "baking",
         "desserts",
-        "dessert"
+        "dessert",
+        "pastries and baked goods"
     ],
     "/recipes/meatless": [
         "meatless dish",
@@ -7213,7 +7262,13 @@ LINKS = {
         "plant based meal",
         "plant based",
         "plant-based dishes",
-        "plant based dishes"
+        "plant based dishes",
+        "plant-based diet",
+        "plant based diet",
+        "plant-based foods",
+        "plant based foods",
+        "plant-based food",
+        "plant based food"
     ],
     "/recipes/meme": [
         "meme recipes",
@@ -7237,7 +7292,11 @@ LINKS = {
         "high-protein desserts",
         "high-protein dessert",
         "high protein desserts",
-        "high protein dessert"
+        "high protein dessert",
+        "protein-packed desserts",
+        "protein-packed dessert",
+        "protein packed dessert",
+        "protein-packed dessert"
     ],
     "/recipes/savory-sauces": [
         # "sauce",
@@ -7564,14 +7623,22 @@ LINKS = {
         "lunch meats",
         "lunch meat",
         "cold cuts",
-        "cold cut"
+        "cold cut",
+        "jerky & meat snacks",
+        "jerky and meat snacks",
+        "beef jerky & meat snacks",
+        "beef jerky and meat snacks",
+        "meat snacks",
+        "meat snack"
     ],
     "/misc/fake-healthy-foods#yogurt": [
         "flavored yogurts",
         "flavored yogurt",
         "vanilla yogurt",
         "strawberry yogurt",
-        "sweetened yogurt"
+        "sweetened yogurt",
+        "flavored cottage cheeses",
+        "flavored cottage cheese"
     ],
     "/misc/fake-healthy-foods#granola": [
         "breakfast bars",
@@ -7608,7 +7675,11 @@ LINKS = {
         "banana chips",
         "banana chip",
         "chips",
-        "chip"
+        "chip",
+        "chips & crackers",
+        "chips and crackers",
+        "crackers & chips",
+        "crackers and chips"
     ],
     "/misc/fake-healthy-foods#bread": [
         "white breads",
@@ -7742,7 +7813,29 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    '"protein" snacks',
+    "energy/fat metabolism",
+    "energy production",
+    '"protein" snack',
+    "many protein bars",
+    "dessert disguised",
+    "energy metabolism",
+    "protein bars and protein snacks",
     "german sweet chocolate",
+    "a protein bar is definitely",
+    "vegetarian and vegan",
+    "vegan or vegetarian",
+    "vegetarian or vegan",
+    "vegan and vegetarian",
+    "amino-acid metabolism",
+    "amino acid metabolism",
+    "protein bars can be helpful",
+    "sour cream",
+    "vanilla or strawberry",
+    "chocolate or vanilla",
+    "vanilla or chocolate",
+    "vanilla and chocolate",
+    "chocolate and vanilla",
     "pockets of chocolate",
     "nutmeg, ginger",
     "nutrition facts",
@@ -8253,7 +8346,7 @@ EXCLUDED_PHRASES = [
     "your flour",
     "spread to",
     "apple bread",
-    "chickpea chows",
+    # "chickpea chows",
     # "dessert hummus",
     "banana brownies",
     "2 cookies",
@@ -9758,7 +9851,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-27")):
+            if not file.startswith(("2026-09-19")):
                 continue
 
             # exclude some files
