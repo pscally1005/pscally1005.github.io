@@ -9345,7 +9345,7 @@ EXCLUDED_PHRASES = [
     "all 4 sides",
     "4 sides",
     "both sides",
-    "soy sauce",
+    # "soy sauce",
     "the flour",
     "a flour",
     "finer flour",
