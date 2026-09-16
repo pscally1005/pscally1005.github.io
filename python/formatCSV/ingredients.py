@@ -182,6 +182,8 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "high-fiber-sugar-sub":
+        f = "High fiber sugar substitute"
     elif food == "whipped-cream":
         f = "Aquafaba Whipped Cream"
     elif food == "Ben & jerry's, ice cream, cherry garcia by Ben & Jerry's Homemade Inc.":

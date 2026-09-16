@@ -10,6 +10,23 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/high-fiber-sugar-substitute": [
+        "high fiber sugar substitute",
+        "high fiber white sugar substitute",
+        "high fiber brown sugar substitute",
+        "high fiber powdered sugar substitute",
+        "high fiber granulated sugar substitute",
+        "fiber sugar substitute",
+        "fiber white sugar substitute",
+        "fiber brown sugar substitute",
+        "fiber powdered sugar substitute",
+        "fiber granulated sugar substitute",
+        "high fiber sugar substitute",
+        "white sugar substitute",
+        "brown sugar substitute",
+        "powdered sugar substitute",
+        "granulated sugar substitute"
+    ],
     "/recipes/banana-nut-protein-cookies": [
         "banana-nut protein cookies",
         "banana-nut protein cookie",
@@ -5834,6 +5851,7 @@ LINKS = {
     ],
     "https://amzn.to/3Sg1Z7p": [
         "pure granulated monk fruit",
+        "pure monk fruit"
     ],
     "https://amzn.to/4wFerfa": [
         "shaker bottle",
@@ -7813,6 +7831,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "to make a healthier cookie",
+    "to make a healthier brownie",
     '"protein" snacks',
     "energy/fat metabolism",
     "energy production",
@@ -9851,7 +9871,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-19")):
+            if not file.startswith(("2026-09-28")):
                 continue
 
             # exclude some files

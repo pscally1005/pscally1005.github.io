@@ -1976,7 +1976,7 @@ def grams(food, mass, vol):
             m = "1720"
 
     # Sugar, etc.
-    elif food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar" or food == "Dry yeast":
+    elif food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar" or food == "Dry yeast" or food == "High fiber sugar substitute":
         if vol == "1/2 tsp":
             m = "2"
         elif vol == "1 tsp":
@@ -2005,7 +2005,7 @@ def grams(food, mass, vol):
             m = "75"
         elif vol == "7 tbsp":
             m = "88"
-        elif vol == "1/2 cup" or vol == "8 tbsp":
+        elif vol == "1/2 cup" or vol == "8 tbsp" or vol == "24 tsp":
             m = "100"
         elif vol == "9 tbsp":
             m = "113"
@@ -2023,9 +2023,9 @@ def grams(food, mass, vol):
             m = "175"
         elif vol == "15 tbsp":
             m = "188"
-        elif vol == "1 cup" or vol == "16 tbsp":
+        elif vol == "1 cup" or vol == "16 tbsp" or vol == "48 tsp":
             m = "200"
-        elif vol == "1.25 cup" or vol == "1 1/4 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup" or vol == "60 tsp":
             m = "250"
         elif vol == "1.33 cup" or vol == "1 1/3 cup":
             m = "267"
@@ -2070,10 +2070,16 @@ def grams(food, mass, vol):
             m = "3.10"
         elif vol == "15 scoop":
             m = "4.65"
+        elif vol == "2 tsp":
+            m = "5.6"
         elif vol == "20 scoop":
             m = "6.20"
+        elif vol == "1 tbsp":
+            m = "7"
         elif vol == "25 scoop":
             m = "7.75"
+        elif vol == "4 tsp":
+            m = "8"
         elif vol == "30 scoop":
             m = "9.30"
         elif vol == "35 scoop":

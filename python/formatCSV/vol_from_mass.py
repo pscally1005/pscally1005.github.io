@@ -10,7 +10,7 @@ def vol_from_mass(food, mass, vol):
     v = vol
 
     # Sugar, etc.
-    if food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar" or food == "Dry yeast":
+    if food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar" or food == "Dry yeast" or food == "High fiber sugar substitute":
         if mass == "2" or mass == "2.4":
             v = "1/2 tsp"
         elif mass == "4":
@@ -57,7 +57,7 @@ def vol_from_mass(food, mass, vol):
             v = "15 tbsp"
         elif mass == "200" or mass == "192":
             v = "1 cup"
-        elif mass == "250":
+        elif mass == "250" or mass == "240":
             v = "1 1/4 cup"
         elif mass == "267":
             v = "1 1/3 cup"
@@ -102,10 +102,16 @@ def vol_from_mass(food, mass, vol):
             v = "10 scoop"
         elif mass == "4.65":
             v = "15 scoop"
+        elif mass == "5.6":
+            v = "2 tsp"
         elif mass == "6.20":
             v = "20 scoop"
+        elif mass == "7":
+            v = "1 tbsp"
         elif mass == "7.75":
             v = "25 scoop"
+        elif mass == "8":
+            v = "4 tsp"
         elif mass == "9.30":
             v = "30 scoop"
         elif mass == "10.85":
