@@ -5589,7 +5589,13 @@ LINKS = {
         "sugars",
         "sugar",
         "white sugar",
+        "white sugars",
+        "granulated sugars",
+        "granulated sugar",
         "brown sugar",
+        "brown sugars",
+        "powdered sugars",
+        "powdered sugar",
         "white and brown sugars",
         "brown and white sugars",
         "white and brown sugar",
@@ -5850,6 +5856,7 @@ LINKS = {
         "plastic meal prep container"
     ],
     "https://amzn.to/3Sg1Z7p": [
+        "monk fruit extract",
         "pure granulated monk fruit",
         "pure monk fruit"
     ],
@@ -6287,9 +6294,9 @@ LINKS = {
         # "liquid stevia (or monk fruit)",
         # "liquid stevia",
         # "liquid stevia/monk fruit",
-        # "liquid monk fruit/stevia"
-        "monk fruit",
-        "monk fruit extract",
+        # "liquid monk fruit/stevia",
+        # "monk fruit extract",
+        "monk fruit"
     ],
     "https://amzn.to/45wOzIv": [
         "liquid stevia"
@@ -6840,7 +6847,8 @@ LINKS = {
         "farticle",
         "farts",
         "farting",
-        "fart"
+        "fart",
+        "gas"
     ],
     "/misc/msg": [
         "what is msg?",
@@ -7831,6 +7839,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "that's just monk fruit extract",
     "to make a healthier cookie",
     "to make a healthier brownie",
     '"protein" snacks',
@@ -9439,7 +9448,7 @@ EXCLUDED_PHRASES = [
     "brown rice syrup",
     "cane sugar",
     "cane syrup",
-    "powdered sugar",
+    # "powdered sugar",
     "honey nut",
     "raisin bran",
     # "corn syrup",

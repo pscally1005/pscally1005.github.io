@@ -55,18 +55,18 @@ tags:
 - brown sugar
 - powdered sugar
 Description: |
-  Pure granulated monk fruit is my new favorite sweetener.  It's a dry sweetener that's just monk fruit extract, without any bulking agents like erythritol, maltodextrin, or dextrose.  Just pure, concentrated sweetness that's about 100-250 times sweeter than standard sugar.<br><br>
+  <a href='https://amzn.to/3Sg1Z7p'>Pure granulated monk fruit</a> is my new favorite sweetener.  It's a dry sweetener that's just monk fruit extract, without any bulking agents like <a href='https://amzn.to/4lkg3Hr'>erythritol</a>, maltodextrin, or dextrose.  Just pure, concentrated <a href='/misc/five-tastes#sweet'>sweetness</a> that's about 100-250 times sweeter than standard <a href='/misc/hidden-sugar'>sugar</a>.<br><br>
 
-  But today, I want to add a bulking agent into the pure monk fruit to make it measure 1:1 like sugar, both by volume and weight. Introducing inulin, a low-calorie, high-fiber powder that is also midly sweet. By combining together pure monk fruit and inulin, we can make a zero-calorie sweetener that can be directly substituted for white sugar in all recipes for no calories or added sugar.
+  But today, I want to add a bulking agent into the <a href='https://amzn.to/3Sg1Z7p'>pure monk fruit</a> to make it measure 1:1 like <a href='/misc/hidden-sugar'>sugar</a>, both by volume and weight. Introducing <a href='https://amzn.to/47w8h7R'>inulin</a>, a <a href='/misc/calories'>low-calorie</a>, <a href='/misc/fiber'>high-fiber</a> powder that is also mildly sweet. By combining together <a href='https://amzn.to/3Sg1Z7p'>pure monk fruit</a> and <a href='https://amzn.to/47w8h7R'>inulin</a>, we can make a <a href='/misc/calories'>zero-calorie</a> sweetener that can be directly substituted for <a href='/misc/hidden-sugar'>white sugar</a> in all recipes for no <a href='/misc/calories'>calories</a> or <a href='/misc/hidden-sugar'>added sugar</a>.
 Instructions:
-- Mix together pure granulated monk fruit and inulin in a medium bowl.  Store in an airtight container at room temperature.
+- Mix together <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> and <a href='https://amzn.to/47w8h7R'>inulin</a> in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>.  Store in an airtight container at room temperature.
 - <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/white.jpg' alt='' class='instruction-image'>
 Notes:
-- <a href='#recipe'>This recipe</a> makes 1 cup (200 g) that can be used as a 1:1 equivalent by weight and volume for white sugar. Each serving represents 1 tsp (4.2 g).
+- <a href='#recipe'>This recipe</a> makes 1 cup (200 g) that can be used as a 1:1 equivalent by weight and volume for <a href='/misc/hidden-sugar'>white sugar</a>. Each serving represents 1 tsp (4.2 g).
 
 - |
   <div id='brow' class='table-of-contents-2'></div>
-  Add 1 tbsp (20 g) blackstrap molasses to make 1 cup (220 g) of brown sugar.
+  Add 1 tbsp (20 g) <a href='https://amzn.to/4h7fdfj'>blackstrap molasses</a> to make 1 cup (220 g) of <a href='/misc/hidden-sugar'>brown sugar</a>.
 # - |
 #   COMPARE(
 #     "highfibersugarsub",
@@ -75,16 +75,16 @@ Notes:
 #     "<a href='#recipe'>White</a>",
 #     "<a href='#brown'>Brown</a>";
 
-#     "Calories",
-#     "Net Carbs",
-#     "Fiber",
-#     "Added Sugar"
+#     "<a href='/misc/calories'>Calories</a>",
+#     "<a href='/misc/carbs'>Net Carbs</a>",
+#     "<a href='/misc/fiber'>Fiber</a>",
+#     "<a href='/misc/hidden-sugar'>Added Sugar</a>"
 #   )
 - <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/brown.jpg' alt='' class='instruction-image'>
 
 - |
   <div id='brownie' class='table-of-contents-2'></div>
-  Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my Classic Fudgy Brownies, where I swapped out the 2 cup (240 g) powdered sugar for 1 1/4 cup (240 g) of <a href='#recipe'>sugar substitute</a>.  I also went for whole wheat flour and coconut oil instead of white flour and butter to make a healthier brownie.
+  Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my <a href='/recipes/brownies'>Classic Fudgy Brownies</a>, where I swapped out the 2 cup (240 g) <a href='/misc/hidden-sugar'>powdered sugar</a> for 1 1/4 cup (240 g) of <a href='#recipe'>sugar substitute</a>.  I also went for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/nuts#coconut'>coconut oil</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/misc/dairy#butter'>butter</a> to make a healthier brownie.
 - |
   COMPARE(
     "highfibersugarsubbrownies",
@@ -104,7 +104,7 @@ Notes:
 
 - |
   <div id='cookie' class='table-of-contents-2'></div>
-  Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my Classic Chocolate Chips Cookies, where I swapped out the 1 cup (200 g) granulated sugar for 1 cup (200 g) of <a href='#recipe'>sugar substitute</a>.  I also went for whole wheat flour and coconut oil instead of white flour and butter to make a healthier cookie.
+  Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, where I swapped out the 1 cup (200 g) <a href='/misc/hidden-sugar'>granulated sugar</a> for 1 cup (200 g) of <a href='#recipe'>sugar substitute</a>.  I also went for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/nuts#coconut'>coconut oil</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/misc/dairy#butter'>butter</a> to make a healthier cookie.  I still used standard chocolate chips, so there's still <a href='/misc/hidden-sugar'>added sugar</a>.
 - |
   COMPARE(
     "highfibersugarsubcookies",
@@ -122,5 +122,5 @@ Notes:
   )
 - <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/cookies.jpg' alt='' class='instruction-image'>
 
-- Consuming large amounts of inulin can lead to gas, bloating, and gastrointestinal discomfort, so this is not a "free" replacement for sugar.  Please still consume in moderation.
+- Consuming large amounts of <a href='https://amzn.to/47w8h7R'>inulin</a> can lead to <a href='/misc/farticle'>gas</a>, bloating, and gastrointestinal discomfort, so this is not a "free" replacement for <a href='/misc/hidden-sugar'>sugar</a>.  Please still consume in moderation.
 ---
