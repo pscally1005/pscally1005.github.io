@@ -59,13 +59,12 @@ Description: |
 
   But today, I want to add a bulking agent into the <a href='https://amzn.to/3Sg1Z7p'>pure monk fruit</a> to make it measure 1:1 like <a href='/misc/hidden-sugar'>sugar</a>, both by volume and weight. Introducing <a href='https://amzn.to/47w8h7R'>inulin</a>, a <a href='/misc/calories'>low-calorie</a>, <a href='/misc/fiber'>high-fiber</a> powder that is also mildly sweet. By combining together <a href='https://amzn.to/3Sg1Z7p'>pure monk fruit</a> and <a href='https://amzn.to/47w8h7R'>inulin</a>, we can make a <a href='/misc/calories'>zero-calorie</a> sweetener that can be directly substituted for <a href='/misc/hidden-sugar'>white sugar</a> in all recipes for no <a href='/misc/calories'>calories</a> or <a href='/misc/hidden-sugar'>added sugar</a>.
 Instructions:
-- Mix together <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> and <a href='https://amzn.to/47w8h7R'>inulin</a> in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>.  Store in an airtight container at room temperature.
-- <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/white.jpg' alt='' class='instruction-image'>
+- Add <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> and <a href='https://amzn.to/47w8h7R'>inulin</a> to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>.  Beat together with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>.  You can also combine this in the <a href='https://amzn.to/4q0AUjI'>food processor</a>.  Store in an airtight container at room temperature.
 Notes:
 - <a href='#recipe'>This recipe</a> makes 1 cup (200 g) that can be used as a 1:1 equivalent by weight and volume for <a href='/misc/hidden-sugar'>white sugar</a>. Each serving represents 1 tsp (4.2 g).
 
 - |
-  <div id='brow' class='table-of-contents-2'></div>
+  <div id='brown' class='table-of-contents-2'></div>
   Add 1 tbsp (20 g) <a href='https://amzn.to/4h7fdfj'>blackstrap molasses</a> to make 1 cup (220 g) of <a href='/misc/hidden-sugar'>brown sugar</a>.
 # - |
 #   COMPARE(
@@ -80,11 +79,19 @@ Notes:
 #     "<a href='/misc/fiber'>Fiber</a>",
 #     "<a href='/misc/hidden-sugar'>Added Sugar</a>"
 #   )
-- <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/brown.jpg' alt='' class='instruction-image'>
+
+- |
+  When replacing standard <a href='/misc/hidden-sugar'>sugar</a> with <a href='#recipe'>this substitute</a>, you may need to add some additional <a href='/misc/dairy#almond-milk'>milk</a> to your <a href='/recipes/healthier-dessert'>baked goods</a>, as the <a href='#recipe'>sweetener</a> may absorb more moisture and clump unlike <a href='/misc/hidden-sugar'>sugar</a>.  I'd recommend adding 2 tbsp (30 g) of <a href='/misc/dairy#almond-milk'>milk</a> for every cup of <a href='#recipe'>sweetener</a> to achieve a similar texture of cookie dough, brownie batter, etc.<br><br>
+
+  Make sure to mix thoroughly to fully incorporate, either through using an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>, or massaging it with your hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking.<br><br>
+
+  Similarly, since the <a href='#recipe'>sweetener</a> is a little sticky, especially when adding the <a href='https://amzn.to/4h7fdfj'>molasses</a>, your <a href='/recipes/healthier-dessert'>baked goods</a> will come out a little chewy and sticky on the inside, almost as if you mixed in chopped up toffee to your <a href='#brownie'>brownies</a> or <a href='#cookie'>cookies</a>.
 
 - |
   <div id='brownie' class='table-of-contents-2'></div>
-  Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my <a href='/recipes/brownies'>Classic Fudgy Brownies</a>, where I swapped out the 2 cup (240 g) <a href='/misc/hidden-sugar'>powdered sugar</a> for 1 1/4 cup (240 g) of <a href='#recipe'>sugar substitute</a>.  I also went for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/nuts#coconut'>coconut oil</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/misc/dairy#butter'>butter</a> to make a healthier brownie.
+  Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my <a href='/recipes/brownies'>Classic Fudgy Brownies</a>, where I swapped out the 2 cup (240 g) <a href='/misc/hidden-sugar'>powdered sugar</a> for 1 1/4 cup (250 g) of <a href='#recipe'>sugar substitute</a>.<br><br>
+
+  I also went for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/olive-oil'>olive oil</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/misc/dairy#butter'>butter</a> to make a healthier brownie.  Since the <a href='#recipe'>sugar substitute</a> can be a little sticky and prone to clumping, I added 2 tbsp (30 g) <a href='/misc/dairy#almond-milk'>almond milk</a> to the brownie batter, and made sure to mix throughly through a combination of an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> and massaging it with my hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>.
 - |
   COMPARE(
     "highfibersugarsubbrownies",
@@ -100,11 +107,13 @@ Notes:
     "Fiber",
     "Added Sugar"
   )
-- <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/brownies.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/brownies-bite.jpg' alt='' class='instruction-image'>
 
 - |
   <div id='cookie' class='table-of-contents-2'></div>
-  Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, where I swapped out the 1 cup (200 g) <a href='/misc/hidden-sugar'>granulated sugar</a> for 1 cup (200 g) of <a href='#recipe'>sugar substitute</a>.  I also went for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/nuts#coconut'>coconut oil</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/misc/dairy#butter'>butter</a> to make a healthier cookie.  I still used standard chocolate chips, so there's still <a href='/misc/hidden-sugar'>added sugar</a>.
+  Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, where I swapped out the 1 cup (200 g) <a href='/misc/hidden-sugar'>granulated sugar</a> for 1 cup (200 g) of <a href='#recipe'>sugar substitute</a>.  I also went for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/olive-oil'>olive oil</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/misc/dairy#butter'>butter</a> to make a healthier cookie.<br><br>
+
+  Since the <a href='#recipe'>sugar substitute</a> can be a little sticky and prone to clumping, I added 2 tbsp (30 g) <a href='/misc/dairy#almond-milk'>almond milk</a> to the cookie dough, and made sure to mix throughly through a combination of an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> and massaging it with my hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>.  I still used standard chocolate chips, so there's still <a href='/misc/hidden-sugar'>added sugar</a>.
 - |
   COMPARE(
     "highfibersugarsubcookies",
@@ -120,7 +129,7 @@ Notes:
     "Fiber",
     "Added Sugar"
   )
-- <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/cookies.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/cookies-bite.jpg' alt='' class='instruction-image'>
 
 - Consuming large amounts of <a href='https://amzn.to/47w8h7R'>inulin</a> can lead to <a href='/misc/farticle'>gas</a>, bloating, and gastrointestinal discomfort, so this is not a "free" replacement for <a href='/misc/hidden-sugar'>sugar</a>.  Please still consume in moderation.
 ---
