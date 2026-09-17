@@ -6856,7 +6856,11 @@ LINKS = {
         "msg",
         "monosodium glutamate"
         "what is msg",
-        "what is monosodium glutamate"
+        "what is monosodium glutamate",
+        "what exactly is msg?",
+        "what exactly is monosodium glutamate?",
+        "what exactly is msg",
+        "what exactly is monosodium glutamate"
     ],
     "/misc/alcohol": [
         "alcohol",
@@ -9880,7 +9884,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-28")):
+            if not file.startswith(("2026-09-20")):
                 continue
 
             # exclude some files
