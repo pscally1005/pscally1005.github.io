@@ -6871,7 +6871,13 @@ LINKS = {
         "alcoholic",
         "alcohols",
         "alcohol's",
-        "alcohol is a poison"
+        "alcohol is a poison",
+        "alcohol is a toxin"
+    ],
+    "/misc/alcohol#wine": [
+        "red wine",
+        "white wine",
+        "wine"
     ],
     "/misc/nutrition": [
         "nutrition",
