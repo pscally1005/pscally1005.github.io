@@ -58,41 +58,44 @@ tags:
 - cloves
 - spiced
 Description: |
-  It's officially pumpkin spice season. Does gingerbread count as fall for pumpkin spice, or winter because of gingerbread cookies? Not to be confused with gingerbread cookies, gingerbread is a quick bread with similar flavors, such as blackstrap molasses, cinnamon, and, of course, ginger.<br><br>
+  It's officially pumpkin spice season. Does gingerbread count as fall for pumpkin spice, or winter because of gingerbread cookies? Not to be confused with gingerbread cookies, gingerbread is a quick bread with similar flavors, such as <a href='https://amzn.to/4h7fdfj'>molasses</a>, cinnamon, and, of course, ginger.<br><br>
 
-  Whole wheat flour provides more fiber, protein, and certain B vitamins than refined white flour. Coconut oil provides richness and helps create a tender texture in this loaf. This recipe uses less added fat than many traditional versions, with applesauce contributing moisture and texture.<br><br>
+  <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> provides more <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and certain <a href='/misc/nutrient-alphabet#B'>B vitamins</a> than <a href='/misc/grains#white-wheat'>refined white flour</a>. <a href='/misc/nuts#coconut'>Coconut oil</a> provides richness and helps create a tender texture in this loaf. This recipe uses less <a href='/misc/fats'>added fat</a> than many traditional versions, with <a href='/misc/fruit#apple'>applesauce</a> contributing moisture and texture.<br><br>
 
-  Blackstrap molasses provides a rich, robust flavor and can contain more minerals than lighter varieties of molasses, including iron, magnesium, calcium, and potassium. This recipe is free of refined sugar and lower in added sugar than many standard gingerbread recipes. My recipe uses blackstrap molasses as its sonly sugar-containing sweetener, with the remaining sweetness coming from homemade sugar-free syrup.<br><br>
+  <a href='https://amzn.to/4h7fdfj'>Blackstrap molasses</a> provides a rich, robust flavor and can contain more <a href='/misc/nutrient-alphabet'>minerals</a> than lighter varieties of <a href='https://amzn.to/4xnOctZ'>molasses</a>, including <a href='/misc/iron'>iron</a>, <a href='/misc/magnesium'>magnesium</a>, <a href='/misc/calcium'>calcium</a>, and <a href='/misc/potassium'>potassium</a>. This recipe is free of <a href='/misc/hidden-sugar'>refined sugar</a> and lower in <a href='/misc/hidden-sugar'>added sugar</a> than many standard gingerbread recipes. My recipe uses <a href='https://amzn.to/4h7fdfj'>blackstrap molasses</a> as its only <a href='/misc/hidden-sugar'>sugar</a>-containing sweetener, with the remaining <a href='/misc/five-tastes#sweet'>sweetness</a> coming from <a href='/recipes/sugar-free-syrup'>homemade sugar-free syrup</a>.<br><br>
 
-  This delicious quick bread is just the right amount of sweet while being full of fall flavor. It's soft, warmly spiced, and delivers the classic flavors of gingerbread in a sliceable quick bread, perfect for breakfast or a wholesome fall dessert.
+  This delicious quick bread is just the right amount of sweet while being full of fall flavor. It's soft, warmly spiced, and delivers the classic flavors of gingerbread in a sliceable quick bread, perfect for <a href='/recipes/breakfast'>breakfast</a> or a wholesome fall <a href='/recipes/healthier-dessert'>dessert</a>.
 Instructions:
-- Preheat your oven to 350F. Line a 9x5" bread pan with parchment paper. Lightly grease with oil.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease with oil</a>.
 
-- Whisk together the dry ingredients in a large bowl - whole wheat flour, baking powder, baking soda, ginger, cinnamon, nutmeg, salt, and cloves.
+- Whisk together the dry ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> - <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, baking powder, baking soda, ginger, cinnamon, nutmeg, salt, and cloves.
 
-- In a separate large bowl, whisk together the wet ingredients - applesauce, milk, blackstrap molasses, sugar free syrup, melted coconut oil, and egg.
+- In a separate <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the wet ingredients - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/dairy#almond-milk'>milk</a>, <a href='https://amzn.to/4h7fdfj'>molasses</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/meat#eggs'>egg</a>.
 
-- Add the dry ingredients to the wet, and mix until just fully combined with a silicone spatula.
+- Add the dry ingredients to the wet, and mix until just fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Healthier Dessert/Gingerbread/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the raw batter to the prepared pan.
 - <img src='/assets/Food/Healthier Dessert/Gingerbread/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 45 minutes. The top will be browned and set, a toothpick to the center will come out clean, and the internal temperature will be about 205F. Transfer to a wire rack.
+- Bake at 350F for about 45 minutes. The top will be browned and set, a toothpick to the center will come out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be about <a href='https://amzn.to/4kmobG2'>205F</a>. Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>.
 - <img src='/assets/Food/Healthier Dessert/Gingerbread/baked.jpg' alt='' class='instruction-image'>
 
 - Allow it to cool completely before slicing.
 - <img src='/assets/Food/Healthier Dessert/Gingerbread/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- This recipe can also be made into gingerbread muffins. In a well oiled muffin pan, evenly divide your batter across the 12 cups, about <b>73 g</b> or <b>1/3 cup</b> each. Bake at 350F for about 20 minutes, or until the centers are set and a toothpick inserted into a muffin comes out clean. Baking time may vary. Makes 1 dozen muffins.
+- |
+  This recipe can also be made into gingerbread muffins. In a well oiled <a href='https://amzn.to/4mzzEDl'>muffin pan</a>, evenly divide your batter across the 12 cups, about <b>73 g</b> or <b>1/3 cup</b> each.<br><br>
 
-- Any kind of milk will work here, such as almond milk, skim milk, whole milk, etc.
+  Bake at 350F for about 20 minutes, or until the centers are set, and a toothpick inserted into a muffin comes out clean. Makes 1 dozen muffins.
 
-- To make this gluten-free, replace the whole wheat flour with 2 1/2 cup (225 g) oat flour. The gluten-free loaf may have a slightly different texture from the whole wheat version.
+- Any kind of <a href='/misc/dairy#almond-milk'>milk</a> will work here, such as <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/dairy#skim-milk'>skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, etc.
 
-- I'm using sugar free syrup as my sweetener, but other options include honey, maple syrup, or agave.
+- <a href='/misc/olive-oil'>Olive oil</a> can be used in place of <a href='/misc/nuts#coconut'>coconut oil</a>.
 
-- Olive oil can be used in place of coconut oil.
+- To make this <a href='/misc/celiac'>gluten-free</a>, replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with 2 1/2 cups (225 g) <a href='/misc/grains#oats'>oat flour</a>. The <a href='/misc/celiac'>gluten-free</a> loaf may have a slightly different texture from the <a href='/misc/grains#whole-wheat'>whole wheat</a> version.
+
+- I'm using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> as my sweetener, but other options include <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/misc/natural-sweeteners#agave'>agave</a>.
 
 - |
   COMPARE(
@@ -101,10 +104,10 @@ Notes:
     "gingerbreadwwhoney",
     "gingerbreadgfhoney";
 
-    "<a href='/misc/grains#whole-wheat'>Whole<br>Wheat</a><br>&<br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
-    "<a href='/misc/grains#oats'>Oat<br>Flour</a><br>&<br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
-    "<a href='/misc/grains#whole-wheat'>Whole<br>Wheat</a><br>&<br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
-    "<a href='/misc/grains#oats'>Oat<br>Flour</a><br>&<br><a href='/misc/natural-sweeteners#honey'>Honey</a>";
+    "<a href='/misc/grains#whole-wheat'>Whole Wheat</a><br><a href='/recipes/sugar-free-syrup'>Sugar-Free</a>",
+    "<a href='/misc/grains#oats'>Oat Flour</a><br><a href='/recipes/sugar-free-syrup'>Sugar-Free</a>",
+    "<a href='/misc/grains#whole-wheat'>Whole Wheat</a><br><a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "<a href='/misc/grains#oats'>Oat Flour</a><br><a href='/misc/natural-sweeteners#honey'>Honey</a>";
 
     "Calories",
     "Protein",
