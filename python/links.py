@@ -10,6 +10,64 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/gingerbread": [
+        "gingerbread",
+        "ginger bread",
+        "gingerbread quick bread",
+        "gingerbread bread",
+        "gingerbread loaf",
+        "gingerbread cake",
+        "whole wheat gingerbread",
+        "whole wheat gingerbread loaf",
+        "whole wheat gingerbread quick bread",
+        "whole wheat gingerbread cake",
+        "whole wheat gingerbread bread",
+        "lower sugar gingerbread",
+        "lower sugar gingerbread loaf",
+        "lower sugar gingerbread cake",
+        "lower sugar gingerbread quick bread",
+        "lower sugar gingerbread bread",
+        "gluten free gingerbread",
+        "gluten free gingerbread quick bread",
+        "gluten free gingerbread loaf",
+        "gluten free gingerbread cake",
+        "gluten free gingerbread bread",
+        "gingerbread quick bread",
+        "ginger bread bread",
+        "ginger bread loaf",
+        "ginger bread cake",
+        "whole wheat ginger bread",
+        "whole wheat ginger bread loaf",
+        "whole wheat ginger bread quick bread",
+        "whole wheat ginger bread cake",
+        "whole wheat ginger bread bread",
+        "lower sugar ginger bread",
+        "lower sugar ginger bread loaf",
+        "lower sugar ginger bread cake",
+        "lower sugar ginger bread quick bread",
+        "lower sugar ginger bread bread",
+        "gluten free ginger bread",
+        "gluten free ginger bread quick bread",
+        "gluten free ginger bread loaf",
+        "gluten free ginger bread cake",
+        "gluten free ginger bread bread"
+        "gingerbread muffins",
+        "gingerbread muffin",
+        "ginger bread muffins",
+        "ginger bread muffin",
+        "lower sugar gingerbread muffins",
+        "lower sugar gingerbread muffin",
+        "lower sugar ginger bread muffins",
+        "lower sugar ginger bread muffin",
+        "gluten free gingerbread muffins",
+        "gluten free gingerbread muffin",
+        "gluten free ginger bread muffins",
+        "gluten free ginger bread muffin",
+        "whole wheat gingerbread muffins",
+        "whole wheat gingerbread muffin",
+        "whole wheat ginger bread muffins",
+        "whole wheat ginger bread muffin"
+    ],
     "/recipes/high-fiber-sugar-substitute": [
         "high fiber sugar substitute",
         "high fiber white sugar substitute",
@@ -101,7 +159,8 @@ LINKS = {
         "pea not butter"
     ],
     "/recipes/protein-shake-to-go": [
-        "protein shake to go"
+        "protein shake to go",
+        "to go protein shake"
     ],
     "/recipes/milky-chocolate-spread": [
         "milky chocolate spread"
@@ -798,7 +857,7 @@ LINKS = {
         "white chicken chili"
     ],
     "/recipes/chocolate-cake": [
-        # "cake",
+        "cake",
         "chocolate cake from scratch",
         "chocolate cake",
         "homemade chocolate cake"
@@ -1486,10 +1545,10 @@ LINKS = {
         "feta pasta"
     ],
     "/recipes/fiber-one-brownies": [
+        # "fiber one brownies",
+        # "fiber one brownie",
         "Copycat Fiber One Brownies",
-        "fiber one brownies",
-        "copycat fiber one brownie",
-        "fiber one brownie"
+        "copycat fiber one brownie"
     ],
     "/recipes/fig-walnut-energy-bites": [
         "Fig & Walnut Energy Bites"
@@ -2967,7 +3026,9 @@ LINKS = {
         "whole wheat bagles",
         "whole wheat bagel",
         "half dozen whole wheat bagels",
-        "half dozen whole wheat bagel"
+        "half dozen whole wheat bagel",
+        "bagels",
+        "bagel"
     ],
     "/recipes/roasted-vegetables": [
         "roasted vegetables",
@@ -3750,7 +3811,10 @@ LINKS = {
         "exercise",
         "sedentary lifestyle",
         "sedentary",
-        "physically active"
+        "physically active",
+        "exercising",
+        "works out",
+        "exercising"
     ],
     "/misc/pcos": [
         "pcos",
@@ -4117,7 +4181,8 @@ LINKS = {
         "non fat cottage cheeses",
         "non fat cottage cheese",
         "plain nonfat cottage cheese",
-        "plain non fat cottage cheese"
+        "plain non fat cottage cheese",
+        "cottage cheese (plain)"
     ],
     "/misc/dairy#cottage-cheese-whole-milk": [
         "whole milk cottage cheese",
@@ -4144,7 +4209,8 @@ LINKS = {
         "greek yogurt",
         "yogurt",
         "nonfat yogurt",
-        "non fat yogurt"
+        "non fat yogurt",
+        "greek yogurt (plain)"
     ],
     "/misc/dairy#yogurt-whole-milk": [
         "plain whole milk greek yogurt",
@@ -4172,7 +4238,8 @@ LINKS = {
         "animal based milks",
         "animal based milk",
         "animal milks",
-        "animal milk"
+        "animal milk",
+        "milk (plain)"
     ],
     "/misc/dairy#whole-milk": [
         "whole milk"
@@ -4651,7 +4718,9 @@ LINKS = {
         "white pasta",
         "white pastas",
         "refined pasta",
-        "refined pastas"
+        "refined pastas",
+        "linguine",
+        "fettucine"
     ],
     "/misc/grains#white-rice": [
         "white rice",
@@ -4695,7 +4764,8 @@ LINKS = {
         "lean meats"
     ],
     "/misc/meat#bacon": [
-        "bacon"
+        "bacon",
+        "canadian bacon",
     ],
     "/misc/meat#liver": [
         "beef liver",
@@ -4769,6 +4839,20 @@ LINKS = {
     "/misc/cooking-eggs#fried": [
         "fried eggs",
         "fried egg"
+    ],
+    # "/misc/cooking-eggs#hard-boiled": [
+    #     "hard boiled eggs",
+    #     "hard boiled egg"
+    # ],
+    "/misc/cooking-eggs#hard-scrambled": [
+        "scrambled eggs",
+        "scrambled egg",
+        "american scrambled",
+        "hard scrambled",
+        "hard scrambled eggs",
+        "hard scrambled egg",
+        "american scrambled eggs",
+        "american scrambled egg"
     ],
     "/misc/meat#egg-whites": [
         "liquid egg whites",
@@ -5021,7 +5105,8 @@ LINKS = {
         "leafy vegetable",
         "greens"
     ],"/misc/veggies#acorn-squash": [
-        "acorn squash"
+        "acorn squash",
+        "acorn"
     ],
     "/misc/veggies#artichoke": [
         "artichokes",
@@ -5071,7 +5156,8 @@ LINKS = {
         "butternut squash",
         "orange vegetables",
         "orange vegetable",
-        "squash"
+        "squash",
+        "butternut"
     ],
     "/misc/veggies#cabbage": [
         "shredded cabbage",
@@ -5176,7 +5262,8 @@ LINKS = {
         "radish"
     ],
     "/misc/veggies#spaghetti-squash": [
-        "spaghetti squash"
+        "spaghetti squash",
+        "spaghetti"
     ],
     "/misc/veggies#spinach-fresh": [
         "frozen spinach",
@@ -5473,10 +5560,24 @@ LINKS = {
         "high-fiber",
         "fiber",
         "dietary fiber",
-        "soluble fiber",
-        "insoluble fiber",
+        # "soluble fiber",
+        # "insoluble fiber",
+        # "soluble",
+        # "insoluble",
+        "soluble and insoluble fiber",
+        "insoluble and soluble fiber",
+        "soluble and insoluble fibers",
+        "insoluble and soluble fibers",
         "Fiber: Happiness is a Good Poop",
         "fibers"
+    ],
+    "/misc/fiber#soluble": [
+        "soluble fiber",
+        "soluble"
+    ],
+    "/misc/fiber#insoluble": [
+        "insoluble fiber",
+        "insoluble"
     ],
     "/misc/iron": [
         "I Run on Iron",
@@ -5622,6 +5723,8 @@ LINKS = {
         "whole food sugar",
         "refined carbs",
         "refined carb",
+        "refined carbohydrates",
+        "refined carbohydrate",
         # "natural sweetness",
         # "natural sweeteners",
         # "natural sweetener",
@@ -5821,6 +5924,15 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4dmNINC": [
+        "accent"
+    ],
+    "https://amzn.to/3JD9AJ8": [
+        "fiber one brownies",
+        "fiber one bars",
+        "fiber one brownie",
+        "fiber one bar"
+    ],
     "https://www.amazon.com/?tag=poormanprotei-20": [
         "Amazon"
     ],
@@ -6764,7 +6876,10 @@ LINKS = {
         "5 basic tastes of food",
         "5 tastes of food",
         "5 main tastes",
-        "five main tastes"
+        "five main tastes",
+        "the main tastes",
+        "the other main tastes",
+        "the five tastes",
     ],
     "/misc/five-tastes#salt": [
         # "salt",
@@ -6774,7 +6889,8 @@ LINKS = {
     "/misc/five-tastes#sour": [
         "sour",
         "sourness",
-        "acid"
+        "acid",
+        "citric acid"
     ],
     "/misc/five-tastes#sweet": [
         # "sweet",
@@ -6798,10 +6914,10 @@ LINKS = {
         "contrast in your food",
         "aim for contrast"
     ],
-    "/misc/aim-for-contrast#texture": [
-        "textures",
-        "texture"
-    ],
+    # "/misc/aim-for-contrast#texture": [
+    #     "textures",
+    #     "texture"
+    # ],
     # "/misc/aim-for-contrast#taste": [
     #     "tastes",
     #     "taste"
@@ -6810,15 +6926,15 @@ LINKS = {
     #     "temperatures",
     #     "temperature"
     # ],
-    "/misc/aim-for-contrast#spice": [
+    # "/misc/aim-for-contrast#spice": [
         # "spices",
-        "spice",
-        "spicy"
-    ],
-    "/misc/aim-for-contrast#flavor": [
+    #     "spice",
+    #     "spicy"
+    # ],
+    # "/misc/aim-for-contrast#flavor": [
         # "flavors",
         # "flavor"
-    ],
+    # ],
     "/misc/more-to-meat-than-protein": [
         "there's more to meat than protein",
         "there's more to meat than just protein",
@@ -6840,15 +6956,26 @@ LINKS = {
     ],
     "/misc/eat-more-fiber": [
         "how to eat more fiber",
-        "eat more fiber"
+        "eat more fiber",
+        "fiber intake",
+        "how to increase your fiber intake",
+        "increase in fiber",
+        "increase in dietary fiber",
+        "increasing your fiber intake",
+        "increasing your fiber",
+        "increasing fiber",
     ],
-    "/misc/farticle": [
+    "/misc/farts": [
         "the farticle",
         "farticle",
         "farts",
         "farting",
         "fart",
         "gas"
+    ],
+    "/misc/farts#why-do-we-fart": [
+        "FODMAP",
+        "FODMAPs"
     ],
     "/misc/msg": [
         "what is msg?",
@@ -6872,7 +6999,11 @@ LINKS = {
         "alcohols",
         "alcohol's",
         "alcohol is a poison",
-        "alcohol is a toxin"
+        "alcohol is a toxin",
+        "beer",
+        "liquor",
+        "mixed drinks",
+        "mixed drink"
     ],
     "/misc/alcohol#wine": [
         "red wine",
@@ -7009,10 +7140,10 @@ LINKS = {
     "/misc/processed-foods": [
         "whole or minimally processed foods",
         "whole or minimally processed food",
-        "whole-foods",
-        "whole-food",
-        "whole foods",
-        "whole food",
+        # "whole-foods",
+        # "whole-food",
+        # "whole foods",
+        # "whole food",
         "minimally processed foods",
         "minimally processed food",
         "processed stuff",
@@ -7151,7 +7282,8 @@ LINKS = {
         "salad recipes here",
         "salad recipes",
         "salads",
-        "salad"
+        "salad",
+        "veggie salad"
     ],
     "/salad-dressings": [
         "salad dressing recipes here",
@@ -7293,10 +7425,10 @@ LINKS = {
         "vegetarian dishes",
         "plant-based meals",
         "plant-based meal",
-        "plant-based",
+        # "plant-based",
         "plant based meals",
         "plant based meal",
-        "plant based",
+        # "plant based",
         "plant-based dishes",
         "plant based dishes",
         "plant-based diet",
@@ -7416,14 +7548,18 @@ LINKS = {
     "/misc/fake-healthy-foods": [
         "healthy trap foods",
         "healthy trap food",
-        "healthy foods",
-        "healthy food",
+        # "healthy foods",
+        # "healthy food",
         "healthier foods",
         "healthier food",
         "trap foods",
         "trap food",
         "junk foods",
-        "junk food"
+        "junk food",
+        "snack foods",
+        "snack food",
+        "highly palatable snack foods",
+        "highly palatable snack food"
     ],
     "/misc/fake-healthy-foods#rice-cakes": [
         "flavored rice cakes",
@@ -7511,6 +7647,8 @@ LINKS = {
         "breakfast cereal"
     ],
     "/misc/fake-healthy-foods#dried-fruit": [
+        "dried cranberries",
+        "dried cranberry",
         "sweetened canned fruits",
         "sweetened dried fruits",
         "sweetened canned fruit",
@@ -7518,7 +7656,7 @@ LINKS = {
         "canned fruits",
         "canned fruit",
         "dried fruits",
-        "dried fruit"
+        "dried fruit",
     ],
     "/misc/fake-healthy-foods#nutella": [
         "nutella"
@@ -7647,6 +7785,9 @@ LINKS = {
         "ramen"
     ],
     "/misc/fake-healthy-foods#processed-meats": [
+        # "bacon",
+        # "sausage",
+        # "canadian bacon",
         "processed meats",
         "processed meat",
         "cured meats",
@@ -7715,13 +7856,20 @@ LINKS = {
         "chips & crackers",
         "chips and crackers",
         "crackers & chips",
-        "crackers and chips"
+        "crackers and chips",
+        "pringles",
+        "pringle",
+        "doritos or pringles",
+        "pringles or doritos",
+        "doritos or pringle",
+        "pringle or dorito"
     ],
     "/misc/fake-healthy-foods#bread": [
+        # "breads",
+        # "bagels",
         "white breads",
         "white bread",
         "storebought bread",
-        # "breads"
     ],
     "/misc/fake-healthy-foods#peanut-butter": [
         "processed no-stir peanut butters",
@@ -7762,6 +7910,8 @@ LINKS = {
         "fries",
         "french fries",
         "french fry",
+        "tater tots",
+        "tater tot"
     ],
     "/misc/fake-healthy-foods#juice": [
         "fruit juices",
@@ -7849,6 +7999,71 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "broiled steak",
+    "exercise bike",
+    "nutrition estimates",
+    "grilled chicken with mashed potatoes",
+    "grilled salmon with string beans",
+    "with roasted potato",
+    "vegetable lasagna",
+    "vegetable wellington",
+    "with roasted potatoes",
+    "chicken cordon bleu",
+    "pepper steak",
+    "cobb salad",
+    "black bean enchiladas",
+    "coffee glazed",
+    "bbq salmon",
+    "shrimp cocktail",
+    "stuffed mushrooms",
+    "fried fish",
+    "fried tomatoes",
+    "house salad",
+    "linguine and clams"
+    "pear almond cake",
+    "eating a dessert",
+    "spice isle",
+    "2 drinks in a day",
+    "couple of desserts",
+    "eats and drinks",
+    "person C",
+    "foods and drinks",
+    ", and drinks",
+    "you drink",
+    "1 drink in a day",
+    "2 drinks a day",
+    "chocolate product",
+    "soda, and liquers",
+    "1 drink a day",
+    "considered 1 drink",
+    "couple of drinks",
+    "a few drinks",
+    "1 drink",
+    "people who drink",
+    "breast, mouth",
+    "applies to dessert",
+    "liver, and colorectal",
+    "alcohol you drink",
+    "in the drink",
+    "standard drink",
+    "spice cabinet",
+    "glass on the side",
+    "improve the texture",
+    "glutamic acid",
+    "water soluble",
+    "sodium salt",
+    "fat soluble",
+    "water-soluble",
+    "fat-soluble",
+    "starchy vegetables like",
+    "starchy veggies like",
+    "broth-like",
+    "leafy vegetables like",
+    "leaft veggies like",
+    "cruciferous vegetables like",
+    "cruciferous veggies like",
+    "root vegetables like",
+    "root veggies like",
     "that's just monk fruit extract",
     "to make a healthier cookie",
     "to make a healthier brownie",
@@ -9227,7 +9442,7 @@ EXCLUDED_PHRASES = [
     "inside",
     "aside",
     "still side",
-    "fiber one brownie",
+    # "fiber one brownie",
     "brownie mix",
     "boxed brownies",
     "frankenstein cookie dough",
@@ -9890,7 +10105,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-20")):
+            if not file.startswith(("2026-09-29")):
                 continue
 
             # exclude some files

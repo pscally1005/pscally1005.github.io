@@ -131,5 +131,5 @@ Notes:
   )
 - <img src='/assets/Food/Sweet Spreads/High fiber sugar substitute/cookies-bite.jpg' alt='' class='instruction-image'>
 
-- Consuming large amounts of <a href='https://amzn.to/47w8h7R'>inulin</a> can lead to <a href='/misc/farticle'>gas</a>, bloating, and gastrointestinal discomfort, so this is not a "free" replacement for <a href='/misc/hidden-sugar'>sugar</a>.  Please still consume in moderation.
+- Consuming large amounts of <a href='https://amzn.to/47w8h7R'>inulin</a> can lead to <a href='/misc/farts'>gas</a>, bloating, and gastrointestinal discomfort, so this is not a "free" replacement for <a href='/misc/hidden-sugar'>sugar</a>.  Please still consume in moderation.
 ---
