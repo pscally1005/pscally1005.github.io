@@ -5644,6 +5644,8 @@ LINKS = {
     ],
     "/misc/hidden-sugar": [
         "table sugar",
+        "sugar crystals",
+        "sugar crystal",
         "white granulated sugar",
         '"refined" sugars',
         '"refined" sugar',
@@ -6890,7 +6892,9 @@ LINKS = {
         "sour",
         "sourness",
         "acid",
-        "citric acid"
+        "citric acid",
+        "acidity",
+        "acidic"
     ],
     "/misc/five-tastes#sweet": [
         # "sweet",
@@ -7414,6 +7418,10 @@ LINKS = {
         "pastries and baked goods"
     ],
     "/recipes/meatless": [
+        # "plant-based foods",
+        # "plant based foods",
+        # "plant-based food",
+        # "plant based food",
         "meatless dish",
         "meatless",
         "meatless meals",
@@ -7432,11 +7440,7 @@ LINKS = {
         "plant-based dishes",
         "plant based dishes",
         "plant-based diet",
-        "plant based diet",
-        "plant-based foods",
-        "plant based foods",
-        "plant-based food",
-        "plant based food"
+        "plant based diet"
     ],
     "/recipes/meme": [
         "meme recipes",
@@ -9009,8 +9013,8 @@ EXCLUDED_PHRASES = [
     "brownie batter",
     "brownie texture",
     "sugar dissolve",
-    "sugar crystals",
-    "sugar crystal",
+    # "sugar crystals",
+    # "sugar crystal",
     "dissolves the sugar",
     "developing the gluten",
     "develop the gluten",
