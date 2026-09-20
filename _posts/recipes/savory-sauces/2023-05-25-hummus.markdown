@@ -45,7 +45,6 @@ whisk: https://s.samsungfood.com/C6AaU
 tags:
 - cumin
 - lemon
-- cottage cheese
 - garbanzo bean
 - chickpea
 - chili powder

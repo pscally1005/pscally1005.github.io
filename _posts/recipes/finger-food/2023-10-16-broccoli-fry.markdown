@@ -18,7 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
-protein_bar: yes
+protein_bar: no
 beans: no
 permalink: /recipes/broccoli-fries
 image: /assets/Food/Finger Food/Vegetable/vegetable-chip-cover.jpg

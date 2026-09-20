@@ -951,12 +951,12 @@ LINKS = {
     "/recipes/chocolate-covered-marzipan#notes": [
         "homemade marzipan"
     ],
-    "/recipes/mint-protien-bar": [
+    "/recipes/mint-protein-bar": [
         "mint protein bars",
         "mint protein bar",
         "mint chocolate protein bars",
         "mint chocolate protein bar",
-        "avocado mint protien bars",
+        "avocado mint protein bars",
         "avocado mint protein bar"
     ],
     "/recipes/best-healthy-brownies": [
@@ -2099,7 +2099,7 @@ LINKS = {
     "/recipes/protein-mug-cake": [
         "Microwave Protein Mug Cake",
         "protein mug cake",
-        "protien mug brownie",
+        "protein mug brownie",
         "microwave protein mug brownie",
         "mug cakes"
     ],
@@ -3295,7 +3295,7 @@ LINKS = {
     "/recipes/copycat-barebell": [
         "copycat barebell protein bars",
         "copycat barebell protein bar",
-        "barebell protien bars",
+        "barebell protein bars",
         "barebell protein bar",
         "copycat barebell",
         "barebell",
@@ -3707,7 +3707,7 @@ LINKS = {
         "spinach artichoke dip",
         "spinach artichoke"
     ],
-    "/recipes/cheese-bean-dip": [
+    "/recipes/cheesy-bean-dip": [
         "cheesy bean dip",
         "homemade bean dip",
         "bean dip"
@@ -8057,6 +8057,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "broiled steak",
+    "Vanilla ≠ plain",
     "into a pie crust",
     "bread-like pie crust",
     "bean paste",
