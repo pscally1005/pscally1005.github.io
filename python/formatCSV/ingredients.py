@@ -27,6 +27,12 @@ def ingredients(food):
         f = "Chickpeas, NOT drained or rinsed"
     elif food == "Navy beans, canned, whole":
         f = "Navy beans, NOT drained or rinsed"
+    elif food == "Navy beans, canned, drained and rinsed":
+        f = "Navy beans, drained and rinsed"
+    elif food == "Navy beans, canned, whole":
+        f = "Cannellini beans, NOT drained or rinsed"
+    elif food == "Navy beans, canned, drained and rinsed":
+        f = "Cannellini beans, drained and rinsed"
     elif food == "Beans, drained solids, canned, pinto" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto" or food == "Beans, solids and liquids, canned, mature seeds, pinto":
         f = "Pinto beans, drained and rinsed"
     elif food == "Pinto beans, canned, whole":

@@ -10,6 +10,53 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/sourdough-pie-crust": [
+        "sourdough pie crust",
+        "discard pie crust",
+        "sourdough discard pie crust",
+        "whole wheat sourdough pie crust",
+        "whole wheat discard pie crust",
+        "whole wheat sourdough discard pie crust",
+        "whole wheat pie crust"
+    ],
+    "/recipes/mooncakes": [
+        "mooncake",
+        "mooncakes",
+        "gluten-free mooncake",
+        "gluten-free mooncakes",
+        "gluten free mooncake",
+        "gluten free mooncakes",
+        "sugar-free mooncake",
+        "sugar-free mooncakes",
+        "sugar free mooncake",
+        "sugar free mooncakes",
+        "white bean mooncake",
+        "white bean mooncakes",
+        "white bean mooncake (sf, gf)",
+        "white bean mooncakes (sf, gf)",
+        "white bean paste mooncake",
+        "white bean paste mooncakes",
+        "white bean paste mooncake (sf, gf)",
+        "white bean paste mooncakes (sf, gf)",
+        "moon cake",
+        "moon cakes",
+        "gluten-free moon cake",
+        "gluten-free moon cakes",
+        "gluten free moon cake",
+        "gluten free moon cakes",
+        "sugar-free moon cake",
+        "sugar-free moon cakes",
+        "sugar free moon cake",
+        "sugar free moon cakes",
+        "white bean moon cake",
+        "white bean moon cakes",
+        "white bean moon cake (sf, gf)",
+        "white bean moon cakes (sf, gf)",
+        "white bean paste moon cake",
+        "white bean paste moon cakes",
+        "white bean paste moon cake (sf, gf)",
+        "white bean paste moon cakes (sf, gf)"
+    ],
     "/recipes/gingerbread": [
         "gingerbread",
         "ginger bread",
@@ -5926,6 +5973,10 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4hAUzWa": [
+        "mooncake mold",
+        "moon cake mold"
+    ],
     "https://amzn.to/4dmNINC": [
         "accent"
     ],
@@ -10123,7 +10174,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-29")):
+            if not file.startswith(("2026-09-30", "2026-10-01")):
                 continue
 
             # exclude some files
