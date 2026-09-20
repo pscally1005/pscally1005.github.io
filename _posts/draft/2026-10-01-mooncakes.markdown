@@ -57,21 +57,23 @@ tags:
 - navy beans
 - bean paste
 Description: |
-  I'm no stranger to beans in dessert. But it's about time I made a dessert that's actually supposed to have beans in it.<br><br>
+  I'm no stranger to <a href='/misc/beans'>beans</a> in <a href='/recipes/healthier-dessert'>dessert</a>. But it's about time I made a <a href='/recipes/healthier-dessert'>dessert</a> that's actually supposed to have <a href='/misc/beans'>beans</a> in it.<br><br>
 
-  We just passed the Mid-Autumn Festival, also known as the Mooncake Festival, on September 25 2026. This is the 15th day of the 8th month in the Lunar Calendar, and when mooncakes are traditionally eaten. The date typically falls in late September or early October.<br><br>
+  We just passed the Mid-Autumn Festival, also known as the Mooncake Festival, on September 25, 2026. This is the 15th day of the 8th month in the Lunar Calendar, and when mooncakes are traditionally eaten. The date typically falls in late September or early October.<br><br>
 
-  So to celebrate, I'm creating simple, homemade, wholesome mooncakes. Both the dough and bean paste filling are gluten-free and sugar-free, using coconut flour, cashew butter, white beans, and monk fruit (both liquid monk fruit and pure granulated monk fruit). Each mooncake is about 150 calories, with plenty of fiber, protein, and healthy fats from the beans, coconut flour, and nuts.
+  So to celebrate, I'm creating simple, homemade, wholesome mooncakes. Both the dough and bean paste filling are <a href='/misc/celiac'>gluten-free</a> and <a href='/misc/hidden-sugar'>sugar-free</a>, using <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/beans#cannellini-beans'>white beans</a>, and monk fruit (both <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> and <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a>).<br><br>
+
+  Each mooncake is about 150 <a href='/misc/calories'>calories</a>, with plenty of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/beans#cannellini-beans'>beans</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/nuts#cashews'>nuts</a>.
 Instructions:
-- Drain and rinse your beans, reserving the liquid. Add to a food processor with lemon juice, vanilla extract, and liquid monk fruit. Blend until smooth.
+- Drain and rinse your <a href='/misc/beans#cannellini-beans'>beans</a>, reserving the liquid. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Blend until smooth.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/processor.jpg' alt='' class='instruction-image'>
 
-- Transfer the blended beans to a medium pan over medium low heat. Cook for about 15 minutes, or until the filling has thickened and is drier. Transfer the filling to the fridge to cool totally, about 1 hour.
+- Transfer the blended <a href='/misc/beans#cannellini-beans'>beans</a> to a medium pan over medium low heat. Cook for about 15 minutes, or until the filling has thickened and is drier. Transfer the filling to the fridge to cool totally, about 1 hour.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/pan.jpg' alt='' class='instruction-image'>
 
-- Preheat your oven to 350F. Line a cookie sheet with parchment paper.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- In a large bowl, mix together cashew butter, coconut flour, and pure granulated monk fruit to make your dough.
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> to make your dough.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/bowl.jpg' alt='' class='instruction-image'>
 
 - Divide your dough into 12 equal pieces, about <b>20 g</b> each. Roll into a ball, and flatten into a thin, round disk.
@@ -88,39 +90,39 @@ Instructions:
 
 - Store mooncakes in an airtight container in the refrigerator. Allow them to cool completely before storing. For best texture, let them rest overnight in the refrigerator before serving.
 Notes:
-- I'm using 2 cans of drained and rinsed navy beans, but any other beans will work, such as black, pinto, kidney, or chickpeas.
+- I'm using 2 cans of drained and rinsed <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, but any other <a href='/misc/beans'>beans</a> will work, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.
 
-- Add a small splash of the reserved aquafaba to the food processor if needed to help the beans blend together.
+- Add a small splash of the reserved aquafaba to the <a href='https://amzn.to/4q0AUjI'>food processor</a> if needed to help the <a href='/misc/beans#cannellini-beans'>beans</a> blend together.
 
-- Cashew butter works well for its neutral flavor, but almond butter will also work. To make it nut free, use tahini. I would not recommend using peanut butter, or these will distinctly taste like peanut butter.
+- <a href='/misc/nuts#cashews'>Cashew butter</a> works well for its neutral flavor, but <a href='/misc/nuts#almonds'>almond butter</a> will also work. To make it <a href='/misc/nuts'>nut</a> free, use <a href='/misc/seeds#sesame-seeds'>tahini</a>. I would not recommend using <a href='/misc/nuts#peanuts'>peanut butter</a>, or these will distinctly taste like <a href='/recipes/natural-peanut-butter'>peanut butter</a>.
 
-- Almond flour can be used in place of coconut flour, though the amount may vary slightly. Start with less, and add more little by little until you get a shapable dough consistency.
+- <a href='/misc/nuts#almonds'>Almond flour</a> can be used in place of <a href='/misc/nuts#coconut'>coconut flour</a>, though the amount may vary. Start with less, and add more little by little until you get a shapable dough consistency.
 
 - Add a small splash of the reserved aquafaba to the dough mixture if it's too dry.
 
-- My sweeteners are 1 tsp (5 g) liquid monk fruit in the filling, and 1 tsp (2.8 g) pure granulated monk fruit in the dough. Other options include 2 tbsp (40 g) sugar free syrup in the filling, and 2 tbsp (25 g) granulated monk fruit or allulose in the dough.
+- My sweeteners are 1 tsp (5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> in the filling, and 1 tsp (2.8 g) <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> in the dough. Other options include 2 tbsp (40 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> in the filling, and 2 tbsp (25 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> or <a href='https://amzn.to/4mzsH5p'>allulose</a> in the dough.
 
 - A full batch of the bean paste yields about <b>300 g</b>, enough for 12 mooncakes with about <b>25 g of filling</b> and <b>20 g of dough</b>.
 
-- I don't have a mooncake mold, so I'm instead shaping them by hand into 1" tall, 2" wide circular disks.
+- I don't have a <a href='https://amzn.to/4hAUzWa'>mooncake mold</a>, so I'm instead shaping them by hand into 1" tall, 2" wide circular disks.
 
-- For some other dessert recipes with beans in them, check out the following:<br>
+- For some other <a href='/recipes/healthier-dessert'>dessert</a> recipes with <a href='/misc/beans'>beans</a> in them, check out the following:<br>
   <ul>
-    <li>Chocolate Peanut Butter Mousse</li>
-    <li>No-Nut Chickpea Nutella</li>
-    <li>Naturally Sweetened Oatmeal Raisin Cookies</li>
-    <li>Improving the Pinto Bean Cake</li>
-    <li>Chickpea Date Brownies</li>
-    <li>White Bean Milkshake</li>
-    <li>Mint Chocolate Chip Date Cookies</li>
-    <li>Peanut Butter Date Cookies</li>
-    <li>Double Chocolate Date Cookies</li>
-    <li>Chocolate Chip Date Cookies</li>
-    <li>Dual Bean Date Brookies</li>
-    <li>Chickpea Date Blondies</li>
-    <li>Black Bean Date Brownies</li>
-    <li>Chickpea Chows</li>
-    <li>Protein Brownie Bars</li>
-    <li>Chocolate Chip Cookie Skillet</li>
+    <li><a href='/recipes/chocolate-peanut-butter-mousse'>Chocolate Peanut Butter Mousse</a></li>
+    <li><a href='/recipes/chickpea-nutella'>No-Nut Chickpea Nutella</a></li>
+    <li><a href='/recipes/oatmeal-raisin-cookies'>Naturally Sweetened Oatmeal Raisin Cookies</a></li>
+    <li><a href='/misc/pinto-bean-cake'>Improving the Pinto Bean Cake</a></li>
+    <li><a href='/recipes/chickpea-date-brownies'>Chickpea Date Brownies</a></li>
+    <li><a href='/recipes/white-bean-milkshake'>White Bean Milkshake</a></li>
+    <li><a href='/recipes/mint-chocolate-chip-date-cookies'>Mint Chocolate Chip Date Cookies</a></li>
+    <li><a href='/recipes/peanut-butter-date-cookies'>Peanut Butter Date Cookies</a></li>
+    <li><a href='/recipes/double-chocolate-date-cookies'>Double Chocolate Date Cookies</a></li>
+    <li><a href='/recipes/chocolate-chip-date-cookies'>Chocolate Chip Date Cookies</a></li>
+    <li><a href='/recipes/dual-bean-date-brookies'>Dual Bean Date Brookies</a></li>
+    <li><a href='/recipes/chickpea-date-blondies'>Chickpea Date Blondies</a></li>
+    <li><a href='/recipes/black-bean-date-brownies'>Black Bean Date Brownies</a></li>
+    <li><a href='/recipes/chickpea-chows'>Chickpea Chows</a></li>
+    <li><a href='/recipes/chickpea-brownies'>Protein Brownie Bars</a></li>
+    <li><a href='/recipes/chocolate-chip-cookie-skillet'>Chocolate Chip Cookie Skillet</a></li>
   </ul>
 ---

@@ -4078,6 +4078,8 @@ LINKS = {
         "red lentil"
     ],
     "/misc/beans#cannellini-beans": [
+        "white beans",
+        "white bean",
         "cannellini beans",
         "cannellini bean",
         "cannellini"
@@ -4132,11 +4134,11 @@ LINKS = {
         "lupini"
     ],
     "/misc/beans#navy-beans": [
+        # "white beans",
+        # "white bean",
         "navy beans",
         "navy bean",
         "navy",
-        "white beans",
-        "white bean"
     ],
     "/misc/beans#pink-beans": [
         "pink beans",
@@ -8055,7 +8057,14 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "broiled steak",
+    "into a pie crust",
+    "bread-like pie crust",
+    "bean paste",
+    "wrap the dough",
     "gingerbread cookies",
+    "for the pie crust",
+    "the date typically falls",
+    "this pie crust",
     "gingerbread cookie",
     "cinnamon, and ginger",
     "cinnamon, and, of course, ginger",

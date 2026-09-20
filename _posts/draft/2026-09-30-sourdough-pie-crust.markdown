@@ -49,17 +49,17 @@ tags:
 - pie crust
 - whole wheat
 - sourdough bread
-Description: Normally when I feed my starter, I mix the discard with baking powder and salt to make 2 Sourdough Discard Flatbreads. But today I wanted to try something different. Could I turn that same simple mixture into a pie crust? With just 2 ingredients, this recipe transforms sourdough discard into a low-calorie, bread-like pie crust with practically zero effort. Just mix, shape, and bake!
+Description: Normally when I feed my <a href='/misc/whole-wheat-sourdough#starter'>starter</a>, I mix the discard with baking powder and salt to make 2 <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbreads</a>. But today I wanted to try something different. Could I turn that same simple mixture into a pie crust? With just 2 ingredients, this recipe transforms <a href='/misc/whole-wheat-sourdough#starter'>sourdough discard</a> into a <a href='/misc/calories'>low-calorie</a>, bread-like pie crust with practically zero effort. Just mix, shape, and bake!
 Instructions:
-- Preheat your oven to 350F. Lightly grease a 9" pie pan.
+- Preheat your oven to 350F. <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a>.
 
-- Add your starter directly to the pan with salt. Mix together with a silicone spatula until fully combined. Shape into a pie crust.
+- Add your <a href='/misc/whole-wheat-sourdough#starter'>starter</a> directly to the pan with salt. Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined. Shape into a pie crust.
 - <img src='/assets/Food/Bread/Sourdough Pie Crust/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 15 minutes, or until lightly browned and set on the bottom. Let it cool totally (at least 30 minutes in the fridge) before adding any pie filling.
 - <img src='/assets/Food/Bread/Sourdough Pie Crust/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- Feel free to use this pie crust for anything savory or even sweet. Make a Shoofly Pie, or make a Deep Dish. Whatever you want!
+- Feel free to use <a href='#recipe'>this pie crust</a> for anything sweet or even savory. Make a <a href='/recipes/shoofly-pie'>Shoofly Pie</a>, or make a <a href='/recipes/deep-dish-pizza'>Deep Dish</a>. Whatever you want!
 
 - Nutrition facts for the pie crust are assuming 8 slices.
 ---
