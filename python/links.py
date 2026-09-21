@@ -6812,7 +6812,9 @@ LINKS = {
         "medium non stick pans",
         "medium non stick pan",
         "mednium non-stick pans",
-        "medium non-stick pan"
+        "medium non-stick pan",
+        "medium pan",
+        "medium pans",
     ],
     "https://amzn.to/4qFE9y3": [
         "small pans",

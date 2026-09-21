@@ -22,9 +22,9 @@ vic: no
 protein_bar: no
 beans: yes
 permalink: /recipes/mooncakes
-image: /assets/Food/Healthier Dessert/Mooncakes/cover.jpg
+image: /assets/Food/Healthier Dessert/Mooncakes/cover-1.jpg
 file: mooncakes
-servingSize: 1 mooncake (~TODO g)
+servingSize: 1 mooncake (~50 g)
 section1: Bean Paste
 start2: Cashew butter
 section2: Dough
@@ -50,7 +50,6 @@ tags:
 - gluten free
 - sugar-free
 - sugar free
-- liquid monk fruit
 - cannellini beans
 - navy beans
 - white beans
@@ -61,50 +60,51 @@ Description: |
 
   We just passed the Mid-Autumn Festival, also known as the Mooncake Festival, on September 25, 2026. This is the 15th day of the 8th month in the Lunar Calendar, and when mooncakes are traditionally eaten. The date typically falls in late September or early October.<br><br>
 
-  So to celebrate, I'm creating simple, homemade, wholesome mooncakes. Both the dough and bean paste filling are <a href='/misc/celiac'>gluten-free</a> and <a href='/misc/hidden-sugar'>sugar-free</a>, using <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/beans#cannellini-beans'>white beans</a>, and monk fruit (both <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> and <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a>).<br><br>
+  So to celebrate, I'm creating simple, homemade, wholesome mooncakes. Both the dough and bean paste filling are <a href='/misc/celiac'>gluten-free</a> and <a href='/misc/hidden-sugar'>sugar-free</a>, using <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/beans#cannellini-beans'>white beans</a>, and <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a>.<br><br>
 
-  Each mooncake is about 150 <a href='/misc/calories'>calories</a>, with plenty of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/beans#cannellini-beans'>beans</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/nuts#cashews'>nuts</a>.
+  Each mooncake is about 130 <a href='/misc/calories'>calories</a>, with plenty of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/beans#cannellini-beans'>beans</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/nuts#cashews'>nuts</a>.
 Instructions:
-- Drain and rinse your <a href='/misc/beans#cannellini-beans'>beans</a>, reserving the liquid. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Blend until smooth.
+- Drain and rinse your <a href='/misc/beans#cannellini-beans'>beans</a>, reserving the liquid. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a>. Blend until smooth.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/processor.jpg' alt='' class='instruction-image'>
 
-- Transfer the blended <a href='/misc/beans#cannellini-beans'>beans</a> to a medium pan over medium low heat. Cook for about 15 minutes, or until the filling has thickened and is drier. Transfer the filling to the fridge to cool totally, about 1 hour.
-- <img src='/assets/Food/Healthier Dessert/mooncakes/pan.jpg' alt='' class='instruction-image'>
+- Transfer the blended <a href='/misc/beans#cannellini-beans'>beans</a> to a <a href='https://amzn.to/4dBv5Ga'>medium pan</a> over medium low heat.
+- <img src='/assets/Food/Healthier Dessert/mooncakes/filling-raw.jpg' alt='' class='instruction-image'>
+
+- Cook for about 15 minutes with frequent stirring to prevent sticking, or until the filling has thickened and is drier. Transfer the filling to the fridge to cool totally, about 1 hour.
+- <img src='/assets/Food/Healthier Dessert/mooncakes/filling-cooked-1.jpg' alt='' class='instruction-image'>
 
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> to make your dough.
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together <a href='/misc/nuts#cashews'>cashew butter</a> and <a href='/misc/nuts#coconut'>coconut flour</a>. Add in just enough aquafaba to be able to combine everything together into a slightly dry dough.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/bowl.jpg' alt='' class='instruction-image'>
 
-- Divide your dough into 12 equal pieces, about <b>20 g</b> each. Roll into a ball, and flatten into a thin, round disk.
-- <img src='/assets/Food/Healthier Dessert/mooncakes/divided-dough.jpg' alt='' class='instruction-image'>
+- Divide your dough into 12 equal pieces, about <b>30 g</b> each (~2 tbsp). Roll into a ball.
+- <img src='/assets/Food/Healthier Dessert/mooncakes/dough-raw.jpg' alt='' class='instruction-image'>
 
-- Divide your filling into 12 equal pieces, about <b>25 g</b> each. Roll into a ball.
-- <img src='/assets/Food/Healthier Dessert/mooncakes/divided-filling.jpg' alt='' class='instruction-image'>
-
-- Add a ball of filling into the center of each dough circle. Wrap the dough around the filling, making sure to close up any edges. Place onto the pan, seam side down, and shape into a round, circular disk.
+- Flatten out a dough ball between your palms, and add a <b>20 g</b> (~1.5 tbsp) ball of filling to the center. Carefully wrap the dough around the filling without tearing it, making sure to close up any edges. Place onto the pan, seam side down, and shape into a round, circular disk. Repeat for all mooncakes.
+- <img src='/assets/Food/Healthier Dessert/mooncakes/assembly.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Healthier Dessert/mooncakes/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 15 minutes, or until lightly browned and set.
-- <img src='/assets/Food/Healthier Dessert/mooncakes/baked.jpg' alt='' class='instruction-image'>
-
-- Store mooncakes in an airtight container in the refrigerator. Allow them to cool completely before storing. For best texture, let them rest overnight in the refrigerator before serving.
+- Bake at 350F for about 15 minutes, or until lightly browned and set. Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to totally cool.
+- <img src='/assets/Food/Healthier Dessert/mooncakes/cover-4.jpg' alt='' class='instruction-image'>
 Notes:
-- I'm using 2 cans of drained and rinsed <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, but any other <a href='/misc/beans'>beans</a> will work, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.
+- I'm using a can of drained and rinsed <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, but any other <a href='/misc/beans'>beans</a> will work, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.
 
-- Add a small splash of the reserved aquafaba to the <a href='https://amzn.to/4q0AUjI'>food processor</a> if needed to help the <a href='/misc/beans#cannellini-beans'>beans</a> blend together.
+- |
+  Other sweetener options include the following:
+- INGREDIENTS(mooncakesweeteners)
 
 - <a href='/misc/nuts#cashews'>Cashew butter</a> works well for its neutral flavor, but <a href='/misc/nuts#almonds'>almond butter</a> will also work. To make it <a href='/misc/nuts'>nut</a> free, use <a href='/misc/seeds#sesame-seeds'>tahini</a>. I would not recommend using <a href='/misc/nuts#peanuts'>peanut butter</a>, or these will distinctly taste like <a href='/recipes/natural-peanut-butter'>peanut butter</a>.
 
 - <a href='/misc/nuts#almonds'>Almond flour</a> can be used in place of <a href='/misc/nuts#coconut'>coconut flour</a>, though the amount may vary. Start with less, and add more little by little until you get a shapable dough consistency.
 
-- Add a small splash of the reserved aquafaba to the dough mixture if it's too dry.
+- If you don't have enough aquafaba, you can use an equal amount of water.
 
-- My sweeteners are 1 tsp (5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> in the filling, and 1 tsp (2.8 g) <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> in the dough. Other options include 2 tbsp (40 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> in the filling, and 2 tbsp (25 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> or <a href='https://amzn.to/4mzsH5p'>allulose</a> in the dough.
+- The lack of <a href='/misc/celiac'>gluten</a> in the dough means that these mooncakes will a bit harder to shape, and the dough will be prone to crumbling.
 
-- A full batch of the bean paste yields about <b>300 g</b>, enough for 12 mooncakes with about <b>25 g of filling</b> and <b>20 g of dough</b>.
+- A full batch of the bean paste yields about <b>240 g</b>, enough for 12 mooncakes with about <b>20 g of filling</b> and <b>30 g of dough</b>.
 
-- I don't have a <a href='https://amzn.to/4hAUzWa'>mooncake mold</a>, so I'm instead shaping them by hand into 1" tall, 2" wide circular disks.
+- I don't have a <a href='https://amzn.to/4hAUzWa'>mooncake mold</a>, so I'm instead shaping them by hand.
 
 - For some other <a href='/recipes/healthier-dessert'>dessert</a> recipes with <a href='/misc/beans'>beans</a> in them, check out the following:<br>
   <ul>

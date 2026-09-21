@@ -2070,18 +2070,18 @@ def grams(food, mass, vol):
             m = "2.8"
         elif vol == "10 scoop":
             m = "3.10"
+        elif vol == "1/5 tbsp":
+            m = "4.2"
         elif vol == "15 scoop":
             m = "4.65"
         elif vol == "2 tsp":
             m = "5.6"
         elif vol == "20 scoop":
             m = "6.20"
-        elif vol == "1 tbsp":
-            m = "7"
         elif vol == "25 scoop":
             m = "7.75"
-        elif vol == "4 tsp":
-            m = "8"
+        elif vol == "1 tbsp":
+            m = "8.4"
         elif vol == "30 scoop":
             m = "9.30"
         elif vol == "35 scoop":

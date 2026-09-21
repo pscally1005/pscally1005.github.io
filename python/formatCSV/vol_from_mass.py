@@ -100,18 +100,18 @@ def vol_from_mass(food, mass, vol):
             v = "1 tsp"
         elif mass == "3.10":
             v = "10 scoop"
+        elif mass == "4.2":
+            v = "1/2 tbsp"
         elif mass == "4.65":
             v = "15 scoop"
         elif mass == "5.6":
             v = "2 tsp"
         elif mass == "6.20":
             v = "20 scoop"
-        elif mass == "7":
-            v = "1 tbsp"
         elif mass == "7.75":
             v = "25 scoop"
-        elif mass == "8":
-            v = "4 tsp"
+        elif mass == "8.4":
+            v = "1 tbsp"
         elif mass == "9.30":
             v = "30 scoop"
         elif mass == "10.85":
