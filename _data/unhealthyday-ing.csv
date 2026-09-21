@@ -1,0 +1,6 @@
+Ingredient,Amount,Unit,Description
+"unhealthy-breakfast",512,g,"1 serving"
+"unhealthy-lunch",857,g,"1 serving"
+"unhealthy-dinner",808,g,"1 serving"
+"unhealthy-other",925,g,"1 serving"
+Servings,1

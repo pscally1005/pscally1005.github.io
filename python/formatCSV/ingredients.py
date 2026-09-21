@@ -182,12 +182,30 @@ def ingredients(food):
         f = "Unsweetened BBQ sauce"
     elif food == "ketchup":
         f = "Date sweetened ketchup"
+    elif food == "Salad dressing, regular, mayonnaise":
+        f = "Mayonnaise"
     elif food == "Soup, ready-to-serve, chicken broth":
         f = "Chicken bone broth"
     elif food == "shredded-chicken" or food == "leg-quarters":
         f = "Simple Shredded Chicken"
+    elif food == "Soup, French onion":
+        f = "French onion soup"
+    elif food == "Restaurant, chicken parmesan without pasta, Italian":
+        f = "Chicken parmesan"
 
     # Baking
+    elif food == "Cookie, chocolate chip":
+        f = "Chocolate chip cookie"
+    elif food == "Fast foods, hot fudge, sundae":
+        f = "Vanilla ice cream with hot fudge"
+    elif food == "Ice cream, vanilla" or food == "Ice creams, vanilla":
+        f = "Vanilla ice cream"
+    elif food == "Bread, made with margarine, prepared from recipe, banana":
+        f = "Banana bread"
+    elif food == "Cake or cupcake, German chocolate":
+        f = "Chocolate cake"
+    elif food == "Cake or cupcake, chocolate, no icing":
+        f = "Lava cake"
     elif food == "high-fiber-sugar-sub":
         f = "High fiber sugar substitute"
     elif food == "whipped-cream":
@@ -374,8 +392,6 @@ def ingredients(food):
         f = "Hemp hearts"
 
     # Dairy & Eggs
-    elif food == "Ice cream, vanilla" or food == "Ice creams, vanilla":
-        f = "Vanilla ice cream"
     elif food == "Coconut milk, canned, full fat, unsweetened":
         f = "Coconut milk, full fat"
     elif food == "Coconut milk, canned, lowfat, unsweetened":
@@ -407,6 +423,8 @@ def ingredients(food):
         f = "Casein protein powder, unflavored"
     elif food == "Levels Vanilla Casein Protein Powder":
         f = "Casein protein powder, vanilla"
+    elif food == "to-go-pea" or food == "to-go" or food == "to-go-whey":
+        f = "Protein Shake To Go"
     elif food == "Yogurt, Greek, nonfat milk, plain" or food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, nonfat, plain, Greek" or food == "Yogurt, plain, nonfat milk" or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":
         f = "Plain nonfat greek yogurt"
     elif food == "Yogurt, whole milk, plain, Greek":
@@ -459,8 +477,14 @@ def ingredients(food):
         f = "Skim milk"
 
     # Fresh produce
+    elif food == "Cauliflower, raw":
+        f = "Cauliflower"
     elif food == "Watermelon, raw":
         f = "Watermelon"
+    elif food == "Melons, raw, honeydew":
+        f = "Honeydew"
+    elif food == "Melons, raw, cantaloupe":
+        f = "Cantaloupe"
     elif food == "Grapes, raw, red or green (European type, such as Thompson seedless)":
         f = "Grapes"
     elif food == "Blueberries, raw":
@@ -725,6 +749,14 @@ def ingredients(food):
         f = "Sugar free cranberry sauce"
 
     # Carbs
+    elif food == "Tortilla chips, other flavors (Doritos)":
+        f = "Doritos"
+    elif food == "Macaroni or noodles with cheese, Easy Mac type":
+        f = "Mac and cheese"
+    elif food == "BURGER KING, french fries":
+        f = "French fries"
+    elif food == "Cereal, other, honey":
+        f = "Honey Nut Cheerios"
     elif food == "sourdough-starter":
         f = "Sourdough starter"
     elif food == "sourdough-flatbread":
@@ -737,6 +769,8 @@ def ingredients(food):
         f = "Whole wheat tortilla"
     elif food == "Bread, whole wheat" or food == "ww-bread":
         f = "Whole wheat bread"
+    elif food == "Bread, white" or food == "Roll, white, soft":
+        f = "White bread"
     elif food == "ww-bagles":
         f = "Whole wheat bagel"
     elif food == "baguette":
@@ -779,6 +813,10 @@ def ingredients(food):
         f = "Healthier Graham Cracker Pie Crust"
 
     # Meat & fish
+    elif food == "Whopper (Burger King)":
+        f = "Cheeseburger"
+    elif food == "Pork, baked, cooked, bacon, cured":
+        f = "Bacon, cookied"
     elif food == "Ham, cooked, smoked, honey":
         f = "Ham, cooked"
     elif food == "Beef, raw, liver, variety meats and by-products":

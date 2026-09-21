@@ -38,7 +38,7 @@ Rest:
 Cook: 40
 Source1: https://chatgpt.com/share/69a61f19-5bb4-8012-8865-2c9d29e9179a
 Source2: https://youtu.be/TAqIMA_V6tI?si=fYqPA8Xnn7sDkj7S
-Source3:
+Source3: https://www.poormanprotein.com/misc/farts
 Source4:
 Source5:
 whisk: https://s.samsungfood.com/mOnAz

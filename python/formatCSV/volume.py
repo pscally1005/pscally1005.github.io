@@ -112,6 +112,8 @@ def fix(vol):
         v = "3 1/2 cup"
 
     # oz
+    elif vol == "1/4 ounce" or vol == "0.25 ounce" or vol == "0.25 oz":
+        v = "1/4 oz"
     elif vol == "1/2 ounce" or vol == "0.5 ounce" or vol == "0.5 oz" or vol == "0.5 oz square Bakers":
         v = "1/2 oz"
     elif vol == "1 ounce":

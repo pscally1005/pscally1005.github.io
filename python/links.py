@@ -554,7 +554,7 @@ LINKS = {
         "allulose chocolate syrup",
         "homemade chocolate syrup"
     ],
-    "/recipes/protein-layer-cake": [
+    "/recipes/protein-cake": [
         "protein chocolate layer cake",
         "chocolate protein layer cake",
         "protein layer cake",
@@ -5975,6 +5975,9 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4yOheV0": [
+        "sorbitol"
+    ],
     "https://amzn.to/4hAUzWa": [
         "mooncake mold",
         "moon cake mold"
@@ -7671,9 +7674,9 @@ LINKS = {
         "sugar alcohols xylitol",
         "sugar alcohol xylitol",
         "xylitol",
-        "sugar alcohols sorbitol",
-        "sugar alcohol sorbitol",
-        "sorbitol",
+        # "sugar alcohols sorbitol",
+        # "sugar alcohol sorbitol",
+        # "sorbitol",
         "sugar alcohols",
         "sugar alcohol",
         "sugar substitutes",

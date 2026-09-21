@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Nutrition
 - Draft
-showPercentage: yes
+showPercentage: no
 permalink: /misc/vacation
 image: /assets/Misc/Nutrition/Vacation/vacation.png
 tags:
@@ -92,7 +92,7 @@ Here's an example of what a pretty typical indulgent <a href='/recipes/breakfast
 
 <ul>
   <li><a href='/misc/fake-healthy-foods#pancakes'>Pancakes</a> with <a href='/misc/fake-healthy-foods#jelly'>syrup or jelly</a></li>
-  <li>Bowl of <a href='/misc/fake-healthy-foods#cereal'>cereal</a></li>
+  <li>Bowl of <a href='/misc/fake-healthy-foods#cereal'>cereal</a> with <a href='/misc/dairy#whole-milk'>milk</a></li>
   <li>Strips of <a href='/misc/meat#bacon'>bacon</a></li>
   <li>Slice of <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a></li>
 </ul><br>
@@ -154,7 +154,29 @@ The other food I prep is <a href='/misc/nuts'>nuts</a>. I'll prepare multiple si
 
 The last 2 components are <a href='/misc/veggies#carrots'>baby carrots</a> for some <a href='/misc/veggies'>vegetables</a> and <a href='/misc/fiber'>fiber</a>, and an <a href='/misc/fruit#apple'>apple</a> for some <a href='/misc/fruit'>fruit</a> and <a href='/misc/carbs'>carbs</a>.<br><br>
 
-TODO NUTRITION BREAKFAST
+{% assign files =
+    "unhealthybreakfast,"
+    | append: "healthybreakfast1,"
+    | append: "healthybreakfast2"
+    | split: ","
+%}
+{% assign titles =
+    "Unhealthy,"
+    | append: "Healthy<br>(1),"
+    | append: "Healthy<br>(2)"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Sugar,"
+    | append: "Protein"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="false" %}
+<br>
 
 <div id='lunch' class='table-of-contents'></div><hr>
 <u><font size='+2'>Lunch</font></u><br>
@@ -221,7 +243,27 @@ I pretty much lived at the <a href='/salad'>salad</a> bar for lunch. Sometimes I
 
 I'm making sure to get my <a href='/misc/veggies'>vegetables</a> in for <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet'>vitamins</a>, <a href='/misc/nutrient-alphabet'>minerals</a>, <a href='/misc/phytochemicals'>antioxidants</a>, and <a href='/misc/phytochemicals'>phytochemicals</a>. <a href='/misc/fish#tuna'>Tuna</a> adds <a href='/misc/protein'>protein</a>. <a href='/misc/dairy#blue-cheese'>Blue cheese</a> adds some <a href='/misc/fats'>fats</a>. And the <a href='/misc/fruit'>fruit</a> supplies my <a href='/misc/carbs'>carbs</a>.<br><br>
 
-TODO NUTRITION LUNCH
+{% assign files =
+    "unhealthylunch,"
+    | append: "healthylunch"
+    | split: ","
+%}
+{% assign titles =
+    "Unhealthy,"
+    | append: "Healthy"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Sugar,"
+    | append: "Protein"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="false" %}
+<br>
 
 <div id='dinner' class='table-of-contents'></div><hr>
 <u><font size='+2'>Dinner</font></u><br>
@@ -312,7 +354,27 @@ Finally, for <a href='#other'>dessert</a>, I chose the fresh <a href='/misc/frui
 
 I got my <a href='/misc/protein'>protein</a> from the smoked <a href='/misc/fish#salmon'>salmon</a>, <a href='/misc/fats'>fats</a> from the <a href='/misc/dairy#goat-cheese'>goat cheese</a>, <a href='/misc/dairy#feta'>feta</a>, and <a href='/misc/nuts#walnuts'>walnuts</a>, <a href='/misc/carbs'>carbs</a> from the <a href='/misc/fruit'>fruit</a> and <a href='/misc/grains#farro'>farro</a>, and <a href='/misc/fiber'>fiber</a> from the raw <a href='/misc/veggies'>veggies</a> in the <a href='/salad'>salads</a>.<br><br>
 
-TODO NUTRITION DINNER
+{% assign files =
+    "unhealthydinner,"
+    | append: "healthydinner"
+    | split: ","
+%}
+{% assign titles =
+    "Unhealthy,"
+    | append: "Healthy"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Sugar,"
+    | append: "Protein"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="false" %}
+<br>
 
 <div id='other' class='table-of-contents'></div><hr>
 <u><font size='+2'>Other (Desserts, Drinks, etc.)</font></u><br>
@@ -356,7 +418,27 @@ I figured the lasagna and <a href='/misc/fake-healthy-foods#bread'>bread</a> ove
 
 I also threw in an extra tablespoon each of <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/fake-healthy-foods#seed-oil'>oil</a> as a conservative estimate for ingredients I may have missed in my terrible back-of-the-napkin calculation.<br><br>
 
-TODO NUTRITION OTHER
+{% assign files =
+    "unhealthyother,"
+    | append: "healthyother"
+    | split: ","
+%}
+{% assign titles =
+    "Unhealthy,"
+    | append: "Healthy"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Sugar,"
+    | append: "Protein"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="false" %}
+<br>
 
 <div id='tally' class='table-of-contents'></div><hr>
 <u><font size='+2'>Tallying it Up</font></u><br>
@@ -364,7 +446,27 @@ So I outlined rough estimates for <a href='#breakfast'>breakfast</a>, <a href='#
 
 Let's add everything up now shall we:<br><br>
 
-TODO NUTRITION SUM<br><br>
+{% assign files =
+    "unhealthyday,"
+    | append: "healthyday"
+    | split: ","
+%}
+{% assign titles =
+    "Unhealthy,"
+    | append: "Healthy"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Sugar,"
+    | append: "Protein"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="false" %}
+<br>
 
 For just a couple of days, this can be totally fine, especially when combined with a consistent <a href='#exercise'>exercise</a> routine. That's the balance I'm looking for: enjoying your vacation without throwing yourself completely off the rails.<br><br>
 

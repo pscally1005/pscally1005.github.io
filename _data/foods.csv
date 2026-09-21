@@ -153,6 +153,7 @@ Capers,capers,1.72,64.00,0.02688,2.4,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.
 Zucchini,zucchini,1.48,454.00,0.00326,9.9,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Frozen cauliflower, thawed",cauliflower-frozen,1.16,336.00,0.00345,9.9,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Frozen cauliflower,cauliflower-frozen,1.16,336.00,0.00345,9.9,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Cauliflower,cauliflower-frozen,1.16,336.00,0.00345,9.9,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Diced green chiles,diced-green-chiles,1.50,198.10,0.00757,7.8,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/43APBRm
 Spaghetti squash,spaghetti-squash,1.58,454.00,0.00348,9.3,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Frozen kale, thawed",kale-frozen,1.57,336.00,0.00467,10.0,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -239,6 +240,7 @@ Whey protein powder,whey,50.96,"2,270.00",0.02245,9.1,24,TRUE,TRUE,FALSE,FALSE,T
 "Whey protein powder, chocolate",whey-vanilla,50.96,"2,270.00",0.02245,9.1,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/3HXUMDC
 "Whey protein powder, vanilla",whey-vanilla,50.96,"2,270.00",0.02245,9.1,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4llkGj5
 Nutricost Whey Unflavored Protein Powder,whey,50.96,"2,270.00",0.02245,9.1,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4kBoGeY
+Protein Shake To Go,to-go-100g,1.07,59.80,0.01789,8.8,28,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,12.6,0,0,/recipes/protein-shake-to-go
 Whey syrup,whey-syrup,1.35,180.00,0.00747,5.8,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.5,0,0,
 "Liquid whey, acid",liquid-whey-acid,0.00,"1,270.00",0.00000,5.8,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,5.1,0,0,/misc/homemade-yogurt
 "Liquid whey, sweet",liquid-whey-sweet,0.00,"1,270.00",0.00000,5.8,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,5.1,0,0,/misc/homemade-yogurt
@@ -389,6 +391,8 @@ Sugar free cranberry sauce,cranberry-sauce,5.23,600.00,0.00872,8.6,43,TRUE,TRUE,
 Low sugar berry jam,jam-low-sugar,2.13,190.00,0.01121,8.8,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,40,/recipes/berry-jam
 Frozen acai puree,acai,5.00,396.00,0.01263,9.3,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4cBNvpn
 Watermelon,watermelon,4.67,"4,500.00",0.00104,7.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Cantaloupe,cantaloupe,4.67,360.00,0.01297,7.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Honeydew,honeydew,4.67,360.00,0.01297,7.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Fat free Italian dressing,italian-dressing,2.68,360.00,0.00744,9.0,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
 Italian dressing,italian-dressing,2.68,360.00,0.00744,2.3,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
 Traditional Italian Salad Dressing,traditional-italian,1.94,480.00,0.00404,2.3,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,0,https://amzn.to/4ddXZw7
