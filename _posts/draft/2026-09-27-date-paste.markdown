@@ -55,7 +55,10 @@ tags:
 - sugar free
 - refined sugar-free
 - refined sugar-free
-Description: <a href='/misc/fruit#dates'>Date</a> paste is the best sweetener. It's easy, relatively cheap, and nutritious. <a href='/misc/fruit#dates'>Dates</a> are a <a href='/misc/processed-foods'>whole food</a> that are a great source of natural <a href='/misc/calories'>energy</a> and <a href='/misc/carbs'>carbohydrates</a>.  Unlike other sweeteners, <a href='/misc/fruit#dates'>dates</a> contain measurable amounts of <a href='/misc/nutrient-alphabet'>nutrients</a>, like <a href='/misc/fiber'>fiber</a> and <a href='/misc/phytochemicals'>antioxidants</a>. You can also make <a href='/misc/fruit#raisins'>raisin</a> or <a href='/misc/fruit#fig-dried'>fig</a> paste in the exact same way.
+Description: |
+  <a href='/misc/fruit#dates'>Date</a> paste is the best sweetener. It's easy, relatively cheap, and nutritious. <a href='/misc/fruit#dates'>Dates</a> are a <a href='/misc/processed-foods'>whole food</a> that are a great source of natural <a href='/misc/calories'>energy</a> and <a href='/misc/carbs'>carbohydrates</a>.  Unlike other sweeteners, <a href='/misc/fruit#dates'>dates</a> contain measurable amounts of <a href='/misc/nutrient-alphabet'>nutrients</a>, like <a href='/misc/fiber'>fiber</a> and <a href='/misc/phytochemicals'>antioxidants</a>. You can also make <a href='/misc/fruit#raisins'>raisin</a> or <a href='/misc/fruit#fig-dried'>fig</a> paste in the exact same way.<br><br>
+
+  For another sweetener option, check out my <a href='/recipes/high-fiber-sugar-substitute'>High Fiber Sugar Substitute</a>, made with <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> and <a href='https://amzn.to/47w8h7R'>inulin</a>.
 Instructions:
 - Add water to a <a href='https://amzn.to/4zyFnzN'>small microwave safe bowl</a>. Microwave for about 1 minute, until warm.
 

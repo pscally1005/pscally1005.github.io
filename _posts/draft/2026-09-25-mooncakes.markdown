@@ -58,7 +58,7 @@ tags:
 Description: |
   I'm no stranger to <a href='/misc/beans'>beans</a> in <a href='/recipes/healthier-dessert'>dessert</a>. But it's about time I made a <a href='/recipes/healthier-dessert'>dessert</a> that's actually supposed to have <a href='/misc/beans'>beans</a> in it.<br><br>
 
-  We just passed the Mid-Autumn Festival, also known as the Mooncake Festival, on September 25, 2026. This is the 15th day of the 8th month in the Lunar Calendar, and when mooncakes are traditionally eaten. The date typically falls in late September or early October.<br><br>
+  Today is the Mid-Autumn Festival, also known as the Mooncake Festival, on September 25, 2026. This is the 15th day of the 8th month in the Lunar Calendar, and when mooncakes are traditionally eaten. The date typically falls in late September or early October.<br><br>
 
   So to celebrate, I'm creating simple, homemade, wholesome mooncakes. Both the dough and bean paste filling are <a href='/misc/celiac'>gluten-free</a> and <a href='/misc/hidden-sugar'>sugar-free</a>, using <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/beans#cannellini-beans'>white beans</a>, and <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a>.<br><br>
 

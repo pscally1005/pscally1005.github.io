@@ -88,6 +88,8 @@ Notes:
   This recipe can also be made into gingerbread muffins. In a well oiled <a href='https://amzn.to/4mzzEDl'>muffin pan</a>, evenly divide your batter across the 12 cups, about <b>73 g</b> or <b>1/3 cup</b> each.<br><br>
 
   Bake at 350F for about 20 minutes, or until the centers are set, and a toothpick inserted into a muffin comes out clean. Makes 1 dozen muffins.
+# - <img src='/assets/Food/Healthier Dessert/Gingerbread/muffins-raw.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Healthier Dessert/Gingerbread/muffins-baked.jpg' alt='' class='instruction-image'>
 
 - Any kind of <a href='/misc/dairy#almond-milk'>milk</a> will work here, such as <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/dairy#skim-milk'>skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, etc.
 
