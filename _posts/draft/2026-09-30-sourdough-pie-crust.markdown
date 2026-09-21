@@ -49,9 +49,9 @@ tags:
 - pie crust
 - whole wheat
 - sourdough bread
-Description: Normally when I feed my <a href='/misc/whole-wheat-sourdough#starter'>starter</a>, I mix the discard with baking powder and salt to make 2 <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbreads</a>. But today I wanted to try something different. Could I turn that same simple mixture into a pie crust? With just 2 ingredients, this recipe transforms <a href='/misc/whole-wheat-sourdough#starter'>sourdough discard</a> into a <a href='/misc/calories'>low-calorie</a>, thin, bread-like pie crust that covers the bottom of a 9-inch pie pan without extending up the sides.
+Description: Normally when I feed my <a href='/misc/whole-wheat-sourdough#starter'>starter</a>, I mix the discard with baking powder and salt to make 2 <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbreads</a>. But today I wanted to try something different. Could I turn that same simple mixture into a pie crust? With just 2 ingredients, this recipe transforms <a href='/misc/whole-wheat-sourdough#starter'>sourdough discard</a> into a <a href='/misc/calories'>low-calorie</a>, thin, bread-like pie crust that covers the bottom of a <a href='https://amzn.to/4q0gY0f'>9-inch pie</a> pan without extending up the sides. Just line a <a href='https://amzn.to/4q0gY0f'>pie pan</a> with parchment paper, mix, spread, and bake.
 Instructions:
-- Preheat your oven to 350F. <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a>.
+- Preheat your oven to 350F. Line the bottom of a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a> with parchment paper.
 
 - Add your <a href='/misc/whole-wheat-sourdough#starter'>starter</a> directly to the <a href='https://amzn.to/4q0gY0f'>pan</a> with salt. Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, then spread the mixture into a thin, even layer covering the bottom of the <a href='https://amzn.to/4q0gY0f'>pan</a>. The mixture will only cover the bottom, not the sides.
 - <img src='/assets/Food/Bread/Sourdough Pie Crust/raw.jpg' alt='' class='instruction-image'>
@@ -59,6 +59,8 @@ Instructions:
 - Bake at 350F for about 10 minutes, or until lightly browned and set on the bottom. Let it cool totally (at least 30 minutes in the fridge) before adding any pie filling.
 - <img src='/assets/Food/Bread/Sourdough Pie Crust/baked.jpg' alt='' class='instruction-image'>
 Notes:
+- The parchment paper is essential for preventing the crust from sticking. Without it, the crust can stick so badly to the pan that you may not be able to remove a slice. Lining a pie pan with parchment paper may seem unconventional, but so is making a pie crust out of <a href='/misc/whole-wheat-sourdough#starter'>sourdough starter</a>!
+
 - Feel free to use <a href='#recipe'>this pie crust</a> for anything sweet or even savory. Make a <a href='/recipes/shoofly-pie'>Shoofly Pie</a>, or make a <a href='/recipes/deep-dish-pizza'>Deep Dish</a>. Whatever you want!
 
 - Nutrition facts for the pie crust are assuming 8 slices.
