@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  White Bean Paste Mooncakes (SF, GF)
+title:  White Bean Mooncakes (SF, GF)
 date:   2026-09-20 00:00:00 -0500
 categories:
 - Recipes
@@ -58,27 +58,27 @@ tags:
 Description: |
   I'm no stranger to <a href='/misc/beans'>beans</a> in <a href='/recipes/healthier-dessert'>dessert</a>. But it's about time I made a <a href='/recipes/healthier-dessert'>dessert</a> that's actually supposed to have <a href='/misc/beans'>beans</a> in it.<br><br>
 
-  Today is the Mid-Autumn Festival, also known as the Mooncake Festival, on September 25, 2026. This is the 15th day of the 8th month in the Lunar Calendar, and when mooncakes are traditionally eaten. The date typically falls in late September or early October.<br><br>
+  Today is the <a href='https://en.wikipedia.org/wiki/Mid-Autumn_Festival'>Mid-Autumn Festival</a>, also known as the <a href='https://en.wikipedia.org/wiki/Mid-Autumn_Festival'>Mooncake Festival</a>, on September 25, 2026. This is the 15th day of the 8th month in the Lunar Calendar, and when mooncakes are traditionally eaten. The date typically falls in late September or early October.<br><br>
 
-  So to celebrate, I'm creating simple, homemade, wholesome mooncakes. Both the dough and bean paste filling are <a href='/misc/celiac'>gluten-free</a> and <a href='/misc/hidden-sugar'>sugar-free</a>, using <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/beans#cannellini-beans'>white beans</a>, and <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a>.<br><br>
+  So to celebrate, I'm creating simple, homemade, wholesome, rustic mooncakes. Both the dough and bean paste are <a href='/misc/celiac'>gluten-free</a> and <a href='/misc/hidden-sugar'>sugar-free</a>, using <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/beans#cannellini-beans'>white beans</a>, and <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a>.<br><br>
 
-  Each mooncake is about 130 <a href='/misc/calories'>calories</a>, with plenty of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/beans#cannellini-beans'>beans</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/nuts#cashews'>nuts</a>.
+  The <a href='/misc/nuts#coconut'>coconut flour</a> and <a href='/misc/nuts#cashews'>cashew butter</a> create a simple, shortbread-like crust, while the smooth <a href='/misc/beans#cannellini-beans'>white bean</a> paste provides a creamy filling. Each mooncake is about 130 <a href='/misc/calories'>calories</a>, with plenty of <a href='/misc/fiber'>fiber</a> and plant-based <a href='/misc/protein'>protein</a> from the <a href='/misc/beans#cannellini-beans'>beans</a> and <a href='/misc/nuts#coconut'>coconut flour</a>, along with <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#cashews'>cashew butter</a>.
 Instructions:
 - Drain and rinse your <a href='/misc/beans#cannellini-beans'>beans</a>, reserving the liquid. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a>. Blend until smooth.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/processor.jpg' alt='' class='instruction-image'>
 
-- Transfer the blended <a href='/misc/beans#cannellini-beans'>beans</a> to a <a href='https://amzn.to/4dBv5Ga'>medium pan</a> over medium low heat.
+- Transfer the blended <a href='/misc/beans#cannellini-beans'>beans</a> to a <a href='https://amzn.to/4dBv5Ga'>medium non-stick pan</a> over medium low heat.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/filling-raw.jpg' alt='' class='instruction-image'>
 
-- Cook for about 15 minutes with frequent stirring to prevent sticking, or until the filling has thickened and is drier. Transfer the filling to the fridge to cool totally, about 1 hour.
+- Cook for about 15 minutes, with frequent stirring to prevent sticking, or until the filling has thickened and is drier. Transfer the filling to the fridge to cool totally, about 1 hour.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/filling-cooked-1.jpg' alt='' class='instruction-image'>
 
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together <a href='/misc/nuts#cashews'>cashew butter</a> and <a href='/misc/nuts#coconut'>coconut flour</a>. Add in just enough aquafaba to be able to combine everything together into a slightly dry dough.
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together <a href='/misc/nuts#cashews'>cashew butter</a> and <a href='/misc/nuts#coconut'>coconut flour</a>. Add the aquafaba and mix until a slightly dry dough forms. You may need slightly more or less aquafaba depending on the consistency of your cashew butter and coconut flour.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/bowl.jpg' alt='' class='instruction-image'>
 
-- Divide your dough into 12 equal pieces, about <b>30 g</b> each (~2 tbsp). Roll into a ball.
+- Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>, divide your dough into 12 equal pieces, about <b>30 g</b> each (~2 tbsp). Roll into a ball.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/dough-raw.jpg' alt='' class='instruction-image'>
 
 - Flatten out a dough ball between your palms, and add a <b>20 g</b> (~1.5 tbsp) ball of filling to the center. Carefully wrap the dough around the filling without tearing it, making sure to close up any edges. Place onto the pan, seam side down, and shape into a round, circular disk. Repeat for all mooncakes.
@@ -91,6 +91,8 @@ Notes:
 - I'm using a can of drained and rinsed <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, but any other <a href='/misc/beans'>beans</a> will work, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.
 
 - |
+  The filling has a mildly sweet flavor. If you prefer a sweeter mooncake, add more <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a> to taste.<br><br>
+
   Other sweetener options include the following:
 - INGREDIENTS(mooncakesweeteners)
 
@@ -100,13 +102,13 @@ Notes:
 
 - If you don't have enough aquafaba, you can use an equal amount of water.
 
-- The lack of <a href='/misc/celiac'>gluten</a> in the dough means that these mooncakes will a bit harder to shape, and the dough will be prone to crumbling.
+- The dough is intended to have a slightly dry, shortbread-like texture. It will be prone to crumbling, so handle it gently when shaping. Add slightly more or less aquafaba as needed to achieve a dough that holds together.
 
 - A full batch of the bean paste yields about <b>240 g</b>, enough for 12 mooncakes with about <b>20 g of filling</b> and <b>30 g of dough</b>.
 
-- I don't have a <a href='https://amzn.to/4hAUzWa'>mooncake mold</a>, so I'm instead shaping them by hand.
+- I don't have a <a href='https://amzn.to/4hAUzWa'>mooncake mold</a>, so I shape these by hand. They won't have the traditional decorative pattern, but they're just as delicious!
 
-- For some other <a href='/recipes/healthier-dessert'>dessert</a> recipes with <a href='/misc/beans'>beans</a> in them, check out the following:<br>
+- For some other <a href='/recipes/healthier-dessert'>dessert</a> recipes with <a href='/beans'>beans</a> in them, check out the following:<br>
   <ul>
     <li><a href='/recipes/chocolate-peanut-butter-mousse'>Chocolate Peanut Butter Mousse</a></li>
     <li><a href='/recipes/chickpea-nutella'>No-Nut Chickpea Nutella</a></li>
