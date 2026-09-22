@@ -95,6 +95,7 @@ Notes:
 - <a href='/misc/olive-oil'>Olive oil</a> can be used in place of <a href='/misc/nuts#coconut'>coconut oil</a>.
 
 - To make this <a href='/misc/celiac'>gluten-free</a>, replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with 2 2/3 cups (240 g) <a href='/misc/grains#oats'>oat flour</a>.
+- <img src='/assets/Food/Healthier Dessert/Gingerbread/gf-cover.jpg' alt='' class='instruction-image'>
 
 - I'm using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> as my sweetener, but other options include <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/misc/natural-sweeteners#agave'>agave</a>.
 
