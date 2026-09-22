@@ -628,7 +628,7 @@
                         {% endif %}
                         {% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 %}
                         {% assign added_sugar_dv = site.data.dailyValues["Added Sugar"] %}
-                        {% capture added_sugar_tooltip %}{{ addedSugarPercentage }}% of Daily Value for added sugar ({{ added_sugar_dv.amount }} {{ added_sugar_dv.unit }}){% endcapture %}
+                        {% capture added_sugar_tooltip %}{% include dvTooltipText.html percent=addedSugarPercentage nutrient="Added Sugar" %}{% endcapture %}
                         {% capture addedSugarStr %}{{ addedSugarNum | round: 1 }}g ({%- include percentTooltip.html percent=addedSugarPercentage tooltip=added_sugar_tooltip -%}){% endcapture %}
                         <div class="nutrition-indent-2">
                             <b><a href="/misc/hidden-sugar">Added Sugar</a></b>: {{ addedSugarStr }}

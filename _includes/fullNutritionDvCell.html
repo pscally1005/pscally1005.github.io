@@ -1,0 +1,10 @@
+{%- assign dv_has = include.dv | append: "" | strip -%}
+{%- if dv_has != "" -%}
+    {%- assign dv_percent = include.dv | times: 1 | round: 0 -%}
+    {%- capture dv_tooltip -%}{% include dvTooltipText.html percent=dv_percent nutrient=include.nutrient %}{%- endcapture -%}
+    {%- assign dv_tooltip = dv_tooltip | strip_newlines | strip -%}
+    {%- capture dv_html -%}{% include percentTooltip.html percent=dv_percent tooltip=dv_tooltip %}{%- endcapture -%}
+    tableContent += '<td>{{ dv_html | strip }}</td>';
+{%- else -%}
+    tableContent += '<td></td>';
+{%- endif -%}

@@ -9,21 +9,27 @@
 {% assign folder = include.folder %}
 
 {% assign addedSugarNum = include.addedSugar %}
-{% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 | append: ' %' %}
+{% assign addedSugarDvNum = addedSugarNum | divided_by: 50 | times: 100 | round: 0 %}
+{% assign addedSugarPercentage = addedSugarDvNum | append: ' %' %}
 
 {% assign netCarbNum = include.netCarb %}
 {% assign sugarAlcoholNum = include.sugAlc %}
 {% assign alluloseNum = include.all %}
+
 {% assign lactoseNum = include.lactose %}
+{% assign lactoseDvNum = lactoseNum | divided_by: 12 | times: 100 | round: 0 %}
+{% assign lactosePercentage = lactoseDvNum | append: ' %' %}
 
 {% assign glutenNum = include.gluten %}
-{% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 | append: ' %' %}
+{% assign glutenDvNum = glutenNum | divided_by: 12.337 | times: 100 | round: 0 %}
+{% assign glutenPercentage = glutenDvNum | append: ' %' %}
 
 {% assign solubleFiberNum = include.solubleFiber %}
 {% assign insolubleFiberNum = include.insolubleFiber %}
 
 {% assign caffeineNum = include.caffeine %}
-{% assign caffeinePercentage = caffeineNum | times: 100 | divided_by: 95.0 | round: 0 | append: ' %' %}
+{% assign caffeineDvNum = caffeineNum | times: 100 | divided_by: 95.0 | round: 0 %}
+{% assign caffeinePercentage = caffeineDvNum | append: ' %' %}
 
 {% assign protRatioNum = include.protRatio %}
 
@@ -69,6 +75,12 @@
 
         // Ensure no margin or padding around body to remove any gap between the search box and table
         tableContent += 'body { margin: 0; padding: 0; padding-top: 40px; background-color: ' + backgroundColor + '; color: ' + textColor + '; }';
+
+        tableContent += '.nutrition-percent { color: inherit; cursor: help; text-decoration: underline; text-decoration-style: dotted; position: relative; white-space: nowrap; }';
+        tableContent += '.nutrition-percent-tooltip { visibility: hidden; opacity: 0; position: absolute; bottom: calc(100% + 6px); left: 50%; transform: translateX(-50%); background: ' + backgroundColor + '; color: ' + textColor + '; border: 1px solid ' + textColor + '; border-radius: 4px; padding: 6px 10px; font-size: 0.85em; font-weight: normal; line-height: 1.3; white-space: nowrap; z-index: 20; pointer-events: none; transition: opacity 0.15s ease, visibility 0.15s ease; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); }';
+        tableContent += '.nutrition-percent-tooltip::after { content: ""; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); border: 5px solid transparent; border-top-color: ' + textColor + '; }';
+        tableContent += '.nutrition-percent.is-active .nutrition-percent-tooltip { visibility: visible; opacity: 1; }';
+        tableContent += '@media (hover: hover) and (pointer: fine) { .nutrition-percent:hover .nutrition-percent-tooltip { visibility: visible; opacity: 1; } }';
 
         tableContent += '</style>';
         tableContent += '</head><body>';
@@ -121,7 +133,7 @@
                             {% elsif nutrient_entry.key == "Added Sugar" %}
                                 tableContent += '<td>' + Number({{ addedSugarNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>g</td>';
-                                tableContent += '<td>{{ addedSugarPercentage }}</td>';
+                                {% include fullNutritionDvCell.html dv=addedSugarDvNum nutrient="Added Sugar" %}
 
                             {% elsif nutrient_entry.key == "Sugar Alcohols" %}
                                 tableContent += '<td>' + Number({{ sugarAlcoholNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
@@ -136,7 +148,7 @@
                             {% elsif nutrient_entry.key == "Lactose" %}
                                 tableContent += '<td>' + Number({{ lactoseNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>g</td>';
-                                tableContent += '<td></td>';
+                                {% include fullNutritionDvCell.html dv=lactoseDvNum nutrient="Lactose" %}
 
                             {% elsif nutrient_entry.key == "Soluble Fiber" %}
                                 tableContent += '<td>' + Number({{ solubleFiberNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
@@ -151,12 +163,12 @@
                             {% elsif nutrient_entry.key == "Gluten" %}
                                 tableContent += '<td>' + Number({{ glutenNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>g</td>';
-                                tableContent += '<td>{{ glutenPercentage }}</td>';
+                                {% include fullNutritionDvCell.html dv=glutenDvNum nutrient="Gluten" %}
 
                             {% elsif nutrient_entry.key == "Caffeine" %}
                                 tableContent += '<td>' + Number({{ caffeineNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>g</td>';
-                                tableContent += '<td>{{ caffeinePercentage }}</td>';
+                                {% include fullNutritionDvCell.html dv=caffeineDvNum nutrient="Caffeine" %}
 
                             {% elsif nutrient_entry.key == "Protein Ratio" %}
                                 tableContent += '<td>' + Number({{ protRatioNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
@@ -183,19 +195,19 @@
                                 {% assign methionine_cysteine_row = site.data[facts] | where: "Nutrient", "Methionine + Cysteine" | first %}
                                 tableContent += '<td>' + Number({{ methionine_row.Amount }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>{{ methionine_row.Unit }}</td>';
-                                tableContent += '<td>{{ methionine_cysteine_row.DV }}</td>';
+                                {% include fullNutritionDvCell.html dv=methionine_cysteine_row.DV nutrient="Methionine" %}
 
                             {% elsif nutrient_entry.key == "Phenylalanine" %}
                                 {% assign phenylalanine_row = site.data[facts] | where: "Nutrient", "Phenylalanine" | first %}
                                 {% assign phenylalanine_tyrosine_row = site.data[facts] | where: "Nutrient", "Phenylalanine + Tyrosine" | first %}
                                 tableContent += '<td>' + Number({{ phenylalanine_row.Amount }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>{{ phenylalanine_row.Unit }}</td>';
-                                tableContent += '<td>{{ phenylalanine_tyrosine_row.DV }}</td>';
+                                {% include fullNutritionDvCell.html dv=phenylalanine_tyrosine_row.DV nutrient="Phenylalanine" %}
 
                             {% else %}
                                 tableContent += '<td>' + Number({{ row.Amount }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>{{ row.Unit }}</td>';
-                                tableContent += '<td>{{ row.DV }}</td>';
+                                {% include fullNutritionDvCell.html dv=row.DV nutrient=nutrient_entry.key %}
                             {% endif %}
 
                         tableContent += '</tr>';
@@ -236,6 +248,29 @@
                         row.style.display = 'none';
                     }
                 }
+            });
+
+            newWindow.document.querySelectorAll('.nutrition-percent').forEach(function (el) {
+                el.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+
+                    var wasActive = el.classList.contains('is-active');
+
+                    newWindow.document.querySelectorAll('.nutrition-percent.is-active').forEach(function (other) {
+                        other.classList.remove('is-active');
+                    });
+
+                    if (!wasActive) {
+                        el.classList.add('is-active');
+                    }
+                });
+            });
+
+            newWindow.document.addEventListener('click', function () {
+                newWindow.document.querySelectorAll('.nutrition-percent.is-active').forEach(function (el) {
+                    el.classList.remove('is-active');
+                });
             });
         });
 

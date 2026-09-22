@@ -1643,6 +1643,8 @@ def grams(food, mass, vol):
             m = "196"
         elif vol == "2 cup" or vol == "32 tbsp":
             m = "224"
+        elif vol == "2 cup + 2 tbsp" or vol == "34 tbsp":
+            m = "238"
         elif vol == "2.5 cup" or vol == "2 1/2 cup" or vol == "40 tbsp":
             m = "280"
         elif vol == "3 cup" or vol == "48 tbsp":
