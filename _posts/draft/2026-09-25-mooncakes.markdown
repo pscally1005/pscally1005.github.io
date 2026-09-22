@@ -81,7 +81,7 @@ Instructions:
 - Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>, divide your dough into 12 equal pieces, about <b>30 g</b> each (~2 tbsp). Roll into a ball.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/dough-raw.jpg' alt='' class='instruction-image'>
 
-- Flatten out a dough ball between your palms, and add a <b>20 g</b> (~1.5 tbsp) ball of filling to the center. Carefully wrap the dough around the filling without tearing it, making sure to close up any edges. Place onto the pan, seam side down, and shape into a round, circular disk. Repeat for all mooncakes.
+- Flatten out a dough ball between your palms, and add a <b>20 g</b> (~1.5 tbsp) ball of filling to the center. Carefully wrap the dough around the filling without tearing it, making sure to close up any edges. Place onto the pan, seam side down, and shape into a round disk. Repeat for all mooncakes.
 - <img src='/assets/Food/Healthier Dessert/mooncakes/assembly.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Healthier Dessert/mooncakes/raw.jpg' alt='' class='instruction-image'>
 
@@ -106,7 +106,17 @@ Notes:
 
 - A full batch of the bean paste yields about <b>240 g</b>, enough for 12 mooncakes with about <b>20 g of filling</b> and <b>30 g of dough</b>.
 
-- I don't have a <a href='https://amzn.to/4hAUzWa'>mooncake mold</a>, so I shape these by hand. They won't have the traditional decorative pattern, but they're just as delicious!
+- I don't have a <a href='https://amzn.to/4hAUzWa'>mooncake mold</a>, so I shape these by hand. They won't have the traditional decorative pattern, but they're still delicious!
+
+- |
+  <div id='bean-pie' class='table-of-contents-2'></div>
+  For the lolz, I also turned these mooncakes into a pie. Press the dough into a <a href='https://amzn.to/4q0gY0f'>pie pan</a>, reserving any leftover scraps, and parbake the crust at 350F for about 15 minutes, or until lightly browned.<br><br>
+
+  Instead of cooking the filling on the stove, pour the raw filling into the parbaked pie crust, and crumble any remaining dough scraps on top. Bake at 350F for about 30 minutes, or until the top looks set, and the center jiggles just slightly when the side of the pan is tapped.<br><br>
+
+  Let it cool totally before cutting into 12 slices.
+- <img src='/assets/Food/Healthier Dessert/mooncakes/pie-raw.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/mooncakes/pie-baked.jpg' alt='' class='instruction-image'>
 
 - For some other <a href='/recipes/healthier-dessert'>dessert</a> recipes with <a href='/beans'>beans</a> in them, check out the following:<br>
   <ul>

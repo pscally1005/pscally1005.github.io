@@ -57,6 +57,9 @@ LINKS = {
         "white bean paste moon cake (sf, gf)",
         "white bean paste moon cakes (sf, gf)"
     ],
+    "/recipes/mooncakes#bean-pie": [
+        "bean pie"
+    ],
     "/recipes/gingerbread": [
         "gingerbread",
         "ginger bread",
