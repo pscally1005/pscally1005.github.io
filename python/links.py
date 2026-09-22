@@ -6669,6 +6669,12 @@ LINKS = {
         "muffin pans",
         "muffin pan"
     ],
+    "https://amzn.to/4iDfGZ7": [
+        "muffin liners",
+        "muffin pan liners",
+        "muffin liner",
+        "muffin liners"
+    ],
     "https://amzn.to/3Fw6MeC": [
         "wooden spoons",
         "wooden spoon",
@@ -6727,7 +6733,8 @@ LINKS = {
         "lightly grease it with oil",
         "lightly grease",
         "lightly oiled",
-        "lightly greased"
+        "lightly greased",
+        "lightly grease them with oil"
     ],
     "https://amzn.to/4zyFnzN": [
         "large glass bowls",

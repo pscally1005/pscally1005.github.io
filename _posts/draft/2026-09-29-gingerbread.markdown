@@ -85,21 +85,18 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Gingerbread/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - |
-  <a href='#recipe'>This recipe</a> can also be made into gingerbread muffins. In a well oiled <a href='https://amzn.to/4mzzEDl'>muffin pan</a>, evenly divide your batter across the 12 cups, about <b>73 g</b> or <b>1/3 cup</b> each.<br><br>
+  <a href='#recipe'>This recipe</a> can also be made into gingerbread muffins. Line a <a href='https://amzn.to/4mzzEDl'>muffin pan</a> with <a href='https://amzn.to/4iDfGZ7'>muffin liners</a> and <a href='https://amzn.to/3Hdg0gk'>lightly grease them with oil</a>.<br><br>
 
-  Bake at 350F for about 20 minutes, or until the centers are set, and a toothpick inserted into a muffin comes out clean. Makes 1 dozen muffins.
-# - <img src='/assets/Food/Healthier Dessert/Gingerbread/muffins-raw.jpg' alt='' class='instruction-image'>
-# - <img src='/assets/Food/Healthier Dessert/Gingerbread/muffins-baked.jpg' alt='' class='instruction-image'>
+  Evenly divide your batter across the 12 cups, about <b>70 g</b> or <b>1/3 cup</b> each. Bake at 350F for about 20 minutes, or until the centers are set, and a toothpick comes out clean. Makes 1 dozen muffins.
+- <img src='/assets/Food/Healthier Dessert/Gingerbread/muffins-plate.jpg' alt='' class='instruction-image'>
 
 - Any kind of <a href='/misc/dairy#almond-milk'>milk</a> will work here, such as <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/dairy#skim-milk'>skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, etc.
 
 - <a href='/misc/olive-oil'>Olive oil</a> can be used in place of <a href='/misc/nuts#coconut'>coconut oil</a>.
 
-- I'm using <a href='/misc/grains#whole-wheat'>whole wheat</a> as my flour, but <a href='/misc/celiac'>gluten-free</a> options include <a href='/misc/grains#oats'>oat</a>, <a href='/misc/nuts#almonds'>almond</a>, or <a href='/misc/nuts#coconut'>coconut</a> flours.
-- INGREDIENTS(gingerbreadflours)
+- To make this <a href='/misc/celiac'>gluten-free</a>, replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with 2 2/3 cups (240 g) <a href='/misc/grains#oats'>oat flour</a>.
 
 - I'm using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> as my sweetener, but other options include <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/misc/natural-sweeteners#agave'>agave</a>.
-- INGREDIENTS(gingerbreadsweeteners)
 
 - |
   COMPARE(
