@@ -63,9 +63,9 @@ tags:
 - honey
 - vanilla extract
 Description: |
-  Did you know that German Chocolate Cake isn't German?  It was named after American baker Samuel German, who created Baker's German Sweet Chocolate and the Baker's Chocolate Company in 1852. In 1957, Lucy Clay then submitted a cake recipe in the Dallas Morning News, titled "German's <a href='/recipes/chocolate-cake'>Chocolate Cake</a>". The apostrophe was eventually dropped, and German Chocolate Cake was born.<br><br>
+  Did you know that German Chocolate Cake isn't German?  It was named after American baker Samuel German, who created Baker's German Sweet Chocolate and the Baker's Chocolate Company in 1852. In 1957, a baker by the name of Lucy Clay then submitted a cake recipe in the Dallas Morning News, titled "German's Chocolate Cake". The apostrophe was eventually dropped, and thus the German Chocolate Cake was born.<br><br>
 
-  A <a href='https://tastesbetterfromscratch.com/german-chocolate-cake/#wprm-recipe-container-10369'>traditional German chocolate cake</a> is a chocolate cake with a chocolate frosting, and a filling of <a href='/misc/nuts#coconut'>coconut</a> and <a href='/misc/nuts#pecans'>pecans</a>. While delicious, it is filled with not so healthful ingredients, such as <a href='/misc/hidden-sugar'>white and brown sugar</a>, <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/olive-oil'>oil</a>, <a href='/misc/grains#white-wheat'>refined flour</a>, and <a href='https://amzn.to/4xzQXZC'>sweetened coconut</a>.<br><br>
+  A <a href='https://tastesbetterfromscratch.com/german-chocolate-cake/#wprm-recipe-container-10369'>traditional German chocolate cake</a> is a chocolate cake with a chocolate frosting, and a filling of <a href='/misc/nuts#coconut'>coconut</a> and <a href='/misc/nuts#pecans'>pecans</a>. While delicious, it is filled with not so healthful ingredients, such as <a href='/misc/hidden-sugar'>white and brown sugar</a>, <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/fake-healthy-foods#seed-oil'>oil</a>, <a href='/misc/grains#white-wheat'>refined flour</a>, and <a href='https://amzn.to/4xzQXZC'>sweetened coconut</a>.<br><br>
 
   On the other hand, this cake here is <a href='/misc/celiac'>gluten free</a>, vegan, and <a href='/misc/hidden-sugar'>sugar free</a>. There's no <a href='/misc/grains#white-wheat'>refined flour</a>, <a href='/misc/fats'>added fats</a>, or <a href='/misc/hidden-sugar'>added sugars</a>.<br><br>
 
@@ -92,7 +92,7 @@ Instructions:
 
 - |
   <b>Frosting</b><br>
-  Add <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>. Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Set your <a href='/recipes/protein-frosting'>frosting</a> aside.
+  Add <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>. Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Set your frosting aside.
 - <img src='/assets/Food/Healthier Dessert/German/frosting.jpg' alt='' class='instruction-image'>
 
 - |
