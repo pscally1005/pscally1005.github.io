@@ -47,7 +47,7 @@ def ingredients(food):
         f = "Kidney beans, NOT drained or rinsed"
     elif food == "Beans, raw, black":
         f = "Dried beans"
-    elif food == "Split red lentils by ROYAL" or food == "Split red lentils by CEDAR PHOENICIA" or food == "Red lentils" or food == "Lentils, raw, pink or red":
+    elif food == "Split red lentils by ROYAL" or food == "Split red lentils by CEDAR PHOENICIA" or food == "Red lentils" or food == "Lentils, raw, pink or red" or food == "Lentils, raw":
         # f = "Red split lentils"
         f = "Lentils"
     elif food == "Beans, with salt, boiled, cooked, mature seeds, navy":

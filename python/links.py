@@ -10,6 +10,24 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/lentil-hummus": [
+        "no bean lentil hummus",
+        "no-bean lentil hummus",
+        "lentil hummus"
+    ],
+    "/recipes/lentil-meat": [
+        "lentil meat",
+        "lentil taco meat",
+        "bulk up your meat with lentils",
+        "stretch out your meat with lentils"
+    ],
+    "/recipes/no-bean-hummus": [
+        "no bean hummus",
+        "no-bean hummus",
+        "zucchini hummus",
+        "no bean zucchini hummus",
+        "no-bean zucchini hummus"
+    ],
     "/recipes/sourdough-pie-crust": [
         "sourdough pie crust",
         "discard pie crust",
@@ -647,7 +665,8 @@ LINKS = {
     ],
     "/recipes/recession-beans": [
         "recession beans: a $1 meal",
-        "recession beans"
+        "recession beans",
+        "recession"
     ],
     "/misc/tea": [
         "herbal tea-r list",
@@ -10200,7 +10219,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-30", "2026-10-01")):
+            if not file.startswith(("2026-10-02", "2026-10-03")):
                 continue
 
             # exclude some files
