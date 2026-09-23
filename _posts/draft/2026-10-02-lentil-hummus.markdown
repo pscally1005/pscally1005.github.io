@@ -60,9 +60,9 @@ tags:
 - sauce
 - ibs
 - fodmap
-Description: Normally <a href='/hummus'>hummus</a> uses <a href='/misc/beans#chickpeas'>chickpeas</a> as their base. But today I'm making a small pot of <a href='/misc/beans#brown-lentils'>lentils</a> instead to make this <a href='/hummus'>hummus</a> more friendly to those with IBS. I'm simply taking my <a href='/recipes/classic-tahini-hummus'>Classic Hummus</a>, and swapping out the <a href='/misc/beans#chickpeas'>chickpeas</a> for <a href='/misc/beans#brown-lentils'>lentils</a>.
+Description: Normally <a href='/hummus'>hummus</a> uses <a href='/misc/beans#chickpeas'>chickpeas</a> as its base. But today, I'm making a small pot of <a href='/misc/beans#brown-lentils'>lentils</a> instead to make this <a href='/hummus'>hummus</a> more friendly to those with IBS. I'm simply taking my <a href='/recipes/classic-tahini-hummus'>Classic Hummus</a>, and swapping out the <a href='/misc/beans#chickpeas'>chickpeas</a> for <a href='/misc/beans#brown-lentils'>lentils</a>.
 Instructions:
-- Add <a href='/misc/beans#brown-lentils'>lentils</a> and water to a <a href='https://amzn.to/46ccg8m'>small pot</a>, covered. Bring to boil over high heat, then reduce heat to low. Simmer with the cover on for about 25 minutes, or until the <a href='/misc/beans#brown-lentils'>lentils</a> are soft enough to smash them between your fingers. Remove from heat and let them cool for about 15 minutes.
+- Add <a href='/misc/beans#brown-lentils'>lentils</a> and water to a <a href='https://amzn.to/46ccg8m'>small pot</a>, and cover with a lid. Bring to boil over high heat, then reduce heat to low. Simmer with the cover on for about 25 minutes, or until the <a href='/misc/beans#brown-lentils'>lentils</a> are soft enough to smash them between your fingers. Remove from heat and let them cool for about 15 minutes.
 - <img src='/assets/Food/Savory Sauces/Lentil hummus/pot.jpg' alt='' class='instruction-image'>
 
 - Add the cooked <a href='/misc/beans#brown-lentils'>lentils</a> to the <a href='https://amzn.to/4q0AUjI'>food processor</a> with the remaining ingredients. Thin out with a small splash of water (if necessary), and blend until smooth.

@@ -58,6 +58,10 @@ tags:
 - veggie
 - dump
 - veggie dump
+- dump and go
+- dump & go
+- dump soup
+- vic soup
 Description: This dump and go <a href='/soups-and-stews'>soup</a> is the perfect <a href='/recipes/sides'>side</a> or <a href='/recipes/meatless'>vegetarian meal</a> this winter season. The only preparation needed is to chop some <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>, and drain some <a href='/misc/beans#chickpeas'>chickpeas</a>. Just dump everything in your <a href='https://amzn.to/49TUS9E'>slow cooker</a>, and check back 8 hours later. Between the <a href='/misc/beans#chickpeas'>chickpeas</a> and <a href='/misc/beans#brown-lentils'>lentils</a>, this dish is a good source of both <a href='/misc/fiber'>fiber</a> and plant based <a href='/misc/protein'>protein</a>.
 Instructions:
 - Cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a medium dice, and add to your <a href='https://amzn.to/49TUS9E'>slow cooker</a>.
@@ -72,18 +76,18 @@ Instructions:
 Notes:
 - You can substitute the <a href='/misc/beans#chickpeas'>chickpeas</a> with any other canned <a href='/misc/beans'>beans</a>, such as <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#navy-beans'>navy</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, or <a href='/misc/beans#black-beans'>black beans</a>.
 
-- I'm using <a href='/misc/beans#brown-lentils'>brown lentils</a>, but any other <a href='/misc/beans#green-lentils'>lentil</a>, such as <a href='/misc/beans#red-lentils'>red lentils</a>, will also work.
+- I'm using <a href='/misc/beans#brown-lentils'>brown lentils</a>, but any other <a href='/misc/beans#green-lentils'>lentil</a> will work, such as <a href='/misc/beans#red-lentils'>red</a> or <a href='/misc/beans#green-lentils'>green</a>.
 
-- To make the soup with <a href='/misc/beans#brown-lentils'>lentils</a> instead of <a href='/misc/beans#chickpeas'>chickpeas</a>, omit the 2 cans of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add an additional 1 cup (192 g) of dry <a href='/misc/beans#brown-lentils'>lentils</a>, bringing the total to 1 3/4 cups (336 g) of dry <a href='/misc/beans#brown-lentils'>lentils</a>. No additional broth is needed.
+- To make the <a href='/soups-and-stews'>soup</a> with <a href='/misc/beans#brown-lentils'>lentils</a> instead of <a href='/misc/beans#chickpeas'>chickpeas</a>, omit the 2 cans of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add an additional 1 cup (192 g) of dry <a href='/misc/beans#brown-lentils'>lentils</a>, bringing the total to 1 3/4 cups (336 g) of dry <a href='/misc/beans#brown-lentils'>lentils</a>. No additional broth is needed.
 
-- To make the soup with all <a href='/misc/beans#chickpeas'>chickpeas</a> instead of <a href='/misc/beans#brown-lentils'>lentils</a>, omit the 3/4 cup (144 g) of dry <a href='/misc/beans#brown-lentils'>lentils</a>. Add 1 additional 15.5 oz can of <a href='/misc/beans#chickpeas'>chickpeas</a> (254 g drained), bringing the total to 3 cans (762 g drained) of <a href='/misc/beans#chickpeas'>chickpeas</a>. Drain and rinse the additional can before adding it. No additional broth is needed.
+- To make the <a href='/soups-and-stews'>soup</a> with all <a href='/misc/beans#chickpeas'>chickpeas</a> instead of <a href='/misc/beans#brown-lentils'>lentils</a>, omit the 3/4 cup (144 g) of dry <a href='/misc/beans#brown-lentils'>lentils</a>. Add 1 additional 15.5 oz can of <a href='/misc/beans#chickpeas'>chickpeas</a> (254 g drained), bringing the total to 3 cans (762 g drained) of <a href='/misc/beans#chickpeas'>chickpeas</a>. Drain and rinse the additional can before adding it. No additional broth is needed.
 
 - Note that the broth and <a href='/recipes/salsa'>salsa</a> are full <a href='/misc/sodium'>sodium</a> varieties. If yours are low sodium, you will need to add some salt, probably around 1/2 tbsp (9 g).
 
-- Optionally mix in some <a href='/misc/meat#ground-turkey'>ground meat</a> to add more <a href='/misc/protein'>protein</a> and make it more filling (though it obviously won't be <a href='/recipes/meatless'>vegetarian</a>). Sautee 1.3 lb (590 g) of <a href='/misc/meat#ground-turkey'>ground meat</a>, and add it to the <a href='https://amzn.to/49TUS9E'>slow cooker</a> with the rest of the ingredients.
+- Optionally mix in some <a href='/misc/meat#ground-turkey'>ground meat</a> to add more <a href='/misc/protein'>protein</a> and make it more filling (though it obviously won't be <a href='/recipes/meatless'>vegetarian</a>). Brown 1.3 lb (590 g) of <a href='/misc/meat#ground-turkey'>ground meat</a>, and add it to the <a href='https://amzn.to/49TUS9E'>slow cooker</a> with the rest of the ingredients.
 - <img src='/assets/Food/Meatless/Vegetarian Soup/with-meat.jpg' alt='' class='instruction-image'>
 
-- You can also make it creamier by mixing in 1 cup (226 g) of (whipped) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (or <a href='/misc/dairy#yogurt'>Greek yogurt</a>) at the end, which also adds some <a href='/misc/protein'>protein</a> as well. To help prevent curdling, first stir a small amount of hot soup into the <a href='/misc/dairy'>dairy</a> in a separate bowl. Then gradually stir the warmed <a href='/misc/dairy'>dairy</a> mixture back into the soup. Avoid boiling the soup after adding the <a href='/misc/dairy'>dairy</a>.
+- You can also make it creamier by mixing in 1 cup (226 g) of (whipped) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (or <a href='/misc/dairy#yogurt'>Greek yogurt</a>) at the end, which also adds some <a href='/misc/protein'>protein</a> as well. To help prevent curdling, first stir a small amount of hot <a href='/soups-and-stews'>soup</a> into the <a href='/misc/dairy'>dairy</a> in a separate bowl. Then gradually stir the warmed <a href='/misc/dairy'>dairy</a> mixture back into the soup. Avoid boiling the soup after adding the <a href='/misc/dairy'>dairy</a>.
 
 - |
   COMPARE(

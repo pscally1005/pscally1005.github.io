@@ -59,9 +59,9 @@ Description: |
 
   But today, I want to add a bulking agent into the <a href='https://amzn.to/3Sg1Z7p'>pure monk fruit</a> to make it measure 1:1 like <a href='/misc/hidden-sugar'>sugar</a>, both by volume and weight. Introducing <a href='https://amzn.to/47w8h7R'>inulin</a>, a <a href='/misc/calories'>low-calorie</a>, <a href='/misc/fiber'>high-fiber</a> powder that is also mildly sweet. By combining together <a href='https://amzn.to/3Sg1Z7p'>pure monk fruit</a> and <a href='https://amzn.to/47w8h7R'>inulin</a>, we can make a <a href='/misc/calories'>zero-calorie</a> sweetener that can be directly substituted for <a href='/misc/hidden-sugar'>white sugar</a> in all recipes for no <a href='/misc/calories'>calories</a> or <a href='/misc/hidden-sugar'>added sugar</a>.<br><br>
 
-  For another sweetener option, check out my <a href='/recipes/date-paste'>Homemade Date Paste</a> made by simply blending soaked <a href='/misc/fruit#dates'>dates</a> (or <a href='/misc/fruit#raisins'>raisins</a> or <a href='/misc/fruit#fig-dried'>figs</a>).
+  For a whole-foods sweetener option instead, check out my <a href='/recipes/date-paste'>Homemade Date Paste</a> made by simply blending soaked <a href='/misc/fruit#dates'>dates</a> (or <a href='/misc/fruit#raisins'>raisins</a> or <a href='/misc/fruit#fig-dried'>figs</a>).
 Instructions:
-- Add <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> and <a href='https://amzn.to/47w8h7R'>inulin</a> to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>.  Beat together with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>.  You can also combine this in the <a href='https://amzn.to/4q0AUjI'>food processor</a>.  Store in an airtight container at room temperature.
+- Add <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> and <a href='https://amzn.to/47w8h7R'>inulin</a> to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>.  Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> or an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>.  You can also combine this in the <a href='https://amzn.to/4q0AUjI'>food processor</a>.  Store in an airtight container at room temperature.
 Notes:
 - <a href='#recipe'>This recipe</a> makes 1 cup (200 g) that can be used as a 1:1 equivalent by weight and volume for <a href='/misc/hidden-sugar'>white sugar</a>. Each serving represents 1 tsp (4.2 g).
 
@@ -85,7 +85,7 @@ Notes:
 - |
   When replacing standard <a href='/misc/hidden-sugar'>sugar</a> with <a href='#recipe'>this substitute</a>, you may need to add some additional <a href='/misc/dairy#almond-milk'>milk</a> to your <a href='/recipes/healthier-dessert'>baked goods</a>, as the <a href='#recipe'>sweetener</a> may absorb more moisture and clump unlike <a href='/misc/hidden-sugar'>sugar</a>.  I'd recommend adding 2 tbsp (30 g) of <a href='/misc/dairy#almond-milk'>milk</a> for every cup of <a href='#recipe'>sweetener</a> to achieve a similar texture of cookie dough, brownie batter, etc.<br><br>
 
-  Make sure to mix thoroughly to fully incorporate, either through using an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>, or massaging it with your hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking.<br><br>
+  Make sure to mix thoroughly to fully incorporate, either through using an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>, a <a href='https://amzn.to/4q0AUjI'>food processor</a>, or massaging it with your hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking.<br><br>
 
   Similarly, since the <a href='#recipe'>sweetener</a> is a little sticky, especially when adding the <a href='https://amzn.to/4h7fdfj'>molasses</a>, your <a href='/recipes/healthier-dessert'>baked goods</a> will come out a little chewy and sticky on the inside, almost as if you mixed in chopped up toffee to your <a href='#brownie'>brownies</a> or <a href='#cookie'>cookies</a>.
 
@@ -93,7 +93,7 @@ Notes:
   <div id='brownie' class='table-of-contents-2'></div>
   Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my <a href='/recipes/brownies'>Classic Fudgy Brownies</a>, where I swapped out the 2 cup (240 g) <a href='/misc/hidden-sugar'>powdered sugar</a> for 1 1/4 cup (250 g) of <a href='#recipe'>sugar substitute</a>.<br><br>
 
-  I also went for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/olive-oil'>olive oil</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/misc/dairy#butter'>butter</a> to make a healthier brownie.  Since the <a href='#recipe'>sugar substitute</a> can be a little sticky and prone to clumping, I added 2 tbsp (30 g) <a href='/misc/dairy#almond-milk'>almond milk</a> to the brownie batter, and made sure to mix throughly through a combination of an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> and massaging it with my hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>.
+  I also went for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/olive-oil'>olive oil</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/misc/dairy#butter'>butter</a> to make a healthier brownie.  Since the <a href='#recipe'>sugar substitute</a> can be a little sticky and prone to clumping, I added 2 tbsp (30 g) <a href='/misc/dairy#almond-milk'>almond milk</a> to the brownie batter, and made sure to mix thoroughly through a combination of an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> and massaging it with my hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>.
 - |
   COMPARE(
     "highfibersugarsubbrownies",
@@ -115,7 +115,7 @@ Notes:
   <div id='cookie' class='table-of-contents-2'></div>
   Here, I'm using <a href='#recipe'>my high fiber sugar substitute</a> to make a batch of my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, where I swapped out the 1 cup (200 g) <a href='/misc/hidden-sugar'>granulated sugar</a> for 1 cup (200 g) of <a href='#recipe'>sugar substitute</a>.  I also went for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/olive-oil'>olive oil</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/misc/dairy#butter'>butter</a> to make a healthier cookie.<br><br>
 
-  Since the <a href='#recipe'>sugar substitute</a> can be a little sticky and prone to clumping, I added 2 tbsp (30 g) <a href='/misc/dairy#almond-milk'>almond milk</a> to the cookie dough, and made sure to mix throughly through a combination of an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> and massaging it with my hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>.  I still used standard chocolate chips, so there's still <a href='/misc/hidden-sugar'>added sugar</a>.
+  Since the <a href='#recipe'>sugar substitute</a> can be a little sticky and prone to clumping, I added 2 tbsp (30 g) <a href='/misc/dairy#almond-milk'>almond milk</a> to the cookie dough, and made sure to mix thoroughly through a combination of an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> and massaging it with my hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>.  I still used standard chocolate chips, so there's still <a href='/misc/hidden-sugar'>added sugar</a>.
 - |
   COMPARE(
     "highfibersugarsubcookies",

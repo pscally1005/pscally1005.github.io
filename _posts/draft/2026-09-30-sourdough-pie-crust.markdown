@@ -49,7 +49,7 @@ tags:
 - pie crust
 - whole wheat
 - sourdough bread
-Description: Normally when I feed my <a href='/misc/whole-wheat-sourdough#starter'>starter</a>, I mix the discard with baking powder and salt to make 2 <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbreads</a>. But today I wanted to try something different. Could I turn that same simple mixture into a pie crust? With just 2 ingredients, this recipe transforms <a href='/misc/whole-wheat-sourdough#starter'>sourdough discard</a> into a <a href='/misc/calories'>low-calorie</a>, thin, bread-like pie crust that covers the bottom of a <a href='https://amzn.to/4q0gY0f'>9-inch pie</a> pan without extending up the sides. Just line a <a href='https://amzn.to/4q0gY0f'>pie pan</a> with parchment paper, mix, spread, and bake.
+Description: Normally when I feed my <a href='/misc/whole-wheat-sourdough#starter'>starter</a>, I mix the discard with baking powder and salt to make 2 <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbreads</a>. But today I wanted to try something different. Could I turn that same simple mixture into a pie crust? With just 2 ingredients, this recipe transforms <a href='/misc/whole-wheat-sourdough#starter'>sourdough discard</a> into a <a href='/misc/calories'>low-calorie</a>, thin, bread-like pie crust. Just line a <a href='https://amzn.to/4q0gY0f'>pie pan</a> with parchment paper, mix, spread, and bake.
 Instructions:
 - Preheat your oven to 350F. Line the bottom of a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a> with parchment paper.
 
