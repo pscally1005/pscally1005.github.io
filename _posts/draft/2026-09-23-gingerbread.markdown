@@ -18,7 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/gingerbread
@@ -37,12 +37,12 @@ section5:
 Prep: 15
 Rest: 60
 Cook: 45
-Source1:
+Source1: https://thecleaneatingcouple.com/healthy-gingerbread-loaf/#recipe
 Source2:
 Source3:
 Source4:
 Source5:
-whisk: https://thecleaneatingcouple.com/healthy-gingerbread-loaf/#recipe
+whisk: https://s.samsungfood.com/SWlPB
 tags:
 - gingerbread
 - ginger bread
@@ -57,8 +57,14 @@ tags:
 - nutmeg
 - cloves
 - spiced
+- ginger
+- vic
+- honey
+- oat flour
+- gluten-free
+- gluten free
 Description: |
-  It's officially pumpkin spice season. Does gingerbread count as fall for pumpkin spice, or winter because of gingerbread cookies? Not to be confused with gingerbread cookies, gingerbread is a quick bread with similar flavors, such as <a href='https://amzn.to/4h7fdfj'>molasses</a>, cinnamon, and, of course, ginger.<br><br>
+  It's officially pumpkin spice season. Does gingerbread count as fall for pumpkin spice, or winter because of gingerbread cookies? Not to be confused with gingerbread cookies, gingerbread is a quick bread with similar flavors, such as <a href='https://amzn.to/4h7fdfj'>molasses</a>, cinnamon, and, of course, <a href='/misc/veggies#ginger'>ginger</a>.<br><br>
 
   <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> provides more <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and certain <a href='/misc/nutrient-alphabet#B'>B vitamins</a> than <a href='/misc/grains#white-wheat'>refined white flour</a>. <a href='/misc/nuts#coconut'>Coconut oil</a> provides richness and helps create a tender texture in this loaf. This recipe uses less <a href='/misc/fats'>added fat</a> than many traditional versions, with <a href='/misc/fruit#apple'>applesauce</a> contributing moisture and texture.<br><br>
 
@@ -94,7 +100,7 @@ Notes:
 
 - <a href='/misc/olive-oil'>Olive oil</a> can be used in place of <a href='/misc/nuts#coconut'>coconut oil</a>.
 
-- To make this <a href='/misc/celiac'>gluten-free</a>, replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with 2 2/3 cups (240 g) <a href='/misc/grains#oats'>oat flour</a>.
+- To make this <a href='/misc/celiac'>gluten-free</a>, replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with 2 2/3 cups (240 g) <a href='/misc/grains#oats'>oat flour</a>. All other instructions are the same, including the same baking time.
 - <img src='/assets/Food/Healthier Dessert/Gingerbread/gf-cover.jpg' alt='' class='instruction-image'>
 
 - I'm using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> as my sweetener, but other options include <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/misc/natural-sweeteners#agave'>agave</a>.
