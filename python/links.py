@@ -2825,6 +2825,9 @@ LINKS = {
         "100 calorie protein bars"
     ],
     "/recipes/taco": [
+        "ground meat tacos",
+        "ground meat taco",
+        "taco meat",
         "taco",
         "tacos"
     ],
@@ -4089,12 +4092,14 @@ LINKS = {
         "black eyed pea"
     ],
     "/misc/beans#brown-lentils": [
+        "lentils",
+        "lentil",
         "brown lentils",
         "brown lentil"
     ],
     "/misc/beans#red-lentils": [
-        "lentils",
-        "lentil",
+        # "lentils",
+        # "lentil",
         "red lentil pasta",
         "red lentils",
         "red lentil"
@@ -8090,6 +8095,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "making a small pot",
     "German's Chocolate Cake",
     "broiled steak",
     "Vanilla ≠ plain",

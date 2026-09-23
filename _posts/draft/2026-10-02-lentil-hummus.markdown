@@ -58,15 +58,17 @@ tags:
 - dip
 - spread
 - sauce
-Description: Normally hummus uses chickpeas as their base. But today I'm making a small pot of lentils instead to make this hummus more friendly to those with IBS. I'm simply taking my Classic Hummus, and swapping out the chickpeas for lentils.
+- ibs
+- fodmap
+Description: Normally <a href='/hummus'>hummus</a> uses <a href='/misc/beans#chickpeas'>chickpeas</a> as their base. But today I'm making a small pot of <a href='/misc/beans#brown-lentils'>lentils</a> instead to make this <a href='/hummus'>hummus</a> more friendly to those with IBS. I'm simply taking my <a href='/recipes/classic-tahini-hummus'>Classic Hummus</a>, and swapping out the <a href='/misc/beans#chickpeas'>chickpeas</a> for <a href='/misc/beans#brown-lentils'>lentils</a>.
 Instructions:
-- Add lentils and water to a small pot, covered. Bring to boil over high heat, then reduce heat to low. Simmer with the cover on for about 25 minutes, or until the lentils are soft enough to smash them between your fingers. Remove from heat and let them cool for about 15 minutes.
+- Add <a href='/misc/beans#brown-lentils'>lentils</a> and water to a <a href='https://amzn.to/46ccg8m'>small pot</a>, covered. Bring to boil over high heat, then reduce heat to low. Simmer with the cover on for about 25 minutes, or until the <a href='/misc/beans#brown-lentils'>lentils</a> are soft enough to smash them between your fingers. Remove from heat and let them cool for about 15 minutes.
 - <img src='/assets/Food/Savory Sauces/Lentil hummus/pot.jpg' alt='' class='instruction-image'>
 
-- Add the cooked lentils to the food processor with the remaining ingredients. Thin out with a small splash of water (if necessary), and blend until smooth.
+- Add the cooked <a href='/misc/beans#brown-lentils'>lentils</a> to the <a href='https://amzn.to/4q0AUjI'>food processor</a> with the remaining ingredients. Thin out with a small splash of water (if necessary), and blend until smooth.
 - <img src='/assets/Food/Savory Sauces/Lentil hummus/processor.jpg' alt='' class='instruction-image'>
 Notes:
-- Any lentils will work, like brown lentils, green lentils, or red lentils.
+- Any <a href='/misc/beans#brown-lentils'>lentils</a> will work, like <a href='/misc/beans#brown-lentils'>brown</a>, <a href='/misc/beans#green-lentils'>green</a>, or <a href='/misc/beans#red-lentils'>red lentils</a>.
 
-- Cashew butter was just what I had on hand today, but tahini or almond butter would also work.
+- <a href='/misc/nuts#cashews'>Cashew butter</a> was just what I had on hand today, but <a href='/misc/seeds#sesame-seeds'>tahini</a> or <a href='/misc/nuts#almonds'>almond butter</a> would also work.
 ---
