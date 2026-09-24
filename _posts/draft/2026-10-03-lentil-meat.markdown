@@ -60,7 +60,7 @@ Description: |
 
   But it's a great idea, allowing you to add roughly 25% more servings, as well as some <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/iron'>iron</a>, and <a href='/misc/nutrient-alphabet#F'>folate</a>. With <a href='/misc/meat#ground-beef'>beef</a> prices these days, it's damn near necessary to stretch that out as much as possible. So today, I'm making a <a href='/recipes/taco'>taco meat</a> by mixing <a href='/misc/meat#ground-beef'>ground beef</a> with cooked <a href='/misc/beans#brown-lentils'>lentils</a> and taco seasoning.
 Instructions:
-- Add <a href='/misc/beans#brown-lentils'>lentils</a>, water, and salt to a <a href='https://amzn.to/46ccg8m'>small pot</a>, and cover with a lid. Bring to boil over high heat, then reduce heat to low. Simmer with the cover on for about 20 minutes, or until the <a href='/misc/beans#brown-lentils'>lentils</a> are tender.
+- Add <a href='/misc/beans#brown-lentils'>lentils</a>, water, and salt to a <a href='https://amzn.to/46ccg8m'>small pot</a>, and cover with a lid. Bring to boil over high heat, then reduce heat to low. Simmer with the cover on for about 25 minutes, or until the <a href='/misc/beans#brown-lentils'>lentils</a> are tender.
 - <img src='/assets/Food/Ground Meat/Lentil meat/lentils.jpg' alt='' class='instruction-image'>
 
 - |
@@ -81,7 +81,7 @@ Instructions:
 Notes:
 - Any <a href='/misc/beans#brown-lentils'>lentils</a> will work, like <a href='/misc/beans#brown-lentils'>brown</a>, <a href='/misc/beans#green-lentils'>green</a>, or <a href='/misc/beans#red-lentils'>red lentils</a>.
 
-- 1/2 cup (96 g) of dry <a href='/misc/beans#brown-lentils'>lentils</a> yields about 1 1/3 cup (TODO - 250 g?) of cooked <a href='/misc/beans#brown-lentils'>lentils</a>.
+- 1/2 cup (96 g) of dry <a href='/misc/beans#brown-lentils'>lentils</a> yields about 1 1/3 cup (265 g) of cooked <a href='/misc/beans#brown-lentils'>lentils</a>.
 
 - You can even use <a href='/misc/beans#tofu'>tofu</a> instead of <a href='/misc/beans#brown-lentils'>lentils</a> to bulk up the <a href='/misc/meat#ground-beef'>meat</a>. Simply mash a 1 lb (454 g) block of drained <a href='/misc/beans#tofu'>tofu</a> directly into the raw <a href='/misc/meat#ground-beef'>ground meat</a>, then cook them together according to the recipe.
 

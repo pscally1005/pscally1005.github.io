@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sugar Free German Chocolate Cake
-date:   2026-09-14 00:00:00 -0500
+date:   2026-09-24 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
@@ -109,16 +109,17 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/German/layer1.jpg' alt='' class='instruction-image'>
 
 - Spread about 2/3 of your filling mixture (~230 g or 1 cup) onto the bottom (now top) of the first layer.
-- <img src='/assets/Food/Healthier Dessert/German/filled.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/German/filledNew.jpg' alt='' class='instruction-image'>
 
 - Add the second layer on top, with the "bottom" (flat side) facing up.
-- <img src='/assets/Food/Healthier Dessert/German/layer2.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/German/layer2New.jpg' alt='' class='instruction-image'>
 
-- Carefully frost the top and sides of the cake. Add your remaining filling mixture (~115 g or 1/2 cup) on top of the frosting on top of the cake. Optionally garnish with more <a href='/misc/nuts#coconut'>coconut flakes</a>.
-- <img src='/assets/Food/Healthier Dessert/German/topped.jpg' alt='' class='instruction-image'>
+- Carefully frost the top and sides of the cake.
+- <img src='/assets/Food/Healthier Dessert/German/frostedNew.jpg' alt='' class='instruction-image'>
+
+- Add your remaining filling mixture (~115 g or 1/2 cup) on top of the frosting on top of the cake. Optionally garnish with more <a href='/misc/nuts#coconut'>coconut flakes</a>.
+- <img src='/assets/Food/Healthier Dessert/German/toppedNew.jpg' alt='' class='instruction-image'>
 Notes:
-- I only baked a half batch to test the recipe, which is why the photos in the assembly of the cake are of half a cake.
-
 - <a href='/misc/nuts#pecans'>Pecans</a> are traditional in German Chocolate Cake, but almost nothing about this cake is traditional.  So go for <a href='/misc/nuts#walnuts'>walnuts</a> or something else if that's all you have.
 
 - |

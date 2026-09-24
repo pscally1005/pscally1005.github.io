@@ -115,8 +115,7 @@ Notes:
   Instead of cooking the filling on the stove, pour the raw filling into the parbaked pie crust, and crumble any remaining dough scraps on top. Bake at 350F for about 30 minutes, or until the top looks set, and the center jiggles just slightly when the side of the pan is tapped.<br><br>
 
   Let it cool totally before cutting into 12 slices.
-# - <img src='/assets/Food/Healthier Dessert/Mooncakes/pie-raw.jpg' alt='' class='instruction-image'>
-# - <img src='/assets/Food/Healthier Dessert/Mooncakes/pie-baked.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/Mooncakes/Pie/cover2.jpg' alt='' class='instruction-image'>
 
 - For some other <a href='/recipes/healthier-dessert'>dessert</a> recipes with <a href='/beans'>beans</a> in them, check out the following:<br>
   <ul>
