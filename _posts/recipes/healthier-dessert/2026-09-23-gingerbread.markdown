@@ -104,6 +104,8 @@ Notes:
 
 - I'm using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> as my sweetener, but other options include <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/misc/natural-sweeteners#agave'>agave</a>.
 
+- Optionally fold in 1/2 cup (64 g) chopped <a href='/misc/nuts#walnuts'>walnuts</a> into the batter.
+
 - |
   COMPARE(
     "gingerbreadwwsfs",

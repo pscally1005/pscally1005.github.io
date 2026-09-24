@@ -81,27 +81,34 @@ Instructions:
 Notes:
 - Any <a href='/misc/beans#brown-lentils'>lentils</a> will work, like <a href='/misc/beans#brown-lentils'>brown</a>, <a href='/misc/beans#green-lentils'>green</a>, or <a href='/misc/beans#red-lentils'>red lentils</a>.
 
+- 1/2 cup (96 g) of dry <a href='/misc/beans#brown-lentils'>lentils</a> yields about 1 1/3 cup (TODO - 250 g?) of cooked <a href='/misc/beans#brown-lentils'>lentils</a>.
+
+- You can even use <a href='/misc/beans#tofu'>tofu</a> instead of <a href='/misc/beans#brown-lentils'>lentils</a> to bulk up the <a href='/misc/meat#ground-beef'>meat</a>. Simply mash a 1 lb (454 g) block of drained <a href='/misc/beans#tofu'>tofu</a> directly into the raw <a href='/misc/meat#ground-beef'>ground meat</a>, then cook them together according to the recipe.
+
 - Any <a href='/recipes/ground-meat'>ground meat</a> will work, like <a href='/misc/meat#ground-beef'>ground beef</a>, <a href='/misc/meat#ground-turkey'>turkey</a>, <a href='/misc/ground-chicken'>chicken</a>, or <a href='/misc/meat#pork-tenderloin'>pork</a>.
 
-- 1/2 cup (96 g) of raw <a href='/misc/beans#brown-lentils'>lentils</a> yields about 1 1/3 cup (260 g) of cooked <a href='/misc/beans#brown-lentils'>lentils</a>.
+- A typical serving of <a href='/misc/meat#ground-beef'>ground meat</a> uses about 1 lb (454 g) of raw <a href='/misc/meat'>meat</a> for 4 people. By adding the <a href='/misc/beans#brown-lentils'>lentils</a> or <a href='/misc/beans#tofu'>tofu</a>, you can stretch that same 1 lb (454 g) of <a href='/misc/meat'>meat</a> into 5 servings, a 25% increase in savings.
 
-- Typically, 1 lb (454 g) of raw <a href='/misc/meat'>meat</a> serves 4 people. By adding the <a href='/misc/beans#brown-lentils'>lentils</a> here, we can increase the number of servings to 5 people per pound of <a href='/misc/meat'>meat</a>, or an increase of 25%.
+- |
+  The nutrition facts below assume 1 lb (454 g) 93% <a href='/misc/meat#ground-beef'>ground beef</a> with all the spices, divided into 5 servings. The three columns compare the recipe made with <a href='/misc/beans#brown-lentils'>lentils</a>, <a href='/misc/beans#tofu'>tofu</a>, and with just the <a href='/misc/meat#ground-beef'>beef</a>.<br><br>
 
-- You can scale this recipe up or down to add the amount of <a href='/misc/beans#brown-lentils'>lentils</a> you need to the <a href='/misc/meat'>meat</a> to be able to feed more people.
+  Five servings of just 1 lb (454 g) of <a href='/misc/meat'>meat</a> would make relatively small portion sizes. Adding <a href='/misc/beans#brown-lentils'>lentils</a> or <a href='/misc/beans#tofu'>tofu</a> increases the amount of food in each serving, while keeping the same amount of <a href='/misc/meat'>meat</a>.<br><br>
 
-- Below are the nutrition facts assuming 1 lb (454 g) 93% <a href='/misc/meat#ground-beef'>ground beef</a> with all the spices, serving 5 people, both with and without the <a href='/misc/beans#brown-lentils'>lentils</a>. The serving size with 5 total servings is too small for just 1 lb (454 g) of <a href='/misc/meat'>meat</a>. But the addition of the <a href='/misc/beans#brown-lentils'>lentils</a> make it a bigger serving size while on a budget. Moreover, the <a href='/misc/beans#brown-lentils'>lentils</a> add <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet#F'>folate</a>, and plant-based <a href='/misc/protein'>protein</a> & <a href='/misc/iron'>iron</a>.
+  The <a href='/misc/beans#brown-lentils'>lentils</a> also add <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet#F'>folate</a>, and plant-based <a href='/misc/protein'>protein</a> & <a href='/misc/iron'>iron</a>. <a href='/misc/beans#tofu'>Tofu</a> meanwhile adds <a href='/misc/calcium'>calcium</a>, <a href='/misc/iron'>iron</a>, <a href='/misc/nutrient-alphabet#M'>manganese</a>, and <a href='/misc/nutrient-alphabet#S'>selenium</a>.
 - |
   COMPARE(
     "lentilmeat",
-    "lentilmeatnolentils";
+    "lentilmeattofu",
+    "lentilmeatneither";
 
     "With<br><a href='/misc/beans#brown-lentils'>Lentils</a>",
-    "Without<br><a href='/misc/beans#brown-lentils'>Lentils</a>";
+    "With<br><a href='/misc/beans#tofu'>Tofu</a>",
+    "Just<br><a href='/misc/meat#ground-beef'>Meat</a>";
 
     "Calories",
     "Protein",
     "Fat",
-    "Net Carbs",
+    "Total Carbs",
     "Fiber"
   )
 ---
