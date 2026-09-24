@@ -60,7 +60,7 @@ Description: |
 
   But it's a great idea, allowing you to add roughly 25% more servings, as well as some <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/iron'>iron</a>, and <a href='/misc/nutrient-alphabet#F'>folate</a>. With <a href='/misc/meat#ground-beef'>beef</a> prices these days, it's damn near necessary to stretch that out as much as possible. So today, I'm making a <a href='/recipes/taco'>taco meat</a> by mixing <a href='/misc/meat#ground-beef'>ground beef</a> with cooked <a href='/misc/beans#brown-lentils'>lentils</a> and taco seasoning.
 Instructions:
-- Add <a href='/misc/beans#brown-lentils'>lentils</a>, water, and salt to a <a href='https://amzn.to/46ccg8m'>small pot</a>, and cover with a lid. Bring to boil over high heat, then reduce heat to low. Simmer with the cover on for about 25 minutes, or until the <a href='/misc/beans#brown-lentils'>lentils</a> are tender.
+- Add <a href='/misc/beans#brown-lentils'>lentils</a>, water, and salt to a <a href='https://amzn.to/46ccg8m'>small pot</a>, and cover with a lid. Bring to boil over high heat, then reduce heat to low. Simmer with the cover on for about 25 minutes, or until the <a href='/misc/beans#brown-lentils'>lentils</a> are tender and the water has been absorbed.
 - <img src='/assets/Food/Ground Meat/Lentil meat/lentils.jpg' alt='' class='instruction-image'>
 
 - |

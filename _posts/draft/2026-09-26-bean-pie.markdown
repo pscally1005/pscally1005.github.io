@@ -1,0 +1,118 @@
+---
+layout: post
+title:  Cannellini Bean Pie (SF, GF)
+date:   2026-09-24 00:00:00 -0500
+categories:
+- Recipes
+- Meme Recipes
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+beans: yes
+permalink: /recipes/bean-pie
+image: /assets/Food/Healthier Dessert/Mooncakes/Pie/cover1.jpg
+file: beanpie
+servingSize: 1 slice (~50 g)
+section1: Crust
+start2: Cannellini beans, drained and rinsed
+section2: Filling
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 30
+Rest:
+Cook: 30
+Source1: https://www.poormanprotein.com/recipes/mooncakes
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/dSYdP
+tags:
+- mooncakes
+- moon cake
+- gluten-free
+- gluten free
+- sugar-free
+- sugar free
+- cannellini beans
+- navy beans
+- white beans
+- navy beans
+- bean paste
+- bean pie
+Description: |
+  So yesterday, to celebrate the <a href='https://en.wikipedia.org/wiki/Mid-Autumn_Festival'>Mid-Autumn Festival</a>, I made my rustic looking, <a href='/misc/hidden-sugar'>sugar-free</a>, <a href='/misc/celiac'>gluten-free</a>, vegan, wholesome <a href='/recipes/mooncakes'>White Bean Mooncakes</a>. But then I had a dumb idea: let's make it into a pie instead. I took the dough mixture and pressed it into a <a href='https://amzn.to/4q0gY0f'>pie pan</a> before parbaking it, and then pouring in my filling and baked the full pie. The result is a pie that tastes just like yesterday's <a href='/recipes/mooncakes'>mooncakes</a>, but in a different shape and with a fraction of the effort.
+Instructions:
+- Preheat your oven to 350F. Drain and rinse your <a href='/misc/beans#cannellini-beans'>beans</a>, reserving the liquid.
+
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together <a href='/misc/nuts#cashews'>cashew butter</a> and <a href='/misc/nuts#coconut'>coconut flour</a>. Add the aquafaba and mix until a slightly dry dough forms.
+- <img src='/assets/Food/Healthier Dessert/Mooncakes/bowl.jpg' alt='' class='instruction-image'>
+
+- Press about 3/4 of your crust dough (~276 g) into a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a>, reserving any leftover scraps.
+- <img src='/assets/Food/Healthier Dessert/Mooncakes/Pie/crust-raw.jpg' alt='' class='instruction-image'>
+
+- Parbake the crust at 350F for about 15 minutes, or until lightly browned.
+- <img src='/assets/Food/Healthier Dessert/Mooncakes/Pie/crust-baked.jpg' alt='' class='instruction-image'>
+
+- Meanwhile, add the <a href='/misc/beans#cannellini-beans'>beans</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a>. Blend until smooth.
+- <img src='/assets/Food/Healthier Dessert/Mooncakes/processor.jpg' alt='' class='instruction-image'>
+
+- Pour your blended filling mixture into the baked pie crust.
+- <img src='/assets/Food/Healthier Dessert/Mooncakes/Pie/raw.jpg' alt='' class='instruction-image'>
+
+- Crumble the remaining crust mixture on top of the filling.
+- <img src='/assets/Food/Healthier Dessert/Mooncakes/Pie/raw-topped.jpg' alt='' class='instruction-image'>
+
+- Bake the pie at 350F for about 30 minutes, or until the filling is set, the topping is a light golden brown, and the edges of the crust are golden brown.
+- <img src='/assets/Food/Healthier Dessert/Mooncakes/Pie/baked.jpg' alt='' class='instruction-image'>
+
+- Allow the pie to cool totally before cutting into 12 slices.
+- <img src='/assets/Food/Healthier Dessert/Mooncakes/Pie/cover2.jpg' alt='' class='instruction-image'>
+Notes:
+- I'm using a can of drained and rinsed <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, but any other <a href='/misc/beans'>beans</a> will work, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.
+
+- |
+  The filling tastes mildly sweet. If you prefer a sweeter pie, add more sweetener to taste. Other sweetener options include the following:
+- INGREDIENTS(mooncakesweeteners)
+
+- <a href='/misc/nuts#cashews'>Cashew butter</a> works well for its neutral flavor, but <a href='/misc/nuts#almonds'>almond butter</a> will also work. To make it <a href='/misc/nuts'>nut</a> free, use <a href='/misc/seeds#sesame-seeds'>tahini</a>. I would not recommend using <a href='/recipes/natural-peanut-butter'>peanut butter</a>, or these will distinctly taste like <a href='/misc/nuts#peanuts'>peanuts</a>.
+
+- 1/2 cup (120 g) aquafaba is roughly the amount of bean juice you should get from a 15.5 oz can. If you don't have enough aquafaba, you can use water for the rest.
+
+- For some other <a href='/recipes/healthier-dessert'>dessert</a> recipes with <a href='/beans'>beans</a> in them, check out the following:<br>
+  <ul>
+    <li><a href='/recipes/mooncakes'>White Bean Mooncakes</a></li>
+    <li><a href='/recipes/chocolate-peanut-butter-mousse'>Chocolate Peanut Butter Mousse</a></li>
+    <li><a href='/recipes/chickpea-nutella'>No-Nut Chickpea Nutella</a></li>
+    <li><a href='/recipes/oatmeal-raisin-cookies'>Naturally Sweetened Oatmeal Raisin Cookies</a></li>
+    <li><a href='/misc/pinto-bean-cake'>Improving the Pinto Bean Cake</a></li>
+    <li><a href='/recipes/chickpea-date-brownies'>Chickpea Date Brownies</a></li>
+    <li><a href='/recipes/white-bean-milkshake'>White Bean Milkshake</a></li>
+    <li><a href='/recipes/mint-chocolate-chip-date-cookies'>Mint Chocolate Chip Date Cookies</a></li>
+    <li><a href='/recipes/peanut-butter-date-cookies'>Peanut Butter Date Cookies</a></li>
+    <li><a href='/recipes/double-chocolate-date-cookies'>Double Chocolate Date Cookies</a></li>
+    <li><a href='/recipes/chocolate-chip-date-cookies'>Chocolate Chip Date Cookies</a></li>
+    <li><a href='/recipes/dual-bean-date-brookies'>Dual Bean Date Brookies</a></li>
+    <li><a href='/recipes/chickpea-date-blondies'>Chickpea Date Blondies</a></li>
+    <li><a href='/recipes/black-bean-date-brownies'>Black Bean Date Brownies</a></li>
+    <li><a href='/recipes/chickpea-chows'>Chickpea Chows</a></li>
+    <li><a href='/recipes/chickpea-brownies'>Protein Brownie Bars</a></li>
+    <li><a href='/recipes/chocolate-chip-cookie-skillet'>Chocolate Chip Cookie Skillet</a></li>
+  </ul>
+---

@@ -75,8 +75,18 @@ LINKS = {
         "white bean paste moon cake (sf, gf)",
         "white bean paste moon cakes (sf, gf)"
     ],
-    "/recipes/mooncakes#bean-pie": [
-        "bean pie"
+    # "/recipes/mooncakes#bean-pie": [
+    #     "bean pie"
+    # ],
+    "/recipes/bean-pie": [
+        "navy bean pie",
+        "white bean pie",
+        "bean pie",
+        "sugar free bean pie",
+        "gluten free bean pie",
+        "bean pie (sf, gf)",
+        "cannellini bean pie",
+        "mooncake pie"
     ],
     "/recipes/gingerbread": [
         "gingerbread",
@@ -10225,7 +10235,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-02", "2026-10-03")):
+            if not file.startswith(("2026-09-26")):
                 continue
 
             # exclude some files

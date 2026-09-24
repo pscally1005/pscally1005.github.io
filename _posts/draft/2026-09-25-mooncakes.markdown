@@ -55,6 +55,7 @@ tags:
 - white beans
 - navy beans
 - bean paste
+- bean pie
 Description: |
   I'm no stranger to <a href='/misc/beans'>beans</a> in <a href='/recipes/healthier-dessert'>dessert</a>. But it's about time I made a <a href='/recipes/healthier-dessert'>dessert</a> that's actually supposed to have <a href='/misc/beans'>beans</a> in it.<br><br>
 
@@ -91,16 +92,12 @@ Notes:
 - I'm using a can of drained and rinsed <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, but any other <a href='/misc/beans'>beans</a> will work, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.
 
 - |
-  The filling has a mildly sweet flavor. If you prefer a sweeter mooncake, add more sweetener to taste.<br><br>
-
-  Other sweetener options include the following:
+  The filling tastes mildly sweet. If you prefer a sweeter mooncake, add more sweetener to taste. Other sweetener options include the following:
 - INGREDIENTS(mooncakesweeteners)
 
-- <a href='/misc/nuts#cashews'>Cashew butter</a> works well for its neutral flavor, but <a href='/misc/nuts#almonds'>almond butter</a> will also work. To make it <a href='/misc/nuts'>nut</a> free, use <a href='/misc/seeds#sesame-seeds'>tahini</a>. I would not recommend using <a href='/misc/nuts#peanuts'>peanut butter</a>, or these will distinctly taste like <a href='/recipes/natural-peanut-butter'>peanut butter</a>.
+- <a href='/misc/nuts#cashews'>Cashew butter</a> works well for its neutral flavor, but <a href='/misc/nuts#almonds'>almond butter</a> will also work. To make it <a href='/misc/nuts'>nut</a> free, use <a href='/misc/seeds#sesame-seeds'>tahini</a>. I would not recommend using <a href='/recipes/natural-peanut-butter'>peanut butter</a>, or these will distinctly taste like <a href='/misc/nuts#peanuts'>peanuts</a>.
 
-- <a href='/misc/nuts#almonds'>Almond flour</a> can be used in place of <a href='/misc/nuts#coconut'>coconut flour</a>, though the amount may vary. Start with less, and add more little by little until you get a shapable dough consistency.
-
-- If you don't have enough aquafaba, you can use an equal amount of water.
+- 1/2 cup (120 g) aquafaba is roughly the amount of bean juice you should get from a 15.5 oz can. If you don't have enough aquafaba, you can use water for the rest.
 
 - The dough is intended to have a slightly dry, shortbread-like texture. It will be prone to crumbling, so handle it gently when shaping. Add slightly more or less aquafaba as needed to achieve a dough that holds together.
 
@@ -110,15 +107,16 @@ Notes:
 
 - |
   <div id='bean-pie' class='table-of-contents-2'></div>
-  For the lolz, I also turned these mooncakes into a pie. Press the dough into a <a href='https://amzn.to/4q0gY0f'>pie pan</a>, reserving any leftover scraps, and parbake the crust at 350F for about 15 minutes, or until lightly browned.<br><br>
+  For the lolz, <a href='/recipes/bean-pie'>I also turned these mooncakes into a pie</a>. Press the dough into a <a href='https://amzn.to/4q0gY0f'>pie pan</a>, reserving any leftover scraps, and parbake the crust at 350F for about 15 minutes, or until lightly browned.<br><br>
 
-  Instead of cooking the filling on the stove, pour the raw filling into the parbaked pie crust, and crumble any remaining dough scraps on top. Bake at 350F for about 30 minutes, or until the top looks set, and the center jiggles just slightly when the side of the pan is tapped.<br><br>
+  Instead of cooking the filling on the stove, pour the raw filling into the parbaked pie crust, and crumble any remaining dough scraps on top. Bake at 350F for about 30 minutes, or until the top looks set, and the crust is golden brown.<br><br>
 
-  Let it cool totally before cutting into 12 slices.
-- <img src='/assets/Food/Healthier Dessert/Mooncakes/Pie/cover2.jpg' alt='' class='instruction-image'>
+  Let it cool totally before cutting into 12 slices. See my <a href='/recipes/bean-pie'>Cannellini Bean Pie</a> for more information.
+- <a href='/recipes/bean-pie'><img src='/assets/Food/Healthier Dessert/Mooncakes/Pie/cover1.jpg' alt='' class='instruction-image'></a>
 
 - For some other <a href='/recipes/healthier-dessert'>dessert</a> recipes with <a href='/beans'>beans</a> in them, check out the following:<br>
   <ul>
+    <li><a href='/recipes/bean-pie'>Cannellini Bean Pie</a></li>
     <li><a href='/recipes/chocolate-peanut-butter-mousse'>Chocolate Peanut Butter Mousse</a></li>
     <li><a href='/recipes/chickpea-nutella'>No-Nut Chickpea Nutella</a></li>
     <li><a href='/recipes/oatmeal-raisin-cookies'>Naturally Sweetened Oatmeal Raisin Cookies</a></li>
