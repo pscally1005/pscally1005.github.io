@@ -6667,7 +6667,9 @@ LINKS = {
         '7x11"',
         '11x7"',
         '7 x 11"',
-        '11 x 7"'
+        '11 x 7"',
+        "large casserole dish",
+        "large casserole dishes"
     ],
     "https://amzn.to/4mxxkxl": [
         "9\" cake pans",
@@ -8135,6 +8137,8 @@ EXCLUDED_PHRASES = [
     "Vanilla ≠ plain",
     "into a pie crust",
     "bread-like pie crust",
+    "chocolate bars",
+    "chocolate topping",
     "bean paste",
     "wrap the dough",
     "gingerbread cookies",

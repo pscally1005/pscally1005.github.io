@@ -49,11 +49,11 @@ tags:
 - salsa cauliflower
 - salsa chicken
 - chicken leg quarters
-Description: Salsa Chicken is one of my go-to recipe to feed a crowd. But you know what's a good side to that? Salsa Cauliflower. Just like how my salsa chicken is tossing together chicken and salsa, this super simple side of Salsa Cauliflower is just mixing together frozen cauliflower with salsa and sticking it in the oven.
+Description: <a href='/recipes/salsa-chicken'>Salsa Chicken</a> is one of my go-to recipes to feed a crowd. But you know what's a good <a href='/recipes/sides'>side</a> to that? Salsa Cauliflower. Just like how my <a href='/recipes/salsa-chicken'>salsa chicken</a> is tossing together <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/recipes/salsa'>salsa</a>, this super simple <a href='/recipes/sides'>side</a> of Salsa Cauliflower is just mixing together frozen <a href='/misc/veggies#cauliflower'>cauliflower</a> with <a href='/recipes/salsa'>salsa</a> and sticking it in the oven.
 Instructions:
 - Preheat your oven to 350F.
 
-- Directly in a large casserole dish, add your cauliflower and salsa. Mix together.
+- Directly in a <a href='https://amzn.to/4aiCsjh'>large casserole dish</a>, add your <a href='/misc/veggies#cauliflower'>cauliflower</a> and <a href='/recipes/salsa'>salsa</a>. Mix together.
 - <img src='/assets/Food/Sides/Salsa Cauliflower/before.jpg' alt='' class='instruction-image'>
 
 - Cover with foil and bake for about 45 minutes, or until warmed and bubbly.
