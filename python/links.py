@@ -8134,6 +8134,7 @@ EXCLUDED_PHRASES = [
     "making a small pot",
     "German's Chocolate Cake",
     "broiled steak",
+    "chocolate has hardened",
     "Vanilla ≠ plain",
     "into a pie crust",
     "bread-like pie crust",
