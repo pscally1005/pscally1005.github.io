@@ -10,6 +10,13 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/dubai-chocolate-yogurt-bowl": [
+        "dubai chocolate yogurt bowl",
+        "dubai yogurt"
+    ],
+    "/recipes/salsa-cauliflower": [
+        "salsa cauliflower"
+    ],
     "/recipes/lentil-hummus": [
         "no bean lentil hummus",
         "no-bean lentil hummus",
@@ -6012,6 +6019,23 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4m1zWDi": [
+        # "cereal",
+        "wheat cereal",
+        "plain shredded wheat cereal",
+        "shredded wheat cereal",
+        "shredded cereal"
+    ],
+    "https://amzn.to/47oj3Mp": [
+        "sugar free pistachio pudding mix",
+        "sugar free pudding mix",
+        "pistachio pudding mix",
+        "pudding mix",
+        "sugar-free pistachio pudding mix",
+        "sugar-free pudding mix",
+        "pistachio pudding mix",
+        "pudding mix"
+    ],
     "https://amzn.to/4yOheV0": [
         "sorbitol"
     ],
@@ -8505,10 +8529,10 @@ EXCLUDED_PHRASES = [
     "coconut palm",
     "palm sap",
     "thick chocolate bar",
-    "plain shredded wheat cereal",
-    "shredded wheat cereal",
-    "your wheat cereal",
-    "combine the cereal",
+    # "plain shredded wheat cereal",
+    # "shredded wheat cereal",
+    # "your wheat cereal",
+    # "combine the cereal",
     "remaining chocolate",
     # "chocolate outside",
     "almond paste",
@@ -10235,7 +10259,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-26")):
+            if not file.startswith(("2026-10-06", "2026-10-07")):
                 continue
 
             # exclude some files

@@ -57,7 +57,7 @@ tags:
 - bean paste
 - bean pie
 Description: |
-  So yesterday, to celebrate the <a href='https://en.wikipedia.org/wiki/Mid-Autumn_Festival'>Mid-Autumn Festival</a>, I made my rustic looking, <a href='/misc/hidden-sugar'>sugar-free</a>, <a href='/misc/celiac'>gluten-free</a>, vegan, wholesome <a href='/recipes/mooncakes'>White Bean Mooncakes</a>. But then I had a dumb idea: let's make it into a pie instead. I took the dough mixture and pressed it into a <a href='https://amzn.to/4q0gY0f'>pie pan</a> before parbaking it, and then pouring in my filling and baked the full pie. The result is a pie that tastes just like yesterday's <a href='/recipes/mooncakes'>mooncakes</a>, but in a different shape and with a fraction of the effort.
+  So yesterday, to celebrate the <a href='https://en.wikipedia.org/wiki/Mid-Autumn_Festival'>Mid-Autumn Festival</a>, I made my rustic looking, <a href='/misc/hidden-sugar'>sugar-free</a>, <a href='/misc/celiac'>gluten-free</a>, vegan, wholesome <a href='/recipes/mooncakes'>White Bean Mooncakes</a>. But then I had a dumb idea: let's make it into a pie instead. I took the dough mixture and pressed it into a <a href='https://amzn.to/4q0gY0f'>pie pan</a> before parbaking it, and then poured in my filling and baked the full pie. The result is a pie that tastes just like yesterday's <a href='/recipes/mooncakes'>mooncakes</a>, but in a different shape and with a fraction of the effort.
 Instructions:
 - Preheat your oven to 350F. Drain and rinse your <a href='/misc/beans#cannellini-beans'>beans</a>, reserving the liquid.
 

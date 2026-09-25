@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/lentil-loaf
 image: /assets/Food/Bread/Lentil Loaf/cover.jpg
 file: lentilloaf

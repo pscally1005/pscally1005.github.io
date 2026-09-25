@@ -276,8 +276,10 @@ def ingredients(food):
         f = "Rye flour"
     elif food == "Barley, raw, pearled":
         f = "Barley"
-    elif food == "Vanilla instant pudding by SHURFINE":
+    elif food == "Vanilla instant pudding by SHURFINE" or food == "Puddings, regular, dry mix, vanilla" or food == "Puddings, instant, dry mix, vanilla":
         f = "Vanilla instant pudding mix"
+    elif food == "Pudding mix, sugar free":
+        f = "Pistachio pudding mix, sugar free"
     elif food == "Allulose plant-based sweetener by Dr. Desai Soap LLC":
         f = "Allulose"
     elif food == "Nabisco, Nabisco Grahams Crackers":

@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  White Bean Mooncakes (SF, GF)
-date:   2026-09-20 00:00:00 -0500
+date:   2026-09-25 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
