@@ -5,6 +5,7 @@ import os
 from formatCSV import split
 from formatCSV import ingredients
 from formatCSV import amount_desc_swap
+from formatCSV import exact_grams
 from formatCSV import volume
 from formatCSV import vol_from_mass
 from formatCSV import grams
@@ -21,6 +22,7 @@ def main():
 
     split.main(path1)
     amount_desc_swap.main(path2)
+    exact_grams.main(path2)
     ingredients.main(path2)
     volume.main(path2)
     grams.main(path2)

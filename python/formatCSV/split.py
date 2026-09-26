@@ -19,6 +19,9 @@ def main(path = ""):
     changed = 0
     for fname in glob.glob(path):
 
+        if os.path.basename(fname).lower() == "foods.csv":
+            continue
+
         # only use files that haven't been parsed yet
         if(fname[-10:] != "-facts.csv" and fname[-8:] != "-ing.csv"):
 

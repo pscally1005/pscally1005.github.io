@@ -326,6 +326,8 @@ def vol_from_mass(food, mass, vol):
             v = "1 cup"
         elif mass == "480":
             v = "1.5 cup"
+        elif mass == "640":
+            v = "2 cup"
 
     # Honey
     elif food == "Honey" or food == "Honey, or maple syrup":
@@ -1065,7 +1067,7 @@ def vol_from_mass(food, mass, vol):
             v = "2/3 cup"
         elif mass == "90":
             v = "3/4 cup"
-        elif mass == "120" or mass == "128" or mass == "115" or mass == "117" or mass == "120":
+        elif mass == "120" or mass == "128" or mass == "115" or mass == "117" or mass == "120" or mass == "125":
             v = "1 cup"
         elif mass == "160" or mass == "150":
             v = "1 1/4 cup"
