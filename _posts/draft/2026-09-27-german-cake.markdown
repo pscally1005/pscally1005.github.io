@@ -22,7 +22,7 @@ vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/german-chocolate-cake
-image: /assets/Food/Healthier Dessert/German/cover2.jpg
+image: /assets/Food/Healthier Dessert/German/coverNew1.jpg
 file: germancake
 servingSize: 1 slice (~110 g)
 section1: Dry
@@ -157,5 +157,5 @@ Notes:
     "Fiber",
     "Added Sugar"
   )
-- <img src='/assets/Food/Healthier Dessert/German/cover1.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/German/coverNew2.jpg' alt='' class='instruction-image'>
 ---

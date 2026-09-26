@@ -36,7 +36,7 @@ start5:
 section5:
 Prep: 5
 Rest:
-Cook: 45
+Cook: 60
 Source1: https://www.poormanprotein.com/recipes/salsa-chicken
 Source2: https://www.poormanprotein.com/misc/chicken-leg-quarters
 Source3:
@@ -54,9 +54,9 @@ Instructions:
 - Preheat your oven to 350F.
 
 - Directly in a <a href='https://amzn.to/4aiCsjh'>large casserole dish</a>, add your <a href='/misc/veggies#cauliflower'>cauliflower</a> and <a href='/recipes/salsa'>salsa</a>. Mix together.
-- <img src='/assets/Food/Sides/Salsa Cauliflower/before.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Sides/Salsa Cauliflower/before.jpg' alt='' class='instruction-image'>
 
-- Cover with foil and bake for about 45 minutes, or until warmed and bubbly.
-- <img src='/assets/Food/Sides/Salsa Cauliflower/after.jpg' alt='' class='instruction-image'>
+- Cover with foil and bake for about 60 minutes, or until warmed and bubbly.
+# - <img src='/assets/Food/Sides/Salsa Cauliflower/after.jpg' alt='' class='instruction-image'>
 Notes:
 ---
