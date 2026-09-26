@@ -37,7 +37,7 @@ section5:
 Prep: 5
 Rest:
 Cook: 5
-Source1:
+Source1: https://www.poormanprotein.com/recipes/dubai-chocolate
 Source2:
 Source3:
 Source4:
@@ -64,7 +64,7 @@ Description: |
 
   If you prefer chocolate bars to <a href='/yogurt'>yogurt bowls</a>, then you should check out my <a href='/recipes/dubai-chocolate'>Sugar Free Dubai Chocolate</a> recipe!
 Instructions:
-- Roughly chop your <a href='https://amzn.to/4m1zWDi'>shredded wheat cereal</a> and <a href='/misc/nuts#pistachios'>pistachios</a>, and add them to a dry, <a href='https://amzn.to/4dBv5Ga'>medium pan</a>. Toast over medium heat for about 5 minutes, or until lightly browned and fragrant. Set aside to cool.
+- Roughly chop your <a href='https://amzn.to/4m1zWDi'>shredded wheat cereal</a> and <a href='/misc/nuts#pistachios'>pistachios</a>, and add them to a dry, <a href='https://amzn.to/4dBv5Ga'>medium pan</a>. Toast over medium heat for about 3 minutes, or until lightly browned and fragrant. Set aside to cool.
 - <img src='/assets/Food/Breakfast/Dubai Yogurt/stove.jpg' alt='' class='instruction-image'>
 
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together <a href='/misc/dairy#yogurt'>yogurt</a> and <a href='https://amzn.to/47oj3Mp'>pudding mix</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
