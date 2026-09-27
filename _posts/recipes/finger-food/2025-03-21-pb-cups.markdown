@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/pb-cups
 image: /assets/Food/Finger Food/PB Cups/cover.jpg
 file: pbcups
-servingSize: 1 PB cup
+servingSize: 1 PB cup (~12 g)
 section1: Filling
 start2: Extra virgin coconut oil
 section2: Coating
@@ -35,7 +35,7 @@ start5:
 section5:
 Prep: 15
 Rest: 15
-Cook: 1
+Cook:
 Source1:
 Source2:
 Source3:
@@ -56,7 +56,10 @@ tags:
 - reeses
 - reese's
 - candy
-Description: Making <a href='/misc/nuts#peanuts'>peanut butter</a> cups at home is one of the classic desserts, as it's so easy to do. But instead of double dipping in <a href='/misc/fats'>fat</a> with both <a href='/misc/nuts#peanuts'>peanut butter</a> and melted chocolate, I've swapped the filling for <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, lowering <a href='/misc/calories'>calories</a> and raising the <a href='/misc/protein'>protein</a>. Additionally, both the filling and coating are sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, making them <a href='/misc/hidden-sugar'>sugar free</a> as well.
+Description: |
+  Making <a href='/misc/nuts#peanuts'>peanut butter</a> cups at home is one of the classic desserts, as it's so easy to do. But instead of double dipping in <a href='/misc/fats'>fat</a> with both <a href='/misc/nuts#peanuts'>peanut butter</a> and melted chocolate, I've swapped the filling for <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, lowering <a href='/misc/calories'>calories</a> and raising the <a href='/misc/protein'>protein</a>. Additionally, both the filling and coating are sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, making them <a href='/misc/hidden-sugar'>sugar free</a> as well.<br><br>
+
+  For a more traditional peanut butter cup recipe, check out my <a href='/recipes/peanut-butter-cups'>Homemade Dark Chocolate Peanut Butter Cups</a>!
 Instructions:
 - In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, whisk together <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, salt, and cinnamon. Add in the <a href='https://amzn.to/43MkDqr'>vanilla</a> and <a href='/misc/fruit#apple'>applesauce</a>, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until you have a fully combined dough
 - <img src='/assets/Food/Finger Food/PB Cups/bowl.jpg' alt='' class='instruction-image'>
@@ -70,4 +73,22 @@ Instructions:
 - Using 2 forks, lightly coat each <a href='/misc/nuts#peanuts'>peanut butter</a> disc in the <a href='/misc/chocolate-benefits'>chocolate</a>, and transfer back to the plate. Optionally, top with flaky salt. Refrigerate to harden
 - <img src='/assets/Food/Finger Food/PB Cups/coated.jpg' alt='' class='instruction-image'>
 Notes:
+- Here's a comparison of 2 of these <a href='#recipe'>Low Cal PB Cups</a> vs 3 <a href='https://amzn.to/4rwHsZL'>mini Reese's</a> vs 1 standard <a href='/recipes/peanut-butter-cups'>Homemade Dark Chocolate Peanut Butter Cup</a>, which all have the same serving size (~25 g).
+- |
+  COMPARE(
+    "pbcups2",
+    "reeses-25g",
+    "peanutbuttercups";
+
+    "<a href='#recipe'>Low Cal</a>",
+    "<a href='https://amzn.to/4rwHsZL'>Storebought</a>,
+    "<a href='/recipes/peanut-butter-cups'>Standard</a>;
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---

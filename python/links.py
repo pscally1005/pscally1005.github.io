@@ -27,7 +27,11 @@ LINKS = {
         "peanut butter cup",
         "two ingredient peanut butter cup",
         "two-ingredient peanut butter cup",
-        "2 ingredient peanut butter cup"
+        "2 ingredient peanut butter cup",
+        "homemade peanut butter cups",
+        "homemade peanut butter cup",
+        "homemade dark chocolate peanut butter cups",
+        "homemade dark chocolate peanut butter cup"
     ],
     "/recipes/dubai-chocolate-yogurt-bowl": [
         "dubai chocolate yogurt bowl",
@@ -8192,7 +8196,10 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "chocolate to hardnen",
+    "mushy chocolate",
     "dessert activity",
+    "snappy chocolate",
     "making a small pot",
     "German's Chocolate Cake",
     "broiled steak",
