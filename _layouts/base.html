@@ -33,6 +33,14 @@
         });
 
       });
+
+      window.addEventListener("load", function () {
+        if (!window.matchMedia("(max-width: 768px)").matches || !window.location.hash) return;
+
+        const targetId = decodeURIComponent(window.location.hash.slice(1));
+        const target = document.getElementById(targetId);
+        if (target) target.scrollIntoView({ block: "start" });
+      });
     </script>
 
   </body>
