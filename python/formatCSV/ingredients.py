@@ -194,6 +194,8 @@ def ingredients(food):
         f = "Chicken parmesan"
 
     # Baking
+    elif food == "Candies, REESE'S Peanut Butter Cups":
+        f = "Reese's Peanut Butter Cups"
     elif food == "Cookie, chocolate chip":
         f = "Chocolate chip cookie"
     elif food == "Fast foods, hot fudge, sundae":

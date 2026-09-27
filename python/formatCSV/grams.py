@@ -1043,6 +1043,11 @@ def grams(food, mass, vol):
         elif vol == "6 scoop":
             m = "180"
 
+    # PB cups
+    elif food == "Reese's Peanut Butter Cups":
+        if vol == "3 mini":
+            m = "25"
+
     # Nuts
     elif food == "Almonds" or food == "Walnuts" or food == "Cashews" or food == "Pistachios" or food == "Pecans" or food == "Macadamia nuts" or food == "Hazelnuts" or food == "Brazil nuts" or food == "Mixed nuts" or food == "Mixed nuts, unsalted" or food == "Peanuts" or food == "Pine nuts":
         if vol == "2 tbsp":

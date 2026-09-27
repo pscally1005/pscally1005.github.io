@@ -10,6 +10,25 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/yogurt-guac": [
+        "guac inspired yogurt dip",
+        "greek yogurt guacamole dip",
+        "greek yogurt guac",
+        "greek yogurt guacamole",
+        "holy yogamole"
+    ],
+    "/recipes/peanut-butter-cups": [
+        "dark chocolate peanut butter cups",
+        "peanut butter cups",
+        "two ingredient peanut butter cups",
+        "two-ingredient peanut butter cups",
+        "2 ingredient peanut butter cups",
+        "dark chocolate peanut butter cup",
+        "peanut butter cup",
+        "two ingredient peanut butter cup",
+        "two-ingredient peanut butter cup",
+        "2 ingredient peanut butter cup"
+    ],
     "/recipes/dubai-chocolate-yogurt-bowl": [
         "dubai chocolate yogurt bowl",
         "dubai yogurt"
@@ -2984,7 +3003,9 @@ LINKS = {
         "homemade guacamole",
         "homemade guac",
         "guacamole",
-        "guac"
+        "guac",
+        "my normal guac recipe",
+        "my normal guacamole recipe"
     ],
     "/recipes/hot-sauce": [
         "red jalapeno louisiana hot sauce",
@@ -6019,6 +6040,36 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4rwHsZL": [
+        "reese's peanut butter cups",
+        "reeses peanut butter cups",
+        "reese's",
+        "reeses",
+        "reese's peanut butter cup",
+        "reeses peanut butter cup",
+        "mini reese's peanut butter cups",
+        "mini reeses peanut butter cups",
+        "mini reese's peanut butter cup",
+        "mini reeses peanut butter cup",
+        "mini reese's",
+        "mini reeses",
+        "reese's cups",
+        "reeses cups",
+        "reese's cup",
+        "reeses cup",
+        "mini reese's cups",
+        "mini reeses cups",
+        "mini reese's cup",
+        "mini reeses cup"
+    ],
+    "https://amzn.to/4xNaIwK": [
+        "storebought guac",
+        "store bought guac",
+        "storebought guacamole",
+        "store bought guacamole",
+        "store-bought guac",
+        "store-bought guacamole"
+    ],
     "https://amzn.to/4m1zWDi": [
         # "cereal",
         "wheat cereal",
@@ -6726,6 +6777,10 @@ LINKS = {
         "mini-muffin tin"
     ],
     "https://amzn.to/4mzzEDl": [
+        "standard 12-cup muffin pans",
+        "standard 12-cup muffin pan",
+        "standard 12 cup muffin pans",
+        "standard 12 cup muffin pan",
         "muffin pans",
         "muffin pan"
     ],
@@ -6733,7 +6788,13 @@ LINKS = {
         "muffin liners",
         "muffin pan liners",
         "muffin liner",
-        "muffin liners"
+        "muffin liners",
+        "muffin cups",
+        "muffin cup"
+        "muffin cup liners",
+        "muffin cup liner",
+        "muffin pan cups",
+        "muffin pan cup"
     ],
     "https://amzn.to/3Fw6MeC": [
         "wooden spoons",
@@ -8131,6 +8192,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "dessert activity",
     "making a small pot",
     "German's Chocolate Cake",
     "broiled steak",
@@ -8890,8 +8952,8 @@ EXCLUDED_PHRASES = [
     "left side",
     "right side",
     "vanilla (or almond)",
-    "mini muffin liners",
-    "mini muffin cups",
+    # "mini muffin liners",
+    # "mini muffin cups",
     "pecan butter chocolate truffles",
     "chocolate chip cookies",
     "chocolate chip cookie",
@@ -10264,7 +10326,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-06", "2026-10-07")):
+            if not file.startswith(("2026-10-08", "2026-10-09")):
                 continue
 
             # exclude some files

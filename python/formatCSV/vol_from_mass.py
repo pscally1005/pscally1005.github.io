@@ -1111,6 +1111,11 @@ def vol_from_mass(food, mass, vol):
         elif mass == "304":
             v = "1 cup"
 
+    # PB cups
+    elif food == "Reese's Peanut Butter Cups":
+        if mass == "25" or mass == "26":
+            v = "3 mini"
+
     # Nut butters
     elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter":
         if mass == "5" or mass == "6":

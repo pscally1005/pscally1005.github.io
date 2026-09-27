@@ -311,7 +311,8 @@ Blackstrap molasses,blackstrap,6.79,452.80,0.01500,3.9,55,TRUE,TRUE,TRUE,TRUE,TR
 Molasses,molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
 "Molasses, or honey",molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
 Marshmallow,marshmallow,1.17,283.00,0.00413,1.0,63,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,60.7,0.0,0.0,0.0,0,40,
-Vanilla instant pudding mix,pudding-mix,0.98,96.22,0.01018,2.0,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,79.2,0.0,0.0,0.0,0,0,https://amzn.to/4jjD7mH
+Vanilla instant pudding mix,pudding-mix,0.98,96.22,0.01018,2.0,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,79.2,0.0,0.0,4.2,0,40,https://amzn.to/4jjD7mH
+"Pistachio pudding mix, sugar free",pudding-mix-sf,1.50,28.30,0.05300,3.0,40,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,0.0,0.0,0.0,4.2,0,40,https://amzn.to/47oj3Mp
 Duncan Hines Keto Brownie Mix,duncan-hines-keto,5.92,280.00,0.02114,3.0,51,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,20.8,0.0,0.0,0,15,https://amzn.to/43uSbYP
 Duncan Hines Dark Chocolate Fudge Brownie Mix,duncan-hines-sugar,1.54,515.06,0.00299,2.0,62,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,51.7,0.0,0.0,0.0,75,10,https://amzn.to/3SjWmlg
 Sugar free chocolate bar,100,1.46,113.20,0.01290,7.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-bar
@@ -326,7 +327,6 @@ Pure granulated monk fruit,pure-monk-fruit,23.79,141.50,0.16813,0.0,0,TRUE,TRUE,
 High fiber sugar substitute,high-fiber-sug-sub-100g,6.85,200.00,0.03425,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/high-fiber-sugar-substitute
 Allulose,allulose,16.96,"1,135.00",0.01494,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,100.0,0.0,0,40,https://amzn.to/4mzsH5p
 Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43vQs5E
-"Pistachio pudding mix, sugar free",pudding-mix-sf,1.50,28.30,0.05300,3.0,40,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,0.0,0.0,0.0,4.2,0,40,https://amzn.to/47oj3Mp
 Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,5.3,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,25,/recipes/monkfruit-chocolate-chunks
 Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,5.3,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,25,https://amzn.to/4kGEfC5
 Chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
@@ -459,6 +459,7 @@ Onion soup mix,onion-soup-mix,0.98,56.60,0.01731,0.0,58,FALSE,TRUE,TRUE,TRUE,TRU
 Dried onion flakes,onion-flakes,5.99,180.00,0.03328,8.6,58,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/43hCANC
 Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,9.2,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4sgDH9S
 Peanut Chili Salad Dressing,pb-dressing-100g,0.87,87.50,0.00994,5.5,31,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3.0,0.0,0.0,0.0,0,18,/recipes/peanut-chili-salad-dressing
+Reese's Peanut Butter Cups,reeses-100g,14.92,849.00,0.01757,4.1,60,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,50.0,0.0,0.0,0.0,0,15,https://amzn.to/4rwHsZL
 Skippy peanut butter,skippy,6.27,"1,132.00",0.00554,6.7,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,6.3,0.0,0.0,0.0,0,15,
 Natural peanut butter,peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 "Natural peanut butter, or tahini",peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
