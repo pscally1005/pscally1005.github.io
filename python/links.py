@@ -10,6 +10,17 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/beanut-butter": [
+        "bean nut butter",
+        "bean-nut butter",
+        "beannut butter",
+        "beanut butter"
+    ],
+    "/recipes/beanana-bread": [
+        "beanana bread",
+        "bean-ana bread",
+        "banana bread with beans",
+    ],
     "/recipes/deconstructed-carrot-cake": [
         "deconstructed carrot cake",
         "deconstructed carrot cake bowl"
@@ -9747,6 +9758,7 @@ EXCLUDED_PHRASES = [
     "banana peppers",
     "banana pepper",
     # "banana bread",
+    "banana bread recipe",
     "garlic powder",
     "onion powder",
     "garlic and onion powders",
@@ -10343,7 +10355,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-10")):
+            if not file.startswith(("2026-10-11", "2026-10-12", "2026-09-01", "2026-10-10")):
                 continue
 
             # exclude some files

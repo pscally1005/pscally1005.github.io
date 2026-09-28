@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  High Fiber Sugar Substitute
-date:   2026-09-16 00:00:00 -0500
+date:   2026-09-28 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
