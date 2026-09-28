@@ -75,7 +75,7 @@ Instructions:
 - Add 2 tsp (10 g) of <a href='/recipes/natural-peanut-butter'>peanut butter</a> to the center of each peanut butter cup.
 - <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/mid.jpg' alt='' class='instruction-image'>
 
-- Finally, top each peanut butter cups with an additional 1/2 tbsp (7.5 g) of melted chocolate.
+- Finally, top each peanut butter cup with an additional 1/2 tbsp (7.5 g) of melted chocolate.
 - <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/top.jpg' alt='' class='instruction-image'>
 
 - Refrigerate for at least 30 minutes for the chocolate to harden before serving.

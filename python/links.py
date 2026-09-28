@@ -10,6 +10,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/deconstructed-carrot-cake": [
+        "deconstructed carrot cake",
+        "deconstructed carrot cake bowl"
+    ],
     "/recipes/yogurt-guac": [
         "guac inspired yogurt dip",
         "greek yogurt guacamole dip",
@@ -6066,6 +6070,11 @@ LINKS = {
         "mini reese's cup",
         "mini reeses cup"
     ],
+    "https://amzn.to/4AzBcEv": [
+        "storebought hummus",
+        "store bought hummus",
+        "store-bought hummus"
+    ],
     "https://amzn.to/4xNaIwK": [
         "storebought guac",
         "store bought guac",
@@ -10333,7 +10342,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-08", "2026-10-09")):
+            if not file.startswith(("2026-10-10")):
                 continue
 
             # exclude some files
