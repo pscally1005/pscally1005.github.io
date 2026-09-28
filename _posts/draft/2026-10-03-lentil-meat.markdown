@@ -22,7 +22,7 @@ vic: yes
 protein_bar: no
 beans: yes
 permalink: /recipes/lentil-meat
-image: /assets/Food/Ground meat/Lentil meat/Lentil/cover.jpg
+image: /assets/Food/Ground Meat/Lentil meat/Lentil/cover.jpg
 file: lentilmeat
 servingSize: 155 g cooked
 section1: Lentils
