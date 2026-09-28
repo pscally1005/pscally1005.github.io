@@ -16,7 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
-copycat: no
+copycat: yes
 vic: no
 protein_bar: no
 beans: no

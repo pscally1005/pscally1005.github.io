@@ -53,8 +53,11 @@ tags:
 - frosting
 - cake
 - carrots
-Description: What is Deconstructed Carrot Cake, you may be asking? Well it's a protein-packed yogurt bowl with all the flavors of carrot cake, such as cinnamon, walnuts, and a "cream cheese" icing (aka Greek yogurt). This bowl works as a great breakfast, with carrots on the side for dipping.
+Description: |
+  What is Deconstructed Carrot Cake, you may be asking? Well it's a <a href='/misc/protein'>protein</a>-packed <a href='/yogurt'>yogurt bowl</a> with all the flavors of carrot cake, such as cinnamon, <a href='/misc/nuts#walnuts'>walnuts</a>, and a "<a href='/misc/dairy#cream-cheese'>cream cheese</a>" icing (aka <a href='/misc/dairy#yogurt'>Greek yogurt</a>). This bowl works as a great <a href='/recipes/breakfast'>breakfast</a>, with <a href='/misc/veggies#carrots'>carrots</a> <a href='/recipes/sides'>on the side</a> for dipping.<br><br>
+
+  For some other carrot cake type recipes, check out my Layered Protein Carrot Cake and Carrot Cake Energy Bites!
 Instructions:
-- Mix together yogurt, cinnamon, pure granulated monk fruit, ginger, nutmeg, cloves, salt, and vanilla in a small bowl. Top with chopped walnuts. Serve with carrots for dipping.
+- Mix together <a href='/misc/dairy#yogurt'>yogurt</a>, cinnamon, <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a>, ginger, nutmeg, cloves, salt, and <a href='https://amzn.to/43MkDqr'>vanilla</a> in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Top with chopped <a href='/misc/nuts#walnuts'>walnuts</a>. Serve with <a href='/misc/veggies#carrots'>carrots</a> for dipping.
 Notes:
 ---
