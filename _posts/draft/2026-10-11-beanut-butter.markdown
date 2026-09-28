@@ -54,18 +54,18 @@ tags:
 - pea protein powder
 - pea protein isolate
 Description: |
-  This isn't peanut butter. It's Beanut Butter, a nut-free peanut butter alternative made from cannellini beans, pea protein, and coconut oil. It's creamy, mildly nutty, higher in protein, and much lower in fat than traditional peanut butter.<br><br>
+  This isn't <a href='/recipes/natural-peanut-butter'>peanut butter</a>. It's Beanut Butter, a <a href='/misc/nuts'>nut-free</a> <a href='/recipes/natural-peanut-butter'>peanut butter</a> alternative made from <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, <a href='https://amzn.to/4aXnK21'>pea protein</a>, and <a href='/misc/nuts#coconut'>coconut oil</a>. It's creamy, mildly nutty, higher in <a href='/misc/protein'>protein</a>, and much lower in <a href='/misc/fats'>fat</a> than traditional <a href='/recipes/natural-peanut-butter'>peanut butter</a>.<br><br>
 
-  But you know you what would be a great use for this Beanut Butter? That's right, spreading it onto a slice of some Beanana Bread, a nut-free, gluten-free, sugar-free, vegan banana bread with cannellini beans as the base.<br><br>
+  But you know you what would be a great use for this Beanut Butter? That's right, spreading it onto a slice of <a href='/recipes/beanana-bread'>Beanana Bread</a>, a <a href='/misc/nuts'>nut-free</a>, <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, and vegan banana bread with <a href='/misc/beans#cannellini-beans'>cannellini beans</a> as the base.<br><br>
 
-  For a different nut-free peanut butter substitute, but this time with the exact same macros and texture as a natural peanut butter, to be used as a 1:1 substitute in all baking applications, check out my Pea Butter!
+  For a different <a href='/misc/nuts'>nut-free</a> <a href='/recipes/natural-peanut-butter'>peanut butter</a> substitute, but this time with the exact same macros and texture as a <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, to be used as a 1:1 substitute in all baking applications, check out my <a href='/recipes/pea-butter'>Pea Butter</a>!
 Instructions:
-- Drain and rinse your can of beans, reserving the liquid. Add to a food processor with the rest of the ingredients, and blend until smooth.
+- Drain and rinse your can of <a href='/misc/beans'>beans</a>, reserving the liquid. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the rest of the ingredients, and blend until smooth.
 - <img src='/assets/Food/Meme/Beanut Butter/processor.jpg' alt='' class='instruction-image'>
 Notes:
 - Thin out with a little aquafaba if necessary. I didn't end up needing any, but you may need up to 1 tbsp (15 g) if it looks too dry.
 
-- Below is a nutritional comparison of <a href='#recipe'>this beanut butter</a> to <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, per 2 tbsp (32 g).  As you can see, the <a href='#recipe'>beanut butter</a> is much lower in total fat and calories, while being higher in protein.
+- Below is a nutritional comparison of <a href='#recipe'>this beanut butter</a> to <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, per 2 tbsp (32 g).  As you can see, the <a href='#recipe'>beanut butter</a> is much lower in total <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, while being higher in <a href='/misc/protein'>protein</a>.
 - |
   COMPARE(
     "beanut",

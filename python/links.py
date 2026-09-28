@@ -20,6 +20,7 @@ LINKS = {
         "beanana bread",
         "bean-ana bread",
         "banana bread with beans",
+        "vegan banana bread"
     ],
     "/recipes/deconstructed-carrot-cake": [
         "deconstructed carrot cake",
@@ -270,10 +271,10 @@ LINKS = {
     ],
     "/recipes/pea-butter": [
         "pea butter",
-        "no-nut peanut butter",
-        "no nut peanut butter",
-        "nut free peanut butter",
-        "nut-free peanut butter",
+        # "no-nut peanut butter",
+        # "no nut peanut butter",
+        # "nut free peanut butter",
+        # "nut-free peanut butter",
         "pea (no-nut) butter",
         "pea (no nut) butter",
         "pea-nut butter",
@@ -5072,7 +5073,9 @@ LINKS = {
     "/misc/nuts": [
         "I'm Nuts For Nuts",
         "nuts",
-        "nut"
+        "nut",
+        "nut free",
+        "nut-free"
     ],
     "/misc/nuts#almonds": [
         "almond butter",
@@ -8217,8 +8220,13 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "chocolate to hardnen",
+    "salt, and ginger",
+    "all baking",
+    "baking applications",
     "mushy chocolate",
+    "on the side for dipping",
     "dessert activity",
+    "delicious banana bread",
     "snappy chocolate",
     "ginger, nutmeg",
     "making a small pot",

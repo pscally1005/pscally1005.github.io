@@ -64,28 +64,30 @@ tags:
 - pea protein powder
 - pea protein isolate
 Description: |
-  Beanana bread. A banana bread recipe using a can of cannellini beans as the base. It's sugar-free, being sweetened with pure granulated monk fruit, as well as gluten-free, using oat flour instead of refined white flour. It also uses a minimal amount of coconut oil, instead of tons of vegetable oil or butter, lowering the fat content. This protein packed dessert has nearly 10 g of protein in about 130 calories, and tastes like a delicious banana bread, but without all the junk.<br><br>
+  Beanana bread. A banana bread recipe using a can of <a href='/misc/beans#cannellini-beans'>cannellini beans</a> as the base. It's <a href='/misc/hidden-sugar'>sugar-free</a>, being sweetened with <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a>, as well as <a href='/misc/celiac'>gluten-free</a>, using <a href='/misc/grains#oats'>oat flour</a> instead of <a href='/misc/grains#white-wheat'>refined white flour</a>.<br><br>
 
-  But you know you what would be good spread on a slice of this Beanana Bread? That's right, some Beanut Butter, a nut-free peanut butter alternative made from cannellini beans, pea protein, and coconut oil.
+  It also uses a minimal amount of <a href='/misc/nuts#coconut'>coconut oil</a>, instead of tons of <a href='/misc/fake-healthy-foods#seed-oil'>vegetable oil</a> or <a href='/misc/dairy#butter'>butter</a>, lowering the <a href='/misc/fats'>fat</a> content. This <a href='/recipes/protein-powder'>protein packed dessert</a> has nearly 10 g of <a href='/misc/protein'>protein</a> in about 130 <a href='/misc/calories'>calories</a>, and tastes like a delicious banana bread, but without all the junk.<br><br>
+
+  But you know you what would be good spread on a slice of this Beanana Bread? That's right, some <a href='/recipes/beanut-butter'>Beanut Butter</a>, a <a href='/misc/nuts'>nut-free</a> <a href='/recipes/natural-peanut-butter'>peanut butter</a> alternative made from <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, <a href='https://amzn.to/4aXnK21'>pea protein</a>, and <a href='/misc/nuts#coconut'>coconut oil</a>.
 Instructions:
-- Preheat your oven to 350F, and line a 9x5" bread pan with parchment paper. Lightly grease the paper with oil.
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease the paper with oil</a>.
 
-- Drain and rinse your can of beans, reserving the liquid. Add the beans to a food processor with the wet ingredients - banana, coconut oil, and vanilla extract. Blend until smooth. Transfer to a large bowl.
+- Drain and rinse your can of <a href='/misc/beans'>beans</a>, reserving the liquid. Add the <a href='/misc/beans'>beans</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the wet ingredients - <a href='/misc/fruit#banana'>banana</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='https://amzn.to/43MkDqr'>vanilla extract</a>. Blend until smooth. Transfer to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>.
 - <img src='/assets/Food/Meme/Beanana Bread/processor.jpg' alt='' class='instruction-image'>
 
-- Add in the dry ingredients (oat flour, pea protein, baking powder, pure granulated monk fruit, cinnamon, salt, and ginger), and mix with a silicone spatula until fully combined.
+- Add in the dry ingredients (<a href='/misc/grains#oats'>oat flour</a>, <a href='https://amzn.to/4aXnK21'>pea protein</a>, baking powder, <a href='https://amzn.to/3Sg1Z7p'>sweetener</a>, cinnamon, salt, and ginger), and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined.
 - <img src='/assets/Food/Meme/Beanana Bread/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top.
 - <img src='/assets/Food/Meme/Beanana Bread/raw.jpg' alt='' class='instruction-image'>
 
-- Bake uncovered at 350F for the first 45 minutes. Cover the top with foil, and bake for 15 more minutes. Until a toothpick to the center comes out nearly clean, the internal temperature has reached 205F, and the top is a light golden brown.
+- Bake uncovered at 350F for the first 45 minutes. Cover the top with foil, and bake for 15 more minutes. Until a toothpick to the center comes out nearly clean, the <a href='https://amzn.to/4kmobG2'>internal temperature</a> has reached <a href='https://amzn.to/4kmobG2'>205F</a>, and the top is a light golden brown.
 - <img src='/assets/Food/Meme/Beanana Bread/baked.jpg' alt='' class='instruction-image'>
 
-- Allow it to cool completely (at least 1 hour in the fridge on a wire rack) before slicing.
+- Allow it to cool completely (at least 1 hour in the fridge on a <a href='https://amzn.to/4qQNmn2'>wire rack</a>) before slicing.
 - <img src='/assets/Food/Meme/Beanana Bread/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - Add a splash of aquafaba if necessary if the batter is too thick. It should be about the consistency of a very thick brownie batter, but not so dry that it resembles a wet cookie dough.
 
-- Optionally, fold in 1/4 cup (60 g) of chopped walnuts or mini chocolate chips.
+- Optionally, fold in 1/4 cup (60 g) of chopped <a href='/misc/nuts#walnuts'>walnuts</a> or mini chocolate chips.
 ---

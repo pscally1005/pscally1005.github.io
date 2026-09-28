@@ -54,10 +54,10 @@ tags:
 - cake
 - carrots
 Description: |
-  What is Deconstructed Carrot Cake, you may be asking? Well it's a <a href='/misc/protein'>protein</a>-packed <a href='/yogurt'>yogurt bowl</a> with all the flavors of carrot cake, such as cinnamon, <a href='/misc/nuts#walnuts'>walnuts</a>, and a "<a href='/misc/dairy#cream-cheese'>cream cheese</a>" icing (aka <a href='/misc/dairy#yogurt'>Greek yogurt</a>). This bowl works as a great <a href='/recipes/breakfast'>breakfast</a>, with <a href='/misc/veggies#carrots'>carrots</a> <a href='/recipes/sides'>on the side</a> for dipping.<br><br>
+  What is a Deconstructed Carrot Cake, you may be asking? Well it's a <a href='/misc/protein'>protein</a>-packed <a href='/yogurt'>yogurt bowl</a> with all the flavors of <a href='/recipes/carrot-cake'>carrot cake</a>, such as cinnamon, <a href='/misc/nuts#walnuts'>walnuts</a>, and a "<a href='/misc/dairy#cream-cheese'>cream cheese</a>" icing (aka <a href='/misc/dairy#yogurt'>Greek yogurt</a>). This bowl works as a great <a href='/recipes/breakfast'>breakfast</a>, with <a href='/misc/veggies#carrots'>carrots</a> on the sidfe for dipping.<br><br>
 
-  For some other carrot cake type recipes, check out my Layered Protein Carrot Cake and Carrot Cake Energy Bites!
+  For some other <a href='/recipes/carrot-cake'>carrot cake</a> type recipes, check out my <a href='/recipes/carrot-cake'>Layered Protein Carrot Cake</a> and <a href='/recipes/carrot-cake-bites'>Carrot Cake Energy Bites</a>!
 Instructions:
-- Mix together <a href='/misc/dairy#yogurt'>yogurt</a>, cinnamon, <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a>, ginger, nutmeg, cloves, salt, and <a href='https://amzn.to/43MkDqr'>vanilla</a> in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Top with chopped <a href='/misc/nuts#walnuts'>walnuts</a>. Serve with <a href='/misc/veggies#carrots'>carrots</a> for dipping.
+- Mix together <a href='/misc/dairy#yogurt'>yogurt</a>, cinnamon, <a href='https://amzn.to/3Sg1Z7p'>sweetener</a>, ginger, nutmeg, cloves, salt, and <a href='https://amzn.to/43MkDqr'>vanilla</a> in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Top with chopped <a href='/misc/nuts#walnuts'>walnuts</a>. Serve with <a href='/misc/veggies#carrots'>carrots</a> for dipping.
 Notes:
 ---

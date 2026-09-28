@@ -55,7 +55,7 @@ Description: |
 
   The result is a gram for gram nutritionally identical recreation of <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>.  Use this as you would <a href='/recipes/natural-peanut-butter'>peanut butter</a>, whether it be spreading on an <a href='/misc/fruit#apple'>apple</a> or for <a href='/recipes/healthier-dessert'>baking</a>.<br><br>
 
-  For another unhinged <a href='/recipes/natural-peanut-butter'>peanut butter</a> recreation, check out my <a href='/recipes/reconstituted-peanut-butter'>Reconstituted Peanut Butter</a>! Or for different nut-free peanut butter substitute, but this time with more fiber and protein, and less fat and calories, check out my Beanut Butter!
+  For another unhinged <a href='/recipes/natural-peanut-butter'>peanut butter</a> recreation, check out my <a href='/recipes/reconstituted-peanut-butter'>Reconstituted Peanut Butter</a>! Or for different nut-free peanut butter substitute, but this time with more <a href='/misc/protein'>protein</a>, and less <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, check out my <a href='/recipes/beanut-butter'>Beanut Butter</a>!
 Instructions:
 - Mix all ingredients together in a <a href='https://amzn.to/4zyFnzN'>small bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Use as you would <a href='/recipes/natural-peanut-butter'>peanut butter</a>.
 - <img src='/assets/Food/Meme/Pea Butter/bowl1.jpg' alt='' class='instruction-image'>
