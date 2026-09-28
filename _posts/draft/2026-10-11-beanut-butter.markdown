@@ -63,6 +63,8 @@ Instructions:
 - Drain and rinse your can of <a href='/misc/beans'>beans</a>, reserving the liquid. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the rest of the ingredients, and blend until smooth.
 - <img src='/assets/Food/Meme/Beanut Butter/processor.jpg' alt='' class='instruction-image'>
 Notes:
+- I'm using <a href='/misc/beans#cannellini-beans'>cannellini beans</a> here, but <a href='/misc/beans#chickpeas'>chickpeas</a> or <a href='/misc/beans#pinto-beans'>pinto beans</a> would also work. <a href='/misc/beans#black-beans'>Black</a> or <a href='/misc/beans#kidney-beans'>kidney beans</a> would change the color too much, so it wouldn't look like <a href='/recipes/natural-peanut-butter'>peanut butter</a>, but if that doesn't matter to you then these <a href='/misc/beans'>beans</a> can be used as well!
+
 - Thin out with a little aquafaba if necessary. I didn't end up needing any, but you may need up to 1 tbsp (15 g) if it looks too dry.
 
 - Below is a nutritional comparison of <a href='#recipe'>this beanut butter</a> to <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, per 2 tbsp (32 g).  As you can see, the <a href='#recipe'>beanut butter</a> is much lower in total <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, while being higher in <a href='/misc/protein'>protein</a>.

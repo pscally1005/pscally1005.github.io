@@ -25,9 +25,9 @@ permalink: /recipes/beanana-bread
 image: /assets/Food/Meme/Beanana Bread/cover.jpg
 file: beanana
 servingSize: 1 slice (~TODO g)
-section1:
-start2:
-section2:
+section1: Wet
+start2: Oat flour
+section2: Dry
 start3:
 section3:
 start4:
@@ -87,6 +87,8 @@ Instructions:
 - Allow it to cool completely (at least 1 hour in the fridge on a <a href='https://amzn.to/4qQNmn2'>wire rack</a>) before slicing.
 - <img src='/assets/Food/Meme/Beanana Bread/cut.jpg' alt='' class='instruction-image'>
 Notes:
+- I'm using <a href='/misc/beans#cannellini-beans'>cannellini beans</a> here, but <a href='/misc/beans#chickpeas'>chickpeas</a> or <a href='/misc/beans#pinto-beans'>pinto beans</a> would also work. <a href='/misc/beans#black-beans'>Black</a> or <a href='/misc/beans#kidney-beans'>kidney beans</a> would change the color too much, so it wouldn't look like a banana bread, but if that doesn't matter to you then these <a href='/misc/beans'>beans</a> can be used as well!
+
 - Add a splash of aquafaba if necessary if the batter is too thick. It should be about the consistency of a very thick brownie batter, but not so dry that it resembles a wet cookie dough.
 
 - Optionally, fold in 1/4 cup (60 g) of chopped <a href='/misc/nuts#walnuts'>walnuts</a> or mini chocolate chips.

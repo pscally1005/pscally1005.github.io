@@ -8220,6 +8220,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "chocolate to hardnen",
+    "and vegan banana bread",
     "salt, and ginger",
     "all baking",
     "baking applications",
@@ -10363,7 +10364,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-11", "2026-10-12", "2026-09-01", "2026-10-10")):
+            if not file.startswith(("2026-10-11")):
                 continue
 
             # exclude some files
