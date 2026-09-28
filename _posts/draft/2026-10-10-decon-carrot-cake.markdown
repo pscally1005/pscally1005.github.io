@@ -54,7 +54,7 @@ tags:
 - cake
 - carrots
 Description: |
-  What is a Deconstructed Carrot Cake, you may be asking? Well it's a <a href='/misc/protein'>protein</a>-packed <a href='/yogurt'>yogurt bowl</a> with all the flavors of <a href='/recipes/carrot-cake'>carrot cake</a>, such as cinnamon, <a href='/misc/nuts#walnuts'>walnuts</a>, and a "<a href='/misc/dairy#cream-cheese'>cream cheese</a>" icing (aka <a href='/misc/dairy#yogurt'>Greek yogurt</a>). This bowl works as a great <a href='/recipes/breakfast'>breakfast</a>, with <a href='/misc/veggies#carrots'>carrots</a> on the sidfe for dipping.<br><br>
+  What is a Deconstructed Carrot Cake, you may be asking? Well it's a <a href='/misc/high-protein'>high-protein</a> <a href='/yogurt'>yogurt bowl</a> with all the flavors of <a href='/recipes/carrot-cake'>carrot cake</a>, such as cinnamon, <a href='/misc/nuts#walnuts'>walnuts</a>, and "<a href='/misc/dairy#cream-cheese'>cream cheese</a>" icing (aka <a href='/misc/dairy#yogurt'>Greek yogurt</a>). This bowl works as a great <a href='/recipes/breakfast'>breakfast</a>, with <a href='/misc/veggies#carrots'>carrots</a> on the side for dipping.<br><br>
 
   For some other <a href='/recipes/carrot-cake'>carrot cake</a> type recipes, check out my <a href='/recipes/carrot-cake'>Layered Protein Carrot Cake</a> and <a href='/recipes/carrot-cake-bites'>Carrot Cake Energy Bites</a>!
 Instructions:
