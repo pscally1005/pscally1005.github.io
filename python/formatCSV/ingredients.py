@@ -701,6 +701,8 @@ def ingredients(food):
     elif food == "hummus" or food == "tahini-hummus":
         f = "Hummus"
         # f = "Classic tahini hummus"
+    elif food == "Hummus, commercial":
+        f = "Hummus, storebought"
     elif food == "Nuts, almonds" or food == "Nuts, with salt added, dry roasted, almonds" or food == "Nuts, without salt added, dry roasted, almonds":
         f = "Almonds"
     elif food == "Chopped peanuts by Raley's" or food == "Peanuts, raw, all types" or food == "Peanuts, unsalted, roasted" or food == "Peanuts, unsalted, dry roasted" or food == "Peanuts, lightly salted, dry roasted" or food == "Peanuts, salted, dry roasted" or food == "Peanuts, without salt, dry-roasted, all types" or food == "Peanuts, dry roasted, unsalted":

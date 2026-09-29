@@ -22,7 +22,7 @@ vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/peanut-butter-cups
-image: /assets/Misc/Unhealthy/Peanut Butter Cups/cover.jpg
+image: /assets/Misc/Unhealthy/Peanut Butter Cups/cover2.jpg
 file: peanutbuttercups
 servingSize: 1 PB cup (~25 g)
 section1: Chocolate
@@ -67,7 +67,6 @@ Instructions:
 - Line a <a href='https://amzn.to/4mzzEDl'>standard 12 cup muffin pan</a> with <a href='https://amzn.to/4iDfGZ7'>muffin liners</a>.
 
 - Add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Microwave in 20 second intervals, stirring in between with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, until you have a smooth melted chocolate.
-- <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/choc.jpg' alt='' class='instruction-image'>
 
 - Add 1/2 tbsp (7.5 g) of melted chocolate to the bottom of each <a href='https://amzn.to/4iDfGZ7'>muffin cup</a>, and tilt the pan to cover the full bottom.
 - <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/bot.jpg' alt='' class='instruction-image'>
@@ -75,10 +74,12 @@ Instructions:
 - Add 2 tsp (10 g) of <a href='/recipes/natural-peanut-butter'>peanut butter</a> to the center of each peanut butter cup.
 - <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/mid.jpg' alt='' class='instruction-image'>
 
-- Finally, top each peanut butter cup with an additional 1/2 tbsp (7.5 g) of melted chocolate.
-- <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/top.jpg' alt='' class='instruction-image'>
+- Finally, top each peanut butter cup with an additional 1/2 tbsp (7.5 g) of melted chocolate. Optionally top with flaky salt.
+- <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/top1.jpg' alt='' class='instruction-image'>
 
 - Refrigerate for at least 30 minutes for the chocolate to harden before serving.
+# - <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/top2.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/cover1.jpg' alt='' class='instruction-image'>
 Notes:
 - Here's a comparison of 1 of <a href='#recipe'>these peanut butter cups</a> vs 3 <a href='https://amzn.to/4rwHsZL'>mini Reese's</a> vs 2 <a href='/recipes/pb-cups'>Low Cal PB Cups</a>, which all have the same serving size (~25 g).
 - |

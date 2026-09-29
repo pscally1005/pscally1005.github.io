@@ -16,6 +16,7 @@ Aquafaba Whipped Cream,whipped-cream,1.53,245.50,0.00623,5.4,3,TRUE,TRUE,TRUE,TR
 Banana Bread Hummus Spread,bb-hummus,2.29,653.00,0.00351,8.2,40,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,35,/recipes/banana-bread-hummus
 Hummus,hummus-homemade-100g,1.73,427.50,0.00405,9.3,27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/hummus
 Classic tahini hummus,hummus-homemade-100g,1.73,427.50,0.00405,9.3,27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/classic-tahini-hummus
+"Hummus, storebought",hummus-store-100g,2.79,226.40,0.01232,8.3,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4AzBcEv
 Chickpea flour,chickpea-flour,1.50,454.00,0.00330,9.2,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/misc/homemade-flours
 Chickpea pasta,red-lentil-pasta,3.18,224.00,0.01420,8.7,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4kdHvoC
 "Pinto beans, drained and rinsed",pinto-drained,0.86,255.00,0.00337,9.7,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -334,7 +335,7 @@ Mini chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,
 Semisweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
 Semi-sweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
 Semisweet chocolate chips (optional),chocolate-chips,0.00,336.00,0.00000,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,
-Dark chocolate chips,chocolate-chips,0.00,336.00,0.00000,3.5,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
+Dark chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
 Chocolate free chocolate,carob-bar,2.02,113.20,0.01784,6.8,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-free-chocolate
 "Dubai chocolate, storebought",dubai-store,14.99,198.10,0.07567,3.5,45,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.0,0.0,0.0,0.0,0,25,https://amzn.to/4uVLBYm
 "Dubai chocolate, homemade",dubai-100g,5.15,414.40,0.01243,7.5,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,25,/recipes/dubai-chocolate

@@ -74,16 +74,23 @@ Notes:
 
 - Water or <a href='/misc/dairy#buttermilk'>buttermilk</a> will work in place of <a href='/misc/slow-cooker-chicken'>chicken broth</a>.
 
-- For a slightly healthier biscuit, replace the 2 2/3 cup of <a href='/misc/grains#white-wheat'>white flour</a> with either <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (320 g) or <a href='/misc/grains#oats'>oat flour</a> (240 g).
+- |
+  For a slightly healthier <a href='#recipe'>biscuit</a>, replace the 2 2/3 cup of <a href='/misc/grains#white-wheat'>white flour</a> with either <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (320 g) or <a href='/misc/grains#oats'>oat flour</a> (240 g).<br><br>
+
+  You can also use 3 1/2 cups <a href='/misc/nuts#almonds'>almond flour</a> (400 g). Substantially more <a href='/misc/nuts#almonds'>flour</a> is needed to make this into a dough that isn't too wet or sticky. Because of the extra <a href='/misc/nuts#almonds'>flour</a>, the <a href='/misc/nuts#almonds'>almond flour</a> version will make 10 <a href='#recipe'>biscuits</a> instead of 8.<br><br>
+
+  The raw weights of each <a href='#recipe'>biscuit</a> for <a href='/misc/grains#white-wheat'>white</a>, <a href='/misc/grains#whole-wheat'>whole wheat</a>, <a href='/misc/grains#oats'>oat</a>, and <a href='/misc/nuts#almonds'>almond flours</a> are <b>71 g</b>, <b>71 g</b>, <b>61 g</b>, and <b>65 g</b>, respectively.
 - |
   COMPARE(
     "biscuits",
     "biscuitsww",
-    "biscuitsoat";
+    "biscuitsoat",
+    "biscuitsalmond";
 
     "<a href='/misc/grains#white-wheat'>White<br>Flour</a>",
     "<a href='/misc/grains#whole-wheat'>Whole<br>Wheat</a>",
-    "<a href='/misc/grains#oats'>Oat<br>Flour</a>";
+    "<a href='/misc/grains#oats'>Oat<br>Flour</a>",
+    "<a href='/misc/nuts#almonds'>Almond<br>Flour</a>";
 
     "Calories",
     "Protein",
@@ -92,4 +99,6 @@ Notes:
     "Fiber"
   )
 - <img src='/assets/Misc/Unhealthy/Biscuits/WW/cover.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Biscuits/GF/oats-cover.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Biscuits/GF/almond-cover.jpg' alt='' class='instruction-image'>
 ---

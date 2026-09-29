@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Homemade Date Paste
-date:   2026-09-15 00:00:00 -0500
+date:   2026-09-29 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
