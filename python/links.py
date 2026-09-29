@@ -11,6 +11,7 @@ LINKS = {
 
     # RECIPES
     "/recipes/hummus-coleslaw": [
+        "coleslaw",
         "hummus coleslaw",
         "coleslaw with hummus",
         "no-mayo coleslaw",
@@ -3677,6 +3678,7 @@ LINKS = {
         "baked potato"
     ],
     "/recipes/pulled-chicken": [
+        # "coleslaw",
         "bbq pulled chicken and coleslaw",
         "bbq pulled chicken",
         "pulled chicken",
@@ -3684,7 +3686,11 @@ LINKS = {
         "bbq chicken",
         "barbeque chicken",
         "barbeque pulled chicken and coleslaw",
-        "barbeque pulled chicken"
+        "barbeque pulled chicken",
+        "oil & vinegar coleslaw",
+        "oil and vinegar coleslaw",
+        "oil & vinegar based coleslaw",
+        "oil and vinegar based coleslaw"
     ],
     "/recipes/sweet-potato-fries": [
         "spices sweet potato fries",
@@ -6072,6 +6078,12 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/3VjQA7Z": [
+        "storebought coleslaw",
+        "store bought coleslaw",
+        "store-bought coleslaw"
+        "standard coleslaw"
+    ],
     "https://amzn.to/4rwHsZL": [
         "reese's peanut butter cups",
         "reeses peanut butter cups",
@@ -7457,7 +7469,8 @@ LINKS = {
         "hummus-like recipes",
         "hummus-like recipe",
         "hummus-like",
-        "hummus like"
+        "hummus like",
+        "homemade hummus"
     ],
     "/oatmeal": [
         # "oats",
@@ -8856,9 +8869,9 @@ EXCLUDED_PHRASES = [
     "400 g of ketchup",
     "favorite spreads and sauces",
     "peanut chili",
-    "store-bought hummus",
-    "storebought hummus",
-    "store bought hummus",
+    # "store-bought hummus",
+    # "storebought hummus",
+    # "store bought hummus",
     "orange hue",
     "stems (and seeds",
     "my bbq sauce",

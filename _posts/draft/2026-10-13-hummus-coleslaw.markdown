@@ -52,16 +52,41 @@ tags:
 - mayonnaise
 - mayonaise
 - mayo
-Description: Instead of coating my cabbage in mayo to make a high calorie, high fat coleslaw, I'm using hummus as my binder for more protein and fiber for less fat and calories. Not to mention that this also tastes much better than your standard diner side dish.
+- bbq chicken and coleslaw
+- chickpeas
+- beans
+- diner
+- side dish
+Description: |
+  Instead of coating my <a href='/misc/veggies#cabbage'>cabbage</a> in <a href='/misc/fake-healthy-foods#dips'>mayo</a> to make a <a href='/misc/calories'>high calorie</a>, <a href='/misc/fats'>high fat</a> <a href='/recipes/pulled-chicken'>coleslaw</a>, I'm using <a href='/hummus'>hummus</a> as my binder for more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> for less <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>. Not to mention that this also tastes much better than your standard diner <a href='/recipes/sides'>side dish</a>.<br><br>
+
+  For an <a href='/misc/olive-oil'>oil</a> & <a href='/misc/apple-cider-vinegar'>vinegar</a> based coleslaw, check out my <a href='/recipes/pulled-chicken'>BBQ Pulled Chicken & Coleslaw</a>!
 Instructions:
-- Mix together shredded cabbage and hummus in a large bowl.
+- Mix together <a href='/misc/veggies#cabbage'>shredded cabbage</a> and <a href='/hummus'>hummus</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>.
 - <img src='/assets/Food/Sides/Hummus Coleslaw/bowl.jpg' alt='' class='instruction-image'>
 Notes:
-- I've written this recipe to call for an entire standard 8 oz (226 g) container of storebought hummus, as well as a standard size 16 oz (454 g) bag of shredded cabbage or coleslaw mix.
+- I've written this recipe to call for an entire standard 8 oz (226 g) container of <a href='https://amzn.to/4AzBcEv'>storebought hummus</a>, as well as a standard size 16 oz (454 g) bag of <a href='/misc/veggies#cabbage'>shredded cabbage</a> or coleslaw mix.
 
-- Feel free to use any flavor of storebought hummus or homemade hummus. Here I'm using my homemade Lentil Hummus.
+- Feel free to use any flavor of <a href='https://amzn.to/4AzBcEv'>storebought</a> or <a href='/hummus'>homemade hummus</a>. Here I'm using my homemade <a href='/recipes/lentil-hummus'>Lentil Hummus</a>.
 
-- Either buy a bag of shredded cabbage or coleslaw mix, or just cut up the cabbage yourself. I did the latter here.
+- Either buy a bag of <a href='/misc/veggies#cabbage'>shredded cabbage</a> or coleslaw mix, or just cut up the <a href='/misc/veggies#cabbage'>cabbage</a> yourself. I did the latter here.
 
-- Nutrition facts are assuming a standard storebought hummus.
+- Nutrition facts are assuming a standard <a href='https://amzn.to/4AzBcEv'>storebought hummus</a>.
+
+- Compared to <a href='https://amzn.to/3VjQA7Z'>standard coleslaw</a>, my <a href='#recipe'>Hummus Coleslaw</a> is lower in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, while being higher in <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>. Below is a comparison per <b>170 g</b>.
+- |
+  COMPARE(
+    "hummuscoleslaw",
+    "coleslaw-mayo";
+
+    "<a href='#recipe'>Homemade</a>",
+    "<a href='https://amzn.to/3VjQA7Z'>Storebought</a>;
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---

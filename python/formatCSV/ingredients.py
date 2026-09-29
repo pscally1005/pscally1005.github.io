@@ -543,6 +543,8 @@ def ingredients(food):
         f = "Carrots"
     elif food == "Coleslaw mix by Bread & Circus Inc.":
         f = "Coleslaw mix"
+    elif food == "Restaurant, coleslaw, family style":
+        f = "Storebought coleslaw"
     elif food == "Cucumber, raw" or food == "Cucumber, raw, with peel":
         f = "Cucumber"
     elif food == "Lettuce, raw" or food == "Lettuce, raw, cos or romaine" or food == "Romaine lettuce, raw":
