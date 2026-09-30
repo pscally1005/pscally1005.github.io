@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Beanut Butter
-date:   2026-09-28 00:00:00 -0500
+title:  High Protein Beanut Butter
+date:   2026-09-30 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
 - Draft
 showPercentage: no
-hummus: no
+hummus: yes
 oatmeal: no
 yogurt: no
 nut_butter: yes
@@ -22,7 +22,7 @@ vic: no
 protein_bar: no
 beans: yes
 permalink: /recipes/beanut-butter
-image: /assets/Food/Meme/Beanut Butter/cover.jpg
+image: /assets/Food/Meme/Beanut Butter/cover1.jpg
 file: beanut
 servingSize: 2 tbsp (32 g)
 section1:
@@ -38,7 +38,7 @@ Prep: 5
 Rest:
 Cook:
 Source1: https://www.poormanprotein.com/recipes/beanana-bread
-Source2: https://www.poormanprotein.com/recipes/pea-butter
+Source2:
 Source3:
 Source4:
 Source5:
@@ -53,19 +53,33 @@ tags:
 - extra virgin coconut oil
 - pea protein powder
 - pea protein isolate
+- cinnamon
+- liquid monk fruit
+- vanilla extract
+- ginger
+- nutmeg
+- bananas
+- banana bread
+- gluten-free
+- gluten free
+- sugar-free
+- sugar free
 Description: |
-  This isn't <a href='/recipes/natural-peanut-butter'>peanut butter</a>. It's Beanut Butter, a <a href='/misc/nuts'>nut-free</a> <a href='/recipes/natural-peanut-butter'>peanut butter</a> alternative made from <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, <a href='https://amzn.to/4aXnK21'>pea protein</a>, and <a href='/misc/nuts#coconut'>coconut oil</a>. It's creamy, mildly nutty, higher in <a href='/misc/protein'>protein</a>, and much lower in <a href='/misc/fats'>fat</a> than traditional <a href='/recipes/natural-peanut-butter'>peanut butter</a>.<br><br>
+  This isn't <a href='/recipes/natural-peanut-butter'>peanut butter</a>. It's Beanut Butter, a <a href='/misc/nuts'>nut-free</a> <a href='/recipes/natural-peanut-butter'>peanut butter</a> alternative made from <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, <a href='/misc/fruit#banana'>banana</a>, <a href='https://amzn.to/4aXnK21'>pea protein</a>, and <a href='/misc/nuts#coconut'>coconut oil</a>. It's creamy, mildly nutty, <a href='/misc/high-protein'>high-protein</a>, and much lower in <a href='/misc/fats'>fat</a> than traditional <a href='/recipes/natural-peanut-butter'>peanut butter</a>. Perfect for the fall season, this Beanut Butter packs pumpkin spice flavors in cinnamon, ginger, and nutmeg, and is also <a href='/misc/hidden-sugar'>sugar free</a>, being sweetened with <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.<br><br>
 
   But you know you what would be a great use for this Beanut Butter? That's right, spreading it onto a slice of <a href='/recipes/beanana-bread'>Beanana Bread</a>, a <a href='/misc/nuts'>nut-free</a>, <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, and vegan banana bread with <a href='/misc/beans#cannellini-beans'>cannellini beans</a> as the base.<br><br>
 
-  For a different <a href='/misc/nuts'>nut-free</a> <a href='/recipes/natural-peanut-butter'>peanut butter</a> substitute, but this time with the exact same macros and texture as a <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, to be used as a 1:1 substitute in all baking applications, check out my <a href='/recipes/pea-butter'>Pea Butter</a>!
+  For a different <a href='/misc/nuts'>nut-free</a> <a href='/recipes/natural-peanut-butter'>peanut butter</a> substitute, but this time with the exact same macros and texture as a <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, check out my <a href='/recipes/pea-butter'>Pea Butter</a>!
 Instructions:
-- Drain and rinse your can of <a href='/misc/beans'>beans</a>, reserving the liquid. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the rest of the ingredients, and blend until smooth.
-- <img src='/assets/Food/Meme/Beanut Butter/processor.jpg' alt='' class='instruction-image'>
+- Add all ingredients (besides the <a href='https://amzn.to/4aXnK21'>protein powder</a>) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth.
+- <img src='/assets/Food/Meme/Beanut Butter/processor1.jpg' alt='' class='instruction-image'>
+
+- Add in the <a href='https://amzn.to/4aXnK21'>protein powder</a>, and blend until fully combined. You should have a very thick paste.
+- <img src='/assets/Food/Meme/Beanut Butter/processor2.jpg' alt='' class='instruction-image'>
 Notes:
 - I'm using <a href='/misc/beans#cannellini-beans'>cannellini beans</a> here, but <a href='/misc/beans#chickpeas'>chickpeas</a> or <a href='/misc/beans#pinto-beans'>pinto beans</a> would also work. <a href='/misc/beans#black-beans'>Black</a> or <a href='/misc/beans#kidney-beans'>kidney beans</a> would change the color too much, so it wouldn't look like <a href='/recipes/natural-peanut-butter'>peanut butter</a>, but if that doesn't matter to you then these <a href='/misc/beans'>beans</a> can be used as well!
 
-- Thin out with a little aquafaba if necessary. I didn't end up needing any, but you may need up to 1 tbsp (15 g) if it looks too dry.
+- If you add 2 tsp (10 g) baking powder and bake in a parchment lined <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> at 350F for 30 minutes, you'll end up with my <a href='/recipes/beanana-bread'>High Protein Beanana Bread</a>!
 
 - Below is a nutritional comparison of <a href='#recipe'>this beanut butter</a> to <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, per 2 tbsp (32 g).  As you can see, the <a href='#recipe'>beanut butter</a> is much lower in total <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, while being higher in <a href='/misc/protein'>protein</a>.
 - |
@@ -82,4 +96,5 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+- <img src='/assets/Food/Meme/Beanut Butter/cover2.jpg' alt='' class='instruction-image'>
 ---

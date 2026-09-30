@@ -97,7 +97,7 @@ Notes:
 - You can even use <a href='/misc/beans#tofu'>tofu</a> instead of <a href='/misc/beans#brown-lentils'>lentils</a> to bulk up the <a href='/misc/meat#ground-beef'>meat</a>. Simply mash a 1 lb (454 g) block of drained <a href='/misc/beans#tofu'>tofu</a> directly into the raw <a href='/misc/meat#ground-beef'>ground meat</a>, then cook them together according to the recipe.
 - <img src='/assets/Food/Ground Meat/Lentil meat/Tofu/tofu.jpg' alt='' class='instruction-image'>
 
-- Using <a href='/misc/beans#tofu'>tofu</a> instead of <a href='/misc/beans#brown-lentils'>lentils</a> will change the final weight. While the cooked weight with the lentils was <b>775 g</b> total and <b>155 g</b> per serving, the cooked weights with <a href='/misc/beans#tofu'>tofu</a> instead will be about <b>950 g</b> total and <b>190 g</b> per serving, since <a href='/misc/beans#tofu'>tofu</a> contains more water than cooked <a href='/misc/beans#brown-lentils'>lentils</a>.
+- Using <a href='/misc/beans#tofu'>tofu</a> instead of <a href='/misc/beans#brown-lentils'>lentils</a> will change the final weight. While the cooked weight with the lentils was <b>775 g</b> total and <b>155 g</b> per serving, the cooked weight with <a href='/misc/beans#tofu'>tofu</a> instead will be about <b>950 g</b> total and <b>190 g</b> per serving, since <a href='/misc/beans#tofu'>tofu</a> contains more water than cooked <a href='/misc/beans#brown-lentils'>lentils</a>.
 # - <img src='/assets/Food/Ground Meat/Lentil meat/Tofu/unseasoned.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Ground Meat/Lentil meat/Tofu/seasoned.jpg' alt='' class='instruction-image'></center>
 

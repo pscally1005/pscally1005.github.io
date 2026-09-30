@@ -68,7 +68,7 @@ Instructions:
 
 - Add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Microwave in 20 second intervals, stirring in between with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, until you have a smooth melted chocolate.
 
-- Add 1/2 tbsp (7.5 g) of melted chocolate to the bottom of each <a href='https://amzn.to/4iDfGZ7'>muffin cup</a>, and tilt the pan to cover the full bottom.
+- Add 1/2 tbsp (7.5 g) of melted chocolate to the bottom of each <a href='https://amzn.to/4iDfGZ7'>muffin cup</a>, and spread with a spoon to cover bottom.
 - <img src='/assets/Misc/Unhealthy/Peanut Butter Cups/bot.jpg' alt='' class='instruction-image'>
 
 - Add 2 tsp (10 g) of <a href='/recipes/natural-peanut-butter'>peanut butter</a> to the center of each peanut butter cup.
