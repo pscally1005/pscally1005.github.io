@@ -59,25 +59,27 @@ tags:
 - chocolate mayo cake
 - egg yolks
 - immersion blender
-Description: Mayo is basically an emulsion of oil and egg yolk, so it's inherently very high in fat and calories. Using extra virgin olive oil at least replaces the typical neutral oil with a source of predominantly monounsaturated fat. EVOO also gives the mayo a more pronounced flavor, which can be a plus if you like olive oil. It's still an extremely calorie-dense spread, though, so use it in moderation like regular mayo. Each serving is 1 tbsp (13 g).
+Description: <a href='/misc/fake-healthy-foods#dips'>Mayo</a> is basically an emulsion of <a href='/misc/olive-oil'>oil</a> and <a href='/misc/meat#eggs'>egg yolk</a>, so it's inherently very high in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>. Using <a href='/misc/olive-oil'>extra virgin olive oil</a> at least replaces the typical <a href='/misc/fake-healthy-foods#seed-oil'>refined oil</a> with a source of predominantly <a href='/misc/fats'>monounsaturated fat</a>. <a href='/misc/olive-oil'>EVOO</a> also gives the <a href='/misc/fake-healthy-foods#dips'>mayo</a> a more pronounced flavor, which can be a plus if you like <a href='/misc/olive-oil'>olive oil</a>. It's still an extremely <a href='/misc/calories'>calorie-dense</a> spread, though, so use it in moderation like regular <a href='/misc/fake-healthy-foods#dips'>mayo</a>.
 Instructions:
-- Add egg yolks, water, mustard, lemon juice, salt, and oil to a tall and narrow cup or jar. Let everything sit for about 30 seconds.
+- Add <a href='/misc/meat#eggs'>egg yolks</a>, water, mustard, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, salt, and <a href='/misc/olive-oil'>oil</a> to a tall and narrow cup or jar. Let everything sit for about 30 seconds.
 - <img src='/assets/Misc/Unhealthy/Mayo/before.jpg' alt='' class='instruction-image'>
 
-- Lower an immersion blender all the way to the bottom of the cup. Blend without moving it up for around 15 seconds, or until it starts to thicken and emulsify.
+- Lower an <a href='https://amzn.to/3VHhgMM'>immersion blender</a> all the way to the bottom of the cup. Blend without moving it up for around 15 seconds, or until it starts to thicken and emulsify.
 - <img src='/assets/Misc/Unhealthy/Mayo/during.jpg' alt='' class='instruction-image'>
 
-- Slowly raise the immersion blender as you blend to incorporate all the oil. It should roughly double in volume and be thick and creamy, with everything fully incorporated.
+- Slowly raise the <a href='https://amzn.to/3VHhgMM'>immersion blender</a> as you blend to incorporate all the <a href='/misc/olive-oil'>oil</a>. It should roughly double in volume and be thick and creamy, with everything fully incorporated.
 - <img src='/assets/Misc/Unhealthy/Mayo/after.jpg' alt='' class='instruction-image'>
 Notes:
-- The cup should be just barely wider than your immersion blender, and tall enough to fully submerge it.
+- The cup should be just barely wider than your <a href='https://amzn.to/3VHhgMM'>immersion blender</a>, and tall enough to fully submerge it.
 
-- For a more neutral flavor, use avocado oil. For a more standard mayo, use canola oil. For the lolz, use chicken fat.
+- For a more neutral flavor, use avocado oil. For a more standard <a href='/misc/fake-healthy-foods#dips'>mayo</a>, use <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a>. For the lolz, use <a href='/misc/slow-cooker-chicken'>chicken fat</a>.
 
-- Use this as a 1:1 substitute for storebought mayo in all applications, whether it be for the basis of a sauce, or as a binder for your potato salad, coleslaw, or tuna salad!
+- Use this as a 1:1 substitute for storebought <a href='/misc/fake-healthy-foods#dips'>mayo</a> in all applications, whether it be for the basis of a sauce, or as a binder for your potato salad, <a href='/recipes/hummus-coleslaw'>coleslaw</a>, or tuna salad!
 
-- Mayo is the basis of many popular sauces, whether you know it or like it. Honey mustard dressing, Caesar dressing, thousand Island dressing, Russian dressing, aioli, tartar sauce, secret sauce, burger sauce. Whatever you want to call it, it probably uses mayo as the basis.
+- <a href='/misc/fake-healthy-foods#dips'>Mayo</a> is the basis of many popular <a href='/recipes/savory-sauces'>sauces</a> and <a href='/misc/fake-healthy-foods#salad-dressing'>dressings</a>, whether you know it or like it. <a href='/recipes/no-honey-mustard'>Honey mustard dressing, <a href='/recipes/greek-yogurt-caesar-dressing'>Caesar</a>, Thousand Island, Russian dressing, <a href='#aioli'>aioli</a>, tartar sauce, secret sauce, burger sauce. Whatever you want to call it, it probably uses <a href='/misc/fake-healthy-foods#dips'>mayo</a> as the basis.
 
+- |
+  <div id='aioli' class='table-of-contents-2'></div>
 - |
   To turn this into a garlic aioli, add one of the following:
 - INGREDIENTS(aiolioptions)

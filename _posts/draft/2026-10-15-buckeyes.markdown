@@ -59,20 +59,20 @@ tags:
 - gluten free
 - coconut flour
 - copycat
-Description: Ohio Buckeye Balls are a no-bake candy featuring a peanut butter center partially dipped in chocolate. They're like a homemade Reeses. This is my slightly healthier twist. They're a bit lower in added sugar, but still feature quite a bit from the chocolate chips and honey. For similar recipes, check out my No Bake Peanut Butter Bars and Dark Chocolate Peanut Butter Cups!
+Description: Ohio Buckeye Balls are a no-bake candy featuring a <a href='/recipes/natural-peanut-butter'>peanut butter</a> center partially dipped in melted chocolate. They're like a homemade <a href='https://amzn.to/4rwHsZL'>Reeses</a>. This is my slightly healthier twist. They're a bit lower in <a href='/misc/hidden-sugar'>added sugar</a>, but still feature quite a bit from the chocolate chips and <a href='/misc/natural-sweeteners#honey'>honey</a>. For similar recipes, check out my <a href='/recipes/peanut-butter-bars'>No Bake Peanut Butter Bars</a> and <a href='/recipes/peanut-butter-cups'>Dark Chocolate Peanut Butter Cups</a>!
 Instructions:
-- Add peanut butter to a medium microwave safe bowl. Microwave for 1 minute, until melted.
+- Add <a href='/recipes/natural-peanut-butter'>peanut butter</a> to a <a href='https://amzn.to/4zyFnzN'>medium microwave safe bowl</a>. Microwave for 1 minute, until melted.
 
-- Add in the honey, vanilla, and coconut flour. Mix with a silicone spatula to form a dough. Chill the dough in the fridge for 30 minutes.
+- Add in the <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='/misc/nuts#coconut'>coconut flour</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to form a dough. Chill the dough in the fridge for 30 minutes.
 - <img src='/assets/Misc/Unhealthy/Buckeyes/bowl.jpg' alt='' class='instruction-image'>
 
 - Divide the dough into 12 equally sized pieces, about 16 g each. Roll into a ball, and place onto a place. Stick a toothpick into the top of each one.
 - <img src='/assets/Misc/Unhealthy/Buckeyes/balls.jpg' alt='' class='instruction-image'>
 
-- Add chocolate chips and coconut oil to a small microwave safe bowl. Microwave in 20 second intervals, stirring in between, until you have a smooth melted chocolate.
+- Add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> to a <a href='https://amzn.to/4zyFnzN'>small microwave safe bowl</a>. Microwave in 20 second intervals, stirring in between, until you have a smooth melted chocolate.
 - <img src='/assets/Misc/Unhealthy/Buckeyes/chocolate.jpg' alt='' class='instruction-image'>
 
-- Dip each peanut butter ball into the melted chocolate, coating the bottom and sides. Return to the plate, and remove the toothpick. Chill in the fridge for 30 minutes for the chocolate to harden before serving.
+- Dip each peanut butter ball into the melted chocolate, coating the bottom and sides, but not the top. Return to the plate, and remove the toothpick. Chill in the fridge for 30 minutes for the chocolate to harden before serving.
 - <img src='/assets/Misc/Unhealthy/Buckeyes/coated.jpg' alt='' class='instruction-image'>
 Notes:
 ---

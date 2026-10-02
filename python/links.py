@@ -20,7 +20,17 @@ LINKS = {
         "ohio buckeye balls",
         "ohio buckeye ball",
         "ohio buckeyes",
-        "ohio buckeye"
+        "ohio buckeye",
+        "peanut butter balls",
+        "peanut butter ball",
+        "chocolate peanut butter balls",
+        "chocolate peanut butter ball",
+        "peanut butter chocolate balls",
+        "peanut butter chocolate ball",
+        "chocolate peanut butter bites",
+        "chocolate peanut butter bite",
+        "peanut butter chocolate bites",
+        "peanut butter chocolate bite"
     ],
     "/recipes/evoo-mayo": [
         "evoo mayo",
@@ -32,7 +42,9 @@ LINKS = {
         "extra virgin olive oil mayonnaise",
         "homemade mayonnaise",
         "garlic aioli",
-        "aioli"
+        "aioli",
+        "mayo",
+        "mayonnaise"
     ],
     "/recipes/hummus-coleslaw": [
         "coleslaw",
@@ -2040,9 +2052,10 @@ LINKS = {
     ],
     "/recipes/olivcado": [
         "Olivcado Salad Dressing",
-        "homemade caesar dressing",
-        "homemade caesar",
-        "olivcado dressing"
+        # "homemade caesar dressing",
+        # "homemade caesar",
+        "olivcado dressing",
+        "olivcado"
     ],
     "/recipes/olive-dip": [
         "Balsamic Olive Spread",
@@ -3841,7 +3854,10 @@ LINKS = {
         "greek yogurt casesar",
         "healthier caesar dressing",
         "healthy caesar dressing",
-        "homemade caesar dressing"
+        "homemade caesar dressing",
+        "homemade caesar",
+        "caesar dressing",
+        "caesar"
     ],
     "/recipes/french-onion-dip": [
         "low fat french onion dip",
@@ -7605,7 +7621,8 @@ LINKS = {
     ],
     "/vic": [
         "vic's",
-        "vic"
+        "vic",
+        "gassy girl"
     ],
     "/protein-bar": [
         "protein bar recipes",
@@ -7837,14 +7854,14 @@ LINKS = {
     "/misc/fake-healthy-foods#dips": [
         # "dips",
         # "dessert hummus",
-        "mayonnaise",
+        # "mayonnaise",
         "light mayo",
         "honey mustard",
         "ranch dressing",
         "ranch",
         "french onion dip",
         "mayo-based",
-        "mayo",
+        # "mayo",
         "ketchup",
         "commercial bbq sauces",
         "commercial bbq sauce",
@@ -8026,7 +8043,8 @@ LINKS = {
         "heavily refined oils",
         "heavily refined oil",
         "refined oils",
-        "refined oil"
+        "refined oil",
+        "neutral oil"
     ],
     "/misc/fake-healthy-foods#frozen-meals": [
         "pre-prepared processed meals",
@@ -8207,6 +8225,10 @@ LINKS = {
         "refried beans"
     ],
     "/misc/fake-healthy-foods#salad-dressing": [
+        # "honey mustard",
+        # "honey mustard dressing",
+        # "aioli",
+        # "garlic aioli",
         "bottled salad dressings",
         "bottled salad dressing",
         "balsamic vinaigrette",
@@ -8215,7 +8237,8 @@ LINKS = {
         "thousand island dressing",
         "thousand island",
         "caesar dressing",
-        "caesar"
+        "caesar",
+        "russian dressing"
     ],
     "/misc/fake-healthy-foods#milk": [
         "sweetened almond milk",
@@ -8269,6 +8292,9 @@ EXCLUDED_PHRASES = [
     "chocolate to hardnen",
     "and vegan banana bread",
     "salt, and ginger",
+    "dipped in chocolate",
+    "chocolate to harden",
+    "dipped in melted chocolate",
     "all baking",
     "baking applications",
     "mushy chocolate",
