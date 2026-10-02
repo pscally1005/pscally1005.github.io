@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/buckeyes
 image: /assets/Misc/Unhealthy/Buckeyes/cover.jpg
 file: buckeyes
-servingSize: 1 ball (32 g)
+servingSize: 1 candy (24 g)
 section1: Filling
 start2: Chocolate chips
 section2: Chocolate chips
@@ -59,6 +59,8 @@ tags:
 - gluten free
 - coconut flour
 - copycat
+- vic
+- truffle
 Description: Ohio Buckeye Balls are a no-bake candy featuring a <a href='/recipes/natural-peanut-butter'>peanut butter</a> center partially dipped in melted chocolate. They're like a homemade <a href='https://amzn.to/4rwHsZL'>Reeses</a>. This is my slightly healthier twist. They're a bit lower in <a href='/misc/hidden-sugar'>added sugar</a>, but still feature quite a bit from the chocolate chips and <a href='/misc/natural-sweeteners#honey'>honey</a>. For similar recipes, check out my <a href='/recipes/peanut-butter-bars'>No Bake Peanut Butter Bars</a> and <a href='/recipes/peanut-butter-cups'>Dark Chocolate Peanut Butter Cups</a>!
 Instructions:
 - Add <a href='/recipes/natural-peanut-butter'>peanut butter</a> to a <a href='https://amzn.to/4zyFnzN'>medium microwave safe bowl</a>. Microwave for 1 minute, until melted.
@@ -66,7 +68,7 @@ Instructions:
 - Add in the <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='/misc/nuts#coconut'>coconut flour</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to form a dough. Chill the dough in the fridge for 30 minutes.
 - <img src='/assets/Misc/Unhealthy/Buckeyes/bowl.jpg' alt='' class='instruction-image'>
 
-- Divide the dough into 12 equally sized pieces, about 16 g each. Roll into a ball, and place onto a place. Stick a toothpick into the top of each one.
+- Divide the dough into 12 equally sized pieces, about 16 g each. Roll into a ball, and place onto a plate. Stick a toothpick into the top of each one.
 - <img src='/assets/Misc/Unhealthy/Buckeyes/balls.jpg' alt='' class='instruction-image'>
 
 - Add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> to a <a href='https://amzn.to/4zyFnzN'>small microwave safe bowl</a>. Microwave in 20 second intervals, stirring in between, until you have a smooth melted chocolate.
@@ -75,4 +77,19 @@ Instructions:
 - Dip each peanut butter ball into the melted chocolate, coating the bottom and sides, but not the top. Return to the plate, and remove the toothpick. Chill in the fridge for 30 minutes for the chocolate to harden before serving.
 - <img src='/assets/Misc/Unhealthy/Buckeyes/coated.jpg' alt='' class='instruction-image'>
 Notes:
+- Per candy, the filling weighs about 16 g, and the chocolate coating weighs about 8 g, so each candy weighs about 24 g. Therefore, about 96 g of the melted chocolate is used to coat all 12 candies, or roughly 1/2 cup (90 g) of chocolate chips before melting.
+
+- |
+  The <a href='#nutrition-facts'>nutrition facts</a> assume all of the filling ingredients, along with 1/2 cup (90 g) chocolate chips and 1 tsp (4 g) coconut oil for the coating. However, the <a href='#recipe'>recipe</a> calls for <b>double</b> these amounts for the chocolate coating: 1 cup (180 g) chocolate chips and 2 tsp (8 g) coconut oil.<br><br>
+
+  This is because you need excess melted chocolate in the bowl to properly dip and coat the candies. You will only use about half of the melted chocolate.<br><br>
+
+  With the remaining chocolate, spread it into a <a href='https://amzn.to/4qZKHI9'>chocolate mold</a>, and chill until hardened.
+
+- |
+  Alternatively, for a less wasteful dessert, make these into Ohio Buckeye Bars. Press all of the filling into a parchment-lined <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>, then top with melted chocolate.<br><br>
+
+  You will need <b>half</b> the amount of chocolate chips and coconut oil used for the Buckeye Balls: 1/2 cup (90 g) chocolate chips and 1 tsp (4 g) coconut oil, which is the amount assumed in the <a href='#nutrition-facts'>nutrition facts</a> below. Cut into 12 bars, and each bar will have the same macros as each Buckeye Ball.
+# - <img src='/assets/Misc/Unhealthy/Buckeyes/bars-untopped.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Misc/Unhealthy/Buckeyes/bars-topped.jpg' alt='' class='instruction-image'>
 ---
