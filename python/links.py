@@ -41,10 +41,14 @@ LINKS = {
         "olive oil mayonnaise",
         "extra virgin olive oil mayonnaise",
         "homemade mayonnaise",
-        "garlic aioli",
-        "aioli",
+        # "garlic aioli",
+        # "aioli",
         "mayo",
         "mayonnaise"
+    ],
+    "/recipes/evoo-mayo#aioli": [
+        "garlic aioli",
+        "aioli"
     ],
     "/recipes/hummus-coleslaw": [
         "coleslaw",
