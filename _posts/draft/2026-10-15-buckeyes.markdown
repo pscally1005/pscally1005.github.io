@@ -22,7 +22,7 @@ vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/buckeyes
-image: /assets/Misc/Unhealthy/Buckeyes/cover.jpg
+image: /assets/Misc/Unhealthy/Buckeyes/Balls/cover.jpg
 file: buckeyes
 servingSize: 1 candy (24 g)
 section1: Filling
@@ -66,16 +66,16 @@ Instructions:
 - Add <a href='/recipes/natural-peanut-butter'>peanut butter</a> to a <a href='https://amzn.to/4zyFnzN'>medium microwave safe bowl</a>. Microwave for 1 minute, until melted.
 
 - Add in the <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='/misc/nuts#coconut'>coconut flour</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to form a dough. Chill the dough in the fridge for 30 minutes.
-- <img src='/assets/Misc/Unhealthy/Buckeyes/bowl.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Buckeyes/Balls/bowl.jpg' alt='' class='instruction-image'>
 
 - Divide the dough into 12 equally sized pieces, about 16 g each. Roll into a ball, and place onto a plate. Stick a toothpick into the top of each one.
-- <img src='/assets/Misc/Unhealthy/Buckeyes/balls.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Buckeyes/Balls/balls.jpg' alt='' class='instruction-image'>
 
 - Add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> to a <a href='https://amzn.to/4zyFnzN'>small microwave safe bowl</a>. Microwave in 20 second intervals, stirring in between, until you have a smooth melted chocolate.
-- <img src='/assets/Misc/Unhealthy/Buckeyes/chocolate.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Buckeyes/Balls/chocolate.jpg' alt='' class='instruction-image'>
 
 - Dip each peanut butter ball into the melted chocolate, coating the bottom and sides, but not the top. Return to the plate, and remove the toothpick. Chill in the fridge for 30 minutes for the chocolate to harden before serving.
-- <img src='/assets/Misc/Unhealthy/Buckeyes/coated.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Buckeyes/Balls/coated.jpg' alt='' class='instruction-image'>
 Notes:
 - Per candy, the filling weighs about 16 g, and the chocolate coating weighs about 8 g, so each candy weighs about 24 g. Therefore, about 96 g of the melted chocolate is used to coat all 12 candies, or roughly 1/2 cup (90 g) of chocolate chips before melting.
 
@@ -87,9 +87,11 @@ Notes:
   With the remaining chocolate, spread it into a <a href='https://amzn.to/4qZKHI9'>chocolate mold</a>, and chill until hardened.
 
 - |
-  Alternatively, for a less wasteful dessert, make these into Ohio Buckeye Bars. Press all of the filling into a parchment-lined <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>, then top with melted chocolate.<br><br>
+  Alternatively, for a less wasteful dessert, make these into Ohio Buckeye Bars. Press all of the filling into a parchment-lined <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>, then top with melted chocolate. Optionally garnish with 1 tsp (2.5 g) <a href='/misc/nuts#coconut'>unsweetened coconut flakes</a>.<br><br>
 
   You will need <b>half</b> the amount of chocolate chips and coconut oil used for the Buckeye Balls: 1/2 cup (90 g) chocolate chips and 1 tsp (4 g) coconut oil, which is the amount assumed in the <a href='#nutrition-facts'>nutrition facts</a> below. Cut into 12 bars, and each bar will have the same macros as each Buckeye Ball.
-# - <img src='/assets/Misc/Unhealthy/Buckeyes/bars-untopped.jpg' alt='' class='instruction-image'>
-# - <img src='/assets/Misc/Unhealthy/Buckeyes/bars-topped.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Buckeyes/Bars/base.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Buckeyes/Bars/topped.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Buckeyes/Bars/cut.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Buckeyes/Bars/cover.jpg' alt='' class='instruction-image'>
 ---
