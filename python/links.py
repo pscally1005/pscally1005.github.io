@@ -10,6 +10,30 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/lentil-tofu-chili": [
+        "lentil tofu chili",
+        "tofu lentil chili",
+        "tofu chili",
+        "lentil chili"
+    ],
+    "/recipes/buckeyes": [
+        "ohio buckeye balls",
+        "ohio buckeye ball",
+        "ohio buckeyes",
+        "ohio buckeye"
+    ],
+    "/recipes/evoo-mayo": [
+        "evoo mayo",
+        "olive oil mayo",
+        "extra virgin olive oil mayo",
+        "homemade mayo",
+        "evoo mayonnaise",
+        "olive oil mayonnaise",
+        "extra virgin olive oil mayonnaise",
+        "homemade mayonnaise",
+        "garlic aioli",
+        "aioli"
+    ],
     "/recipes/hummus-coleslaw": [
         "coleslaw",
         "hummus coleslaw",
@@ -10387,7 +10411,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-13")):
+            if not file.startswith(("2026-10-04", "2026-10-15", "2026-10-16")):
                 continue
 
             # exclude some files

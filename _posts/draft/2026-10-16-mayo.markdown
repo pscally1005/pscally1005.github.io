@@ -1,0 +1,84 @@
+---
+layout: post
+title:  EVOO Mayo Recipe
+date:   2026-10-01 00:00:00 -0500
+categories:
+- Misc.
+- Unhealthy Recipes
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: yes
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+beans: no
+permalink: /recipes/evoo-mayo
+image: /assets/Misc/Unhealthy/Mayo/cover.jpg
+file: evoomayo
+servingSize: 1 tbsp (13 g)
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 5
+Rest:
+Cook:
+Source1: https://www.joshuaweissman.com/recipes/mayonnaise-recipe
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/iKbO9
+tags:
+- mayo
+- mayonnaise
+- extra virgin olive oil
+- evoo
+- olive oil
+- aioli
+- garlic aioli
+- honey mustard dressing
+- caesar dressing
+- thousand island dressing
+- russian dressing
+- chocolate mayonnaise cake
+- chocolate mayo cake
+- egg yolks
+- immersion blender
+Description: Mayo is basically an emulsion of oil and egg yolk, so it's inherently very high in fat and calories. Using extra virgin olive oil at least replaces the typical neutral oil with a source of predominantly monounsaturated fat. EVOO also gives the mayo a more pronounced flavor, which can be a plus if you like olive oil. It's still an extremely calorie-dense spread, though, so use it in moderation like regular mayo. Each serving is 1 tbsp (13 g).
+Instructions:
+- Add egg yolks, water, mustard, lemon juice, salt, and oil to a tall and narrow cup or jar. Let everything sit for about 30 seconds.
+- <img src='/assets/Misc/Unhealthy/Mayo/before.jpg' alt='' class='instruction-image'>
+
+- Lower an immersion blender all the way to the bottom of the cup. Blend without moving it up for around 15 seconds, or until it starts to thicken and emulsify.
+- <img src='/assets/Misc/Unhealthy/Mayo/during.jpg' alt='' class='instruction-image'>
+
+- Slowly raise the immersion blender as you blend to incorporate all the oil. It should roughly double in volume and be thick and creamy, with everything fully incorporated.
+- <img src='/assets/Misc/Unhealthy/Mayo/after.jpg' alt='' class='instruction-image'>
+Notes:
+- The cup should be just barely wider than your immersion blender, and tall enough to fully submerge it.
+
+- For a more neutral flavor, use avocado oil. For a more standard mayo, use canola oil. For the lolz, use chicken fat.
+
+- Use this as a 1:1 substitute for storebought mayo in all applications, whether it be for the basis of a sauce, or as a binder for your potato salad, coleslaw, or tuna salad!
+
+- Mayo is the basis of many popular sauces, whether you know it or like it. Honey mustard dressing, Caesar dressing, thousand Island dressing, Russian dressing, aioli, tartar sauce, secret sauce, burger sauce. Whatever you want to call it, it probably uses mayo as the basis.
+
+- |
+  To turn this into a garlic aioli, add one of the following:
+- INGREDIENTS(aiolioptions)
+---
