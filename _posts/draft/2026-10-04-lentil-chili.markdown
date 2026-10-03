@@ -71,6 +71,7 @@ Instructions:
 
 - Cover and cook on low for 8 hours.
 - <img src='/assets/Food/Meatless/Lentil Chili/after.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meatless/Lentil Chili/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 - Any <a href='/misc/bone-broth'>broth</a> can be substituted for water + <a href='https://amzn.to/3TbDFnv'>better than bouillon</a>.
 ---
