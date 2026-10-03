@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Bulk Up Your Meat With Lentils
-date:   2026-09-28 00:00:00 -0500
+date:   2026-10-03 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -18,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 protein_bar: no
 beans: yes
 permalink: /recipes/lentil-meat
