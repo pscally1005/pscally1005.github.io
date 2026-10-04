@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Lentil Tofu Chili
-date:   2026-10-01 00:00:00 -0500
+date:   2026-10-04 00:00:00 -0500
 categories:
 - Recipes
 - Meatless
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
