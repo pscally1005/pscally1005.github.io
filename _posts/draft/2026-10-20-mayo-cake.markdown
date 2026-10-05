@@ -63,23 +63,23 @@ tags:
 - granulated monk fruit
 - chocolate
 - cocoa powder
-Description: When you think about it, mayo is just oil and eggs, things that normally go into a cake anyway. So why not just jump a couple steps and use mayonnaise in your cake. This secret ingredient cake is perfectly moist and airy, with a rich chocolate flavor. Top with whatever frosting you like if desired!
+Description: When you think about it, <a href='/recipes/evoo-mayo'>mayo</a> is just <a href='/misc/olive-oil'>oil</a> and <a href='/misc/meat#eggs'>eggs</a>, things that normally go into a <a href='/recipes/chocolate-cake'>cake</a> anyway. So why not just skip a couple steps and use <a href='/recipes/evoo-mayo'>mayonnaise</a> in your <a href='/recipes/chocolate-cake'>cake</a>. This secret ingredient <a href='/recipes/chocolate-cake'>cake</a> is perfectly moist and airy, with a rich chocolate flavor. Top with whatever <a href='/recipes/protein-frosting'>frosting</a> you like if desired!
 Instructions:
-- Preheat your oven to 350F. Line a 9" square baking pan with parchment paper, and lightly grease it with oil.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease it with oil</a>.
 
-- Mix together all ingredients in a large bowl with a silicone spatula until just fully combined.
+- Mix together all ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until just fully combined.
 - <img src='/assets/Misc/Unhealthy/Mayo Cake/bowl.jpg' alt='' class='instruction-image'>
 
-- Pour your batter into the prepared baking pan.
+- Pour your batter into the prepared <a href='https://amzn.to/3YY2H9q'>baking pan</a>.
 - <img src='/assets/Misc/Unhealthy/Mayo Cake/raw.jpg' alt='' class='instruction-image'>
 
-- Bake uncovered at 350F for about 30 minutes, or until the top and edges are set and browned, a toothpick to the center comes out clean, and the internal temperature is around 205F.
+- Bake uncovered at 350F for about 30 minutes, or until the top and edges are set and browned, a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>.
 - <img src='/assets/Misc/Unhealthy/Mayo Cake/baked.jpg' alt='' class='instruction-image'>
 
-- Transfer to a wire rack, and let it cool completely before cutting into 16 square slices.
+- Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>, and let it cool completely before cutting into 16 square slices.
 - <img src='/assets/Misc/Unhealthy/Mayo Cake/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- To make a healthier version of <a href='#recipe'>this mayo cake</a> replace the white flour (2 cup, 240 g), white sugar (1 cup, 200 g), and storebought mayo (1 cup, 220 g) for whole wheat flour (2 cup, 240 g), granulated monk fruit (1 cup, 200 g), and my homemade EVOO Mayo (1 cup, 220 g).
+- To make a healthier version of <a href='#recipe'>this mayo cake</a> replace the <a href='/misc/grains#white-wheat'>white flour</a> (2 cup, 240 g), <a href='/misc/hidden-sugar'>white sugar</a> (1 cup, 200 g), and <a href='https://amzn.to/4jFQAsV'>storebought mayo</a> (1 cup, 220 g) with <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (2 cup, 240 g), <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (1 cup, 200 g), and my homemade <a href='/recipes/evoo-mayo'>EVOO Mayo</a> (1 cup, 220 g).
 - |
   COMPARE(
     "mayocake",

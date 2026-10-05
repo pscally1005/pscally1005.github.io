@@ -53,15 +53,19 @@ tags:
 - sugar-free
 - sugar free
 Description: |
-  So. You want to switch away from sweetened almond milk that's full of added sugars. You buy unsweetened original almond milk, and it tastes bland. Then this is the "recipe" for you. Just add some vanilla extract and liquid monk fruit to plain, unsweetened almond milk to turn it into a vanilla, sweetened almond milk without any of the added sugar!<br><br>
+  So. You want to switch away from <a href='/misc/fake-healthy-foods#milk'>sweetened almond milk</a> that's <a href='/misc/hidden-sugar'>full of added sugars</a>. You buy unsweetened original <a href='/misc/dairy#almond-milk'>almond milk</a>, and it tastes bland. Then this is the "recipe" for you.<br><br>
 
-  To turn a tub of plain nonfat Greek yogurt into vanilla full fat Greek yogurt, check out my Full Fat Vanilla Greek Yogurt recipe!
+  Just add some <a href='https://amzn.to/43MkDqr'>vanilla extract</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to plain, unsweetened <a href='/misc/dairy#almond-milk'>almond milk</a> to turn it into a vanilla <a href='/misc/fake-healthy-foods#milk'>sweetened almond milk</a> without any of the <a href='/misc/hidden-sugar'>added sugar</a>!<br><br>
+
+  To turn a bowl of <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a> into vanilla <a href='/misc/dairy#yogurt-whole-milk'>full fat Greek yogurt</a>, check out my <a href='/recipes/vanilla-yogurt'>Full Fat Vanilla Greek Yogurt</a> recipe!
 Instructions:
-- Add almond milk, vanilla extract, and liquid monk fruit to a medium glass. Stir to combine.
+- Add <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to a medium glass. Stir to combine.
 Notes:
-- <a href='#recipe'>This recipe</a> is to convert 1 cup (240 g) of plain, unsweetened almond milk into vanilla, sweetened almond milk. Scale this recipe up or down as needed.
+- <a href='#recipe'>This recipe</a> is to convert 1 cup (240 g) of plain, unsweetened <a href='/misc/dairy#almond-milk'>almond milk</a> into vanilla, sweetened almond milk. Scale this recipe up or down as needed.
 
-- <a href='https://amzn.to/4i1tjjQ'>Storebought vanilla, sweetened almond milk</a> contains over double the calories of <a href='#recipe'>my version</a>, with 10 g of added sugar compared to <a href='#recipe'>my</a> 0 g.
+- Omit the <a href='https://amzn.to/43MkDqr'>vanilla extract</a> for a sweetened, original <a href='/misc/dairy#almond-milk'>almond milk</a>.
+
+- <a href='https://amzn.to/4i1tjjQ'>Storebought vanilla, sweetened almond milk</a> contains over double the <a href='/misc/calories'>calories</a> of <a href='#recipe'>my version</a>, with 10 g of <a href='/misc/hidden-sugar'>added sugar</a> compared to <a href='#recipe'>my</a> 0 g.
 - |
   COMPARE(
     "vanillamilk",

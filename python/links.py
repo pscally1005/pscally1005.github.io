@@ -29,7 +29,9 @@ LINKS = {
         "sugar-free almond milk",
         "sugar free almond milk",
         "sugar-free vanilla almond milk",
-        "sugar free vanilla almond milk"
+        "sugar free vanilla almond milk",
+        "sweetened, vanilla almond milk",
+        "vanilla, sweetened almond milk"
     ],
     "/recipes/vanilla-yogurt": [
         "vanilla greek yogurt",
@@ -47,8 +49,28 @@ LINKS = {
         "low-fat vanilla greek yogurt",
         "lowfat vanilla greek yogurt",
         "nonfat vanilla greek yogurt",
-        "non-fat vanilla greek yogurt"
-        "non fat vanilla greek yogurt"
+        "non-fat vanilla greek yogurt",
+        "non fat vanilla greek yogurt",
+        "vanilla full fat greek yogurt",
+        "vanilla full-fat greek yogurt",
+        "vanilla whole milk greek yogurt",
+        "vanilla whole-milk greek yogurt",
+        "vanilla lowfat greek yogurt",
+        "vanilla low-fat greek yogurt",
+        "vanilla low fat greek yogurt",
+        "vanilla nonfat greek yogurt",
+        "vanilla non-fat greek yogurt",
+        "vanilla non fat greek yogurt",
+        "vanilla, full-fat greek yogurt",
+        "vanilla, full fat greek yogurt",
+        "vanilla, whole milk greek yogurt",
+        "vanilla, whole-milk greek yogurt",
+        "vanilla, lowfat greek yogurt",
+        "vanilla, low-fat greek yogurt",
+        "vanilla, low fat greek yogurt",
+        "vanilla, nonfat greek yogurt",
+        "vanilla, non-fat greek yogurt",
+        "vanilla, non fat greek yogurt"
     ],
     "/recipes/buckeyes": [
         "ohio buckeye balls",
@@ -4359,7 +4381,9 @@ LINKS = {
         "unsweetened plant milk",
         "plant milks",
         "plant milk",
-        "almond milk"
+        "almond milk",
+        "plain unsweetened almond milk",
+        "plain, unsweetened almond milk"
     ],
     "/misc/dairy#blue-cheese": [
         "blue cheese"
@@ -4438,7 +4462,13 @@ LINKS = {
         "yogurt",
         "nonfat yogurt",
         "non fat yogurt",
-        "greek yogurt (plain)"
+        "greek yogurt (plain)",
+        "plain, nonfat greek yogurt",
+        "plain, non fat greek yogurt",
+        "plain, non-fat greek yogurt",
+        "lowfat yogurt",
+        "low fat yogurt",
+        "low-fat yogurt"
     ],
     "/misc/dairy#yogurt-whole-milk": [
         "plain whole milk greek yogurt",
@@ -4446,7 +4476,11 @@ LINKS = {
         "plain full fat greek yogurt",
         "full fat greek yogurt",
         "whole milk yogurt",
-        "full fat yogurt"
+        "full fat yogurt",
+        "plain, whole milk greek yogurt",
+        "plain, whole-milk greek yogurt",
+        "plain, full fat greek yogurt",
+        "plain, full-fat greek yogurt"
     ],
     "/misc/dairy#kefir": [
         "kefir (milk)",
@@ -6156,6 +6190,16 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4jFQAsV": [
+        "storebought mayo",
+        "store bought mayo",
+        "store-bought mayo",
+        "standard mayo",
+        "storebought mayonnaise",
+        "store bought mayonnaise",
+        "store-bought mayonnaise",
+        "standard mayonnaise"
+    ],
     "https://amzn.to/3VjQA7Z": [
         "storebought coleslaw",
         "store bought coleslaw",

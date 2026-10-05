@@ -57,17 +57,20 @@ tags:
 - sugar-free
 - sugar free
 Description: |
-  So. You want to switch away from sweetened Greek yogurt that's full of added sugars. You buy plain nonfat Greek yogurt, and it tastes bland. Then this is the "recipe" for you. Just add some coconut oil, vanilla extract, and liquid monk fruit to plain nonfat Greek yogurt to turn it into a vanilla full fat Greek yogurt without any of the added sugar!<br><br>
+  So. You want to switch away from sweetened <a href='/misc/dairy#yogurt'>Greek yogurt</a> that's <a href='/misc/hidden-sugar'>full of added sugars</a>. You buy <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a>, and it tastes bland. Then this is the "recipe" for you.<br><br>
 
-  To turn a glass of plain, unsweetened almond milk into sweetened, vanilla almond milk, check out my Vanilla Almond Milk recipe!
+  Just add some <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a> to turn it into a vanilla <a href='/misc/dairy#yogurt-whole-milk'>full fat Greek yogurt</a> without any of the <a href='/misc/hidden-sugar'>added sugar</a>!<br><br>
+
+  To turn a glass of plain, <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a> into sweetened, vanilla almond milk, check out my <a href='/recipes/vanilla-almond-milk'>Vanilla Almond Milk</a> recipe!
 Instructions:
-- Add yogurt, coconut oil, vanilla extract, and liquid monk fruit to a small bowl. Stir to combine.
-
+- Add <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Stir to combine.
 - <img src='/assets/Food/Breakfast/Vanilla Yogurt/bowl.jpg' alt='' class='instruction-image'>
 Notes:
-- <a href='#recipe'>This recipe</a> is to convert 1 cup (226 g) of plain, nonfat Greek yogurt into vanilla, full fat Greek yogurt. Scale this recipe up or down as needed.
+- <a href='#recipe'>This recipe</a> is to convert 1 cup (226 g) of <a href='/misc/dairy#yogurt'>plain, nonfat Greek yogurt</a> into vanilla, <a href='/misc/dairy#yogurt-whole-milk'>full fat Greek yogurt</a>. Scale this recipe up or down as needed.
 
-- <a href='https://amzn.to/4efoMrM'>Storebought vanilla full fat Greek yogurt</a> contains less protein and more calories than <a href='#recipe'>my version</a>, with 17 g of added sugar compared to <a href='#recipe'>my</a> 0 g.
+- Omit the <a href='https://amzn.to/43MkDqr'>vanilla extract</a> for a sweetened, but plain, <a href='/misc/dairy#yogurt'>yogurt</a>.
+
+- <a href='https://amzn.to/4efoMrM'>Storebought vanilla full fat Greek yogurt</a> contains less <a href='/misc/protein'>protein</a> and more <a href='/misc/calories'>calories</a> than <a href='#recipe'>my version</a>, with 17 g of <a href='/misc/hidden-sugar'>added sugar</a> compared to <a href='#recipe'>my</a> 0 g.
 - |
   COMPARE(
     "vanillayogurtff",
@@ -85,7 +88,7 @@ Notes:
     "Added Sugar"
   )
 
-- To make low fat yogurt instead, reduce the coconut oil to 1 tsp (4 g).
+- To make <a href='/misc/dairy#yogurt'>low fat yogurt</a> instead, reduce the <a href='/misc/nuts#coconut'>coconut oil</a> to 1 tsp (4 g).
 - |
   COMPARE(
     "vanillayogurtlf",
@@ -103,7 +106,7 @@ Notes:
     "Added Sugar"
   )
 
-- To make nonfat yogurt instead, omit the coconut oil.
+- To make <a href='/misc/dairy#yogurt'>nonfat yogurt</a> instead, omit the <a href='/misc/nuts#coconut'>coconut oil</a>.
 - |
   COMPARE(
     "vanillayogurtnf",
