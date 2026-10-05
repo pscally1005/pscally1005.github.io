@@ -13,7 +13,7 @@ nut_butter: no
 pesto: no
 soup_stew: no
 salad: no
-dressing: no
+dressing: yes
 brownie: no
 cookie: no
 copycat: no

@@ -57,7 +57,7 @@ tags:
 - sugar-free
 - sugar free
 Description: |
-  So. You want to switch away from sweetened <a href='/misc/dairy#yogurt'>Greek yogurt</a> that's <a href='/misc/hidden-sugar'>full of added sugars</a>. You buy <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a>, and it tastes bland. Then this is the "recipe" for you.<br><br>
+  So. You want to switch away from <a href='/misc/fake-healthy-foods#yogurt'>sweetened Greek yogurt</a> that's <a href='/misc/hidden-sugar'>full of added sugars</a>. You buy <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a>, and it tastes bland. Then this is the "recipe" for you.<br><br>
 
   Just add some <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a> to turn it into a vanilla <a href='/misc/dairy#yogurt-whole-milk'>full fat Greek yogurt</a> without any of the <a href='/misc/hidden-sugar'>added sugar</a>!<br><br>
 

@@ -8371,6 +8371,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "into a cake anyway",
+    "in your cake",
     "chocolate to hardnen",
     "and vegan banana bread",
     "salt, and ginger",
