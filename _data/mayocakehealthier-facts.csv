@@ -45,10 +45,10 @@ Calories,147,,
 "Manganese",0.708,mg,31 %
 "Phosphorus",78,mg,6 %
 "Potassium",95,mg,2 %
-"Selenium",10.58,mcg,19 %
-"Sodium",286,mg,12 %
+"Selenium",10.59,mcg,19 %
+"Sodium",288,mg,13 %
 "Zinc",0.59,mg,5 %
-"Protein",2.72,g,5 %
+"Protein",2.73,g,5 %
 "Histidine",0.07,g,6 %
 "Isoleucine",0.098,g,6 %
 "Leucine",0.185,g,5 %
@@ -70,8 +70,8 @@ Calories,147,,
 "Alanine",0.107,g,
 "Aspartic acid",0.205,g,
 "Hydroxyproline",0,g,
-"Carbohydrate",24.91,g,9 %
-"Fiber",2.56,g,9 %
+"Carbohydrate",12.52,g,5 %
+"Fiber",2.57,g,9 %
 "Starch",8.67,g,
 "Sugars",0.18,g,
 "Fructose",0.01,g,
@@ -80,7 +80,7 @@ Calories,147,,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.05,g,
-"Net carbs",22.35,g,
+"Net carbs",9.95,g,
 "Fat",10.706,g,14 %
 "Saturated fatty acids",1.725,g,9 %
 "Butanoic acid",0,g,
@@ -124,4 +124,4 @@ Calories,147,,
 "Caffeine",6,mg,
 "Serine",0.133,g,
 "Theobromine",51,mg,
-"Water",19.8,g,
+"Water",20.62,g,

@@ -62,13 +62,10 @@ tags:
 Description: <a href='/misc/fake-healthy-foods#dips'>Mayo</a> is basically an emulsion of <a href='/misc/olive-oil'>oil</a> and <a href='/misc/meat#eggs'>egg yolk</a>, so it's inherently very high in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>. Using <a href='/misc/olive-oil'>extra virgin olive oil</a> at least replaces the typical <a href='/misc/fake-healthy-foods#seed-oil'>refined oil</a> with a source of predominantly <a href='/misc/fats'>monounsaturated fat</a>. <a href='/misc/olive-oil'>EVOO</a> also gives the <a href='/misc/fake-healthy-foods#dips'>mayo</a> a more pronounced flavor, which can be a plus if you like <a href='/misc/olive-oil'>olive oil</a>. It's still an extremely <a href='/misc/calories'>calorie-dense</a> spread, though, so use it in moderation like regular <a href='/misc/fake-healthy-foods#dips'>mayo</a>.
 Instructions:
 - Add <a href='/misc/meat#eggs'>egg yolks</a>, water, mustard, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, salt, and <a href='/misc/olive-oil'>oil</a> to a tall and narrow cup or jar. Let everything sit for about 30 seconds.
-- <img src='/assets/Misc/Unhealthy/Mayo/before.jpg' alt='' class='instruction-image'>
 
 - Lower an <a href='https://amzn.to/3VHhgMM'>immersion blender</a> all the way to the bottom of the cup. Blend without moving it up for around 15 seconds, or until it starts to thicken and emulsify.
-- <img src='/assets/Misc/Unhealthy/Mayo/during.jpg' alt='' class='instruction-image'>
 
 - Slowly raise the <a href='https://amzn.to/3VHhgMM'>immersion blender</a> as you blend to incorporate all the <a href='/misc/olive-oil'>oil</a>. It should roughly double in volume and be thick and creamy, with everything fully incorporated.
-- <img src='/assets/Misc/Unhealthy/Mayo/after.jpg' alt='' class='instruction-image'>
 
 - Refrigerate in an airtight container and use within 3–4 days. Because this recipe contains raw <a href='/misc/meat#eggs'>egg yolks</a>, keep refrigerated and discard if left at room temperature for more than 2 hours.
 Notes:

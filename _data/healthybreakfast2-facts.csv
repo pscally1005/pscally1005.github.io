@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,553,,
+Calories,543,,
 "Vitamin A, RAE",1722,mcg,191 %
 "Carotene, alpha",8543,mcg,
 "Carotene, beta",14560,mcg,
@@ -35,18 +35,18 @@ Calories,553,,
 "Betaine",0.4,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",116.2,mg,21 %
-"Calcium",521,mg,40 %
+"Calcium",502,mg,39 %
 "Copper",1.36,mg,151 %
 "Fluoride",7.4,mcg,
 "Iodine",0,mcg,0 %
-"Iron",8.93,mg,50 %
+"Iron",7.24,mg,40 %
 "Magnesium",195,mg,46 %
 "Manganese",2.159,mg,94 %
 "Phosphorus",847,mg,68 %
-"Potassium",1661,mg,35 %
+"Potassium",1564,mg,33 %
 "Selenium",18.07,mcg,33 %
-"Sodium",512,mg,22 %
-"Zinc",6.01,mg,55 %
+"Sodium",502,mg,22 %
+"Zinc",6.02,mg,55 %
 "Protein",41.54,g,83 %
 "Histidine",0.931,g,81 %
 "Isoleucine",1.69,g,109 %
@@ -56,21 +56,21 @@ Calories,553,,
 "Phenylalanine",1.761,g,
 "Threonine",1.577,g,97 %
 "Tryptophan",0.382,g,94 %
-"Valine",2.109,g,108 %
-"Phenylalanine + Tyrosine",2.912,g,108 %
+"Valine",2.11,g,108 %
+"Phenylalanine + Tyrosine",2.913,g,108 %
 "Methionine + Cysteine",1.223,g,79 %
-"Arginine",2.939,g,
+"Arginine",2.94,g,
 "Cystine",0.309,g,
 "Cysteine",0.2,g,
 "Glutamic acid",6.976,g,
 "Glycine",1.394,g,
 "Proline",1.958,g,
-"Tyrosine",1.151,g,
+"Tyrosine",1.152,g,
 "Alanine",1.806,g,
-"Aspartic acid",3.855,g,
+"Aspartic acid",3.856,g,
 "Hydroxyproline",0.027,g,
-"Carbohydrate",75.59,g,27 %
-"Fiber",22.92,g,82 %
+"Carbohydrate",71.6,g,26 %
+"Fiber",19.93,g,71 %
 "Starch",0.48,g,
 "Sugars",45,g,
 "Fructose",12.53,g,
@@ -79,7 +79,7 @@ Calories,553,,
 "Lactose",0,g,
 "Maltose",0.04,g,
 "Sucrose",12.96,g,
-"Net carbs",52.67,g,
+"Net carbs",51.67,g,
 "Fat",14.838,g,19 %
 "Saturated fatty acids",2.276,g,11 %
 "Butanoic acid",0,g,
