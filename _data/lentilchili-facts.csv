@@ -44,7 +44,7 @@ Calories,505,,
 "Phosphorus",435,mg,35 %
 "Potassium",1684,mg,36 %
 "Selenium",11.26,mcg,20 %
-"Sodium",1741,mg,76 %
+"Sodium",1781,mg,77 %
 "Zinc",4.4,mg,40 %
 "Protein",31.42,g,63 %
 "Histidine",0.788,g,69 %
@@ -72,6 +72,7 @@ Calories,505,,
 "Fiber",17.04,g,61 %
 "Starch",37.72,g,
 "Sugars",17.96,g,
+"Sugars, added",0,g,0 %
 "Fructose",4.32,g,
 "Galactose",0,g,
 "Glucose",3.72,g,

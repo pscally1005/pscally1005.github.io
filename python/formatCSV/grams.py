@@ -546,7 +546,7 @@ def grams(food, mass, vol):
             m = "108"
 
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Whole milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "No sugar added apple spread" or food == "Vodka" or food == "Fruit juice, sugar free" or food == "Cream cheese" or food == "Cream cheese, 1/3 less fat" or food == "Liquid whey, sweet" or food == "Liquid whey, acid" or food == "Liquid whey" or food == "Rum" or food == "Simple syrup" or food == "Honey mustard dressing" or food == "Lemonade, storebought" or food == "Hummus" or food == "Classic tahini hummus" or food == "Pesto" or food == "Creamy pesto dip" or food == "Hummus, storebought":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Whole milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "No sugar added apple spread" or food == "Vodka" or food == "Fruit juice, sugar free" or food == "Cream cheese" or food == "Cream cheese, 1/3 less fat" or food == "Liquid whey, sweet" or food == "Liquid whey, acid" or food == "Liquid whey" or food == "Rum" or food == "Simple syrup" or food == "Honey mustard dressing" or food == "Lemonade, storebought" or food == "Hummus" or food == "Classic tahini hummus" or food == "Pesto" or food == "Creamy pesto dip" or food == "Hummus, storebought" or food == "Sweetened almond milk":
         if food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Butternut squash puree":
             if vol == "1/2 serving" or vol == "1/4 cup":
                 m = "60"
@@ -873,7 +873,7 @@ def grams(food, mass, vol):
             m = "333"
 
     # Yogurt & cottage cheese
-    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Vanilla Protein Greek Yogurt" or food == "Full fat cottage cheese":
+    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Vanilla Protein Greek Yogurt" or food == "Full fat cottage cheese" or food == "Vanilla nonfat greek yogurt" or food == "Plain low fat greek yogurt" or food == "Vanilla low fat greek yogurt" or food == "Vanilla whole milk greek yogurt":
         if vol == "1 tbsp":
             m = "14"
         elif vol == "2 tbsp":
@@ -932,6 +932,13 @@ def grams(food, mass, vol):
     elif food == "Vanilla ice cream":
         if vol == "1 cup":
             m = "135"
+
+    # Mayo
+    elif food == "Mayonnaise" or food == "Mayo" or food == "EVOO mayo recipe":
+        if vol == "1 tbsp":
+            m = "13.6"
+        elif vol == "1 cup":
+            m = "220"
 
     # Shredded wheat cereal
     elif food == "Shredded wheat cereal":
@@ -1397,6 +1404,11 @@ def grams(food, mass, vol):
             m = "480"
         elif vol == "5 medium":
             m = "600"
+
+    # Jalapenos
+    elif food == "Jalapeno":
+        if vol == "1 medium":
+            m = "20"
 
     # Tomato paste
     elif food == "Tomato paste" or food == "Tomato paste, canned":
@@ -2181,6 +2193,8 @@ def grams(food, mass, vol):
             m = "5"
         elif vol == "10 sprigs":
             m = "10"
+        elif vol == "2 cup":
+            m = "32"
         elif vol == "2 1/2 cup":
             m = "40"
         elif vol == "3 cup chopped" or vol == "1 bunch":

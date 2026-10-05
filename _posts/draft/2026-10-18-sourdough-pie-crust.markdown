@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sourdough Discard Pie Crust
-date:   2026-09-20 00:00:00 -0500
+date:   2026-10-04 00:00:00 -0500
 categories:
 - Recipes
 - Bread
@@ -53,11 +53,13 @@ Description: Normally when I feed my <a href='/misc/whole-wheat-sourdough#starte
 Instructions:
 - Preheat your oven to 350F. Line the bottom of a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a> with parchment paper.
 
-- Add your <a href='/misc/whole-wheat-sourdough#starter'>starter</a> directly to the <a href='https://amzn.to/4q0gY0f'>pan</a> with salt. Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, then spread the mixture into a thin, even layer covering the bottom of the <a href='https://amzn.to/4q0gY0f'>pan</a>. The mixture will only cover the bottom, not the sides.
-- <img src='/assets/Food/Bread/Sourdough Pie Crust/raw.jpg' alt='' class='instruction-image'>
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, mix together your <a href='/misc/whole-wheat-sourdough#starter'>starter</a> with salt and baking powder using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Spread the mixture into a thin, even layer covering the bottom of the <a href='https://amzn.to/4q0gY0f'>pan</a>. The mixture will only cover the bottom, not the sides.
+- <img src='/assets/Food/Bread/Sourdough Pie Crust/rawNew.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 10 minutes, or until lightly browned and set on the bottom. Let it cool totally (at least 30 minutes in the fridge) before adding any pie filling.
-- <img src='/assets/Food/Bread/Sourdough Pie Crust/baked.jpg' alt='' class='instruction-image'>
+- The baking time for this pie crust depends on how you plan to use it. If you are parbaking the crust before adding a filling that will bake for 30-45 minutes at 350F, parbake the crust at 350F for about 15 minutes, or until lightly browned and set.
+
+- If you are using this crust for an ice-box pie or another pie with a filling that does not get baked, fully bake the crust beforehand. Bake at 350F for about 30 minutes, or until golden brown.
+- <img src='/assets/Food/Bread/Sourdough Pie Crust/bakedNew.jpg' alt='' class='instruction-image'>
 Notes:
 - The parchment paper is essential for preventing the crust from sticking. Without it, the crust can stick so badly to the pan that you may not be able to remove a slice. Lining a pie pan with parchment paper may seem unconventional, but so is making a pie crust out of <a href='/misc/whole-wheat-sourdough#starter'>sourdough starter</a>!
 

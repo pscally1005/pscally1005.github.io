@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  EVOO Mayo Recipe
-date:   2026-10-01 00:00:00 -0500
+date:   2026-10-05 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
@@ -69,12 +69,14 @@ Instructions:
 
 - Slowly raise the <a href='https://amzn.to/3VHhgMM'>immersion blender</a> as you blend to incorporate all the <a href='/misc/olive-oil'>oil</a>. It should roughly double in volume and be thick and creamy, with everything fully incorporated.
 - <img src='/assets/Misc/Unhealthy/Mayo/after.jpg' alt='' class='instruction-image'>
+
+- Refrigerate in an airtight container and use within 3–4 days. Because this recipe contains raw <a href='/misc/meat#eggs'>egg yolks</a>, keep refrigerated and discard if left at room temperature for more than 2 hours.
 Notes:
 - The cup should be just barely wider than your <a href='https://amzn.to/3VHhgMM'>immersion blender</a>, and tall enough to fully submerge it.
 
 - For a more neutral flavor, use avocado oil. For a more standard <a href='/misc/fake-healthy-foods#dips'>mayo</a>, use <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a>. For the lolz, use <a href='/misc/slow-cooker-chicken'>chicken fat</a>.
 
-- <a href='#recipe'>This recipe</a> makes <b>340 g</b> (approximately <b>1 1/2 cup + 2 tbsp</b>) of <a href='#recipe'>homemade mayo</a>.
+- <a href='#recipe'>This recipe</a> makes <b>340 g</b> (approximately <b>1 cup + 9 tbsp</b>) of <a href='#recipe'>homemade mayo</a>.
 
 - Use this as a 1:1 substitute for storebought <a href='/misc/fake-healthy-foods#dips'>mayo</a> in all applications, whether it be for the basis of a sauce, or as a binder for your potato salad, <a href='/recipes/hummus-coleslaw'>coleslaw</a>, or tuna salad!
 
@@ -82,6 +84,11 @@ Notes:
 
 - |
   <div id='aioli' class='table-of-contents-2'></div>
-  To turn this into a garlic aioli, add one of the following to <a href='#recipe'>your full batch of homemade mayo</a>:
+  To turn this into a garlic aioli, add <b>one</b> of the following to <a href='#recipe'>your full batch of homemade mayo</a>:
 - INGREDIENTS(aiolioptions)
+
+- |
+  <div id='honey-mustard' class='table-of-contents-2'></div>
+  To turn this into a <a href='/recipes/honey-mustard'>honey mustard</a>, add <b>all</b> of the following to <a href='#recipe'>your full batch of homemade mayo</a>:
+- INGREDIENTS(mayohoneymustard)
 ---

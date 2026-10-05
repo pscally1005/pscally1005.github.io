@@ -10,11 +10,45 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/mexican-bean-salad": [
+        "mexican bean salad",
+        "mexican bean salad recipe",
+        "mexican bean cilantro salad",
+        "mexican two bean salad"
+    ],
     "/recipes/lentil-tofu-chili": [
         "lentil tofu chili",
         "tofu lentil chili",
         "tofu chili",
         "lentil chili"
+    ],
+    "/recipes/vanilla-almond-milk": [
+        "vanilla almond milk",
+        "homemade vanilla almond milk",
+        "sweetened vanilla almond milk",
+        "sugar-free almond milk",
+        "sugar free almond milk",
+        "sugar-free vanilla almond milk",
+        "sugar free vanilla almond milk"
+    ],
+    "/recipes/vanilla-yogurt": [
+        "vanilla greek yogurt",
+        "homemade vanilla greek yogurt",
+        "sweetened vanilla greek yogurt",
+        "sugar-free greek yogurt",
+        "sugar free greek yogurt",
+        "sugar-free vanilla greek yogurt",
+        "sugar free vanilla greek yogurt",
+        "full fat vanilla greek yogurt",
+        "full-fat vanilla greek yogurt",
+        "whole milk vanilla greek yogurt",
+        "whole-milk vanilla greek yogurt",
+        "low fat vanilla greek yogurt",
+        "low-fat vanilla greek yogurt",
+        "lowfat vanilla greek yogurt",
+        "nonfat vanilla greek yogurt",
+        "non-fat vanilla greek yogurt"
+        "non fat vanilla greek yogurt"
     ],
     "/recipes/buckeyes": [
         "ohio buckeye balls",
@@ -10441,7 +10475,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-04", "2026-10-15", "2026-10-16")):
+            if not file.startswith(("2026-10-13", "2026-10-16", "2026-10-17", "2026-10-20")):
                 continue
 
             # exclude some files

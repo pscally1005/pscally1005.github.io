@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Double Chocolate Protein Cake
-date:   2026-07-23 00:00:00 -0500
+date:   2026-10-05 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

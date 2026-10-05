@@ -33,7 +33,7 @@ def ingredients(food):
         f = "Cannellini beans, NOT drained or rinsed"
     elif food == "Navy beans, canned, drained and rinsed" or food == "Cannellini beans, canned, drained and rinsed":
         f = "Cannellini beans, drained and rinsed"
-    elif food == "Beans, drained solids, canned, pinto" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto" or food == "Beans, solids and liquids, canned, mature seeds, pinto":
+    elif food == "Beans, drained solids, canned, pinto" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto" or food == "Beans, solids and liquids, canned, mature seeds, pinto" or food == "Pinto beans, canned, drained and rinsed":
         f = "Pinto beans, drained and rinsed"
     elif food == "Pinto beans, canned, whole":
         f = "Pinto beans, NOT drained or rinsed"
@@ -134,6 +134,8 @@ def ingredients(food):
 
 
     # Oil, vinegar, other liquids
+    elif food == "evoo-mayo":
+        f = "EVOO mayo recipe"
     elif food == "Fat, chicken":
         f = "Chicken fat"
     elif food == "Oil, salad or cooking, olive" or food == "Extra virgin olive oil by OLIO" or food == "Extra virgin olive oil by QO" or food == "Extra virgin olive oil by GAEA" or food == "Extra virgin olive oil by BRAGG":
@@ -431,8 +433,16 @@ def ingredients(food):
         f = "Protein Shake To Go"
     elif food == "Yogurt, Greek, nonfat milk, plain" or food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, nonfat, plain, Greek" or food == "Yogurt, plain, nonfat milk" or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":
         f = "Plain nonfat greek yogurt"
+    elif food == "Yogurt, nonfat, vanilla, Greek":
+        f = "Vanilla nonfat greek yogurt"
+    elif food == "Yogurt, lowfat, plain, Greek":
+        f = "Plain low fat greek yogurt"
+    elif food == "Yogurt, lowfat, vanilla, Greek":
+        f = "Vanilla low fat greek yogurt"
     elif food == "Yogurt, whole milk, plain, Greek":
         f = "Plain whole milk greek yogurt"
+    elif food == "Yogurt, whole milk, fruit, Greek" or food == "Yogurt, whole milk, vanilla, Greek":
+        f = "Vanilla whole milk greek yogurt"
     elif food == "Chobani 20g Protein, Vanilla Yogurt":
         f = "Vanilla Protein Greek Yogurt"
     elif food == "Buttermilk, low fat (1%)" or food == "Buttermilk, fat free (skim)":
@@ -461,6 +471,8 @@ def ingredients(food):
         f = "Grated parmesan cheese"
     elif food == "Unsweetened original almond milk by Supervalu, Inc." or food == "Almond milk, unsweetened":
         f = "Unsweetened almond milk"
+    elif food == "Almond milk, sweetened":
+        f = "Sweetened almond milk"
     elif food == "Unsweetened vanilla almondmilk by ORGAIN" or food == "Unsweetened vanilla almond milk, unsweetened vanilla by Danone US, LLC" or food == "Unsweetened vanilla almondmilk by Target Stores" or food == "Unsweetened vanilla almond milk, unsweetened vanilla by Supervalu, Inc." or food == "Unsweetened vanilla almondmilk by Hy-Vee, Inc.":
         f = "Unsweetened vanilla almond milk"
     elif food == "Cheese, feta":
@@ -481,6 +493,8 @@ def ingredients(food):
         f = "Skim milk"
 
     # Fresh produce
+    elif food == "Peppers, raw, jalapeno":
+        f = "Jalapeno"
     elif food == "Cauliflower, raw":
         f = "Cauliflower"
     elif food == "Watermelon, raw":
