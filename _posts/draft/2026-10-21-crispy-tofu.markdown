@@ -56,20 +56,20 @@ tags:
 - vegan
 - vegetarian
 - protein
-Description: Crispy tofu made in the air fryer! Just cut it into cubes, toss it with slices, and chuck it in the air fryer. This vegan protein source is dead simple, super tasty, low in fat, and high in B vitamins from the nutritional yeast.
+Description: Crispy <a href='/misc/beans#tofu'>tofu</a> made in the <a href='https://amzn.to/3FuWETp'>air fryer</a>! Just cut it into cubes, toss it with slices, and chuck it in the <a href='https://amzn.to/3FuWETp'>air fryer</a>. This vegan <a href='/misc/protein'>protein</a> source is dead simple, super tasty, low in <a href='/misc/fats'>fat</a>, and high in <a href='/misc/vitamin-b12'>B vitamins</a> from the <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>.
 Instructions:
-- Preheat your air fryer to 400F.
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F.
 
-- Drain your tofu, and pat dry with a paper towel. Cut into small cubes.
+- Drain your <a href='/misc/beans#tofu'>tofu</a>, and pat dry with a paper towel. Cut into small cubes.
 - <img src='/assets/Food/Meatless/Crispy Tofu/cut.jpg' alt='' class='instruction-image'>
 
-- Mix together soy sauce, oil, nutritional yeast, garlic powder, onion powder, and paprika in a medium bowl.
+- Mix together <a href='https://amzn.to/44VXByC'>soy sauce</a>, <a href='/misc/olive-oil'>oil</a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, garlic powder, onion powder, and paprika in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>.
 
-- Add in the tofu, and carefully combine with the spices. Arrange your tofu in a single layer in the air fryer.
+- Add in the <a href='/misc/beans#tofu'>tofu</a>, and carefully combine with the spices. Arrange your <a href='/misc/beans#tofu'>tofu</a> in a single layer in the <a href='https://amzn.to/3FuWETp'>air fryer</a>.
 - <img src='/assets/Food/Meatless/Crispy Tofu/seasoned.jpg' alt='' class='instruction-image'>
 
-- Air fry at 400F for about 15 minutes, or until browned and crispy.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 15 minutes, or until browned and crispy.
 - <img src='/assets/Food/Meatless/Crispy Tofu/cooked.jpg' alt='' class='instruction-image'>
 Notes:
-- Cornstarch (1 tbsp, 8 g) can be used in place of nutritional yeast. However, nutritional yeast (aka "nooch") not only tastes better, but is fortitied with B vitamins, mainly Vitamin B12, which would otherwise be missing from this vegan meal, as B12 typically only comes from animal-source foods (meat, fish, dairy, and eggs).
+- Cornstarch (1 tbsp, 8 g) can be used in place of <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>. However, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a> (aka "<a href='https://amzn.to/43wLkhB'>nooch</a>") not only tastes better, but is fortitied with <a href='/misc/nutrient-alphabet#B'>B vitamins</a>, mainly <a href='/misc/vitamin-b12'>Vitamin B12</a>, which would otherwise be missing from this vegan meal, as <a href='/misc/vitamin-b12'>B12</a> typically only comes from animal-source foods (<a href='/misc/meat'>meat</a>, <a href='/misc/fish'>fish</a>, <a href='/misc/dairy'>dairy</a>, and <a href='/misc/meat#eggs'>eggs</a>).
 ---

@@ -13,7 +13,9 @@ LINKS = {
     "/recipes/crispy-tofu": [
         "crispy tofu",
         "air fryer crispy tofu",
-        "air fried crispy tofu"
+        "air fried crispy tofu",
+        "air fryer tofu",
+        "air fried tofu"
     ],
     "/recipes/pumpkin-baked-oats": [
         "pumpkin baked oats",
@@ -8700,8 +8702,8 @@ EXCLUDED_PHRASES = [
     "Black:",
     "juice not from",
     "soda water",
-    "chocolate baked oats",
-    "baked oats",
+    # "chocolate baked oats",
+    # "baked oats",
     "this honey mustard recipe",
     "club soda",
     "your cookie dough",

@@ -68,20 +68,23 @@ tags:
 - pumpkin bread
 - pumpkin oatmeal
 - pumpkin oats
-Description: These protein baked oats are a simple, healthy, and tasty way to meal prep breakfast for the next 4 days. These baked oat bars are gluten-free, sugar-free, lower in fat, and vegan, while still being packed with protein and flavor. This variant is a seasonal pumpkin spice, but for a chocolate version check out my Chocolate Protein Baked Oats! Or for a banana variation, check out my Banana Bread Protein Baked Oats!
-Instructions:
-- Preheat your oven to 350F. Line a 9" square baking pan with parchment paper, and lightly grease it with oil.
+Description: |
+  These <a href='/misc/protein'>protein</a> baked <a href='/misc/grains#oats'>oats</a> are a simple, healthy, and tasty way to meal prep <a href='/recipes/breakfast'>breakfast</a> for the next 4 days. These baked <a href='/misc/grains#oats'>oat</a> bars are <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, lower in <a href='/misc/fats'>fat</a>, and vegan, while still being packed with <a href='/misc/protein'>protein</a> and flavor.<br><br>
 
-- Add all ingredients to a large bowl. Mix with a silicone spatula until fully combined.
+  This variant is a seasonal <a href='/misc/veggies#pumpkin'>pumpkin</a> spice, but for a <a href='/misc/chocolate-benefits'>chocolate</a> version check out my <a href='/recipes/chocolate-baked-oats'>Chocolate Protein Baked Oats</a>! Or for a <a href='/misc/fruit#banana'>banana</a> variation, check out my <a href='/recipes/banana-baked-oats'>Banana Bread Protein Baked Oats</a>!
+Instructions:
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease it with oil</a>.
+
+- Add all ingredients to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined.
 - <img src='/assets/Food/Breakfast/Baked Oats/Pumpkin/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to your pan.
 - <img src='/assets/Food/Breakfast/Baked Oats/Pumpkin/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 30 minutes, or until a toothpick to the center comes out clean, and the internal temperature is about 205F.
+- Bake at 350F for about 30 minutes, or until a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.
 - <img src='/assets/Food/Breakfast/Baked Oats/Pumpkin/baked.jpg' alt='' class='instruction-image'>
 
-- Transfer to a wire rack. Allow it to cool totally before slicing into 4 large squares.
+- Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Allow it to cool totally before slicing into 4 large squares.
 - <img src='/assets/Food/Breakfast/Baked Oats/Pumpkin/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - |
