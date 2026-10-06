@@ -10,6 +10,37 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/crispy-tofu": [
+        "crispy tofu",
+        "air fryer crispy tofu",
+        "air fried crispy tofu"
+    ],
+    "/recipes/pumpkin-baked-oats": [
+        "pumpkin baked oats",
+        "pumpkin baked oatmeal",
+        "pumpkin spice baked oats",
+        "pumpkin spice baked oatmeal",
+        "pumpkin protein baked oats",
+        "pumpkin protein baked oatmeal",
+        "pumpkin spice protein baked oats",
+        "pumpkin spice protein baked oatmeal"
+    ],
+    "/recipes/chocolate-baked-oats": [
+        "chocolate baked oats",
+        "chocolate baked oatmeal",
+        "chocolate protein baked oats",
+        "chocolate protein baked oatmeal"
+    ],
+    "/recipes/banana-baked-oats": [
+        "banana baked oats",
+        "banana baked oatmeal",
+        "banana bread baked oats",
+        "banana bread baked oatmeal",
+        "banana protein baked oats",
+        "banana protein baked oatmeal",
+        "banana bread protein baked oats",
+        "banana bread protein baked oatmeal"
+    ],
     "/recipes/mexican-bean-salad": [
         "mexican bean salad",
         "mexican bean salad recipe",
@@ -2082,29 +2113,70 @@ LINKS = {
     "/recipes/oats-banana": [
         "Banana Nut Bread Protein Overnight Oats",
         "banana protein overnight oats",
-        "banana oatmeal"
+        "banana oatmeal",
+        "banana bread protein overnight oats",
+        "banana bread overnight oats",
+        "banana bread protein overnight oatmeal",
+        "banana bread overnight oatmeal"
+        "banana nut protein overnight oats",
+        "banana nut protein overnight oatmeal",
+        "banana nut oatmeal",
+        "banana oats",
+        "banana nut oats",
+        "banana overnight oats",
+        "banana nut overnight oats",
+        "banana overnight oatmeal",
+        "banana nut overnight oatmeal"
     ],
     "/recipes/oats-berry": [
         "Berry Delicious Protein Overnight Oats",
         "berry protein overnight oats",
-        "berry oatmeal"
+        "berry oatmeal",
+        "berry overnight oats",
+        "berry oats",
+        "berry overnight oatmeal",
+        "berry delicious",
+        "berry delicious overnight oats",
+        "berry delicious overnight oatmeal",
+        "berry protein overnight oatmeal"
     ],
     "/recipes/oats-pb": [
         "Peanut Butter Punch Protein Overnight Oats",
         "peanut butter protein overnight oats",
-        "peanut butter oatmeal"
+        "peanut butter oatmeal",
+        "peanunt butter punch",
+        "peanut butter punch overnight oats",
+        "peanut butter punch overnight oatmeal",
+        "peanut butter punch protein overnight oatmeal",
+        "peanut butter oats"
     ],
     "/recipes/oats-pumpkin": [
         "Pumpkin Pie Protein Overnight Oats",
         "pumpkin protein overnight oats",
-        "pumpkin oatmeal"
+        "pumpkin oatmeal",
+        "pumpkin pie overnight oats",
+        "pumpkin pie overnight oatmeal",
+        "pumpkin pie protein overnight oatmeal",
+        "pumpkin protein overnight oats",
+        "pumpkin protein overnight oatmeal",
+        "pumpkin oats"
+        "pumpkin overnight oats",
+        "pumpkin overnight oatmeal"
     ],
     "/recipes/oats-reeses": [
         "Reese's Protein Overnight Oats",
         "peanut butter chocolate overnight oats",
         "chocolate peanut butter overnight oats",
         "peanut butter chocolate oatmeal",
-        "chocolate peanut butter oatmeal"
+        "chocolate peanut butter oatmeal",
+        "chocolate overnight oats",
+        "chocolate overnight oatmeal",
+        "chocolate protein overnight oats",
+        "chocolate protein overnight oatmeal",
+        "peanut butter chocolate protein overnight oats",
+        "chocolate peanut butter protein overnight oats",
+        "peanut butter chocolate protein overnight oatmeal",
+        "chocolate peanut butter protein overnight oatmeal"
     ],
     "/recipes/oil-free-basil-pesto": [
         "Oil Free Basil Pesto",
@@ -6378,7 +6450,8 @@ LINKS = {
         "acai puree"
     ],
     "https://amzn.to/43wLkhB": [
-        "nutritional yeast"
+        "nutritional yeast",
+        "nooch"
     ],
     "https://amzn.to/44VXByC": [
         "soy sauce",
@@ -10521,7 +10594,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-13", "2026-10-16", "2026-10-17", "2026-10-20")):
+            if not file.startswith(("2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24")):
                 continue
 
             # exclude some files
