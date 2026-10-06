@@ -88,6 +88,8 @@ Instructions:
 - <img src='/assets/Food/Breakfast/Baked Oats/Pumpkin/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - |
+  Below is a comparison of the 3 versions: <a href='#recipe'>Pumpkin</a>, <a href='/recipes/chocolate-baked-oats'>Chocolate</a>, and <a href='/recipes/banana-baked-oats'>Banana</a>.
+- |
   COMPARE(
     "proteinbakedoatspumpkin",
     "proteinbakedoatschocolate",

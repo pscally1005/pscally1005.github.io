@@ -61,10 +61,11 @@ tags:
 - unsweetened applesauce
 - chocolate
 - cocoa powder
+- brownie
 Description: |
   These <a href='/misc/protein'>protein</a> baked <a href='/misc/grains#oats'>oats</a> are a simple, healthy, and tasty way to meal prep <a href='/recipes/breakfast'>breakfast</a> for the next 4 days. These baked <a href='/misc/grains#oats'>oat</a> bars are <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, lower in <a href='/misc/fats'>fat</a>, and vegan, while still being packed with <a href='/misc/protein'>protein</a> and flavor.<br><br>
 
-  This variant is a classic <a href='/misc/chocolate-benefits'>chocolate</a>, but for a fall appropriate recipe, check out my <a href='/recipes/pumpkin-baked-oats'>Pumpkin Protein Baked Oats</a>! Or for a <a href='/misc/fruit#banana'>banana</a> variation, check out my <a href='/recipes/banana-baked-oats'>Banana Bread Protein Baked Oats</a>!
+  This variant is a classic <a href='/misc/chocolate-benefits'>chocolate</a>, but for a fall appropriate recipe, check out my <a href='/recipes/pumpkin-baked-oats'>Pumpkin Spice Protein Baked Oats</a>! Or for a <a href='/misc/fruit#banana'>banana</a> variation, check out my <a href='/recipes/banana-baked-oats'>Banana Bread Protein Baked Oats</a>!
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease it with oil</a>.
 
@@ -80,6 +81,8 @@ Instructions:
 - Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Allow it to cool totally before slicing into 4 large squares.
 - <img src='/assets/Food/Breakfast/Baked Oats/Chocolate/cut.jpg' alt='' class='instruction-image'>
 Notes:
+- |
+  Below is a comparison of the 3 versions: <a href='/recipes/pumpkin-baked-oats'>Pumpkin</a>, <a href='#recipe'>Chocolate</a>, and <a href='/recipes/banana-baked-oats'>Banana</a>.
 - |
   COMPARE(
     "proteinbakedoatspumpkin",

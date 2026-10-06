@@ -23,7 +23,7 @@ protein_bar: no
 beans: no
 permalink: /recipes/banana-baked-oats
 image: /assets/Food/Breakfast/Baked Oats/Banana/cover.jpg
-file: proteinbakedoatspumpkin
+file: proteinbakedoatsbanana
 servingSize: 1 bar (~TODO g)
 section1:
 start2:
@@ -38,7 +38,7 @@ Prep: 10
 Rest:
 Cook: 30
 Source1: https://www.poormanprotein.com/recipes/chocolate-baked-oats
-Source2: https://www.poormanprotein.com/recipes/banana-baked-oats
+Source2: https://www.poormanprotein.com/recipes/pumpkin-baked-oats
 Source3:
 Source4:
 Source5:
@@ -64,7 +64,7 @@ tags:
 Description: |
   These <a href='/misc/protein'>protein</a> baked <a href='/misc/grains#oats'>oats</a> are a simple, healthy, and tasty way to meal prep <a href='/recipes/breakfast'>breakfast</a> for the next 4 days. These baked <a href='/misc/grains#oats'>oat</a> bars are <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, lower in <a href='/misc/fats'>fat</a>, and vegan, while still being packed with <a href='/misc/protein'>protein</a> and flavor.<br><br>
 
-  This variant is a classic <a href='/misc/fruit#banana'>banana</a> baked <a href='/misc/grains#oats'>oats</a>, but for a fall appropriate recipe, check out my <a href='/recipes/pumpkin-baked-oats'>Pumpkin Protein Baked Oats</a>! Or check out my <a href='/recipes/chocolate-baked-oats'>Chocolate Protein Baked Oats</a> for a <a href='/misc/chocolate-benefits'>cocoa</a> variation!
+  This variant is a classic <a href='/misc/fruit#banana'>banana</a> baked <a href='/misc/grains#oats'>oats</a>, but for a fall appropriate recipe, check out my <a href='/recipes/pumpkin-baked-oats'>Pumpkin Spice Protein Baked Oats</a>! Or check out my <a href='/recipes/chocolate-baked-oats'>Chocolate Protein Baked Oats</a> for a <a href='/misc/chocolate-benefits'>cocoa</a> variation!
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease it with oil</a>.
 
@@ -80,6 +80,8 @@ Instructions:
 - Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Allow it to cool totally before slicing into 4 large squares.
 - <img src='/assets/Food/Breakfast/Baked Oats/Banana/cut.jpg' alt='' class='instruction-image'>
 Notes:
+- |
+  Below is a comparison of the 3 versions: <a href='/recipes/pumpkin-baked-oats'>Pumpkin</a>, <a href='/recipes/chocolate-baked-oats'>Chocolate</a>, and <a href='#recipe'>Banana</a>.
 - |
   COMPARE(
     "proteinbakedoatspumpkin",
