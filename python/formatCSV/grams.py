@@ -1031,6 +1031,8 @@ def grams(food, mass, vol):
             m = "15"
         elif vol == "2/3 scoop":
             m = "20"
+        elif vol == "3/4 scoop":
+            m = "23"
         elif vol == "1 scoop":
             m = "30"
         elif vol == "1.33 scoop" or vol == "1 1/3 scoop":

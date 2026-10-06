@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Salsa Cauliflower
-date:   2026-09-25 00:00:00 -0500
+date:   2026-10-06 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

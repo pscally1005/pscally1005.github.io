@@ -588,6 +588,8 @@ def vol_from_mass(food, mass, vol):
             v = "1/3 cup"
         elif mass == "90":
             v = "6 tbsp"
+        elif mass == "97.5" or mass == "98":
+            v = "6 1/2 tbsp"
         elif mass == "105":
             v = "7 tbsp"
         elif mass == "120" or mass == "112":
@@ -1041,6 +1043,8 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 scoop"
         elif mass == "20" or mass == "21":
             v = "2/3 scoop"
+        elif mass == "22" or mass == "22.5" or mass == "23":
+            v = "3/4 scoop"
         elif mass == "30":
             v = "1 scoop"
         elif mass == "40":
