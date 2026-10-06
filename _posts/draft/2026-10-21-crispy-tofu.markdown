@@ -56,7 +56,7 @@ tags:
 - vegan
 - vegetarian
 - protein
-Description: Crispy <a href='/misc/beans#tofu'>tofu</a> made in the <a href='https://amzn.to/3FuWETp'>air fryer</a>! Just cut it into cubes, toss it with slices, and chuck it in the <a href='https://amzn.to/3FuWETp'>air fryer</a>. This vegan <a href='/misc/protein'>protein</a> source is dead simple, super tasty, low in <a href='/misc/fats'>fat</a>, and high in <a href='/misc/vitamin-b12'>B vitamins</a> from the <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>.
+Description: Crispy <a href='/misc/beans#tofu'>tofu</a> made in the <a href='https://amzn.to/3FuWETp'>air fryer</a>! Just cut it into cubes, toss it with spices, and chuck it in the <a href='https://amzn.to/3FuWETp'>air fryer</a>. This vegan <a href='/misc/protein'>protein</a> source is dead simple, super tasty, low in <a href='/misc/fats'>fat</a>, and high in <a href='/misc/vitamin-b12'>B vitamins</a> from the <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>.
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F.
 
