@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/banana-baked-oats
 image: /assets/Food/Breakfast/Baked Oats/Banana/cover.jpg
 file: proteinbakedoatsbanana
-servingSize: 1 bar (~TODO g)
+servingSize: 1 bar (~224 g)
 section1:
 start2:
 section2:
@@ -61,6 +61,8 @@ tags:
 - cinnamon
 - overripe bananas
 - banana bread
+- almond milk
+- unsweetened almond milk
 Description: |
   These <a href='/misc/protein'>protein</a> baked <a href='/misc/grains#oats'>oats</a> are a simple, healthy, and tasty way to meal prep <a href='/recipes/breakfast'>breakfast</a> for the next 4 days. These baked <a href='/misc/grains#oats'>oat</a> bars are <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, lower in <a href='/misc/fats'>fat</a>, and vegan, while still being packed with <a href='/misc/protein'>protein</a> and flavor.<br><br>
 
@@ -74,12 +76,16 @@ Instructions:
 - Transfer the batter to your pan.
 - <img src='/assets/Food/Breakfast/Baked Oats/Banana/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 30 minutes, or until a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.
+- Bake at 350F for about 30 minutes, or until a toothpick to the center comes out clean.
 - <img src='/assets/Food/Breakfast/Baked Oats/Banana/baked.jpg' alt='' class='instruction-image'>
 
 - Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Allow it to cool totally before slicing into 4 large squares.
 - <img src='/assets/Food/Breakfast/Baked Oats/Banana/cut.jpg' alt='' class='instruction-image'>
 Notes:
+- I have not yet tested this with <a href='/misc/dairy#whey'>whey</a> or <a href='/misc/dairy#casein'>casein</a> instead of <a href='https://amzn.to/4aXnK21'>pea protein</a>.
+
+- I'm using <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a> today, but any kind of milk will work, such as <a href='/misc/dairy#skim-milk'>skim milk</a> or <a href='/misc/dairy#whole-milk'>whole milk</a>.
+
 - |
   Below is a comparison of the 3 versions: <a href='/recipes/pumpkin-baked-oats'>Pumpkin</a>, <a href='/recipes/chocolate-baked-oats'>Chocolate</a>, and <a href='#recipe'>Banana</a>.
 - |

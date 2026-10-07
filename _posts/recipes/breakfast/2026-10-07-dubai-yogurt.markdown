@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Dubai Chocolate Yogurt Bowl
-date:   2026-09-25 00:00:00 -0500
+date:   2026-10-07 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

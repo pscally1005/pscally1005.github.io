@@ -34,9 +34,9 @@ section4:
 start5:
 section5:
 Prep: 5
-Rest: 5
+Rest:
 Cook:
-Source1:
+Source1: https://www.poormanprotein.com/misc/dairy#yogurt
 Source2:
 Source3:
 Source4:
@@ -44,36 +44,27 @@ Source5:
 whisk: https://s.samsungfood.com/Gu6uQ
 tags:
 - plain nonfat greek yogurt
-- casein protein powder
+- pea protein powder
 - apple cider vinegar
-- liquid monk fruit
-- almond milk
-- homemade
 - copycat
-- psyllium husk
-Description: If you need <a href='/misc/dairy#yogurt'>yogurt</a>, and you need it, like, <i>right now</i>, then here a dumb substitution for you.  I've attempted to quickly "reverse engineer" <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>.  The result is a product as similar to <a href='/misc/dairy#yogurt'>greek yogurt</a> as you can reasonably get in 5 minutes.  It has the exact same nutrition facts, as shown in the <a href='#notes'>table below</a>, as well as a similar tangy and mildly sweet flavor.
+- unsweetened applesauce
+Description: If you need <a href='/misc/dairy#yogurt'>yogurt</a>, and you need it, like, <i>right now</i>, then here a dumb substitution for you. I've attempted to quickly "reverse engineer" <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>.  The result is a product as similar to <a href='/misc/dairy#yogurt'>greek yogurt</a> as you can reasonably get in 5 minutes, while also being vegan. It has the exact same <a href='#nutrition-facts'>nutrition facts</a> as <a href='/misc/dairy#yogurt'>Greek yogurt</a>, as shown in the <a href='#notes'>table below</a>, as well as a similar texture and midly tangy flavor.
 Instructions:
-- Mix together all ingredients in a bowl.  Let sit for 5 minutes so the <a href='/misc/psyllium-husk'>psyllium</a> can thicken the mixture to a <a href='/misc/dairy#yogurt'>yogurt</a> consistency.
+- Mix together all ingredients in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>.
 Notes:
-- To make it <a href='/misc/dairy'>dairy-free</a> and vegan, replace the <a href='/misc/dairy#casein'>casein protein powder</a> with <a href='https://amzn.to/4aXnK21'>pea protein</a> (2/3 scoop, 21 g).
-
-- Below is a nutritional comparison of the <a href='#recipe'>homemade DIY yogurt</a> (both with <a href='/misc/dairy#casein'>casein</a> and <a href='https://amzn.to/4aXnK21'>pea protein</a>) and standard <a href='/misc/dairy#yogurt'>yogurt</a>.
+- Below is a nutritional comparison of the <a href='#recipe'>homemade DIY yogurt</a> to standard <a href='/misc/dairy#yogurt'>Greek yogurt</a>.
 - |
   COMPARE(
     "diyyogurt",
-    "diyyogurtpea",
     "plain-nonfat-greek-yogurt";
 
-    "<a href='#recipe'>DIY</a><br><a href='/misc/dairy#casein'>Casein</a>",
-    "<a href='#recipe'>DIY</a><br><a href='https://amzn.to/4aXnK21'>Pea</a>",
-    "<a href='/misc/dairy#yogurt'>Standard<br>Yogurt</a>";
+    "<a href='#recipe'>DIY</a>",
+    "<a href='/misc/dairy#yogurt'>Standard</a>";
 
     "Calories",
     "Protein",
     "Fat",
     "Net Carbs",
-    "Fiber",
-    "Vitamin B12",
-    "Calcium";
+    "Total Sugar"
   )
 ---
