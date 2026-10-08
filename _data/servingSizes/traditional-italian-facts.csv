@@ -1,17 +1,17 @@
 Nutrient,Amount,Unit,DV
 Calories,267,,
-"Vitamin D",0.0,mcg,0 %
+"Vitamin D",0,mcg,0 %
 "Calcium",0,mg,0 %
-"Iron",0.00,mg,0 %
+"Iron",0,mg,0 %
 "Potassium",0,mg,0 %
 "Sodium",1000,mg,43 %
-"Protein",0.00,g,0 %
+"Protein",0,g,0 %
 "Carbohydrate",16.67,g,6 %
-"Fiber",0.00,g,0 %
+"Fiber",0,g,0 %
 "Sugars",13.33,g,
 "Sugars, added",13.33,g,27 %
 "Net carbs",16.67,g,
 "Fat",23.333,g,30 %
 "Saturated fatty acids",3.333,g,17 %
-"Fatty acids, total trans",0.000,g,
+"Fatty acids, total trans",0,g,
 "Cholesterol",0,mg,0 %
