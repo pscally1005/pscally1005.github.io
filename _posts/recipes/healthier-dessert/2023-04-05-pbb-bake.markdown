@@ -55,6 +55,10 @@ tags:
 - vic
 - banana
 - mashed banana
+- peanut butter banana bars
+- peanut butter banana bake
+- banana peanut butter bars
+- banana peanut butter bake
 Description: Remember how I mentioned that most healthy recipes are a combo of <a href='/misc/fruit#banana'>banana</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, chocolate, and <a href='/misc/grains#oats'>oats</a>? Well this is my baked version of that formula.  For a no-bake recipe with similar ingredients, see my <a href='/recipes/cookie-bar'>No Bake Cookie Bars</a>.
 Instructions:
 - Preheat the oven to 350F. Line a 9x5 <a href='https://amzn.to/3YUjIkN'>loaf pan</a> with parchment paper
