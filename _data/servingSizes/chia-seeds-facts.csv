@@ -1,62 +1,62 @@
 Nutrient,Amount,Unit,DV
 Calories,483,,
-"Vitamin A, RAE",0.00,mcg,0 %
-"Carotene, alpha",0.00,mcg,
-"Carotene, beta",0.00,mcg,
-"Retinol",0.00,mcg,
+"Vitamin A, RAE",0,mcg,0 %
+"Carotene, alpha",0,mcg,
+"Carotene, beta",0,mcg,
+"Retinol",0,mcg,
 "Thiamin [Vitamin B1]",0.617,mg,51 %
 "Riboflavin [Vitamin B2]",0.167,mg,13 %
 "Niacin [Vitamin B3]",8.833,mg,55 %
 "Pantothenic acid [Vitamin B5]",0.000,mg,0 %
 "Vitamin B6",0.000,mg,0 %
 "Vitamin B12 [Cobalamin]",0.00,mcg,0 %
-"Folate, DFE [Vitamin B9]",49.00,mcg,12 %
+"Folate, DFE [Vitamin B9]",50,mcg,12 %
 "Vitamin C [Ascorbic acid]",1.7,mg,2 %
-"Vitamin D",0.00,mcg,0 %
+"Vitamin D",0.0,mcg,0 %
 "Vitamin E (alpha-tocopherol)",0.50,mg,3 %
 "Tocopherol, alpha",0.50,mg,
 "Vitamin K",0.0,mcg,0 %
 "Betaine",0.0,mg,
 "Biotin [Vitamin B7]",0.00,mcg,0 %
 "Choline",0.0,mg,0 %
-"Calcium",631.00,mg,49 %
+"Calcium",633,mg,49 %
 "Copper",0.92,mg,102 %
 "Fluoride",0.0,mcg,
 "Iodine",0.00,mcg,0 %
 "Iron",7.75,mg,43 %
-"Magnesium",335.00,mg,80 %
+"Magnesium",333,mg,79 %
 "Manganese",2.725,mg,118 %
-"Phosphorus",860.00,mg,69 %
-"Potassium",407.00,mg,9 %
+"Phosphorus",858,mg,69 %
+"Potassium",408,mg,9 %
 "Selenium",55.17,mcg,100 %
-"Sodium",16.00,mg,1 %
+"Sodium",17,mg,1 %
 "Zinc",4.58,mg,42 %
 "Protein",16.50,g,33 %
-"Alanine",1.042,g,
-"Arginine",2.142,g,
-"Aspartic acid",1.692,g,
-"Cystine",0.408,g,
-"Cysteine",0.41,g,
-"Glutamic acid",3.500,g,
-"Glycine",0.942,g,
 "Histidine",0.533,g,47 %
-"Hydroxyproline",0.000,g,
 "Isoleucine",0.800,g,52 %
 "Leucine",1.375,g,40 %
 "Lysine",0.967,g,31 %
 "Methionine",0.592,g,
 "Phenylalanine",1.017,g,
-"Proline",0.775,g,
-"Serine",1.050,g,
 "Threonine",0.708,g,43 %
 "Tryptophan",0.433,g,106 %
-"Tyrosine",0.567,g,
 "Valine",0.950,g,48 %
 "Phenylalanine + Tyrosine",1.584,g,59 %
-"Methionine + Cysteine",1.002,g,65 %
+"Methionine + Cysteine",1.42,g,92 %
+"Arginine",2.142,g,
+"Cystine",0.408,g,
+"Cysteine",0.42,g,
+"Glutamic acid",3.500,g,
+"Glycine",0.942,g,
+"Proline",0.775,g,
+"Tyrosine",0.567,g,
+"Alanine",1.042,g,
+"Aspartic acid",1.692,g,
+"Hydroxyproline",0.000,g,
 "Carbohydrate",42.08,g,15 %
 "Fiber",34.42,g,123 %
 "Sugars",0.00,g,
+"Sugars, added",0.00,g,0 %
 "Net carbs",7.66,g,
 "Fat",30.742,g,39 %
 "Saturated fatty acids",3.333,g,17 %
@@ -66,6 +66,9 @@ Calories,483,,
 "Docosapentaenoic n-3 acid (DPA)",0.000,g,
 "Eicosapentaenoic n-3 acid (EPA)",0.000,g,
 "Fatty acids, total trans",0.000,g,
-"Cholesterol",0.00,mg,0 %
+"Cholesterol",0,mg,0 %
 "Alcohol, ethyl",0.0,g,
-"Caffeine",0.00,mg,
+"Caffeine",0,mg,
+"Serine",1.050,g,
+"Theobromine",0,mg,
+"Water",5.83,g,

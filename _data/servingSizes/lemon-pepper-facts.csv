@@ -1,11 +1,22 @@
 Nutrient,Amount,Unit,DV
 Calories,0,,
-"Sodium",20000.00,mg,870 %
+"Sodium",20000,mg,870 %
 "Protein",0.00,g,0 %
 "Carbohydrate",0.00,g,0 %
+"Fiber",0.00,g,0 %
+"Sugars",0.00,g,
+"Sugars, added",0.00,g,0 %
 "Net carbs",0,g,
 "Fat",0.000,g,0 %
+"Saturated fatty acids",0.000,g,0 %
+"Monounsaturated fatty acids",0.000,g,
+"Polyunsaturated fatty acids",0.000,g,
 "Docosahexaenoic n-3 acid (DHA)",0.000,g,
 "Docosapentaenoic n-3 acid (DPA)",0.000,g,
 "Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0,mg,0 %
 "Alcohol, ethyl",0.0,g,
+"Caffeine",0,mg,
+"Theobromine",0,mg,
+"Water",0.00,g,

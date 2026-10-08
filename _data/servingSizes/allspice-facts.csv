@@ -1,40 +1,41 @@
 Nutrient,Amount,Unit,DV
-Calories,265,,
-"Vitamin A, RAE",27.00,mcg,3 %
-"Carotene, alpha",0.00,mcg,
-"Carotene, beta",0.00,mcg,
-"Retinol",0.00,mcg,
+Calories,250,,
+"Vitamin A, RAE",50,mcg,6 %
+"Carotene, alpha",0,mcg,
+"Carotene, beta",0,mcg,
+"Retinol",0,mcg,
 "Thiamin [Vitamin B1]",0.100,mg,8 %
 "Riboflavin [Vitamin B2]",0.050,mg,4 %
 "Niacin [Vitamin B3]",2.850,mg,18 %
 "Pantothenic acid [Vitamin B5]",0.000,mg,0 %
 "Vitamin B6",0.200,mg,12 %
 "Vitamin B12 [Cobalamin]",0.00,mcg,0 %
-"Folate, DFE [Vitamin B9]",36.00,mcg,9 %
+"Folate, DFE [Vitamin B9]",50,mcg,12 %
 "Vitamin C [Ascorbic acid]",40.0,mg,44 %
-"Vitamin D",0.00,mcg,0 %
+"Vitamin D",0.0,mcg,0 %
 "Vitamin E (alpha-tocopherol)",0.00,mg,0 %
 "Tocopherol, alpha",0.00,mg,
 "Vitamin K",0.0,mcg,0 %
 "Betaine",0.0,mg,
 "Biotin [Vitamin B7]",0.00,mcg,0 %
 "Choline",0.0,mg,0 %
-"Calcium",661.00,mg,51 %
+"Calcium",650,mg,50 %
 "Copper",0.50,mg,56 %
 "Fluoride",0.0,mcg,
 "Iodine",0.00,mcg,0 %
 "Iron",7.00,mg,39 %
-"Magnesium",135.00,mg,32 %
+"Magnesium",150,mg,36 %
 "Manganese",2.950,mg,128 %
-"Phosphorus",113.00,mg,9 %
-"Potassium",1044.00,mg,22 %
+"Phosphorus",100,mg,8 %
+"Potassium",1050,mg,22 %
 "Selenium",2.50,mcg,5 %
-"Sodium",77.00,mg,3 %
+"Sodium",100,mg,4 %
 "Zinc",1.00,mg,9 %
 "Protein",6.00,g,12 %
 "Carbohydrate",72.00,g,26 %
 "Fiber",21.50,g,77 %
 "Sugars",0.00,g,
+"Sugars, added",0.00,g,0 %
 "Net carbs",50.5,g,
 "Fat",8.700,g,11 %
 "Saturated fatty acids",2.550,g,13 %
@@ -44,6 +45,8 @@ Calories,265,,
 "Docosapentaenoic n-3 acid (DPA)",0.000,g,
 "Eicosapentaenoic n-3 acid (EPA)",0.000,g,
 "Fatty acids, total trans",0.000,g,
-"Cholesterol",0.00,mg,0 %
+"Cholesterol",0,mg,0 %
 "Alcohol, ethyl",0.0,g,
-"Caffeine",0.00,mg,
+"Caffeine",0,mg,
+"Theobromine",0,mg,
+"Water",8.50,g,
