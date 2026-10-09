@@ -49,6 +49,9 @@ tags:
 - barbeque
 - soy sauce
 - breast
+- grilled chicken
+- marinated chicken
+- chicken breast
 Description: Grilled <a href='/misc/meat#chicken-breast'>chicken</a> was something that my parents always had prepared in the freezer. They'd simply marinate a package of <a href='/misc/meat#chicken-breast'>chicken</a> in a Ziploc bag, and freeze it for a busy night. I've taken inspiration from that recipe, but I bake them since I live in an apartment, but grilling would be ideal. These <a href='/misc/meat#chicken-breast'>chickens</a> go great with virtually any <a href='/recipes/sides'>side</a>, but especially anything grilled as well, like some grilled or roasted <a href='/misc/veggies#zucchini'>zucchini</a>, or here I <a href='https://amzn.to/3FuWETp'>air fried</a> a <a href='/misc/veggies#plantain'>plantain</a>.
 Instructions:
 - Slice each <a href='/misc/meat#chicken-breast'>chicken breast</a> into 2-3 cutlets. Evenly thin out the <a href='/misc/meat#chicken-breast'>chicken</a>, and pound it down if needed

@@ -25,13 +25,19 @@ LINKS = {
         "pumpkin protein baked oats",
         "pumpkin protein baked oatmeal",
         "pumpkin spice protein baked oats",
-        "pumpkin spice protein baked oatmeal"
+        "pumpkin spice protein baked oatmeal",
+        "pumpkin high protein baked oats",
+        "pumpkin high protein baked oatmeal",
+        "pumpkin spice high protein baked oats",
+        "pumpkin spice high protein baked oatmeal"
     ],
     "/recipes/chocolate-baked-oats": [
         "chocolate baked oats",
         "chocolate baked oatmeal",
         "chocolate protein baked oats",
-        "chocolate protein baked oatmeal"
+        "chocolate protein baked oatmeal",
+        "chocolate high protein baked oats",
+        "chocolate high protein baked oatmeal"
     ],
     "/recipes/banana-baked-oats": [
         "banana baked oats",
@@ -41,7 +47,25 @@ LINKS = {
         "banana protein baked oats",
         "banana protein baked oatmeal",
         "banana bread protein baked oats",
-        "banana bread protein baked oatmeal"
+        "banana bread protein baked oatmeal",
+        "banana high protein baked oats",
+        "banana high protein baked oatmeal",
+        "banana bread high protein baked oats",
+        "banana bread high protein baked oatmeal"
+    ],
+    "/recipes/yogurt-baked-oats": [
+        "yogurt baked oats",
+        "yogurt baked oatmeal",
+        "greek yogurt baked oats",
+        "greek yogurt baked oatmeal",
+        "greek yogurt protein baked oats",
+        "greek yogurt protein baked oatmeal",
+        "yogurt protein baked oats",
+        "yogurt protein baked oatmeal",
+        "greek yogurt high protein baked oats",
+        "greek yogurt high protein baked oatmeal",
+        "yogurt high protein baked oats",
+        "yogurt high protein baked oatmeal"
     ],
     "/recipes/mexican-bean-salad": [
         "mexican bean salad",
@@ -6264,6 +6288,10 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/3VsZVuj": [
+        "2 cup glass containers",
+        "2 cup glass container"
+    ],
     "https://amzn.to/4jFQAsV": [
         "storebought mayo",
         "store bought mayo",
@@ -10596,7 +10624,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24")):
+            if not file.startswith(("2026-10-25")):
                 continue
 
             # exclude some files

@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Dark Chocolate Peanut Butter Cups
-date:   2026-09-27 00:00:00 -0500
+date:   2026-10-09 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

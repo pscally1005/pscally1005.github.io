@@ -23,10 +23,10 @@ beans: no
 permalink: /recipes/easy-pizza-dough
 image: /assets/Food/Bread/Easy Pizza/easy-pizza-cut.jpg
 file: easypizza
-servingSize: 1 pizza
-section1: Dough
-start2: Simple pasta sauce
-section2: Toppings
+servingSize: 1 pizza dough
+section1:
+start2:
+section2:
 start3:
 section3:
 start4:
@@ -76,5 +76,33 @@ Instructions:
 - You can either bake this in a 500F oven on a preheated <a href='https://amzn.to/4ccXgLm'>pizza stone</a> for about 5-7 minutes, or you can cook it in a pan over medium heat (covered) until the bottom is browned to your liking (about 8 minutes)
 - <img src='/assets/Food/Bread/Easy Pizza/easy-pizza-cooked.jpg' alt='' class='instruction-image'>
 Notes:
-- For a <a href='/misc/celiac'>gluten free</a> version, you can replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a> with <a href='/misc/grains#oats'>oat flour</a> (40 g). The dough will be a little drier and crumblier because of the lack of <a href='/misc/celiac'>gluten</a>, but it can still be shaped into a flatbread
+- |
+  The <a href='#nutrition-facts'>nutrition facts</a> for this <a href='#recipe'>recipe</a> are just for the dough itself, not incuding any toppings.<br><br>
+
+  Standard toppings would be 2 tbsp (30 g) <a href='/recipes/pasta-sauce'>sauce</a> and 1 oz (28 g) <a href='/misc/dairy#mozzarella'>mozzarella</a>, but you can top <a href='#recipe'>this dough</a> with whatever else you like, such as <a href='/recipes/marinated-chicken'>grilled chicken</a>, <a href='/recipes/roasted-vegetables'>roasted veggies</a>, or <a href='/misc/fruit#pineapple'>pineapple</a>.
+
+- |
+  <div id='gf' class='table-of-contents-2'></div>
+  For a <a href='/misc/celiac'>gluten free</a> (GF) version, replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (1/4 cup, 30 g) and <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a> (1 tbsp, 9 g) with <a href='/misc/grains#oats'>oat flour</a> (7 tbsp, 39 g).
+
+- |
+  <div id='hp' class='table-of-contents-2'></div>
+  For a <a href='/misc/high-protein'>high-protein</a> (HP) version, replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (1/4 cup, 30 g) and <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a> (1 tbsp, 9 g) with <a href='https://amzn.to/4aXnK21'>pea protein powder</a> (1 scoop, 30 g). Additionally, double the <a href='/misc/dairy#yogurt'>yogurt</a> (scant 1/2 cup, 100 g).
+
+- |
+  COMPARE(
+    "easypizza",
+    "easypizzagf",
+    "easypizzaprotein";
+
+    "<a href='#recipe'>As-Is</a>",
+    "<a href='#gf'>GF</a>",
+    "<a href='#hp'>HP</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
