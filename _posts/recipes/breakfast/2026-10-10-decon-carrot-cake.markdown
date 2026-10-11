@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Deconstructed Carrot Cake
-date:   2026-09-27 00:00:00 -0500
+date:   2026-10-10 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
