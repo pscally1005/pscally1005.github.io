@@ -48,7 +48,7 @@ tags:
 - apple cider vinegar
 - copycat
 - unsweetened applesauce
-Description: If you need <a href='/misc/dairy#yogurt'>yogurt</a>, and you need it, like, <i>right now</i>, then here a dumb substitution for you. I've attempted to quickly "reverse engineer" <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>.  The result is a product as similar to <a href='/misc/dairy#yogurt'>greek yogurt</a> as you can reasonably get in 5 minutes, while also being vegan. It has the exact same <a href='#nutrition-facts'>nutrition facts</a> as <a href='/misc/dairy#yogurt'>Greek yogurt</a>, as shown in the <a href='#notes'>table below</a>, as well as a similar texture and mildly tangy flavor.
+Description: If you need <a href='/misc/dairy#yogurt'>yogurt</a>, and you need it, like, <i>right now</i>, then here's a dumb substitution for you. I've attempted to quickly "reverse engineer" <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>.  The result is a product as similar to <a href='/misc/dairy#yogurt'>greek yogurt</a> as you can reasonably get in 5 minutes, while also being vegan. It has the exact same <a href='#nutrition-facts'>nutrition facts</a> as <a href='/misc/dairy#yogurt'>Greek yogurt</a>, as shown in the <a href='#notes'>table below</a>, as well as a similar texture and mildly tangy flavor.
 Instructions:
 - Mix together all ingredients in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>.
 - <img src='/assets/Food/Meme/DIY Yogurt/bowlNew.jpg' alt='' class='instruction-image'>

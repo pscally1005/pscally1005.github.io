@@ -67,6 +67,14 @@ LINKS = {
         "yogurt high protein baked oats",
         "yogurt high protein baked oatmeal"
     ],
+    "/recipes/savory-baked-oats": [
+        "savory baked oats",
+        "savory baked oatmeal",
+        "savory protein baked oats",
+        "savory protein baked oatmeal",
+        "savory high protein baked oats",
+        "savory high protein baked oatmeal"
+    ],
     "/recipes/mexican-bean-salad": [
         "mexican bean salad",
         "mexican bean salad recipe",

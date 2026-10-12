@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chocolate High Protein Baked Oats
-date:   2026-10-06 00:00:00 -0500
+date:   2026-10-12 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
@@ -40,7 +40,7 @@ Cook: 30
 Source1: https://www.poormanprotein.com/recipes/pumpkin-baked-oats
 Source2: https://www.poormanprotein.com/recipes/banana-baked-oats
 Source3: https://www.poormanprotein.com/recipes/yogurt-baked-oats
-Source4:
+Source4: https://www.poormanprotein.com/recipes/savory-baked-oats
 Source5:
 whisk: https://s.samsungfood.com/oTv0Z
 tags:
@@ -69,7 +69,7 @@ tags:
 Description: |
   These <a href='/misc/protein'>protein</a> baked <a href='/misc/grains#oats'>oats</a> are a simple, healthy, and tasty way to meal prep <a href='/recipes/breakfast'>breakfast</a> for the next 4 days. These baked <a href='/misc/grains#oats'>oat</a> bars are <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, lower in <a href='/misc/fats'>fat</a>, and vegan, while still being packed with <a href='/misc/protein'>protein</a> and flavor.<br><br>
 
-  This variant is a classic <a href='/misc/chocolate-benefits'>chocolate</a>, but for a fall appropriate recipe, check out my <a href='/recipes/pumpkin-baked-oats'>Pumpkin Spice High Protein Baked Oats</a>! Or for a <a href='/misc/fruit#banana'>banana</a> variation, check out my <a href='/recipes/banana-baked-oats'>Banana Bread High Protein Baked Oats</a>! Or for a Greek yogurt version, check out my <a href='/recipes/yogurt-baked-oats'>Yogurt High Protein Baked Oats</a>!
+  This variant is a classic <a href='/misc/chocolate-benefits'>chocolate</a>, but for a fall appropriate recipe, check out my <a href='/recipes/pumpkin-baked-oats'>Pumpkin Spice High Protein Baked Oats</a>! Or for a <a href='/misc/fruit#banana'>banana</a> variation, check out my <a href='/recipes/banana-baked-oats'>Banana Bread High Protein Baked Oats</a>! Finally, for sweet and savory <a href='/misc/dairy#yogurt'>Greek yogurt</a> versions, check out my <a href='/recipes/yogurt-baked-oats'>Yogurt High Protein Baked Oats</a> and <a href='/recipes/savory-baked-oats'>Savory High Protein Baked Oats</a>!
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease it with oil</a>.
 
@@ -92,18 +92,20 @@ Notes:
 - I'm using a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> for a full batch of 4 baked <a href='/misc/grains#oats'>oat</a> bars. For a half batch (2 bars), use a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>. For a quarter batch (1 bar), use a <a href='https://amzn.to/3VsZVuj'>2 cup glass container</a>. Baking times will remain the same for all 3 sizes.
 
 - |
-  Below is a comparison of the 4 versions: <a href='/recipes/pumpkin-baked-oats'>Pumpkin</a>, <a href='#recipe'>Chocolate</a>, <a href='/recipes/banana-baked-oats'>Banana</a>, and <a href='/recipes/yogurt-baked-oats'>Yogurt</a>.
+  Below is a comparison of the 5 versions: <a href='/recipes/pumpkin-baked-oats'>Pumpkin</a>, <a href='#recipe'>Chocolate</a>, <a href='/recipes/banana-baked-oats'>Banana</a>, <a href='/recipes/yogurt-baked-oats'>Sweet Yogurt</a>, and <a href='/recipes/savory-baked-oats'>Savory</a>.
 - |
   COMPARE(
     "proteinbakedoatspumpkin",
     "proteinbakedoatschocolate",
     "proteinbakedoatsbanana",
-    "proteinbakedoatsyogurt";
+    "proteinbakedoatsyogurt",
+    "proteinbakedoatssavory";
 
     "<a href='/recipes/pumpkin-baked-oats'>Pumpkin</a>",
     "<a href='#recipe'>Chocolate</a>",
     "<a href='/recipes/banana-baked-oats'>Banana</a>",
-    "<a href='/recipes/yogurt-baked-oats'>Yogurt</a>";
+    "<a href='/recipes/yogurt-baked-oats'>Sweet<br>Yogurt</a>",
+    "<a href='/recipes/savory-baked-oats'>Savory</a>;
 
     "Calories",
     "Protein",
@@ -115,4 +117,5 @@ Notes:
 # - <a href='#recipe'><img src='/assets/Food/Breakfast/Baked Oats/Chocolate/cover.jpg' alt='' class='instruction-image'></a>
 - <a href='/recipes/banana-baked-oats'><img src='/assets/Food/Breakfast/Baked Oats/Banana/cover.jpg' alt='' class='instruction-image'></a>
 - <a href='/recipes/yogurt-baked-oats'><img src='/assets/Food/Breakfast/Baked Oats/yogurt.jpg' alt='' class='instruction-image'></a>
+- <a href='/recipes/savory-baked-oats'><img src='/assets/Food/Breakfast/Baked Oats/Savory/cover.jpg' alt='' class='instruction-image'></a>
 ---
