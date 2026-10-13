@@ -190,7 +190,11 @@
 
             {% if include.mass == "true" %}
                 <tr>
-                    <td>Filling<br>Weight</td>
+                    {% if page.title == "Copycat Barebell Protein Bars" %}
+                      <td>Filling<br>Weight</td>
+                    {% else %}
+                      <td><a href='/misc/serving-sizes'>Serving<br>Size</a></td>
+                    {% endif %}
 
                     {% assign loopVar = site.data[include.ing] %}
                     {% for f in files %}

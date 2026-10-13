@@ -1085,7 +1085,8 @@ LINKS = {
         "lactose free ice cream",
         "no churn ice cream",
         "chocolate ice cream",
-        "ice cream"
+        "ice cream",
+        "no churn ice cream"
     ],
     "/recipes/spring-rolls": [
         "fresh veggie spring rolls",
@@ -7871,6 +7872,10 @@ LINKS = {
     ],
     "/recipes/healthier-dessert": [
         "healthier desserts",
+        "healthier sweet treats",
+        "healthier sweet treat",
+        "healthy sweet treats",
+        "healthy sweet treat",
         "healthier dessert",
         "healthier baking",
         "healthy baking dessert",

@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/ice-cream
 image: /assets/Misc/Unhealthy/Ice Cream/cover.jpg
 file: icecreambrownsugar
-servingSize: 2/3 cup (87 g)
+servingSize: 2/3 cup (86 g)
 section1:
 start2:
 section2:
@@ -54,57 +54,58 @@ tags:
 - honey
 - allulose
 - vanilla whey protein powder
-Description: Rich, creamy, and sweet chocolate ice cream!  From just a base of <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a>, you can make this delicious and indulgent chocolate ice cream with just an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>; no ice cream maker required. Plus, the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> makes it lactose free for all those who are lactose intolerant!
+Description: |
+  Rich, creamy, and sweet chocolate ice cream! From just a base of <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a>, you can make this delicious and indulgent chocolate ice cream with just an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>; no ice cream maker required. Plus, the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> makes it lactose free for all those who are lactose intolerant!<br><br>
+
+  For a <a href='/recipes/healthier-dessert'>healthier sweet treat</a>, check out my <a href='/recipes/fro-yo'>Sugar Free Frozen Yogurt</a>!
 Instructions:
-- In a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>, beat the <a href='/misc/dairy#cream-cheese'>cream cheese</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on high speed for about 5 minutes to soften and incorporate air
+- In a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>, beat the <a href='/misc/dairy#cream-cheese'>cream cheese</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on high speed for about 5 minutes to soften and incorporate air.
 - <img src='/assets/Misc/Unhealthy/Ice Cream/bowl1.jpg' alt='' class='instruction-image'>
 
-- Add in your <a href='/misc/hidden-sugar'>sugar</a>, and beat until fully combined
+- Add in your <a href='/misc/hidden-sugar'>sugar</a>, and beat until fully combined.
 
-- To a medium measuring glass, add your <a href='/misc/dairy#skim-milk'>milk</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt. Roughly stir together with a spoon
+- To a medium measuring glass, add your <a href='/misc/dairy#skim-milk'>milk</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt. Roughly stir together with a spoon.
 - <img src='/assets/Misc/Unhealthy/Ice Cream/bowl2.jpg' alt='' class='instruction-image'>
 
-- Slowly stream your milk mixture into the bowl as you beat on medium speed, until fully combined
+- Slowly stream your milk mixture into the bowl as you beat on medium speed, until fully combined.
 
-- Add the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> to the bowl, and beat on medium speed until fully incorporated
+- Add the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> to the bowl, and beat on medium speed until fully incorporated.
 - <img src='/assets/Misc/Unhealthy/Ice Cream/bowl3.jpg' alt='' class='instruction-image'>
 
-- Transfer the ice cream to an air tight container. Freeze overnight. This ice cream can be scooped directly out of the freezer
+- Transfer the ice cream to an air tight container. Freeze overnight. This ice cream can be scooped directly out of the freezer.
 - <img src='/assets/Misc/Unhealthy/Ice Cream/frozen.jpg' alt='' class='instruction-image'>
 Notes:
 - |
-  I used 8 servings (16 scoops, 80 g) of this <a href='https://amzn.to/43ycqF2'>lactase enzyme</a>, which provides about 80,000 FCC units.  This is intentionally more than needed to ensure thorough lactose breakdown.<br><br>
+  I used 8 servings (16 scoops, 80 g) of this <a href='https://amzn.to/43ycqF2'>lactase enzyme</a>, which provides about 80,000 FCC units. This is intentionally more than needed to ensure thorough lactose breakdown.<br><br>
 
-  For best results, refrigerate the mixture for 12–24 hours before freezing.  This gives the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> time to break down most of the lactose into <a href='/misc/nutrient-alphabet#G'>glucose</a> and galactose, making the ice cream easier to digest and slightly sweeter.<br><br>
+  For best results, refrigerate the mixture for 12–24 hours before freezing. This gives the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> time to break down most of the lactose into <a href='/misc/nutrient-alphabet#G'>glucose</a> and galactose, making the ice cream easier to digest and slightly sweeter.<br><br>
 
   If frozen immediately, the enzyme will continue working slowly as the ice cream softens before serving.
 
 - Any type of <a href='/misc/dairy#skim-milk'>milk</a> will work here. <a href='/misc/dairy#skim-milk'>Skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>; whatever you have on hand.
 
-- |
-  You can alternatively use 1/2 cup (168 g) of <a href='/misc/natural-sweeteners#honey'>honey</a> instead of <a href='/misc/hidden-sugar'>brown sugar</a>.<br><br>
+- You can alternatively use 1/2 cup (168 g) of <a href='/misc/natural-sweeteners#honey'>honey</a> instead of <a href='/misc/hidden-sugar'>brown sugar</a>. Because of the extra liquid of the <a href='/misc/natural-sweeteners#honey'>honey</a>, reduce the <a href='/misc/dairy#skim-milk'>milk</a> to 1/2 cup (120 g). The serving size for the <a href='/misc/natural-sweeteners#honey'>honey</a> variation will instead be <b>81 g</b>.
 
-  Because of the extra liquid of the <a href='/misc/natural-sweeteners#honey'>honey</a>, reduce the <a href='/misc/dairy#skim-milk'>milk</a> to 1/2 cup (120 g).<br><br>
+- If you want to make it <a href='/misc/hidden-sugar'>sugar free</a>, you can use 3/4 cup (150 g) of <a href='https://amzn.to/4mzsH5p'>allulose</a> in place of <a href='/misc/hidden-sugar'>brown sugar</a>.
 
-  The serving size for the <a href='/misc/natural-sweeteners#honey'>honey</a> variation will instead be 81 g instead of 87 g.
+- For another <a href='/misc/hidden-sugar'>sugar free</a>, option, use <b>both</b> 1 tbsp (15 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> and 1 tbsp (8.4 g) <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> in place of <a href='/misc/hidden-sugar'>brown sugar</a>. To help with the texture when it freezes, I recommend adding 1 tbsp (15 g) vodka and 1 tbsp (12 g) <a href='https://amzn.to/47w8h7R'>inulin</a> to the ice cream. The serving size for the <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a> variation will instead be <b>74 g</b>.
 
-- If you want to make it <a href='/misc/hidden-sugar'>sugar free</a>, you can use 3/4 cup (150 g) of <a href='https://amzn.to/4mzsH5p'>allulose</a> in place of <a href='/misc/hidden-sugar'>brown sugar</a>
+- You can even use <a href='/misc/dairy#whey'>vanilla whey protein powder</a> (5 scoops, 150 g) in place of <a href='/misc/hidden-sugar'>brown sugar</a> to act as both a <a href='/misc/hidden-sugar'>sugar free</a> sweetener and adding some <a href='/misc/protein'>protein</a>. You may need to let the ice cream sit on the counter for about 5 minutes before being able to scoop it though.
 
-- |
-  You can even use <a href='/misc/dairy#whey'>vanilla whey protein powder</a> (5 scoops, 150 g) in place of <a href='/misc/hidden-sugar'>brown sugar</a> to act as both a <a href='/misc/hidden-sugar'>sugar free</a> sweetener and adding some <a href='/misc/protein'>protein</a>.<br><br>
-
-  You may need to let the ice cream sit on the counter for about 5 minutes before being able to scoop it though.
+- Each serving will be <b>86 g</b> for the <a href='#recipe'>brown sugar</a>, <a href='https://amzn.to/4mzsH5p'>allulose</a>, and <a href='/misc/dairy#whey'>protein</a> variations. Or <b>81 g</b> for the <a href='/misc/natural-sweeteners#honey'>honey</a> variation, and <b>74 g</b> for the <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a> variation.
 
 - |
   COMPARE(
     "icecreambrownsugar",
     "icecreamhoney",
     "icecreamallulose",
+    "icecreammonkfruit",
     "icecreamprotein";
 
     "<a href='#recipe'>Brown<br>Sugar</a>",
     "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
     "<a href='https://amzn.to/4mzsH5p'>Allulose</a>",
+    "<a href='https://amzn.to/3SqwsMO'>Monk<br>Fruit</a>",
     "<a href='/misc/dairy#whey'>Protein<br>Powder</a>;
 
     "Calories",
@@ -112,26 +113,26 @@ Notes:
     "Fat",
     "Net Carbs",
     "Fiber",
-    "Added Sugar",
-    "Allulose",
-    "Glycemic Index"
+    "Added Sugar"
   )
 
 - |
-  The <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> adds about 40 <a href='/misc/calories'>calories</a> per serving of ice cream.  You can omit this to save some <a href='/misc/calories'>calories</a> if you don't need it lactose free.<br><br>
+  The <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> adds about 40 <a href='/misc/calories'>calories</a> per serving of ice cream. You can omit this to save some <a href='/misc/calories'>calories</a> and money if you don't need it lactose free.<br><br>
 
-  Each serving will then be 77 g instead of 87 g (or 71 g instead of 81 g for the <a href='/misc/natural-sweeteners#honey'>honey</a> variation).
+  Each serving will then be <b>77 g</b> for the <a href='#recipe'>brown sugar</a>, <a href='https://amzn.to/4mzsH5p'>allulose</a>, and <a href='/misc/dairy#whey'>protein</a> variations. Or <b>71 g</b> for the <a href='/misc/natural-sweeteners#honey'>honey</a> variation and <b>64 g</b> for the <a href='https://amzn.to/3Sg1Z7p'>monk fruit</a> variation.
 
 - |
   COMPARE(
     "icecreambrownsugarnolactase",
     "icecreamhoneynolactase",
     "icecreamallulosenolactase",
+    "icecreammonkfruitnolactase",
     "icecreamproteinnolactase";
 
     "<a href='#recipe'>Brown<br>Sugar</a>",
     "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
     "<a href='https://amzn.to/4mzsH5p'>Allulose</a>",
+    "<a href='https://amzn.to/3Sg1Z7p'>Monk<br>Fruit</a>",
     "<a href='/misc/dairy#whey'>Protein<br>Powder</a>;
 
     "Calories",
@@ -139,8 +140,6 @@ Notes:
     "Fat",
     "Net Carbs",
     "Fiber",
-    "Added Sugar",
-    "Allulose",
-    "Glycemic Index"
+    "Added Sugar"
   )
 ---

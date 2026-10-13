@@ -60,7 +60,9 @@ tags:
 Description: |
   Summer means <a href='/recipes/ice-cream'>ice cream</a> right? But with health goals in mind, it's hard to both have your <a href='/recipes/chocolate-cake'>cake</a> and eat it too.<br><br>
 
-  But you can with this recipe!  This sugar free frozen yogurt is also lower in both <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a> than traditional <a href='/recipes/ice-cream'>ice cream</a> or fro-yo. It's also higher in <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> than any other frozen treat you've ever had!
+  But you can with this recipe!  This sugar free frozen yogurt is also lower in both <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a> than traditional <a href='/recipes/ice-cream'>ice cream</a> or fro-yo. It's also higher in <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> than any other frozen treat you've ever had!<br><br>
+
+  For a <a href='/misc/unhealthy'>classic sweet treat</a>, check out my <a href='/recipes/ice-cream'>No Churn Chocolate Ice Cream</a>!
 Instructions:
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, beat together the <a href='/misc/dairy#yogurt-whole-milk'>yogurt</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on medium speed for about 2 minutes to beat in as much air as possible
 
