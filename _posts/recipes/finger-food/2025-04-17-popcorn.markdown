@@ -77,8 +77,6 @@ Notes:
     "Protein",
     "Fat",
     "Net Carbs",
-    "Fiber",
-    "Added Sugar",
-    "Sugar Alcohol"
+    "Fiber"
   )
 ---

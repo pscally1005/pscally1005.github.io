@@ -85,9 +85,7 @@ Notes:
     "Protein",
     "Fat",
     "Net Carbs",
-    "Fiber",
-    "Added Sugar",
-    "Sugar Alcohol"
+    "Fiber"
   )
 
 - Check out my <a href='/recipes/pie-crust'>Healthier Graham Cracker Pie Crust</a> for an easy pie crust with just homemade <a href='/misc/fake-healthy-foods#crackers'>graham crackers</a> and <a href='/misc/fruit#apple'>unsweetened applesauce</a>!
