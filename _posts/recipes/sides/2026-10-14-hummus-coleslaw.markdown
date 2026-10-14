@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Hummus Coleslaw
-date:   2026-09-29 00:00:00 -0500
+date:   2026-10-14 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: yes
 oatmeal: no

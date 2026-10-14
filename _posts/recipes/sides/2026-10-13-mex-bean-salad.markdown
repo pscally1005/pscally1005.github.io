@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Mexican Bean Salad
-date:   2026-10-04 00:00:00 -0500
+date:   2026-10-13 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
