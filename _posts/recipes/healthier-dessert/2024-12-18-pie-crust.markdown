@@ -77,9 +77,7 @@ Notes:
     "Protein",
     "Fat",
     "Net Carbs",
-    "Fiber",
-    "Added Sugar",
-    "Sugar Alcohol"
+    "Fiber"
   )
 
 - The pie pictured in the thumbnail is just this healthy pie crust filled with my <a href='/recipes/date-frosting'>Date Sweetened Frosting</a> for a creamy, sweet, and delicious no bake pie!
