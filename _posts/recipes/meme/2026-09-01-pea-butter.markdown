@@ -109,6 +109,8 @@ Notes:
 
     <li>Substituted the <a href='/misc/nuts#almonds'>almond butter</a> in my <a href='/recipes/nutty-veggies'>Nutty Veggies</a>.</li>
 
+    <li>Substituted the <a href='/recipes/natural-peanut-butter'>peanut butter</a> in my <a href='/recipes/buckeyes'>Ohio Buckeye Balls</a>.</li>
+
     <li>Substituted the <a href='/recipes/natural-peanut-butter'>peanut butter</a> in my <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a>.</li>
   </ul>
 # - <a href='/recipes/sourdough-flatbread'><img src='/assets/Food/Meme/Pea Butter/flatbread.jpg' alt='' class='instruction-image'></a>
@@ -120,7 +122,7 @@ Notes:
 
 - |
   <div id='chocolate' class='table-of-contents-2'></div>
-  Here, I made a chocolate pea butter by adding 1 tbsp (21 g) <a href='/misc/natural-sweeteners#honey'>honey</a> and 2 tbsp (10 g) <a href='/misc/chocolate-benefits'>cocoa powder</a> into 4 servings (1/2 cup, 128 g) of <a href='#recipe'>pea butter</a>. This makes b>5 servings (1/2 cup + 2 tbsp, 159 g)</b> of chocolate pea butter, where each serving is 2 tbsp (32 g).
+  Here, I made a chocolate pea butter by adding 1 tbsp (21 g) <a href='/misc/natural-sweeteners#honey'>honey</a> and 2 tbsp (10 g) <a href='/misc/chocolate-benefits'>cocoa powder</a> into 4 servings (1/2 cup, 128 g) of <a href='#recipe'>pea butter</a>. This makes <b>5 servings (1/2 cup + 2 tbsp, 159 g)</b> of chocolate pea butter, where each serving is 2 tbsp (32 g).
 - INGREDIENTS(peabutterchoc)
 - |
   COMPARE(
