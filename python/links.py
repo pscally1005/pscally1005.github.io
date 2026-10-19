@@ -10,6 +10,20 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/raspberry-chocolate-banana-bread": [
+        # "banana bread",
+        "raspberry chocolate banana bread",
+        "raspberry chocolate chip banana bread",
+        "chocolate chip raspberry banana bread",
+        "chocolate raspberry banana bread",
+
+    ],
+    "/recipes/apple-cider-donuts": [
+        "apple cider donuts",
+        "apple cider donut",
+        "apple cider doughnuts",
+        "apple cider doughnut"
+    ],
     "/recipes/crispy-tofu": [
         "crispy tofu",
         "air fryer crispy tofu",
@@ -7368,10 +7382,10 @@ LINKS = {
         "acidity",
         "acidic"
     ],
-    "/misc/five-tastes#sweet": [
-        # "sweet",
-        "sweetness"
-    ],
+    # "/misc/five-tastes#sweet": [
+    #     "sweet",
+    #     "sweetness"
+    # ],
     "/misc/five-tastes#bitter": [
         "bitter",
         "bitterness"
@@ -8200,7 +8214,9 @@ LINKS = {
         "muffin"
     ],
     "/misc/fake-healthy-foods#banana-bread": [
-        "banana bread"
+        # "banana bread",
+        "standard banana bread",
+        "standard banana breads"
     ],
     "/misc/fake-healthy-foods#pancakes": [
         "waffles and pancakes",
@@ -8488,6 +8504,10 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "into a cake anyway",
+    "of the chocolate",
+    "wholesome banana bread",
+    "banana bread with",
+    "healthy banana bread",
     "in your cake",
     "chocolate to hardnen",
     "and vegan banana bread",
@@ -8897,7 +8917,7 @@ EXCLUDED_PHRASES = [
     "delicious and healthy frosting for all",
     "wrap in foil",
     "shaved chocolate",
-    "oil, and vanilla",
+    # "oil, and vanilla",
     "pistachio mixture",
     "in the syrup you pour",
     "coat it in chocolate",
@@ -10637,7 +10657,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-25")):
+            if not file.startswith(("2026-10-19")):
                 continue
 
             # exclude some files

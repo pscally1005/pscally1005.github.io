@@ -56,27 +56,29 @@ tags:
 - gluten-free
 - gluten free
 Description: |
-  Who doesn't love banana bread? And who especially doesn't love banana bread with raspberries and chocolate chips? This delicious, healthy banana bread is gluten free, higher in protein and fiber, and lower in added sugar and fat than your standard banana bread. Plus the tartness of the raspberries and the sweetness of the chocolate pairs perfectly with this wholesome banana bread.<br><br>
+  Who doesn't love banana bread? And who especially doesn't love banana bread with <a href='/misc/fruit#raspberry'>raspberries</a> and chocolate chips?<br><br>
 
-  For similar recipes, check out my Double Chocolate Banana Bread, Oatmeal Banana Mini Muffins, and PB&J Muffins!
+  This delicious, healthy banana bread is <a href='/misc/celiac'>gluten free</a>, higher in <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, and lower in <a href='/misc/hidden-sugar'>added sugar</a> and <a href='/misc/fats'>fat</a> than your <a href='/misc/fake-healthy-foods#banana-bread'>standard banana bread</a>. Plus the tartness of the <a href='/misc/fruit#raspberry'>raspberries</a> and the sweetness of the chocolate pairs perfectly with this wholesome banana bread.<br><br>
+
+  For similar recipes, check out my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>, <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a>, and <a href='/recipes/pbj-muffin'>PB&J Muffins</a>!
 Instructions:
-- Preheat your oven to 350F. Line a 9x5" bread pan with parchment paper. Lightly grease it with oil.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease it with oil</a>.
 
-- Whisk together the dry ingredients in a large bowl - rolled oats, oat flour, cornstarch, baking soda, and salt.
+- Whisk together the dry ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> - <a href='/misc/grains#oats'>rolled oats</a>, <a href='/misc/grains#oats'>oat flour</a>, cornstarch, baking soda, and salt.
 
-- In a separate large bowl, mash your bananas with the back of a fork, until smooth. Whisk in the rest of the wet ingredients - yogurt, applesauce, egg, honey, coconut oil, and vanilla.
+- In a separate <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mash your <a href='/misc/fruit#banana'>bananas</a> with the back of a fork, until smooth. Whisk in the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>.
 - <img src='/assets/Food/Healthier Dessert/Rasp Choc Ban Bread/bowls.jpg' alt='' class='instruction-image'>
 
-- Pour the wet ingredients into the dry, and mix until just fully combined with a silicone spatula.
+- Pour the wet ingredients into the dry, and mix until just fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Healthier Dessert/Rasp Choc Ban Bread/bowl.jpg' alt='' class='instruction-image'>
 
-- Fold in the raspberries and chocolate chips.
+- Fold in the <a href='/misc/fruit#raspberry'>raspberries</a> and chocolate chips.
 - <img src='/assets/Food/Healthier Dessert/Rasp Choc Ban Bread/bowlMixIns.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to your prepared pan.
 - <img src='/assets/Food/Healthier Dessert/Rasp Choc Ban Bread/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F (covered with foil) for about 60 minutes, or until golden brown, a toothpick to the center comes out nearly clean, and the internal temperature is around 200F.
+- Bake at 350F (covered with foil) for about 60 minutes, or until golden brown, a toothpick to the center comes out nearly clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>200F</a>.
 - <img src='/assets/Food/Healthier Dessert/Rasp Choc Ban Bread/baked.jpg' alt='' class='instruction-image'>
 
 - Transfer to the fridge, and let it cool totally in the pan (about 1 hour) before removing and cutting into 12 slices.
