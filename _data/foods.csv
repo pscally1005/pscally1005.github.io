@@ -266,7 +266,7 @@ Nutricost Casein Unflavored Protein Powder,casein,60.26,"2,270.00",0.02655,9.1,2
 Honey,honey,3.74,336.00,0.01113,3.1,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,0.0,0,40,
 "Honey, or maple syrup",honey,3.74,336.00,0.01113,3.1,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,0.0,0,40,
 Maple syrup,maple-syrup,7.98,360.00,0.02217,3.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
-Hot honey,hot-honey,3.94,360.00,0.01094,3.2,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,75.5,0.0,0.0,0.0,0,40,/recipes/hot-honey
+Hot honey,hot-honey-100g,3.94,360.00,0.01094,3.2,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,75.5,0.0,0.0,0.0,0,40,/recipes/hot-honey
 "Maple syrup, or honey",maple-syrup,7.98,360.00,0.02217,3.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
 Sugar Free Syrup,sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
 Sugar free syrup,sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
