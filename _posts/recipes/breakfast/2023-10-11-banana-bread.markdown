@@ -27,8 +27,8 @@ servingSize: 1 mini muffin
 section1: Dry
 start2: Banana, overripe
 section2: Wet
-start3: Sugar free chocolate chips
-section3: Optional
+start3:
+section3:
 start4:
 section4:
 start5:
