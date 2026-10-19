@@ -2,6 +2,7 @@ Food,File,Cost ($),Size (g),Unit Cost ($/g),Score,Glycemic Index,Gluten Free,Veg
 Water,water,0.00,1.00,0.00000,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Water, warm",water,0.00,1.00,0.00000,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Ice,water,0.00,1.00,0.00000,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Apple cider,apple-cider,7.47,"3,840.00",0.00195,2.5,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Beer, room temperature",beer,20.27,"4,258.58",0.00476,4.7,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Beer,beer,20.27,"4,258.58",0.00476,2.0,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Rum,rum,15.00,750.00,0.02000,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
@@ -243,7 +244,8 @@ Chunky Monkey Ice Cream,chunky-monkey-ice-cream,4.87,454.00,0.01073,2.3,61,TRUE,
 Brie,brie,6.99,454.00,0.01540,3.1,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 "Brie, fat free",cream-cheese-fat-free,1.99,227.00,0.00877,5.8,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 "Labneh cheese, skim",labneh-skim,3.69,720.00,0.00513,8.5,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,0,/misc/homemade-cheese#labneh
-Ricotta cheese,ricotta,1.35,480.00,0.00280,5.0,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.6,0,0,
+Ricotta cheese,ricotta,2.67,424.50,0.00629,5.0,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.6,0,0,
+"Ricotta cheese, part skim",ricotta-part-skim,2.67,424.50,0.00629,5.5,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.6,0,0,
 Dairy Free Cashew Ricotta Cheese,cashew-ricotta,2.80,336.00,0.00833,7.9,21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/cashew-ricotta-cheese
 "Whey protein powder, unflavored",whey,50.96,"2,270.00",0.02245,9.1,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4kBoGeY
 Whey protein powder,whey,50.96,"2,270.00",0.02245,9.1,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4kBoGeY
@@ -251,7 +253,7 @@ Whey protein powder,whey,50.96,"2,270.00",0.02245,9.1,24,TRUE,TRUE,FALSE,FALSE,T
 "Whey protein powder, vanilla",whey-vanilla,50.96,"2,270.00",0.02245,9.1,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4llkGj5
 Nutricost Whey Unflavored Protein Powder,whey,50.96,"2,270.00",0.02245,9.1,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4kBoGeY
 Protein Shake To Go,to-go-100g,1.25,63.80,0.01959,8.8,22,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,12.6,0,0,/recipes/protein-shake-to-go
-Whey syrup,whey-syrup,1.35,180.00,0.00747,5.8,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.5,0,0,
+Whey syrup,whey-syrup,2.67,180.00,0.01483,5.8,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.5,0,0,
 "Liquid whey, acid",liquid-whey-acid,0.00,"1,270.00",0.00000,5.8,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,5.1,0,0,/misc/homemade-yogurt
 "Liquid whey, sweet",liquid-whey-sweet,0.00,"1,270.00",0.00000,5.8,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,5.1,0,0,/misc/homemade-yogurt
 Liquid whey,homemade-whey,0.00,"2,270.00",0.00000,5.8,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,5.1,0,0,/misc/homemade-yogurt
@@ -577,6 +579,6 @@ Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,0.0,39,TRUE,TRUE,TRU
 Vegetable broth,veggie-broth,1.79,960.00,0.00186,0.0,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Chicken bone broth,bone-broth,1.37,905.60,0.00151,0.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
 Broth,bone-broth,1.37,905.60,0.00151,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
-Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,0.0,14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3TbDFnv
+Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,0.0,6,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,8.3,0.0,0.0,0.0,0,0,https://amzn.to/3TbDFnv
 "Quest Protein Cookie, storebought",store-quest-cookie-100g,24.99,708.00,0.03530,4.0,4,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,13.6,0.0,0.0,0,100,https://amzn.to/3YppdYq
 "Quest Protein Cookie, homemade",homemade-quest-cookie-100g,1.20,80.00,0.01500,7.6,4,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,11.3,0.0,0.0,0,100,/recipes/copycat-quest-cookie

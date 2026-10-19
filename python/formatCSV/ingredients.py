@@ -412,6 +412,8 @@ def ingredients(food):
         f = "Dairy Free Cashew Ricotta Cheese"
     elif food == 'Cheese, Ricotta':
         f = "Ricotta cheese"
+    elif food == "Cheese, part skim milk, ricotta":
+        f = "Ricotta cheese, part skim"
     elif food == "labneh-skim":
         f = "Labneh cheese, skim"
     elif food == "Cheese, blue":
