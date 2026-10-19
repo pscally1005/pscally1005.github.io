@@ -200,7 +200,7 @@ def grams(food, mass, vol):
             m = "660"
 
     # Frozen fruit
-    elif food == "Frozen blueberries" or food == "Frozen cherries" or food == "Watermelon" or food == "Grapes":
+    elif food == "Frozen blueberries" or food == "Frozen cherries" or food == "Watermelon" or food == "Grapes" or food == "Raspberries" or food == "Frozen raspberries":
         if vol == "1/2 cup":
             m = "75"
         elif vol == "1 cup":

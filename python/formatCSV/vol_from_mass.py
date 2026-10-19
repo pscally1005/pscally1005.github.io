@@ -425,7 +425,7 @@ def vol_from_mass(food, mass, vol):
             v = "6 medium"
 
     # Frozen fruit
-    elif food == "Frozen blueberries" or food == "Frozen cherries" or food == "Watermelon" or food == "Grapes":
+    elif food == "Frozen blueberries" or food == "Frozen cherries" or food == "Watermelon" or food == "Grapes" or food == "Raspberries" or food == "Frozen raspberries":
         if mass == "75":
             v = "75"
         elif mass == "150":

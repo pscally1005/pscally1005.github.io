@@ -507,6 +507,8 @@ def ingredients(food):
         f = "Grapes"
     elif food == "Blueberries, raw":
         f = "Blueberries"
+    elif food == "Raspberries, raw":
+        f = "Raspberries"
     elif food == "Radishes, raw":
         f = "Radish"
     elif food == "Broccoli raab, raw":
