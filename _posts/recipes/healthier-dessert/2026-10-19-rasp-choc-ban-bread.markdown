@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/raspberry-chocolate-banana-bread
 image: /assets/Food/Healthier Dessert/Rasp Choc Ban Bread/cover.jpg
 file: raspchocbananabread
-servingSize: 1 slice (~TODO g)
+servingSize: 1 slice (~82 g)
 section1: Dry Ingredients
 start2: Banana, overripe
 section2: Wet Ingredients

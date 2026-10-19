@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/apple-cider-donuts
 image: /assets/Food/Healthier Dessert/Apple Cider Donuts/cover.jpg
 file: ciderdonuts
-servingSize: 1 donut (~TODO g)
+servingSize: 1 donut (~131 g)
 section1: Apple Cider
 start2: Oat flour
 section2: Dry Ingredients
@@ -61,26 +61,30 @@ tags:
 - gluten free
 - ricotta cheese
 - cinnamon sugar
-Description: Fall season means apple cider season, and with that comes delicious apple cider donuts. These healthy, homemade apple cider donuts are made in the air fryer instead of being deep fried, making them significantly lower in fat and calories. They're also low in added sugar, being sweetened by real apple cider and a touch of honey. Finally, these wholesome donuts are gluten free, using home ground oat flour instead of refined white flour.
+Description: Fall season means apple cider season, and with that comes delicious apple cider donuts. These healthy, homemade apple cider donuts are made in the <a href='https://amzn.to/3FuWETp'>air fryer</a> instead of being deep fried, making them significantly lower in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>. They're also low in <a href='/misc/hidden-sugar'>added sugar</a>, being sweetened by real apple cider and a touch of <a href='/misc/natural-sweeteners#honey'>honey</a>. Finally, these wholesome donuts are <a href='/misc/celiac'>gluten free</a>, using home ground <a href='/misc/grains#oats'>oat flour</a> instead of <a href='/misc/grains#white-wheat'>refined white flour</a>.
 Instructions:
-- Place a small pot on a scale, and note its weight. Pour in 1 cup (240 g) apple cider. Bring to a boil over high heat, and cook the apple cider until it reduces to 1/3 cup (80 g). For example, my pot weighs 324 g, so the pot plus apple cider will weigh 564 g before reducing, and 404 g after. Let the apple cider cool totally.
+- |
+  Place a <a href='https://amzn.to/46ccg8m'>small pot</a> on a <a href='https://amzn.to/45yjx2X'>scale</a>, and note its weight. Pour in 1 cup (240 g) apple cider. Bring to a boil over high heat, and cook the apple cider until it reduces to 1/3 cup (80 g).<br><br>
 
-- Preheat your air fryer to 300F. Lightly grease an air fryer donut mold with oil.
+  For example, my pot weighs 324 g, so the pot plus apple cider will weigh <b>564 g</b> before reducing, and <b>404 g</b> after. Let the apple cider cool totally.
 
-- Add the dry ingredients to a large bowl, and whisk together - oat flour, cornstarch, baking powder, cinnamon, salt, nutmeg, ginger, and cloves.
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F. <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> an <a href='https://amzn.to/4wPTDC8'>air fryer donut mold</a> with <a href='/misc/olive-oil'>oil</a>.
 
-- Add all liquid ingredients to a separate large bowl, and whisk until smooth - reduced apple cider, egg, ricotta, honey, and vanilla.
+- Add the dry ingredients to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and whisk together - <a href='/misc/grains#oats'>oat flour</a>, cornstarch, baking powder, cinnamon, salt, nutmeg, ginger, and cloves.
 
-- Add the wet ingredients into the dry, and mix until fully combined with a silicone spatula.
+- Add all liquid ingredients to a separate <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and whisk until smooth - reduced apple cider, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/homemade-cheese#ricotta'>ricotta</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>.
+
+- Add the wet ingredients into the dry, and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Healthier Dessert/Apple Cider Donuts/bowl.jpg' alt='' class='instruction-image'>
 
-- Evenly divide the donut batter across the 4 donut molds, about <b>95 g</b> each.
+- Evenly divide the donut batter across the 4 <a href='https://amzn.to/4wPTDC8'>donut molds</a>, about <b>95 g</b> each.
 - <img src='/assets/Food/Healthier Dessert/Apple Cider Donuts/raw.jpg' alt='' class='instruction-image'>
 
-- Air fry at 300F for about 10 minutes, or until lightly golden brown, and a toothpick comes out clean. Transfer to the fridge, and allow them to chill until fully cooled.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for about 10 minutes, or until lightly golden brown, and a toothpick comes out clean. Transfer to the fridge, and allow them to chill until fully cooled.
 - <img src='/assets/Food/Healthier Dessert/Apple Cider Donuts/baked.jpg' alt='' class='instruction-image'>
 
-- In a small bowl, whisk together your sweetener and cinnamon to make your cinnamon sugar. Lightly coat each cooled donut in cinnamon sugar, about 1 tbsp (7 g) each. Store in the fridge.
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, whisk together your <a href='/recipes/high-fiber-sugar-substitute'>sweetener</a> and cinnamon to make your cinnamon sugar. Lightly coat each cooled <a href='/recipes/protein-donuts'>donut</a> in cinnamon sugar, about 1 tbsp (7 g) each. Store in the fridge.
 - <img src='/assets/Food/Healthier Dessert/Apple Cider Donuts/coated.jpg' alt='' class='instruction-image'>
 Notes:
+- I'm using my <a href='/recipes/high-fiber-sugar-substitute'>High Fiber Sugar Substitute</a> as the sweetener in my cinnamon sugar today, but other good options are <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> and <a href='https://amzn.to/4mzsH5p'>allulose</a>.
 ---
