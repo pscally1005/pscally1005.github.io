@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,201,,
+Calories,208,,
 "Vitamin A, RAE",53,mcg,6 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",8,mcg,
@@ -49,12 +49,12 @@ Calories,201,,
 "Copper",0.11,mg,12 %
 "Fluoride",0.4,mcg,
 "Iodine",6.17,mcg,4 %
-"Iron",1.72,mg,10 %
+"Iron",1.73,mg,10 %
 "Magnesium",69,mg,16 %
-"Manganese",1.298,mg,56 %
-"Phosphorus",268,mg,21 %
+"Manganese",1.299,mg,56 %
+"Phosphorus",269,mg,22 %
 "Potassium",332,mg,7 %
-"Selenium",15.43,mcg,28 %
+"Selenium",15.48,mcg,28 %
 "Sodium",295,mg,13 %
 "Zinc",1.32,mg,12 %
 "Protein",8.02,g,16 %
@@ -63,24 +63,24 @@ Calories,201,,
 "Leucine",0.775,g,23 %
 "Lysine",0.647,g,21 %
 "Methionine",0.205,g,
-"Phenylalanine",0.447,g,
+"Phenylalanine",0.448,g,
 "Threonine",0.354,g,22 %
 "Tryptophan",0.111,g,27 %
-"Valine",0.504,g,26 %
-"Phenylalanine + Tyrosine",0.81,g,30 %
+"Valine",0.505,g,26 %
+"Phenylalanine + Tyrosine",0.811,g,30 %
 "Methionine + Cysteine",0.465,g,30 %
 "Arginine",0.551,g,
 "Cystine",0.12,g,
 "Cysteine",0.14,g,
-"Glutamic acid",1.746,g,
+"Glutamic acid",1.747,g,
 "Glycine",0.327,g,
-"Proline",0.595,g,
+"Proline",0.596,g,
 "Tyrosine",0.363,g,
-"Alanine",0.427,g,
-"Aspartic acid",0.779,g,
+"Alanine",0.428,g,
+"Aspartic acid",0.78,g,
 "Hydroxyproline",0,g,
-"Carbohydrate",37.76,g,14 %
-"Fiber",9.07,g,32 %
+"Carbohydrate",39.58,g,14 %
+"Fiber",9.09,g,32 %
 "Starch",0,g,
 "Sugars",10.6,g,
 "Sugars, added",4.31,g,9 %
@@ -90,8 +90,8 @@ Calories,201,,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0,g,
-"Net carbs",28.69,g,
-"Fat",5.202,g,7 %
+"Net carbs",30.49,g,
+"Fat",5.203,g,7 %
 "Saturated fatty acids",2.108,g,11 %
 "Butanoic acid",0.072,g,
 "Hexanoic acid",0.018,g,
@@ -107,13 +107,13 @@ Calories,201,,
 "Eicosanoic acid",0,g,
 "Docosanoic acid",0,g,
 "Tetracosanoic acid",0,g,
-"Monounsaturated fatty acids",1.569,g,
+"Monounsaturated fatty acids",1.57,g,
 "Tetradecenoic acid",0,g,
 "Pentadecenoic acid",0,g,
 "Hexadecenoic acid",0.078,g,
 "Cis-hexadecenoic acid",0.03,g,
 "Heptadecenoic acid",0,g,
-"Octadecenoic acid",0.547,g,
+"Octadecenoic acid",0.548,g,
 "Cis-octadecenoic acid",0.423,g,
 "Trans-octadecenoic acid",0,g,
 "Eicosenoic acid",0,g,
@@ -152,4 +152,4 @@ Calories,201,,
 "Nitrogen",0.25,g,
 "Serine",0.451,g,
 "Theobromine",0,mg,
-"Water",145.11,g,
+"Water",145.27,g,

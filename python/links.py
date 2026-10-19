@@ -4,7 +4,8 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_includes"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts"
 
 LINKS = {
@@ -4530,7 +4531,8 @@ LINKS = {
         "casein protein",
         "casein",
         "vanilla casein protein powder",
-        "chocolate casein protein powder"
+        "chocolate casein protein powder",
+        "unflavored casein"
     ],
     "/misc/dairy#cheddar": [
         "shredded cheese",
@@ -4663,7 +4665,8 @@ LINKS = {
         "whey protein",
         "whey",
         "protein powders",
-        "protein powder"
+        "protein powder",
+        "unflavored whey"
     ],
 
     #  FISH
@@ -6312,6 +6315,13 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4wEmIBw": [
+        "fairlife",
+        "fairife skim milk",
+        "fairlife fat free milk",
+        "fairlife fat-free milk",
+        "fairlife milk"
+    ],
     "https://amzn.to/3VsZVuj": [
         "2 cup glass containers",
         "2 cup glass container"
@@ -8508,6 +8518,7 @@ EXCLUDED_PHRASES = [
     "into a cake anyway",
     "wholesome donuts",
     "of the chocolate",
+    "beef sirloin tip",
     "wholesome banana bread",
     "banana bread with",
     "healthy banana bread",
@@ -10660,7 +10671,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-31")):
+            if not file.startswith(("protein_table")):
                 continue
 
             # exclude some files
