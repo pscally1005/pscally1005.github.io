@@ -5286,7 +5286,8 @@ LINKS = {
     "/misc/meat#pork-tenderloin": [
         "pork tenderloin",
         "ground pork",
-        "pork"
+        "pork",
+        "pork loin"
     ],
     "/misc/meat#salami": [
         "salami"
