@@ -1,15 +1,74 @@
 Nutrient,Amount,Unit,DV
-Calories,106,,
+Calories,110,,
+"Vitamin A, RAE",4,mcg,0 %
+"Carotene, alpha",0,mcg,
+"Carotene, beta",4,mcg,
+"Retinol",3,mcg,
+"Thiamin [Vitamin B1]",0.011,mg,1 %
+"Riboflavin [Vitamin B2]",0.006,mg,0 %
+"Niacin [Vitamin B3]",0.016,mg,0 %
+"Pantothenic acid [Vitamin B5]",0.031,mg,1 %
+"Vitamin B6",0.004,mg,0 %
+"Vitamin B12 [Cobalamin]",0,mcg,0 %
+"Folate, DFE [Vitamin B9]",2,mcg,0 %
+"Vitamin C [Ascorbic acid]",0.1,mg,0 %
 "Vitamin D",0,mcg,0 %
-"Calcium",0,mg,0 %
-"Iron",0,mg,0 %
-"Potassium",0,mg,0 %
-"Protein",0,g,0 %
-"Carbohydrate",2.9,g,1 %
+"Vitamin E (alpha-tocopherol)",0.95,mg,6 %
+"Tocopherol, alpha",0.95,mg,
+"Vitamin K",18.9,mcg,16 %
+"Betaine",0,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
+"Choline",5.6,mg,1 %
+"Calcium",4,mg,0 %
+"Copper",0.01,mg,1 %
+"Fluoride",0,mcg,
+"Iodine",0,mcg,0 %
+"Iron",0.08,mg,0 %
+"Magnesium",2,mg,0 %
+"Manganese",0.018,mg,1 %
+"Phosphorus",6,mg,0 %
+"Potassium",5,mg,0 %
+"Selenium",1.35,mcg,2 %
+"Sodium",240,mg,10 %
+"Zinc",0.04,mg,0 %
+"Protein",0.23,g,0 %
+"Histidine",0,g,0 %
+"Isoleucine",0.008,g,1 %
+"Leucine",0.008,g,0 %
+"Lysine",0.008,g,0 %
+"Methionine",0,g,
+"Phenylalanine",0.008,g,
+"Threonine",0.004,g,0 %
+"Tryptophan",0.004,g,1 %
+"Valine",0.008,g,0 %
+"Phenylalanine + Tyrosine",0.016,g,1 %
+"Methionine + Cysteine",0.004,g,0 %
+"Arginine",0.004,g,
+"Cystine",0.004,g,
+"Cysteine",0,g,
+"Glutamic acid",0.015,g,
+"Glycine",0.004,g,
+"Proline",0.073,g,
+"Tyrosine",0.008,g,
+"Alanine",0.004,g,
+"Aspartic acid",0.023,g,
+"Hydroxyproline",0,g,
+"Carbohydrate",3,g,1 %
 "Fiber",0,g,0 %
-"Sugars",1.94,g,
-"Net carbs",2.9,g,
-"Fat",10.645,g,14 %
-"Saturated fatty acids",0.968,g,5 %
+"Sugars",2,g,
+"Sugars, added",2,g,4 %
+"Net carbs",3,g,
+"Fat",11,g,14 %
+"Saturated fatty acids",1.347,g,7 %
+"Monounsaturated fatty acids",3.087,g,
+"Polyunsaturated fatty acids",6.153,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.001,g,
+"Docosapentaenoic n-3 acid (DPA)",0,g,
+"Docosahexaenoic n-3 acid (DHA)",0,g,
 "Fatty acids, total trans",0,g,
 "Cholesterol",0,mg,0 %
+"Alcohol, ethyl",0,g,
+"Caffeine",0,mg,
+"Serine",0.004,g,
+"Theobromine",0,mg,
+"Water",15,g,

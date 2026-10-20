@@ -2,7 +2,7 @@ Nutrient,Amount,Unit,DV
 Calories,158,,
 "Vitamin A, RAE",17,mcg,2 %
 "Carotene, alpha",0,mcg,
-"Carotene, beta",3,mcg,
+"Carotene, beta",4,mcg,
 "Cryptoxanthin, alpha",0.54,mcg,
 "Cryptoxanthin, beta",1,mcg,
 "Lutein",9.64,mcg,
@@ -39,7 +39,7 @@ Calories,158,,
 "Magnesium",73,mg,17 %
 "Manganese",1.28,mg,56 %
 "Phosphorus",134,mg,11 %
-"Potassium",285,mg,6 %
+"Potassium",284,mg,6 %
 "Selenium",8.75,mcg,16 %
 "Sodium",236,mg,10 %
 "Zinc",0.76,mg,7 %
@@ -69,6 +69,7 @@ Calories,158,,
 "Fiber",2.51,g,9 %
 "Starch",0,g,
 "Sugars",5.97,g,
+"Sugars, added",3.7,g,7 %
 "Fructose",0,g,
 "Glucose",0.01,g,
 "Lactose",0,g,
@@ -77,19 +78,22 @@ Calories,158,,
 "Net carbs",20.22,g,
 "Fat",6.615,g,8 %
 "Saturated fatty acids",4.262,g,21 %
+"Tetradecanoic acid",0.001,g,
 "Hexadecanoic acid",0.097,g,
 "Octadecanoic acid",0.034,g,
-"Tetradecanoic acid",0.001,g,
 "Monounsaturated fatty acids",0.912,g,
 "Cis-hexadecenoic acid",0.01,g,
 "Cis-octadecenoic acid",0.14,g,
 "Polyunsaturated fatty acids",0.655,g,
-"γ-linolenic acid n-6 (GLA)",0,g,
+"Cis-octadecadienoic acid",0.061,g,
 "Linoleic acid n-6 (LA)",0.061,g,
-"Docosahexaenoic n-3 acid (DHA)",0,g,
-"Docosapentaenoic n-3 acid (DPA)",0,g,
-"Eicosadienoic n-6 acid",0.001,g,
+"Cis-octadecatrienoic acid",0,g,
+"γ-linolenic acid n-6 (GLA)",0,g,
+"Cis-eicosatrienoic acid",0.001,g,
+"Dihomo-γ-linolenic acid n-6 (DGLA)",0.001,g,
 "Eicosapentaenoic n-3 acid (EPA)",0,g,
+"Docosapentaenoic n-3 acid (DPA)",0,g,
+"Docosahexaenoic n-3 acid (DHA)",0,g,
 "Fatty acids, total trans",0.001,g,
 "Cholesterol",17,mg,6 %
 "25-hydroxycholecalciferol",0.02,mcg,
@@ -102,9 +106,6 @@ Calories,158,,
 "Choline, from phosphotidyl choline",0.01,mg,
 "Choline, from sphingomyelin",1.05,mg,
 "Nitrogen",0.08,g,
-"PUFA 18:2 c",0.06,g,
-"PUFA 18:3 c",0,g,
-"PUFA 20:3 c",0,g,
 "Serine",0.195,g,
 "Theobromine",0,mg,
 "Water",271.6,g,
