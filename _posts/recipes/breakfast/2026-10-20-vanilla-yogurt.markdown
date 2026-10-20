@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Vanilla Full Fat Greek Yogurt
-date:   2026-10-04 00:00:00 -0500
+date:   2026-10-20 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
