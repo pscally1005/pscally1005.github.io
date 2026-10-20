@@ -256,7 +256,7 @@ def ingredients(food):
         f = "Fruit juice, sugar free"
     elif food == "Lemonade, fruit juice drink":
         f = "Lemonade, storebought"
-    elif food == "Frostings, ready-to-eat, creamy, vanilla":
+    elif food == "Frostings, ready-to-eat, creamy, vanilla" or food == "Frosting, storebought":
         f = "Frosting"
     elif food == "protein-frosting":
         f = "Protein Frosting, Vanilla"
@@ -561,7 +561,7 @@ def ingredients(food):
         f = "Carrots"
     elif food == "Coleslaw mix by Bread & Circus Inc.":
         f = "Coleslaw mix"
-    elif food == "Restaurant, coleslaw, family style":
+    elif food == "Restaurant, coleslaw, family style" or food == "Coleslaw, storebought":
         f = "Storebought coleslaw"
     elif food == "Cucumber, raw" or food == "Cucumber, raw, with peel":
         f = "Cucumber"

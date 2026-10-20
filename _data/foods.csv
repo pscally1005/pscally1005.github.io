@@ -238,9 +238,9 @@ Cream cheese,cream-cheese,1.79,226.40,0.00791,3.1,27,TRUE,TRUE,FALSE,FALSE,TRUE,
 "Cream cheese, fat free",cream-cheese-fat-free,1.99,227.00,0.00877,5.9,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 Sour cream,sour-cream,1.88,454.00,0.00414,2.1,15,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,
 Vanilla ice cream,vanilla-ice-cream,2.97,"1,358.40",0.00219,2.3,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,21.2,0.0,0.0,4.9,0,0,
-Snickers Ice Cream bar,snickers-ice-cream-bar,4.83,360.00,0.01342,2.3,61,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,25.5,0.0,0.0,4.9,0,0,https://amzn.to/4x1xFfs
-Cherry Garcia Ice Cream,cherry-garcia-ice-cream,4.87,454.00,0.01073,2.3,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,21.7,0.0,0.0,4.9,0,0,https://amzn.to/4fptrbW
-Chunky Monkey Ice Cream,chunky-monkey-ice-cream,4.87,454.00,0.01073,2.3,61,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,22.4,0.0,0.0,4.9,0,0,https://amzn.to/4pFciyn
+Snickers Ice Cream bar,snickers-ice-cream-bar-store,4.83,360.00,0.01342,2.3,61,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,25.5,0.0,0.0,4.9,0,0,https://amzn.to/4x1xFfs
+Cherry Garcia Ice Cream,cherry-garcia-store,4.87,454.00,0.01073,2.3,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,21.7,0.0,0.0,4.9,0,0,https://amzn.to/4fptrbW
+Chunky Monkey Ice Cream,chunky-monkey-store,4.87,454.00,0.01073,2.3,61,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,22.4,0.0,0.0,4.9,0,0,https://amzn.to/4pFciyn
 Brie,brie,6.99,454.00,0.01540,3.1,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 "Brie, fat free",cream-cheese-fat-free,1.99,227.00,0.00877,5.8,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 "Labneh cheese, skim",labneh-skim,3.69,720.00,0.00513,8.5,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,0,/misc/homemade-cheese#labneh
@@ -504,7 +504,7 @@ Pistachios,pistachios,9.98,672.00,0.01485,9.3,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,
 Pistachio butter,pistachios,9.98,672.00,0.01485,8.1,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Hazelnuts,hazelnuts,3.49,196.00,0.01781,9.1,15,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Tahini,sesame-seeds,3.99,454.00,0.00879,9.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
-Nutella,classic-nutella,4.97,367.90,0.01351,2.9,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,51.4,0.0,0.0,4.0,0,15,https://amzn.to/48ZvAra
+Nutella,classic-nutella-100g,4.97,367.90,0.01351,2.9,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,51.4,0.0,0.0,4.0,0,15,https://amzn.to/48ZvAra
 Single Serving Quick Nutella,quick-nutella-100g,0.49,54.00,0.00907,9.1,37,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/quick-nutella
 Protein nutella,protein-nutella-100g,1.08,130.00,0.00831,9.3,19,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.9,0,15,/recipes/protein-nutella
 "Tahini, or any other nut/seed butter",sesame-seeds,3.99,454.00,0.00879,9.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter

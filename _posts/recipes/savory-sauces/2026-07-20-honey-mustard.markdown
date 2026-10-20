@@ -49,6 +49,7 @@ tags:
 - salad dressing
 - honey
 - apple cider vinegar
+- vic honey mustard
 Description: |
   Nothing turns a healthy <a href='/salad'>salad</a> into <a href='/misc/fake-healthy-foods'>junk food</a> quicker than a bottle of <a href='/salad-dressings'>salad dressing</a>. Most <a href='https://amzn.to/4uJsVK5'>commercial honey mustard dressings</a> have <a href='/misc/hidden-sugar'>high fructose corn syrup</a>, <a href='/misc/fake-healthy-foods#seed-oil'>soybean oil</a> and other <a href='/misc/fake-healthy-foods#seed-oil'>seed oils</a>, synthetic food dyes, artificial preservatives, and a paragraph of ingredients you can barely pronounce.<br><br>
 

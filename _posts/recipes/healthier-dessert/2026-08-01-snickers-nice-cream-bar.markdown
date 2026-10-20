@@ -80,7 +80,7 @@ Notes:
 - |
   COMPARE(
     "snickersicecream",
-    "snickers-ice-cream-bar";
+    "snickersicecreambarstore";
 
     "<a href='#recipe'>Homemade</a>",
     "<a href='https://amzn.to/4x1xFfs'>Storebought</a>";

@@ -63,7 +63,7 @@ Notes:
 - |
   COMPARE(
     "cherrygarcia",
-    "cherry-garcia";
+    "cherrygarciastore";
 
     "<a href='#recipe'>Homemade</a>",
     "<a href='https://amzn.to/4fptrbW'>Storebought</a>";

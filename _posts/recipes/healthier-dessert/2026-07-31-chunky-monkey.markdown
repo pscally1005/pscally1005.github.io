@@ -63,7 +63,7 @@ Notes:
 - |
   COMPARE(
     "chunkymonkey",
-    "chunky-monkey";
+    "chunkymonkeystore";
 
     "<a href='#recipe'>Homemade</a>",
     "<a href='https://amzn.to/4pFciyn'>Storebought</a>";
