@@ -275,11 +275,11 @@ Sugar free syrup,sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,
 "Sugar free syrup, or honey",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
 "Sugar free syrup, or maple syrup",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
 "Sugar free syrup, optional",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
-Agave,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,40,
-Agave syrup,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,40,
-Coconut sugar,coconut-sugar,9.42,905.60,0.01040,2.5,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,78.0,0.0,0.0,0.0,0,40,
-Date sugar,date-sugar,8.98,396.20,0.02267,2.5,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,67.0,0.0,0.0,0.0,0,40,
-Date syrup,date-syrup,9.98,679.20,0.01469,3.1,47,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,69.0,0.0,0.0,0.0,0,40,
+Agave,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,68.0,0.0,0.0,0.0,0,40,
+Agave syrup,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,68.0,0.0,0.0,0.0,0,40,
+Coconut sugar,coconut-sugar,9.42,905.60,0.01040,2.5,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,78.0,0.0,0.0,0.0,0,40,
+Date sugar,date-sugar,8.98,396.20,0.02267,2.5,53,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,67.0,0.0,0.0,0.0,0,40,
+Date syrup,date-syrup,9.98,679.20,0.01469,3.1,47,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,69.0,0.0,0.0,0.0,0,40,
 Homemade fruit syrup,fruit-syrup,1.00,63.00,0.01587,3.1,46,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,89.0,0.0,0.0,0.0,0,40,/misc/homemade-fruit-syrup
 Liquid stevia,liquid-stevia,3.34,47.04,0.07100,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/45wOzIv
 Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
@@ -474,7 +474,7 @@ Dried onion flakes,onion-flakes,5.99,180.00,0.03328,8.6,58,TRUE,TRUE,TRUE,TRUE,T
 Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,9.2,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4sgDH9S
 Peanut Chili Salad Dressing,pb-dressing-100g,0.87,87.50,0.00994,5.5,31,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3.0,0.0,0.0,0.0,0,18,/recipes/peanut-chili-salad-dressing
 Reese's Peanut Butter Cups,reeses-100g,14.92,849.00,0.01757,4.1,60,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,50.0,0.0,0.0,0.0,0,15,https://amzn.to/4rwHsZL
-Skippy peanut butter,skippy,6.27,"1,132.00",0.00554,6.7,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,6.3,0.0,0.0,0.0,0,15,
+Skippy peanut butter,skippy-pb,6.27,"1,132.00",0.00554,6.7,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,6.3,0.0,0.0,0.0,0,15,
 Natural peanut butter,peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 "Natural peanut butter, or tahini",peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Walden Farms Peanut Spread,wf-peanut,4.49,340.00,0.01321,5.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.3,0.0,0.0,0,15,https://amzn.to/4ggGWuF
