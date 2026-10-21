@@ -79,5 +79,6 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
-- <img src='/assets/Food/Healthier Dessert/Watermelon Sorbet/grape.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/Watermelon Sorbet/grape1.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/Watermelon Sorbet/grape2.jpg' alt='' class='instruction-image'>
 ---
