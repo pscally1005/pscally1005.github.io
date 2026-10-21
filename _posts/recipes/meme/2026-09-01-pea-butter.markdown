@@ -56,6 +56,9 @@ tags:
 - chocolate pea butter
 - nut free nutella
 - nut-free nutella
+- pea butter recipe
+- nut free peanut butter
+- nut-free peanut butter
 Description: |
   This isn't <a href='/recipes/natural-peanut-butter'>peanut butter</a>.  It's pea butter, aka <a href='https://amzn.to/4aXnK21'>pea protein</a> with <a href='/misc/olive-oil'>extra virgin olive oil</a>.  The <a href='/misc/olive-oil'>oil</a> and <a href='https://amzn.to/4aXnK21'>protein powder</a> add the exact amounts of <a href='/misc/fats'>fats</a> and <a href='/misc/protein'>protein</a>, while <a href='/misc/grains#oats'>oats</a> and <a href='https://amzn.to/47w8h7R'>inulin</a> add <a href='/misc/carbs'>net carbs</a> and <a href='/misc/fiber'>fiber</a>.  Finally, salt and <a href='https://amzn.to/3P2NFNU'>potassium chloride</a> add <a href='/misc/sodium'>sodium</a> and <a href='/misc/potassium'>potassium</a>.<br><br>
 
@@ -105,13 +108,17 @@ Notes:
   <ul>
     <li>Replaced the <a href='/recipes/natural-peanut-butter'>nut butter</a> in any <a href='/yogurt'>yogurt</a> or <a href='/oatmeal'>oatmeal</a> bowls.</li>
 
-    <li>Spread <a href='#recipe'>Pea Butter</a> onto a <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbread</a>.</li>
+    <li>Made <a href='/recipes/pb-bread'>Peanut Butter Bread</a> using <a href='#recipe'>pea butter</a> instead of <a href='/recipes/natural-peanut-butter'>peanut butter</a>.</li>
 
-    <li>Substituted the <a href='/misc/nuts#almonds'>almond butter</a> in my <a href='/recipes/nutty-veggies'>Nutty Veggies</a>.</li>
+    <li>Made <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a> using <a href='#recipe'>pea butter</a> instead of <a href='/recipes/natural-peanut-butter'>peanut butter</a>.</li>
 
-    <li>Substituted the <a href='/recipes/natural-peanut-butter'>peanut butter</a> in my <a href='/recipes/buckeyes'>Ohio Buckeye Balls</a>.</li>
+    <li>Spread <a href='#recipe'>pea butter</a> onto a <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbread</a>.</li>
 
-    <li>Substituted the <a href='/recipes/natural-peanut-butter'>peanut butter</a> in my <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a>.</li>
+    <li>Substituted the <a href='/misc/nuts#almonds'>almond butter</a> with <a href='#recipe'>pea butter</a> in my <a href='/recipes/nutty-veggies'>Nutty Veggies</a>.</li>
+
+    <li>Substituted the <a href='/recipes/natural-peanut-butter'>peanut butter</a> with <a href='#recipe'>pea butter</a> in my <a href='/recipes/buckeyes'>Ohio Buckeye Balls</a>.</li>
+
+    <li>Substituted the <a href='/recipes/natural-peanut-butter'>peanut butter</a> with <a href='#recipe'>pea butter</a> in my <a href='/recipes/three-ingredient-brownies'>Three Ingredient Brownie Bites</a>.</li>
   </ul>
 # - <a href='/recipes/sourdough-flatbread'><img src='/assets/Food/Meme/Pea Butter/flatbread.jpg' alt='' class='instruction-image'></a>
 # - <a href='/recipes/nutty-veggies'><img src='/assets/Food/Meme/Pea Butter/nutty-veggies.jpg' alt='' class='instruction-image'></a>
