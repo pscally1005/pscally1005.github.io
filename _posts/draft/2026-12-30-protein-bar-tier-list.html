@@ -1,0 +1,136 @@
+---
+layout: post
+title:  Protein Bar Tier List
+date:   2026-10-21 00:00:00 -0500
+categories:
+- Misc.
+- Nutrition
+- Draft
+showPercentage: no
+protein_bar: yes
+permalink: /misc/protein-bar-tier-list
+image: /assets/Misc/Nutrition/Protein Bars/cover.png
+tags:
+- protein bars
+- aloha
+- atkins
+- barebell
+- built
+- clif builders
+- david
+- fitcrunch
+- gomacro
+- iqbar
+- kind protein
+- kirkland
+- lenny & larry's
+- met-rx
+- no cow
+- one protein
+- perfect bar
+- power crunch
+- pure protein
+- quest
+- rxbar
+- think
+---
+<div id='overview' class='table-of-contents-2'></div>
+<b><u><font size='+2'>Overview</font></u></b><br>
+This is my personal tier list of protein bars. I have tried a couple of different protein bars in my day, and this is my ranking of them based on taste, texture, nutrition, and cost. Nothing on here is for a specific flavor, just the brand overall.<br><br>
+
+In my ideal world, a protein bar would be high in protein, low in calories, and taste good. I also want it to be affordable. The bars on this list are ranked based on how well they meet those criteria.<br><br>
+
+The most important nutritional criteria for a protein bar is it's protein percentage. This is represented by the following formula: (grams of protein ÷ calories) × 100. A good protein bar should have a protein percentage of at least <b>10%</b>.<br><br>
+
+<b><u><font size='+2'>Table of Contents</font></u></b><br>
+{% assign sorted_protein_bars = site.data.protein_bars | sort: 'name' %}
+<ul>
+    <li><a href='#overview'>Overview</a></li>
+    <li><a href='#protein-bars'>Protein Bars</a>
+      <ul>
+        {% for bar in sorted_protein_bars %}
+        <li><a href='#{{ bar.id }}'>{{ bar.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    <li><a href='#final'>Final Ranking</a></li>
+</ul><br>
+
+<div id='protein-bars' class='table-of-contents-2'></div>
+<b><u><font size='+2'>Protein Bars</font></u></b><br>
+
+{% for bar in sorted_protein_bars %}
+<div id='{{ bar.id }}' class='table-of-contents-2'></div>
+{% assign display_tier = bar.tier | upcase %}
+{% assign valid_tier = false %}
+{% if display_tier == 'S' or display_tier == 'A' or display_tier == 'B' or display_tier == 'C' or display_tier == 'D' or display_tier == 'F' or display_tier == 'NA' %}
+  {% assign valid_tier = true %}
+{% endif %}
+{% unless valid_tier %}
+  {% assign display_tier = 'NA' %}
+{% endunless %}
+<u><font size='+2'>{% if bar.link %}<a href='{{ bar.link }}'>{{ bar.name }}</a>{% else %}{{ bar.name }}{% endif %} - {{ display_tier }} Tier</font></u><br>
+
+{{ bar.desc }}<br><br>
+
+{% assign cost = bar.total | divided_by: bar.count %}
+{% assign cents = cost | times: 100 | round %}
+{% assign dollars = cents | divided_by: 100 %}
+{% assign remainder = cents | modulo: 100 %}
+{% if remainder < 10 %}
+  {% assign remainder = remainder | prepend: '0' %}
+{% endif %}
+{% assign ratio = bar.protein | times: 100.0 | divided_by: bar.calories | round: 1 %}
+{% assign cost_per_gram_cents = cost | times: 100 | divided_by: bar.protein | round %}
+{% assign cost_per_gram_dollars = cost_per_gram_cents | divided_by: 100 %}
+{% assign cost_per_gram_remainder = cost_per_gram_cents | modulo: 100 %}
+{% if cost_per_gram_remainder < 10 %}
+  {% assign cost_per_gram_remainder = cost_per_gram_remainder | prepend: '0' %}
+{% endif %}
+
+<i>Price</i>: ${{ dollars }}.{{ remainder }}<br>
+<i>Protein</i>: {{ bar.protein }} g<br>
+<i>Calories</i>: {{ bar.calories }}<br>
+<i>Protein Percentage</i>: {{ ratio }}%<br>
+<i>Cost per gram of Protein</i>: ${{ cost_per_gram_dollars }}.{{ cost_per_gram_remainder }}<br>
+
+<br>{% if bar.link %}<a href='{{ bar.link }}'>{% endif %}<img src='/assets/Misc/Nutrition/Protein Bars/{{ bar.image }}' alt='' class='instruction-image'>{% if bar.link %}</a>{% endif %}<br>
+{% endfor %}
+
+<div id='final' class='table-of-contents-2'></div>
+<b><u><font size='+2'>Final Ranking</font></u></b><br>
+{% assign tier_names = 'S,A,B,C,D,F,NA' | split: ',' %}
+{% for tier_name in tier_names %}
+  {% assign tier_count = 0 %}
+  {% for bar in sorted_protein_bars %}
+    {% assign bar_tier = bar.tier | upcase %}
+    {% assign valid_tier = false %}
+    {% if bar_tier == 'S' or bar_tier == 'A' or bar_tier == 'B' or bar_tier == 'C' or bar_tier == 'D' or bar_tier == 'F' or bar_tier == 'NA' %}
+      {% assign valid_tier = true %}
+    {% endif %}
+    {% unless valid_tier %}
+      {% assign bar_tier = 'NA' %}
+    {% endunless %}
+    {% if bar_tier == tier_name %}
+      {% assign tier_count = tier_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  {% if tier_count > 0 %}
+    <b>{{ tier_name }} TIER</b><br>
+    <ul>
+      {% for bar in sorted_protein_bars %}
+        {% assign bar_tier = bar.tier | upcase %}
+        {% assign valid_tier = false %}
+        {% if bar_tier == 'S' or bar_tier == 'A' or bar_tier == 'B' or bar_tier == 'C' or bar_tier == 'D' or bar_tier == 'F' or bar_tier == 'NA' %}
+          {% assign valid_tier = true %}
+        {% endif %}
+        {% unless valid_tier %}
+          {% assign bar_tier = 'NA' %}
+        {% endunless %}
+        {% if bar_tier == tier_name %}
+          <li><a href='#{{ bar.id }}'>{{ bar.name }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul><br>
+  {% endif %}
+{% endfor %}
