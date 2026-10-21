@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Vanilla Almond Milk
-date:   2026-10-04 00:00:00 -0500
+date:   2026-10-21 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
