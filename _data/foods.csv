@@ -7,7 +7,7 @@ Apple cider,apple-cider,7.47,"3,840.00",0.00195,2.5,40,TRUE,TRUE,TRUE,TRUE,TRUE,
 Beer,beer,20.27,"4,258.58",0.00476,2.0,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Rum,rum,15.00,750.00,0.02000,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Fruit juice, sugar free",fruit-juice-sugar-free,3.74,"1,920.00",0.00195,8.0,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4dnIjFi
-"Lemonade, storebought",lemonadestore100g,1.69,"1,560.00",0.00108,2.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,11.3,0.0,0.0,0.0,0,0,https://amzn.to/4a5ULZB
+"Lemonade, storebought",lemonadestore100g,1.69,"1,560.00",0.00108,2.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,10.4,0.0,0.0,0.0,0,0,https://amzn.to/4a5ULZB
 White cooking wine,white-wine,3.48,366.80,0.00949,2.1,15,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Aquafaba, or water",aquafaba,0.00,1.00,0.00000,5.4,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Aquafaba,aquafaba,0.86,255.00,0.00337,5.4,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -56,13 +56,13 @@ Sesame oil,sesame-oil,3.22,140.00,0.02300,3.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.
 "Sesame oil, or extra virgin olive oil",sesame-oil,3.22,140.00,0.02300,3.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Canola oil,oil,4.12,"1,344.00",0.00307,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 EVOO mayo recipe,evoo-mayo,3.57,340.00,0.01050,4.8,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/recipes/evoo-mayo
-Mayonnaise,mayo,2.97,849.00,0.00350,2.0,0,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,3.6,0.0,0.0,0.0,0,0,
+Mayonnaise,mayo,2.97,849.00,0.00350,2.0,0,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,0.6,0.0,0.0,0.0,0,0,
 Chicken fat,chicken-fat,3.78,454.00,0.00833,2.5,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
 White vinegar,white-vinegar,3.74,"3,780.00",0.00099,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "White vinegar, or apple cider vinegar",white-vinegar,3.74,"3,780.00",0.00099,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Apple cider vinegar,acv,2.32,896.00,0.00259,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Balsamic vinegar,balsamic,3.92,236.60,0.01657,0.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Ken's Balsamic Vinaigrette,kens-balsamic,3.34,480.00,0.00696,2.3,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.5,0.0,0.0,0.0,0,0,https://amzn.to/4uhMXvT
+Ken's Balsamic Vinaigrette,kens-balsamic,3.34,480.00,0.00696,2.3,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.7,0.0,0.0,0.0,0,0,https://amzn.to/4uhMXvT
 "Rice vinegar, unsweetened",white-vinegar,2.92,360.00,0.00811,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,https://amzn.to/43hdvlT
 Red wine vinegar,red-wine-vinegar,2.84,480.00,0.00592,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Vital wheat gluten,vital-wheat-gluten,23.74,"1,816.00",0.01307,8.6,51,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,100,15,https://amzn.to/4kgguB9
@@ -89,7 +89,7 @@ Quick oats,oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0
 "Rolled oats, or quick",oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
 "Quick oats, or rolled",oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
 "Quick oats, or oat flour",oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
-Graham cracker,graham-crackers,2.22,407.52,0.00545,3.0,74,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,25.8,0.0,0.0,0.0,75,50,
+Graham cracker,graham-crackers,2.22,407.52,0.00545,3.0,74,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,23.0,0.0,0.0,0.0,75,50,
 Gluten free graham crackers,gf-graham-cracker,1.42,300.00,0.00473,8.4,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.2,0.0,0.0,0,50,/recipes/gf-crackers
 Healthier Graham Cracker Pie Crust,pie-crust,1.53,255.00,0.00600,8.4,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,50,/recipes/pie-crust
 "Healthier Graham Cracker Pie Crust, chocolate",pie-crust-choc,1.53,255.00,0.00600,8.4,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,50,/recipes/pie-crust
@@ -145,7 +145,7 @@ Carrots,carrots,1.08,454.00,0.00238,9.6,49,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0
 Baby carrots,carrots,1.08,454.00,0.00238,9.6,49,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Cabbage,cabbage,0.68,454.00,0.00150,9.9,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Coleslaw mix,cabbage,1.97,454.00,0.00434,9.8,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
-Storebought coleslaw,coleslaw-mayo-100g,4.49,424.50,0.01058,4.6,44,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,7.2,0.0,0.0,0.0,0,30,https://amzn.to/3VjQA7Z
+Storebought coleslaw,coleslaw-mayo-100g,4.49,424.50,0.01058,4.6,44,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,9.0,0.0,0.0,0.0,0,30,https://amzn.to/3VjQA7Z
 Cucumber,cucumber,0.64,200.00,0.00320,9.6,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Romaine lettuce,lettuce,3.62,600.00,0.00603,10.0,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Frozen broccoli, thawed",broccoli-frozen,1.16,336.00,0.00345,10.0,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -237,10 +237,10 @@ Cream cheese,cream-cheese,1.79,226.40,0.00791,3.1,27,TRUE,TRUE,FALSE,FALSE,TRUE,
 "Cream cheese, 1/3 less fat",cream-cheese-low-fat,1.79,226.40,0.00791,4.0,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 "Cream cheese, fat free",cream-cheese-fat-free,1.99,227.00,0.00877,5.9,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 Sour cream,sour-cream,1.88,454.00,0.00414,2.1,15,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,
-Vanilla ice cream,vanilla-ice-cream,2.97,"1,358.40",0.00219,2.3,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,21.2,0.0,0.0,4.9,0,0,
-Snickers Ice Cream bar,snickers-ice-cream-bar-store,4.83,360.00,0.01342,2.3,61,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,25.5,0.0,0.0,4.9,0,0,https://amzn.to/4x1xFfs
-Cherry Garcia Ice Cream,cherry-garcia-store,4.87,454.00,0.01073,2.3,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,21.7,0.0,0.0,4.9,0,0,https://amzn.to/4fptrbW
-Chunky Monkey Ice Cream,chunky-monkey-store,4.87,454.00,0.01073,2.3,61,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,22.4,0.0,0.0,4.9,0,0,https://amzn.to/4pFciyn
+Vanilla ice cream,vanilla-ice-cream,2.97,"1,358.40",0.00219,2.3,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,15.3,0.0,0.0,4.9,0,0,
+Snickers Ice Cream bar,snickers-ice-cream-bar-store,4.83,360.00,0.01342,2.3,61,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,27.4,0.0,0.0,4.9,0,0,https://amzn.to/4x1xFfs
+Cherry Garcia Ice Cream,cherry-garcia-store,4.87,454.00,0.01073,2.3,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,21.5,0.0,0.0,4.9,0,0,https://amzn.to/4fptrbW
+Chunky Monkey Ice Cream,chunky-monkey-store,4.87,454.00,0.01073,2.3,61,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,22.7,0.0,0.0,4.9,0,0,https://amzn.to/4pFciyn
 Brie,brie,6.99,454.00,0.01540,3.1,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 "Brie, fat free",cream-cheese-fat-free,1.99,227.00,0.00877,5.8,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 "Labneh cheese, skim",labneh-skim,3.69,720.00,0.00513,8.5,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,0,/misc/homemade-cheese#labneh
@@ -263,11 +263,11 @@ Casein protein powder,casein,60.26,"2,270.00",0.02655,9.1,24,TRUE,TRUE,FALSE,FAL
 "Casein protein powder, vanilla",casein-vanilla,60.26,"2,270.00",0.02655,9.1,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/44hu28y
 Nutricost Casein Unflavored Protein Powder,casein,60.26,"2,270.00",0.02655,9.1,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4kBnsQM
 "Pea protein powder, unflavored",pea-protein,35.99,"2,270.00",0.01585,9.6,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4aXnK21
-Honey,honey,3.74,336.00,0.01113,3.1,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,0.0,0,40,
-"Honey, or maple syrup",honey,3.74,336.00,0.01113,3.1,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,0.0,0,40,
-Maple syrup,maple-syrup,7.98,360.00,0.02217,3.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
-Hot honey,hot-honey-100g,3.94,360.00,0.01094,3.2,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,75.5,0.0,0.0,0.0,0,40,/recipes/hot-honey
-"Maple syrup, or honey",maple-syrup,7.98,360.00,0.02217,3.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
+Honey,honey,3.74,336.00,0.01113,3.1,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,82.1,0.0,0.0,0.0,0,40,
+"Honey, or maple syrup",honey,3.74,336.00,0.01113,3.1,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,82.1,0.0,0.0,0.0,0,40,
+Maple syrup,maple-syrup,7.98,360.00,0.02217,3.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,60.5,0.0,0.0,0.0,0,40,
+Hot honey,hot-honey-100g,3.94,360.00,0.01094,3.2,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,76.7,0.0,0.0,0.0,0,40,/recipes/hot-honey
+"Maple syrup, or honey",maple-syrup,7.98,360.00,0.02217,3.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,60.5,0.0,0.0,0.0,0,40,
 Sugar Free Syrup,sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
 Sugar free syrup,sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
 "Sugar free syrup, or maple syrup or honey",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
@@ -275,12 +275,12 @@ Sugar free syrup,sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,
 "Sugar free syrup, or honey",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
 "Sugar free syrup, or maple syrup",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
 "Sugar free syrup, optional",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
-Agave,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,68.0,0.0,0.0,0.0,0,40,
-Agave syrup,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,68.0,0.0,0.0,0.0,0,40,
-Coconut sugar,coconut-sugar,9.42,905.60,0.01040,2.5,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,78.0,0.0,0.0,0.0,0,40,
-Date sugar,date-sugar,8.98,396.20,0.02267,2.5,53,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,67.0,0.0,0.0,0.0,0,40,
-Date syrup,date-syrup,9.98,679.20,0.01469,3.1,47,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,69.0,0.0,0.0,0.0,0,40,
-Homemade fruit syrup,fruit-syrup,1.00,63.00,0.01587,3.1,46,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,89.0,0.0,0.0,0.0,0,40,/misc/homemade-fruit-syrup
+Agave,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,68.1,0.0,0.0,0.0,0,40,
+Agave syrup,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,68.1,0.0,0.0,0.0,0,40,
+Coconut sugar,coconut-sugar,9.42,905.60,0.01040,2.5,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,77.8,0.0,0.0,0.0,0,40,
+Date sugar,date-sugar,8.98,396.20,0.02267,2.5,53,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,
+Date syrup,date-syrup,9.98,679.20,0.01469,3.1,47,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,68.5,0.0,0.0,0.0,0,40,
+Homemade fruit syrup,fruit-syrup,1.00,63.00,0.01587,3.1,46,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,89.4,0.0,0.0,0.0,0,40,/misc/homemade-fruit-syrup
 Liquid stevia,liquid-stevia,3.34,47.04,0.07100,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/45wOzIv
 Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
 Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06942,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
@@ -310,30 +310,30 @@ Cocoa Powder,cocoa-powder,2.48,226.40,0.01095,10.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,T
 Cacao powder,cocoa-powder,9.34,454.00,0.02057,10.0,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,https://amzn.to/4jqcKMa
 Carob powder,carob,9.49,454.00,0.02090,9.5,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,https://amzn.to/4rhYDwh
 Unsweetened chocolate,100,1.46,113.20,0.01290,7.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-bar
-Simple syrup,simple-syrup,4.09,"4,540.00",0.00090,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,50.0,0.0,0.0,0.0,0,40,
+Simple syrup,simple-syrup,4.09,"4,540.00",0.00090,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,45.6,0.0,0.0,0.0,0,40,
 "Sugar free chocolate syrup, storebought",sf-choc-syrup-store-100g,6.29,495.25,0.01270,4.2,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,13.3,0.0,0.0,0,40,
 "Sugar free chocolate syrup, homemade",sf-choc-syrup-100g,3.45,340.00,0.01015,0.0,2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,59.0,0.0,0,40,/recipes/sugar-free-chocolate-syrup
 Sugar free chocolate syrup,sf-choc-syrup-100g,3.45,340.00,0.01015,0.0,2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,59.0,0.0,0,40,/recipes/sugar-free-chocolate-syrup
 Walden Farms Chocolate Syrup,wf-choc-syrup,4.49,340.00,0.01321,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,3.3,0.0,0.0,0,40,https://amzn.to/45Oxbha
-Granulated sugar,sugar,8.17,"4,540.00",0.00180,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
-"Granular sweetener: sugar, erythritol, stevia, etc.",sugar,8.17,"4,540.00",0.00180,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
+Granulated sugar,sugar,8.17,"4,540.00",0.00180,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,99.8,0.0,0.0,0.0,0,40,
+"Granular sweetener: sugar, erythritol, stevia, etc.",sugar,8.17,"4,540.00",0.00180,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,99.8,0.0,0.0,0.0,0,40,
 Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43wL0zp
-Powdered sugar,sugar,2.22,905.60,0.00245,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
-Brown sugar,sugar,2.22,896.00,0.00248,1.0,64,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
-Blackstrap molasses,blackstrap,6.79,452.80,0.01500,3.9,55,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,52.4,0.0,0.0,0.0,0,40,https://amzn.to/4h7fdfj
-Molasses,molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
-"Molasses, or honey",molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
-Marshmallow,marshmallow,1.17,283.00,0.00413,1.0,63,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,60.7,0.0,0.0,0.0,0,40,
-Vanilla instant pudding mix,pudding-mix,0.98,96.22,0.01018,2.0,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,79.2,0.0,0.0,4.2,0,40,https://amzn.to/4jjD7mH
+Powdered sugar,sugar,2.22,905.60,0.00245,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,98.0,0.0,0.0,0.0,0,40,
+Brown sugar,sugar,2.22,896.00,0.00248,1.0,64,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,97.0,0.0,0.0,0.0,0,40,
+Blackstrap molasses,blackstrap,6.79,452.80,0.01500,4.2,55,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,55.5,0.0,0.0,0.0,0,40,https://amzn.to/4h7fdfj
+Molasses,molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,74.8,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
+"Molasses, or honey",molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,74.8,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
+Marshmallow,marshmallow,1.17,283.00,0.00413,1.0,63,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,58.3,0.0,0.0,0.0,0,40,
+Vanilla instant pudding mix,pudding-mix,0.98,96.22,0.01018,2.0,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,80.3,0.0,0.0,4.2,0,40,https://amzn.to/4jjD7mH
 "Pistachio pudding mix, sugar free",pudding-mix-sf,1.50,28.30,0.05300,3.0,40,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,0.0,0.0,0.0,4.2,0,40,https://amzn.to/47oj3Mp
 Duncan Hines Keto Brownie Mix,duncan-hines-keto,5.92,280.00,0.02114,3.0,51,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,20.8,0.0,0.0,0,15,https://amzn.to/43uSbYP
-Duncan Hines Dark Chocolate Fudge Brownie Mix,duncan-hines-sugar,1.54,515.06,0.00299,2.0,62,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,51.7,0.0,0.0,0.0,75,10,https://amzn.to/3SjWmlg
+Duncan Hines Dark Chocolate Fudge Brownie Mix,duncan-hines-sugar,1.54,515.06,0.00299,2.0,62,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,55.2,0.0,0.0,0.0,75,10,https://amzn.to/3SjWmlg
 Sugar free chocolate bar,100,1.46,113.20,0.01290,7.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-bar
 100% chocolate,100,1.46,113.20,0.01290,7.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-bar
-90% chocolate,90,2.27,98.00,0.02316,6.3,40,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.7,0.0,0.0,0.0,0,25,
-85% chocolate,85,2.27,98.00,0.02316,5.6,23,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,25,
+90% chocolate,90,2.27,98.00,0.02316,6.3,40,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,10.0,0.0,0.0,0.0,0,25,
+85% chocolate,85,2.27,98.00,0.02316,5.6,23,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,15.0,0.0,0.0,0.0,0,25,
 70% chocolate,70,3.37,99.05,0.03402,4.9,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,30.0,0.0,0.0,0.0,0,25,
-50% chocolate,50,1.12,99.62,0.01124,3.5,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,48.5,0.0,0.0,4.0,0,25,
+50% chocolate,50,1.12,99.62,0.01124,3.5,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,50.0,0.0,0.0,4.0,0,25,
 Allulose chocolate bar,allulose-choc,2.45,176.00,0.01391,5.3,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,40.9,0.0,0,25,/misc/healthier-brownies-experiment#allulose-chocolate
 Granulated monk fruit,granulated-monk-fruit,8.99,537.70,0.01672,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/4ceFnvP
 Pure granulated monk fruit,pure-monk-fruit,23.79,141.50,0.16813,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3Sg1Z7p
@@ -342,17 +342,17 @@ Allulose,allulose,16.96,"1,135.00",0.01494,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0
 Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43vQs5E
 Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,5.3,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,25,/recipes/monkfruit-chocolate-chunks
 Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,5.3,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,25,https://amzn.to/4kGEfC5
-Chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
-Mini chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
-Semisweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
-Semi-sweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
+Chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,47.9,0.0,0.0,4.0,0,25,
+Mini chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,47.9,0.0,0.0,4.0,0,25,
+Semisweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,47.9,0.0,0.0,4.0,0,25,
+Semi-sweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,47.9,0.0,0.0,4.0,0,25,
 Semisweet chocolate chips (optional),chocolate-chips,0.00,336.00,0.00000,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,
-Dark chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
+Dark chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,47.9,0.0,0.0,4.0,0,25,
 Chocolate free chocolate,carob-bar,2.02,113.20,0.01784,6.8,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-free-chocolate
 "Dubai chocolate, storebought",dubai-store,14.99,198.10,0.07567,3.5,45,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.0,0.0,0.0,0.0,0,25,https://amzn.to/4uVLBYm
 "Dubai chocolate, homemade",dubai-100g,5.15,414.40,0.01243,7.5,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,25,/recipes/dubai-chocolate
 Sugar Free Dubai Chocolate,dubai-100g,5.15,414.40,0.01243,7.5,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,25,/recipes/dubai-chocolate
-White chocolate chips,white-chocolate,3.58,336.00,0.01065,2.4,43,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,66.7,0.0,0.0,6.0,0,25,
+White chocolate chips,white-chocolate,3.58,336.00,0.01065,2.4,43,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,59.0,0.0,0.0,6.0,0,25,
 Tangy white chocolate,white-choc-homemade,1.69,113.20,0.01493,5.6,58,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,21.9,0,0,/recipes/white-chocolate
 Sugar free white chocolate,white-choc-homemade,1.69,113.20,0.01493,5.6,58,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,21.9,0,0,/recipes/white-chocolate
 Almond extract,almond-extract,7.57,454.00,0.01667,5.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4khDgIM
@@ -402,7 +402,7 @@ Raspberries,raspberry,3.37,168.00,0.02006,9.9,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0
 Frozen raspberries,raspberries-frozen,4.48,339.60,0.01319,9.9,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Cranberries,cranberry,1.96,168.00,0.01167,9.9,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Sugar free cranberry sauce,cranberry-sauce,5.23,600.00,0.00872,8.6,43,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/cranberry-sauce
-Low sugar berry jam,jam-low-sugar,2.13,190.00,0.01121,8.8,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,40,/recipes/berry-jam
+Low sugar berry jam,jam-low-sugar,2.13,190.00,0.01121,8.8,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.4,0.0,0.0,0.0,0,40,/recipes/berry-jam
 Frozen acai puree,acai,5.00,396.00,0.01263,9.3,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4cBNvpn
 Watermelon,watermelon,4.67,"4,500.00",0.00104,7.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Cantaloupe,cantaloupe,4.67,360.00,0.01297,7.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -417,7 +417,7 @@ Date Sweetened Ketchup,ketchup-date,1.94,400.00,0.00485,6.9,53,TRUE,TRUE,TRUE,TR
 Date sweetened ketchup,ketchup-date,1.94,400.00,0.00485,6.9,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/ketchup
 Salsa,salsa,1.98,454.00,0.00436,4.4,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/salsa
 Hot sauce,hot-sauce,1.56,336.00,0.00464,4.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/hot-sauce
-Gochujang,gochujang,3.99,492.80,0.00810,3.0,46,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,28.6,0.0,0.0,0.0,75,30,https://amzn.to/3FmYk1m
+Gochujang,gochujang,3.99,492.80,0.00810,3.0,46,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,33.3,0.0,0.0,0.0,75,30,https://amzn.to/3FmYk1m
 Dijon mustard,mustard,1.52,336.00,0.00452,5.8,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Horseradish mustard,mustard,1.52,336.00,0.00452,5.8,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Mustard,mustard,1.52,336.00,0.00452,5.8,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
@@ -472,9 +472,9 @@ Garam masala,garam-masala,2.99,48.11,0.06215,9.8,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRU
 Onion soup mix,onion-soup-mix,0.98,56.60,0.01731,0.0,58,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,3.6,0.0,0.0,0.0,75,30,https://amzn.to/45qM9Lp
 Dried onion flakes,onion-flakes,5.99,180.00,0.03328,8.6,58,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/43hCANC
 Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,9.2,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4sgDH9S
-Peanut Chili Salad Dressing,pb-dressing-100g,0.87,87.50,0.00994,5.5,31,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3.0,0.0,0.0,0.0,0,18,/recipes/peanut-chili-salad-dressing
-Reese's Peanut Butter Cups,reeses-100g,14.92,849.00,0.01757,4.1,60,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,50.0,0.0,0.0,0.0,0,15,https://amzn.to/4rwHsZL
-Skippy peanut butter,skippy-pb,6.27,"1,132.00",0.00554,6.7,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,6.3,0.0,0.0,0.0,0,15,
+Peanut Chili Salad Dressing,pb-dressing-100g,0.87,87.50,0.00994,5.5,31,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3.4,0.0,0.0,0.0,0,18,/recipes/peanut-chili-salad-dressing
+Reese's Peanut Butter Cups,reeses-100g,14.92,849.00,0.01757,4.1,60,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,47.2,0.0,0.0,0.0,0,15,https://amzn.to/4rwHsZL
+Skippy peanut butter,skippy-pb,6.27,"1,132.00",0.00554,6.7,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4.7,0.0,0.0,0.0,0,15,
 Natural peanut butter,peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 "Natural peanut butter, or tahini",peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Walden Farms Peanut Spread,wf-peanut,4.49,340.00,0.01321,5.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.3,0.0,0.0,0,15,https://amzn.to/4ggGWuF
@@ -486,9 +486,9 @@ Almond butter,almonds,3.99,454.00,0.00879,9.3,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,
 Almond flour,almonds,5.88,454.00,0.01295,9.5,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/45muDao
 Almond flour (or whole nuts),almonds,5.88,454.00,0.01295,9.5,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/45muDao
 Empanada/Pierogi Dough,af-empanada-dough,2.90,333.00,0.00871,5.7,17,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.2,0,15,/recipes/almond-flour-empanadas
-Marzipan,marzipan,16.20,594.30,0.02726,5.2,70,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,36.3,0.0,0.0,0.0,0,15,https://amzn.to/4rZ0tTe
-"Marzipan, homemade, with sugar",marzipan-sugar,2.88,377.00,0.00764,5.2,56,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,39.8,0.0,0.0,0.0,0,15,/recipes/chocolate-covered-marzipan#notes
-"Marzipan, homemade, sugar free",marzipan-sf,4.32,377.00,0.01146,6.3,2,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,39.8,0.0,0.0,0,15,/recipes/chocolate-covered-marzipan#notes
+Marzipan,marzipan,16.20,594.30,0.02726,5.2,70,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,36.7,0.0,0.0,0.0,0,15,https://amzn.to/4rZ0tTe
+"Marzipan, homemade, with sugar",marzipan-sugar,2.88,377.00,0.00764,5.2,56,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,39.7,0.0,0.0,0.0,0,15,/recipes/chocolate-covered-marzipan#notes
+"Marzipan, homemade, sugar free",marzipan-sf,4.32,377.00,0.01146,6.3,2,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,39.7,0.0,0.0,0,15,/recipes/chocolate-covered-marzipan#notes
 Sunflower kernels,sunflower-seeds,2.99,454.00,0.00659,9.4,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4el1Qq5
 Sunflower butter,sunflower-seeds,2.99,454.00,0.00659,9.4,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Sunflower seed butter,sunflower-seeds,2.99,454.00,0.00659,7.8,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter

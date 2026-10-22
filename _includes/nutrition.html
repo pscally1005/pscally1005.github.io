@@ -124,6 +124,7 @@
         {% assign sug = "" %}
         {% assign totalSugar = "" %}
         {% assign addedSugar = "" %}
+        {% assign addedSugarFromFacts = 0.0 %}
 
         {% assign sugAlc = "" %}
         {% assign all = "" %}
@@ -245,6 +246,10 @@
                 {% if pair[1] == "Sugars" and nutrients contains "Sugar" %}
                     {% assign sug = line1 %}
                     {% assign totalSugar = val | plus: 0 | round: 1 %}
+                {% endif %}
+
+                {% if pair[1] == "Sugars, added" %}
+                    {% assign addedSugarFromFacts = val | plus: 0 %}
                 {% endif %}
 
                 {% if pair[1] == "Protein" and nutrients contains "Protein" %}
@@ -469,6 +474,10 @@
         {% assign solubleFiber = solubleFiber | divided_by: servings %}
         {% assign insolubleFiber = insolubleFiber | divided_by: servings %}
         {% assign lactose = lactose | divided_by: servings %}
+
+        {% if addedSugarFromFacts > 0 %}
+            {% assign addedSugar = addedSugarFromFacts %}
+        {% endif %}
 
         <!-- Ice cream has no lactose -->
         {% if page.title == "Lactose Free No Churn Chocolate Ice Cream" %}

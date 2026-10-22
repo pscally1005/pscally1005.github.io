@@ -22,7 +22,7 @@
   name: Barebells
   link: https://amzn.to/4jzHTjT
   image: barebell.jpg
-  desc: Thesse candy-bar style protein bars are top tier for taste and protein percentage, with a chocolate coating and a soft, chewy interior. Each bar has 20 grams of protein and only 200 calories, making them a high protein snack. Popular flavors include Caramel Cashew, Cookies & Cream, Salted Peanut Caramel, and Chocolate Dough.<br><br>Cost aside, there's no reason to ever eat a candy bar when these things exist. Except cost isn't aside, and these tend to be quite pricy, dropping them down from S to A tier.
+  desc: Thesse candy-bar style protein bars are top tier for taste and protein percentage, with a chocolate coating and a soft, chewy interior. Each bar has 20 grams of protein and only 200 calories, making them a high protein snack. Popular flavors include Caramel Cashew, Cookies & Cream, Salted Peanut Caramel, and Chocolate Dough.<br><br>Cost aside, there's no reason to ever eat a candy bar when these things exist. Except cost isn't aside, and these tend to be quite pricy, dropping them down from S to A tier.<br><br>Or you can make your own for a fraction of the cost, see my <a href="/recipes/copycat-barebell">Copycat Barebell Protein Bars</a>.
   total: 29.39
   count: 12
   protein: 20
@@ -177,12 +177,12 @@
   count: 12
   protein: 21
   calories: 180
-  tier: S
+  tier: A
 - id: quest
   name: Quest
   link: https://amzn.to/4xWiNzY
   image: quest.jpg
-  desc: Quest is one of the OGs in the protein bar game. They have probably dozens of different flavors, and are all pretty great. Their top 2 flavors are likely Chocolate Chip Cookie Dough and Cookies & Cream, but they also have a bunch more, like S'Mores, White Chocolate Raspberry, Blueberry Muffin, and Birthday Cake.<br><br>A standard Quest bar tends to have about 21 g of protein in 190 calories, making it one of the better protein to calorie ratios on this list, plus with no added sugar and 10 g of fiber.<br><br>Their taste is generally good, but they could be a bit dense, chewy, and dry. They're a solid option for the macros, but can sometimes be expensive. If you don't mind a worse taste and texture, but at a cheaper cost for a very similarly styled bar, go with <a href='#kirkland'>Kirkland</a>. If you want a better taste and texture, but at a higher cost, go with Quest.
+  desc: Quest is one of the OGs in the protein bar game. They have probably dozens of different flavors, and are all pretty great. Their top 2 flavors are likely Chocolate Chip Cookie Dough and Cookies & Cream, but they also have a bunch more, like S'Mores, White Chocolate Raspberry, Blueberry Muffin, and Birthday Cake.<br><br>A standard Quest bar tends to have about 21 g of protein in 190 calories, making it one of the better protein to calorie ratios on this list, plus with no added sugar and 10 g of fiber.<br><br>Their taste is generally good, but they could be a bit dense, chewy, and dry. They're a solid option for the macros, but can sometimes be expensive. Or you can create them yourself for a fraction of the cost, see my <a href="/recipes/quest-bars">Copycat Quest Bars</a>.<br><br>If you don't mind a worse taste and texture, but at a cheaper cost for a very similarly styled bar, go with <a href='#kirkland'>Kirkland</a>. If you want a better taste and texture, but at a higher cost, go with Quest.
   total: 26.36
   count: 12
   protein: 21
@@ -192,7 +192,7 @@
   name: Rx Bar
   link: https://amzn.to/4h63UEd
   image: rx-bar.jpg
-  desc: Rx is my favorite snack bar on this list, for their taste, texture, and ingredients list. What you see is what you get with these, as Rx bars only have a few simple ingredients, such as nuts, dates, and egg whites.<br><br>However, I will admit, they're not a protein bar. They're a date and nut bar with some egg white protien powder. A LaraBar with a bit of protein.<br><br>I appreciate that they use dates instead of added sugar for natural sweetness, and nuts instead of oils for healthy, whole-food fats. But 12 g of protein per 200 calories is a very poor protein to calorie ratio. They're one of the best and healthiest packaged snacks you can but, but not a protein bar.<br><br>Also, did you know that Rx Bars and <a href='#david'>David</a> bars were invented by the same person (Peter Rahal). Those things could not be more different. The former is a whole-foods snack bar, and the latter is an ultra-processed protein bar.
+  desc: Rx is my favorite snack bar on this list, for their taste, texture, and ingredients list. What you see is what you get with these, as Rx bars only have a few simple ingredients, such as nuts, dates, and egg whites.<br><br>However, I will admit, they're not a protein bar. They're a date and nut bar with some egg white protien powder. A LaraBar with a bit of protein.<br><br>I appreciate that they use dates instead of added sugar for natural sweetness, and nuts instead of oils for healthy, whole-food fats. But 12 g of protein per 200 calories is a very poor protein to calorie ratio. They're one of the best and healthiest packaged snacks you can but, but not a protein bar. Or you can create them yourself for a fraction of the cost, see my <a href="/recipes/rx-bars">Copycat Chocolate RX Bars</a>.<br><br>Also, did you know that Rx Bars and <a href='#david'>David</a> bars were invented by the same person (Peter Rahal). Those things could not be more different. The former is a whole-foods snack bar, and the latter is an ultra-processed protein bar.
   total: 20.98
   count: 12
   protein: 12
@@ -208,3 +208,13 @@
   protein: 20
   calories: 230
   tier: C
+- id: poormanprotein
+  name: Poor Man Protein
+  link: /recipes/vegan-protein-bars
+  image: poormanprotein.jpg
+  desc: Why yes, I am including my own <a href='/protein-bar'>protein bars</a> on this list. Call me biased, I don't care, but these are the only S tier entry.<br><br>Why make expensive protein bars when you can <a href='/protein-bar'>make your own</a> for a fraction of the cost? Plus, they'll all have more healthful ingredients, a higher protein ratio, no added sugar or preservatives you can't pronounce, and delicious flavor. No other protein bar on this list checks all 3 of those boxes.<br><br>I will be considering my <a href="/recipes/vegan-protein-bars">No Bake Vegan Protein Bars</a> recipe for this list, but I have plenty of other <a href='/protein-bar'>protein bar recipes</a>, linked below. I chose these because they have an especially high protein to calorie ratio, are super easy to make, and completely allergen free, as they're <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, <a href='/misc/nuts'>nut-free</a>, <a href='/misc/dairy'>dairy-free</a>, vegan, and soy-free.<br><br>But if you're feeling something different, check out any of my other <a href='/protein-bar'>protein bar recipes</a>:<br><br><ul><li><a href="/recipes/beanana-bread">High Protein Beanana Bread</a></li><li><a href="/recipes/discard-whey-protein-bars">Discard Whey Protein Bars</a></li><li><a href="/recipes/protein-cheesecake-brownies">High Protein Brownie Cheesecake Bars</a></li><li><a href="/recipes/vegan-protein-bars">No Bake Vegan Protein Bars</a></li><li><a href="/recipes/fiber-protein-bar">High Fiber Protein Bar</a></li><li><a href="/recipes/chocolate-cloud-bars">Chocolate Cloud Protein Bars</a></li><li><a href="/recipes/baked-protein-bars">Baked Protein Bars</a></li><li><a href="/recipes/copycat-barebell">Copycat Barebell Protein Bars</a></li><li><a href="/recipes/copycat-quest-bars">Copycat Quest Protein Bars</a></li><li><a href="/recipes/protein-bar">100 Calorie Protein Bars</a></li></ul>
+  total: 3.78
+  count: 8
+  protein: 18.7
+  calories: 123
+  tier: S

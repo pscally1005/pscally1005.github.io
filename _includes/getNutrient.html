@@ -53,6 +53,7 @@
     {% assign sug = "0.0 g (0 %)" %}
     {% assign totalSugar = 0.0 %}
     {% assign addedSugar = 0.0 %}
+    {% assign addedSugarFromFacts = 0.0 %}
     {% assign addedSugarStr = "0.0 g (0 %)" %}
 
     {% assign prot = "0.0 g (0 %)" %}
@@ -162,6 +163,10 @@
             {% if pair[1] == "Sugars" %}
                 {% assign sug = line1 %}
                 {% assign totalSugar = row.Amount | plus: 0 | round: 1 %}
+            {% endif %}
+
+            {% if pair[1] == "Sugars, added" %}
+                {% assign addedSugarFromFacts = row.Amount | plus: 0 %}
             {% endif %}
 
             {% if pair[1] == "Protein" %}
@@ -446,9 +451,32 @@
     {% endif %}
     {% assign netCarbStr = netCarb | round: 1 | append: ' g' %}
 
+    <!-- Empty line variable to be filled later -->
+    {% assign line = "" %}
+
+    <!-- Multiplier factor -->
+    {% assign factor = 1.0 | round: 2 %}
+
+    <!-- Assign factor based on what is being asked for -->
+    {% if fetch == "perServing" %}
+        {% assign factor = servingSize | divided_by: 100.000 | round: 3 %}
+    {% endif %}
+    {% if fetch == "per100cal" %}
+        {% assign factor = 100.000 | divided_by: cal | round: 3 %}
+    {% endif %}
+    {% if fetch == "perOunce" %}
+        {% assign factor = 28 | divided_by: 100.000 | round: 3 %}
+    {% endif %}
+
     <!-- Added sugar -->
-    {% if addedSugar > totalSugar %}
-        {% assign addedSugar = totalSugar %}
+    {% if addedSugarFromFacts > 0 %}
+        {% assign addedSugar = addedSugarFromFacts | times: factor %}
+        {% assign totalSugarForAddedSugar = totalSugar | times: factor %}
+    {% else %}
+        {% assign totalSugarForAddedSugar = totalSugar %}
+    {% endif %}
+    {% if addedSugar > totalSugarForAddedSugar %}
+        {% assign addedSugar = totalSugarForAddedSugar %}
     {% endif %}
     {% assign addedSugarStr = addedSugar | round: 1 | append: ' g (' %}
 
@@ -467,23 +495,6 @@
 
     <!-- Lactose -->
     {% assign lactoseStr = lactose | round: 1 | append: ' g' %}
-
-    <!-- Empty line variable to be filled later -->
-    {% assign line = "" %}
-
-    <!-- Multiplier factor -->
-    {% assign factor = 1.0 | round: 2 %}
-
-    <!-- Assign factor based on what is being asked for -->
-    {% if fetch == "perServing" %}
-        {% assign factor = servingSize | divided_by: 100.000 | round: 3 %}
-    {% endif %}
-    {% if fetch == "per100cal" %}
-        {% assign factor = 100.000 | divided_by: cal | round: 3 %}
-    {% endif %}
-    {% if fetch == "perOunce" %}
-        {% assign factor = 28 | divided_by: 100.000 | round: 3 %}
-    {% endif %}
 
     <!-- Find the nutrient -->
     {% if nutrient == "Calories" %}
