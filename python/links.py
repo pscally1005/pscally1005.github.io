@@ -640,6 +640,10 @@ LINKS = {
         "sugar free high protein cannoli dip"
     ],
     "/recipes/protein-crumbles": [
+        "vegan high protein crumbles",
+        "vegan high protein crumble",
+        "high vegan protein crumbles",
+        "high vegan protein crumble",
         "vegan protein crumbles",
         "vegan protein crumble",
         "protein dressing"
@@ -1466,6 +1470,8 @@ LINKS = {
         "biscotti"
     ],
     "/recipes/black-bean-burger": [
+        "high Protein Black Bean Burgers",
+        "high protein black bean burger",
         "Protein Black Bean Burgers",
         "protein black bean burger",
         "black bean burgers",
@@ -6625,7 +6631,8 @@ LINKS = {
         "hershey's chocolate syrup",
         "sugar free chocolate syrup, storebought"
     ],
-    "https://amzn.to/4aXnK21": [
+    # "https://amzn.to/4aXnK21": [
+    "/misc/dairy#pea-protein-powder": [
         "pea protein powder",
         "pea protein isolate",
         "pea protein",
