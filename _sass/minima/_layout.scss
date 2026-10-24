@@ -3,6 +3,7 @@
 .site-header {
   border-top: 3px solid var(--minima-brand-color);
   border-bottom: 3px solid var(--minima-brand-color);
+  box-sizing: border-box;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
   position: fixed;
