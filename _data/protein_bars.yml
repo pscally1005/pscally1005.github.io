@@ -17,7 +17,7 @@
   count: 12
   protein: 17
   calories: 190
-  tier: B
+  tier: C
 - id: barebell
   name: Barebells
   link: https://amzn.to/4jzHTjT
@@ -92,7 +92,7 @@
   name: Kind Protein
   link: https://amzn.to/4se5Ijr
   image: kind-protein.jpg
-  desc: Kind has a couple of different types of protein bars, but I'll be going with the Kind Protein Max, which has the best protein to calorie ratio of the bunch. With 20 grams of protein and 250 calories and no added sugar, this is a mediocre protein bar in terms of protein content.<br><br>They're high in fat, but at least that's predominantly from nuts instead of added oils. They do have a bunch of fiber as well.<br><br>The texture is soft and chewy, with a chocolate coating and crunchy nuts. They have a decent amount of flavors, including Crispy Chocolate Peanut Butter and Raspberry Cocoa Crisp.
+  desc: Kind has a couple of different types of protein bars, but I'll be going with the Kind Protein Max, which has the best protein to calorie ratio of the bunch. With 20 grams of protein and 250 calories and no added sugar, this is a mediocre protein bar in terms of protein content, alone, but great in terms of overall nutrition.<br><br>They're high in fat, but that's predominantly from nuts instead of added oils. They do have a bunch of fiber as well, with 9 g per bar. And they only use allulose as their sweetener; no added sugar or artificial sweeteners. Plus it's vegan and gluten-free.<br><br>This protein bar easily tastes the most like real food on this list, which I appreciate. The texture is soft and chewy, with a chocolate coating and crunchy nuts. As a snack or a small breakfast, these bars are hard to beat, but in terms of protein content, they're not great.
   total: 23.44
   count: 12
   protein: 20
@@ -147,7 +147,7 @@
   count: 12
   protein: 20
   calories: 220
-  tier: A
+  tier: B
 - id: perfect-bar
   name: Perfect Bar
   link: https://amzn.to/3VXWuvO
@@ -162,7 +162,7 @@
   name: Power Crunch
   link: https://amzn.to/4xXZMxi
   image: power-crunch.jpg
-  desc: I've been seeing Power Crunch on sale at my grocery store for just $0.99 a bar on sale. Why? Probably because they're bad protein bars, with a measly 13 g of protein in 220 calories and 5 g of added sugar.<br><br>Plus I'm not a fan of wafer based candies (think KitKats), so I'm gonna have to pass on these. At least they're not dense and grossly chewy though. They have a decent amount of flavors, including Peanut Butter Fudge, Cookies & Creme, and Strawberry Cream.
+  desc: I've been seeing Power Crunch on sale at my grocery store for just $0.99 a bar on sale. Why? Probably because they're bad protein bars, with a measly 13 g of protein in 220 calories and 5 g of added sugar.<br><br>The Chocolate Mint is a decent flavor, tasting pretty simmilar to a mint KitKat bar, but I'm not a fan of wafer based candies, so I'm gonna have to pass on these. At least they're not dense and grossly chewy though.
   total: 16.42
   count: 12
   protein: 13
