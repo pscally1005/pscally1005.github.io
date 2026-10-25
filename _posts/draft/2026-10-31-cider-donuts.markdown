@@ -38,7 +38,7 @@ Prep: 10
 Rest: 15
 Cook: 15
 Source1: https://m.youtube.com/watch?v=MizBc9WMChQ&pp=0gcJCY8Co7VqNty
-Source2:
+Source2: https://www.poormanprotein.com/recipes/apple-cider
 Source3:
 Source4:
 Source5:
