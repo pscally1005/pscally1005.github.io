@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  High Fiber Protein Bar
-date:   2026-06-21 00:00:00 -0500
+date:   2026-10-25 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
@@ -51,19 +51,42 @@ tags:
 - fiber
 - protein bar
 - travel
+- pea protein powder
+- pea protein isolate
 Description: |
   Finding a <a href='/protein-bar'>protein bar</a> with a lot of <a href='/misc/fiber'>fiber</a>, no <a href='/misc/hidden-sugar'>added sugar</a>, and that doesn't cost an arm and a leg is like <a href='https://youtu.be/WCheFdOy0tg?si=ZJE1DHuHTGMH5D-3'>finding a hay in the needle stack</a>. Using my new homemade <a href='/recipes/inulin-syrup'>high fiber syrup</a> and some <a href='/misc/dairy#casein'>vanilla casein protein powder</a>, I made a <a href='/misc/high-protein'>high protein</a> and <a href='/misc/fiber'>fiber</a> dough perfect for 1 <a href='/protein-bar'>protein bar</a>.<br><br>
 
   For just 123 <a href='/misc/calories'>calories</a>, this <a href='/protein-bar'>protein bar</a> has an astounding 25 g of <a href='/misc/protein'>protein</a> and 15 g of <a href='/misc/fiber'>fiber</a>. Pair this with some <a href='/misc/nuts'>nuts</a> for some <a href='/misc/fats'>healthy fats</a>, and you have the perfect filling snack!
 Instructions:
-- Add <a href='/recipes/inulin-syrup'>fiber syrup</a>, <a href='/misc/dairy#casein'>casein</a>, water, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and cinnamon to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>. Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>, massage the dough with your hand to fully mix
+- Add <a href='/recipes/inulin-syrup'>fiber syrup</a>, <a href='/misc/dairy#casein'>casein</a>, water, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and cinnamon to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>. Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>, massage the dough with your hand to fully mix.
 - <img src='/assets/Food/Protein Powder/Fiber Protein Bar/bowl.jpg' alt='' class='instruction-image'>
 
-- Shape the dough into a <a href='/protein-bar'>protein bar</a>
+- Shape the dough into a <a href='/protein-bar'>protein bar</a>.
 - <img src='/assets/Food/Protein Powder/Fiber Protein Bar/bar.jpg' alt='' class='instruction-image'>
 
-- Lightly coat the outside with <a href='/misc/chocolate-benefits'>cocoa powder</a>. Store in the fridge or freezer
+- Lightly coat the outside with <a href='/misc/chocolate-benefits'>cocoa powder</a>. Store in the fridge or freezer.
 - <img src='/assets/Food/Protein Powder/Fiber Protein Bar/coat.jpg' alt='' class='instruction-image'>
 Notes:
 - I'm making just 1 <a href='/protein-bar'>protein bar</a> today, but you can easily scale this up and store a batch in the freezer
+
+- <a href='/misc/dairy#pea-protein'>Pea protein</a> can be used as a 1:1 substitution for <a href='/misc/dairy#casein'>casein</a> with no other alterations to the recipe.
+
+- <a href='/misc/dairy#whey'>Whey</a> CANNOT be used in <a href='#recipe'>this recipe</a> unfortunately, I have tried. I needed to add 1 cup (90 g) of <a href='/misc/grains#oats'>oat flour</a> to be able to get this to come together as a dough, and that was with omitting the water. Adding that much <a href='/misc/grains#oats'>oat flour</a> adds a significant amount of <a href='/misc/carbs'>carbs</a> and <a href='/misc/calories'>calories</a>. See the table below.
+
+- |
+  COMPARE(
+    "fiberproteinbar",
+    "fiberproteinbarpea",
+    "fiberproteinbarwhey";
+
+    "<a href='/misc/dairy#casein'>Casein</a>",
+    "<a href='/misc/dairy#pea-protein'>Pea</a>",
+    "<a href='/misc/dairy#whey'>Whey</a>;
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
