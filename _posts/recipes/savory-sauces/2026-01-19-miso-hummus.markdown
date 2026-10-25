@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/miso-hummus
 image: /assets/Food/Savory Sauces/Miso Hummus/cover.jpg
 file: misohummus
-servingSize: 2 tbsp (30 g)
+servingSize: 1 tbsp (16 g)
 section1:
 start2:
 section2:

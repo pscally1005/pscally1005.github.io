@@ -4,13 +4,20 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_includes"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_includes"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts"
 
 LINKS = {
 
     # RECIPES
+    "#recipe": [
+        "this recipe"
+    ],
+    "/recipes/apple-cider": [
+        "apple cider",
+        "homemade apple cider"
+    ],
     "/recipes/dried-cranberry": [
         "unsweetened dried cranberries",
         "unsweetened dried cranberry",
@@ -3095,6 +3102,9 @@ LINKS = {
         "apple spread",
         "appe butter",
         "no sugar added apple spread",
+        "no added sugar apple spread",
+        "sugar free apple spread",
+        "sugar-free apple spread",
         "unsweetened apple spread",
         "unsweetened apple butter"
     ],
@@ -10686,7 +10696,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("protein_table")):
+            if not file.startswith(("2026-10-30")):
                 continue
 
             # exclude some files

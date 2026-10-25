@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/evoo-pesto
 image: /assets/Food/Savory Sauces/EVOO Pesto/sandwich.jpg
 file: evoo
-servingSize: 2 tbsp (31 g)
+servingSize: 1 tbsp (16 g)
 section1:
 start2:
 section2:

@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/creamy-pesto
 image: /assets/Food/Savory Sauces/Creamy Pesto/pesto-cover.jpg
 file: pesto
-servingSize: 2 tbsp (30 g)
+servingSize: 1 tbsp (16 g)
 section1:
 start2:
 section2:

@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/creamy-pesto-hummus
 image: /assets/Food/Savory Sauces/Pesto Hummus/pesto-hummus.jpg
 file: pestohummus
-servingSize: 2 tbsp (30 g)
+servingSize: 1 tbsp (16 g)
 section1: Roasted Garlic
 start2: Pine nuts
 section2: Toasted Nuts

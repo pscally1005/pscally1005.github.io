@@ -242,13 +242,13 @@ def grams(food, mass, vol):
 
     # Acai
     elif food == "Frozen acai puree":
-        if vol == "1 packet" or vol == "1 serving":
+        if vol == "1 packet":
             m = "100"
-        elif vol == "2 packets" or vol == "2 packet" or vol == "2 servings" or vol == "2 serving":
+        elif vol == "2 packets" or vol == "2 packet":
             m = "200"
-        elif vol == "3 packets" or vol == "3 packet" or vol == "3 servings" or vol == "3 serving":
+        elif vol == "3 packets" or vol == "3 packet":
             m = "300"
-        elif vol == "4 packets" or vol == "4 packet" or vol == "4 servings" or vol == "4 serving":
+        elif vol == "4 packets" or vol == "4 packet":
             m = "400"
 
     # Mandarin orange
@@ -478,28 +478,15 @@ def grams(food, mass, vol):
 
     # Frosting
     elif food == "Protein Frosting, Vanilla":
-        if vol == "1 serving":
+        if vol == "1 tbsp":
             m = "29"
-        elif vol == "12 serving":
+        elif vol == "12 tbsp":
             m = "351"
     elif food == "Protein Frosting, Chocolate":
-        if vol == "1 serving":
+        if vol == "1 tbsp":
             m = "31"
-        elif vol == "12 serving":
+        elif vol == "12 tbsp":
             m = "371"
-
-    # Sauce
-    elif food == "Simple pasta sauce":
-        if vol == "1 serving":
-            m = "100"
-        elif vol == "1.2 serving":
-            m = "120"
-        elif vol == "2.4 serving":
-            m = "240"
-        elif vol == "4 serving":
-            m = "400"
-        elif vol == "8 serving":
-            m = "800"
 
     # Shredded chicken
     elif food == "Simple Shredded Chicken":
@@ -545,9 +532,9 @@ def grams(food, mass, vol):
 
     # Spring rolls
     elif food == "Fresh Veggie Spring Roll":
-        if vol == "1 serving":
+        if vol == "1 roll":
             m = "80"
-        elif vol == "12 serving":
+        elif vol == "12 roll" or vol == "12 rolls":
             m = "954"
 
     # Chicken fat
@@ -576,30 +563,8 @@ def grams(food, mass, vol):
             m = "108"
 
     # Liquids
-    elif food == "Water" or food == "Apple cider" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Whole milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "No sugar added apple spread" or food == "Vodka" or food == "Fruit juice, sugar free" or food == "Cream cheese" or food == "Cream cheese, 1/3 less fat" or food == "Liquid whey, sweet" or food == "Liquid whey, acid" or food == "Liquid whey" or food == "Rum" or food == "Simple syrup" or food == "Honey mustard dressing" or food == "Lemonade, storebought" or food == "Hummus" or food == "Classic tahini hummus" or food == "Pesto" or food == "Creamy pesto dip" or food == "Hummus, storebought" or food == "Sweetened almond milk":
-        if food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Butternut squash puree":
-            if vol == "1/2 serving" or vol == "1/4 cup":
-                m = "60"
-            elif vol == "1 serving" or vol == "1/2 cup":
-                m = "120"
-            elif vol == "2/3 cup":
-                m = "160"
-            elif vol == "2 serving" or vol == "1 cup":
-                m = "240"
-            elif vol == "3 serving" or vol == "1 1/2 cup":
-                m = "360"
-            elif vol == "4 serving" or vol == "2 cup":
-                m = "480"
-        if food == "Hummus" or food == "Classic tahini hummus" or food == "Pesto" or food == "Creamy pesto dip" or food == "Hummus, storebought":
-            if vol == "1 serving" or vol == "2 tbsp":
-                m = "30"
-            elif vol == "2 serving" or vol == "1/4 cup":
-                m = "60"
-            elif vol == "3 serving" or vol == "6 tbsp":
-                m = "90"
-            elif vol == "4 serving" or vol == "1/2 cup":
-                m = "120"
-        elif vol == "1/8 tsp":
+    elif food == "Water" or food == "Apple cider" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Whole milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "Vodka" or food == "Fruit juice, sugar free" or food == "Cream cheese" or food == "Cream cheese, 1/3 less fat" or food == "Liquid whey, sweet" or food == "Liquid whey, acid" or food == "Liquid whey" or food == "Rum" or food == "Simple syrup" or food == "Honey mustard dressing" or food == "Lemonade, storebought" or food == "Hummus" or food == "Classic tahini hummus" or food == "Pesto" or food == "Creamy pesto dip" or food == "Hummus, storebought" or food == "Sweetened almond milk":
+        if vol == "1/8 tsp":
             m = "0.625"
         elif vol == "1/4 tsp":
             m = "1.25"
@@ -1141,8 +1106,8 @@ def grams(food, mass, vol):
         elif vol == "16 serving":
             m = "304"
 
-    # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter":
+    # Nut butters & sauce
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter" or food == "Simple pasta sauce":
         if vol == "1 tsp":
             m = "6"
         elif vol == "1/2 tbsp":
@@ -1169,6 +1134,16 @@ def grams(food, mass, vol):
             m = "196"
         elif vol == "16 tbsp" or vol == "1 cup":
             m = "256"
+        elif vol == "20 tbsp" or vol == "1 1/4 cup":
+            m = "320"
+        elif vol == "1 1/3 cup":
+            m = "341"
+        elif vol == "1 1/2 cup":
+            m = "384"
+        elif vol == "2 cup":
+            m = "512"
+        elif vol == "3 cup":
+            m = "768"
 
     # Miso
     elif food == "Miso" or food == "Miso paste":
@@ -1199,50 +1174,50 @@ def grams(food, mass, vol):
           m = "226"
 
     # Syrup
-    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup" or food == "Sugar free chocolate syrup" or food == "Sugar free chocolate syrup, homemade" or food == "Sugar free chocolate syrup, storebought" or food == "Molasses, or honey" or food == "Molasses" or food == "Blackstrap molasses":
+    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup" or food == "Sugar free chocolate syrup" or food == "Sugar free chocolate syrup, homemade" or food == "Sugar free chocolate syrup, storebought" or food == "Molasses, or honey" or food == "Molasses" or food == "Blackstrap molasses" or food == "No sugar added apple spread":
         if vol == "1 tsp":
             m = "6.5"
-        elif vol == "1/2 tbsp" or vol == "0.5 serving":
+        elif vol == "1/2 tbsp":
             m = "10"
-        elif vol == "1 tbsp" or vol == "1 serving":
+        elif vol == "1 tbsp":
             m = "20"
-        elif vol == "1.5 tbsp" or vol == "1.5 serving" or vol == "1 1/2 tbsp":
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "30"
-        elif vol == "2 tbsp" or vol == "2 serving":
+        elif vol == "2 tbsp":
             m = "40"
-        elif vol == "3 tbsp" or vol == "3 serving":
+        elif vol == "3 tbsp":
             m = "60"
-        elif vol == "4 tbsp" or vol == "1/4 cup" or vol == "4 serving":
+        elif vol == "4 tbsp" or vol == "1/4 cup":
             m = "80"
-        elif vol == "5 tbsp" or vol == "5 serving":
+        elif vol == "5 tbsp":
             m = "100"
-        elif vol == "1/3 cup" or vol == "5.33 serving":
+        elif vol == "1/3 cup" or vol == "5.33 tbsp":
             m = "107"
-        elif vol == "6 tbsp" or vol == "6 serving":
+        elif vol == "6 tbsp":
             m = "120"
-        elif vol == "7 tbsp" or vol == "7 serving":
+        elif vol == "7 tbsp":
             m = "140"
-        elif vol == "8 tbsp" or vol == "1/2 cup" or vol == "8 serving":
+        elif vol == "8 tbsp" or vol == "1/2 cup":
             m = "160"
-        elif vol == "9 tbsp" or vol == "9 serving":
+        elif vol == "9 tbsp":
             m = "180"
-        elif vol == "10 tbsp" or vol == "10 serving":
+        elif vol == "10 tbsp":
             m = "200"
-        elif vol == "2/3 cup" or vol == "10.67 serving":
+        elif vol == "2/3 cup":
             m = "213"
-        elif vol == "11 tbsp" or vol == "11 serving":
+        elif vol == "11 tbsp":
             m = "220"
-        elif vol == "12 tbsp" or vol == "3/4 cup" or vol == "12 serving":
+        elif vol == "12 tbsp" or vol == "3/4 cup":
             m = "240"
-        elif vol == "13 tbsp" or vol == "13 serving":
+        elif vol == "13 tbsp":
             m = "260"
-        elif vol == "14 tbsp" or vol == "14 serving":
+        elif vol == "14 tbsp":
             m = "280"
-        elif vol == "15 tbsp" or vol == "15 serving":
+        elif vol == "15 tbsp":
             m = "300"
-        elif vol == "16 tbsp" or vol == "1 cup" or vol == "16 serving":
+        elif vol == "16 tbsp" or vol == "1 cup":
             m = "320"
-        elif vol == "24 tbsp" or vol == "1.5 cup" or vol == "1 1/2 cup" or vol == "24 serving":
+        elif vol == "24 tbsp" or vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "480"
         elif vol == "2 cup":
             m = "640"

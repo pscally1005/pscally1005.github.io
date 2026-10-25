@@ -1,5 +1,5 @@
 Ingredient,Amount,Unit,Description
-"Onion",110,g,"1 medium"
+"Onion",100,g,"1 small"
 "Minced garlic",15,g,"1 tbsp"
 "Extra virgin olive oil",5,g,"1 tsp"
 "Crushed tomatoes",794,g,"28oz can"
@@ -11,4 +11,4 @@ Ingredient,Amount,Unit,Description
 "Black pepper, ground",1.5,g,"1/2 tsp"
 "Salt",1.5,g,"1/4 tsp"
 "Red pepper flakes",0.5,g,"1/4 tsp"
-Servings,8
+Servings,3

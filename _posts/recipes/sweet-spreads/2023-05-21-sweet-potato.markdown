@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/sweet-potato-puree
 image: /assets/Food/Sweet Spreads/Sweet Potato/cover.jpg
 file: sweetpotato
-servingSize: 1/2 cup (120 g)
+servingSize: 1 cup (240 g)
 section1:
 start2:
 section2:
