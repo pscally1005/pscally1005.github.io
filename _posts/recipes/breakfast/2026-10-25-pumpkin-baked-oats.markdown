@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Pumpkin Spice High Protein Baked Oats
-date:   2026-10-12 00:00:00 -0500
+date:   2026-10-25 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: yes

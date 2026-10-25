@@ -156,6 +156,15 @@
                 </tr>
             {% endfor %}
 
+            {% if include.tiers %}
+                <tr>
+                    <td><a href="#final">Tier</a></td>
+                    {% for tier in include.tiers %}
+                        <td>{{ tier }}</td>
+                    {% endfor %}
+                </tr>
+            {% endif %}
+
             {% if include.cost == "true" or include.cost == "serving" %}
                 <tr>
                     {% if include.cost == "true" %}

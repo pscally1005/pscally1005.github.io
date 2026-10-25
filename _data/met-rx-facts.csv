@@ -1,0 +1,34 @@
+Nutrient,Amount,Unit,DV
+Calories,400,,
+"Vitamin A, RAE",320,mcg,36 %
+"Thiamin [Vitamin B1]",0.32,mg,27 %
+"Riboflavin [Vitamin B2]",0.37,mg,28 %
+"Niacin [Vitamin B3]",4.3,mg,27 %
+"Pantothenic acid [Vitamin B5]",1.1,mg,22 %
+"Vitamin B6",0.43,mg,25 %
+"Vitamin B12 [Cobalamin]",1.3,mcg,54 %
+"Folate, DFE [Vitamin B9]",140,mcg,35 %
+"Vitamin C [Ascorbic acid]",12,mg,13 %
+"Vitamin D",0,mcg,0 %
+"Vitamin E (alpha-tocopherol)",4.3,mg,29 %
+"Tocopherol, alpha",4.3,mg,
+"Biotin [Vitamin B7]",60,mcg,200 %
+"Calcium",320,mg,25 %
+"Iodine",32,mcg,21 %
+"Iron",3.2,mg,18 %
+"Magnesium",30,mg,7 %
+"Manganese",0.19,mg,8 %
+"Phosphorus",340,mg,27 %
+"Potassium",170,mg,4 %
+"Sodium",300,mg,13 %
+"Zinc",4.1,mg,37 %
+"Protein",30,g,60 %
+"Carbohydrate",47,g,17 %
+"Fiber",2,g,7 %
+"Sugars",23,g,
+"Sugars, added",22,g,44 %
+"Net carbs",45,g,
+"Fat",12,g,15 %
+"Saturated fatty acids",8,g,40 %
+"Fatty acids, total trans",0,g,
+"Cholesterol",10,mg,3 %

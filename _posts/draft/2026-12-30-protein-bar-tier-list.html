@@ -68,6 +68,7 @@ The most important nutritional criterion for a protein bar is it's protein perce
       </ul>
     </li>
     <li><a href='#final'>Final Ranking</a></li>
+    <li><a href='#compare'>Nutrition Comparison</a></li>
 </ul><br>
 
 <div id='protein-bars' class='table-of-contents-2'></div>
@@ -87,6 +88,18 @@ The most important nutritional criterion for a protein bar is it's protein perce
 
 {{ bar.desc }}<br><br>
 
+{% assign facts_file = bar.file | append: '-facts' %}
+{% assign bar_facts = site.data[facts_file] %}
+{% assign bar_protein = 0 %}
+{% assign bar_calories = 0 %}
+{% for row in bar_facts %}
+  {% if row.Nutrient == 'Protein' %}
+    {% assign bar_protein = row.Amount | plus: 0 %}
+  {% elsif row.Nutrient == 'Calories' %}
+    {% assign bar_calories = row.Amount | plus: 0 %}
+  {% endif %}
+{% endfor %}
+
 {% assign cost = bar.total | divided_by: bar.count %}
 {% assign cents = cost | times: 100 | round %}
 {% assign dollars = cents | divided_by: 100 %}
@@ -94,21 +107,28 @@ The most important nutritional criterion for a protein bar is it's protein perce
 {% if remainder < 10 %}
   {% assign remainder = remainder | prepend: '0' %}
 {% endif %}
-{% assign ratio = bar.protein | times: 100.0 | divided_by: bar.calories | round: 1 %}
-{% assign cost_per_gram_cents = cost | times: 100 | divided_by: bar.protein | round %}
-{% assign cost_per_gram_dollars = cost_per_gram_cents | divided_by: 100 %}
-{% assign cost_per_gram_remainder = cost_per_gram_cents | modulo: 100 %}
-{% if cost_per_gram_remainder < 10 %}
-  {% assign cost_per_gram_remainder = cost_per_gram_remainder | prepend: '0' %}
+<i>Price</i>: ${{ dollars }}.{{ remainder }}<br>
+{% if bar.file %}
+  {% assign ratio = bar_protein | times: 100.0 | divided_by: bar_calories | round: 1 %}
+  {% assign cost_per_gram_cents = cost | times: 100 | divided_by: bar_protein | round %}
+  {% assign cost_per_gram_dollars = cost_per_gram_cents | divided_by: 100 %}
+  {% assign cost_per_gram_remainder = cost_per_gram_cents | modulo: 100 %}
+  {% if cost_per_gram_remainder < 10 %}
+    {% assign cost_per_gram_remainder = cost_per_gram_remainder | prepend: '0' %}
+  {% endif %}
+  <i>Protein</i>: {{ bar_protein }} g<br>
+  <i>Calories</i>: {{ bar_calories }}<br>
+  <i>Protein Percentage</i>: {{ ratio }}%<br>
+  <i>Cost per gram of Protein</i>: ${{ cost_per_gram_dollars }}.{{ cost_per_gram_remainder }}<br>
 {% endif %}
 
-<i>Price</i>: ${{ dollars }}.{{ remainder }}<br>
-<i>Protein</i>: {{ bar.protein }} g<br>
-<i>Calories</i>: {{ bar.calories }}<br>
-<i>Protein Percentage</i>: {{ ratio }}%<br>
-<i>Cost per gram of Protein</i>: ${{ cost_per_gram_dollars }}.{{ cost_per_gram_remainder }}<br>
+{% if bar.file %}
+  {% assign f = bar.file %}
+  {% include nutrition.html file=f excl="true" %}
+{% endif %}
 
 <br>{% if bar.link %}<a href='{{ bar.link }}'>{% endif %}<img src='/assets/Misc/Nutrition/Protein Bars/{{ bar.image }}' alt='' class='instruction-image'>{% if bar.link %}</a>{% endif %}<br>
+
 {% endfor %}
 
 <div id='final' class='table-of-contents-2'></div>
@@ -129,6 +149,7 @@ The most important nutritional criterion for a protein bar is it's protein perce
       {% assign tier_count = tier_count | plus: 1 %}
     {% endif %}
   {% endfor %}
+
   {% if tier_count > 0 %}
     <b>{{ tier_name }} TIER</b><br>
     <ul>
@@ -145,6 +166,29 @@ The most important nutritional criterion for a protein bar is it's protein perce
           <li><a href='#{{ bar.id }}'>{{ bar.name }}</a></li>
         {% endif %}
       {% endfor %}
+
     </ul><br>
   {% endif %}
 {% endfor %}
+
+<div id='compare' class='table-of-contents-2'></div>
+<b><u><font size='+2'>Nutrition Comparison</font></u></b><br>
+{% assign compare_files_string = '' %}
+{% assign compare_titles_string = '' %}
+{% assign compare_tiers_string = '' %}
+{% assign compare_separator = '' %}
+{% for bar in sorted_protein_bars %}
+  {% if bar.file %}
+    {% assign compare_files_string = compare_files_string | append: compare_separator | append: bar.file %}
+    {% assign compare_name = bar.name | replace: ' ', '<br>' %}
+    {%- capture compare_title -%}<a href='#{{ bar.id }}'>{{ compare_name }}</a>{%- endcapture -%}
+    {% assign compare_titles_string = compare_titles_string | append: compare_separator | append: compare_title %}
+    {% assign compare_tiers_string = compare_tiers_string | append: compare_separator | append: bar.tier %}
+    {% assign compare_separator = ',' %}
+  {% endif %}
+{% endfor %}
+{% assign compare_files = compare_files_string | split: ',' %}
+{% assign compare_titles = compare_titles_string | split: ',' %}
+{% assign compare_tiers = compare_tiers_string | split: ',' %}
+{% assign compare_nutrients = 'Calories,Protein,Fat,Net Carbs,Fiber,Added Sugar' | split: ',' %}
+{% include compareFoodsTable.html files=compare_files titles=compare_titles nutrients=compare_nutrients tiers=compare_tiers servingSize='100' scroll='true' %}
