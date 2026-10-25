@@ -48,6 +48,10 @@ tags:
 - syrup
 - high fiber
 - liquid monk fruit
+- high fiber protein bar
+- sugar-free syrup
+- sugar free syrup
+- sweetener
 Description: This homemade, <a href='/misc/fiber'>high fiber</a> chicory root syrup is extremely low in <a href='/misc/calories'>calories</a> and high in <a href='/misc/fiber'>fiber</a>, while being slightly sweet and flavored with <a href='https://amzn.to/43MkDqr'>vanilla</a>. The secret is <a href='https://amzn.to/47w8h7R'>inulin</a>, a <a href='/misc/fiber'>soluble fiber</a> from the chicory root that benefits gut bacteria by acting as a <a href='/misc/biotics'>prebiotic</a>. This sugar free syrup is also <a href='/misc/calories'>calorie</a> free, and works as a less sweet substitute for <a href='/misc/natural-sweeteners#honey'>honey</a> or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>.
 Instructions:
 - Add water to a <a href='https://amzn.to/4vamaBm'>small mason jar</a>. Microwave for about 40 seconds, or until the water is about <a href='https://amzn.to/4kmobG2'>150F</a>.

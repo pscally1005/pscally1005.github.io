@@ -2,7 +2,7 @@ Food,File,Cost ($),Size (g),Unit Cost ($/g),Score,Glycemic Index,Gluten Free,Veg
 Water,water,0.00,1.00,0.00000,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Water, warm",water,0.00,1.00,0.00000,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Ice,water,0.00,1.00,0.00000,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Apple cider,apple-cider,7.47,"3,840.00",0.00195,2.5,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Apple cider,apple-cider,7.47,"3,840.00",0.00195,2.5,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/recipes/apple-cider
 "Beer, room temperature",beer,20.27,"4,258.58",0.00476,4.7,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Beer,beer,20.27,"4,258.58",0.00476,2.0,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Rum,rum,15.00,750.00,0.02000,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
