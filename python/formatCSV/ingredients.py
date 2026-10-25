@@ -743,6 +743,12 @@ def ingredients(food):
         f = "Cashews"
     elif food == "Raisins, seedless, dark" or food == "Raisins, seedless, golden":
         f = "Raisins"
+    elif food == "cranberry":
+        f = "Homemade dried cranberries"
+    elif food == "Cranberries, sweetened, dried":
+        f = "Sweetened dried cranberries"
+    elif food == "Cranberries, unsweetened, dried":
+        f = "Unsweetened dried cranberries"
     elif food == str("85% dark chocolate by Sinless Raw Food Inc"):
         f = "85% chocolate"
     elif food == str("Bakers Premium 70% Dark Chocolate Baking Bar"):

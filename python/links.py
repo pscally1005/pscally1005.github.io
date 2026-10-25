@@ -11,6 +11,14 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_includes"
 LINKS = {
 
     # RECIPES
+    "/recipes/dried-cranberry": [
+        "unsweetened dried cranberries",
+        "unsweetened dried cranberry",
+        "dried cranberries",
+        "dried cranberry",
+        "homemade dried cranberries",
+        "homemade dried cranberry"
+    ],
     "/recipes/raspberry-chocolate-banana-bread": [
         # "banana bread",
         "raspberry chocolate banana bread",
@@ -8161,8 +8169,8 @@ LINKS = {
         "breakfast cereal"
     ],
     "/misc/fake-healthy-foods#dried-fruit": [
-        "dried cranberries",
-        "dried cranberry",
+        # "dried cranberries",
+        # "dried cranberry",
         "sweetened canned fruits",
         "sweetened dried fruits",
         "sweetened canned fruit",

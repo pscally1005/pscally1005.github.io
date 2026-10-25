@@ -1840,7 +1840,7 @@ def vol_from_mass(food, mass, vol):
             v = "6 scoop"
 
     # Dried fruit, olives
-    elif food == "Dates" or food == "Pitted dates" or food == "Raisins" or food == "Dried figs" or food == "Olives":
+    elif food == "Dates" or food == "Pitted dates" or food == "Raisins" or food == "Dried figs" or food == "Olives" or food == "Sweetened dried cranberries":
         if mass == "40":
             v = "1/4 cup"
         elif mass == "80":
@@ -1855,6 +1855,36 @@ def vol_from_mass(food, mass, vol):
             v = "1 1/2 cup"
         elif mass == "320":
             v = "2 cup"
+
+    # Storebought unsweetened cranberries
+    elif food == "Unweetened dried cranberries":
+        if vol == "1/4 cup":
+            m = "37"
+        elif vol == "1/2 cup":
+            m = "74"
+        elif vol == "3/4 cup":
+            m = "110"
+        elif vol == "1 cup":
+            m = "148"
+        elif vol == "1 1/4 cup":
+            m = "185"
+        elif vol == "1 1/2 cup":
+            m = "222"
+        elif vol == "2 cup":
+            m = "296"
+
+    # Homemade dried cranberries
+    elif food == "Homemade dried cranberries":
+        if vol == "1/4 cup":
+            m = "9"
+        elif vol == "1/2 cup":
+            m = "18"
+        elif vol == "3/4 cup":
+            m = "27"
+        elif vol == "1 cup":
+            m = "36"
+        elif vol == "1 1/4 cup":
+            m = "45"
 
     # Salt, baking powder, baking soda
     elif food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt" or food == "Flaky salt":

@@ -118,7 +118,7 @@ def grams(food, mass, vol):
             m = "324"
 
     # Dried fruit
-    elif food == "Dates" or food == "Raisins" or food == "Prunes" or food == "Dried figs":
+    elif food == "Dates" or food == "Raisins" or food == "Prunes" or food == "Dried figs" or food == "Sweetened dried cranberries":
         if vol == "1/4 cup":
             m = "40"
         elif vol == "1/3 cup":
@@ -137,6 +137,36 @@ def grams(food, mass, vol):
             m = "240"
         elif vol == "2 cup":
             m = "320"
+
+    # Storebought unsweetened cranberries
+    elif food == "Unweetened dried cranberries":
+        if vol == "1/4 cup":
+            m = "37"
+        elif vol == "1/2 cup":
+            m = "74"
+        elif vol == "3/4 cup":
+            m = "110"
+        elif vol == "1 cup":
+            m = "148"
+        elif vol == "1 1/4 cup":
+            m = "185"
+        elif vol == "1 1/2 cup":
+            m = "222"
+        elif vol == "2 cup":
+            m = "296"
+
+    # Homemade dried cranberries
+    elif food == "Homemade dried cranberries":
+        if vol == "1/4 cup":
+            m = "9"
+        elif vol == "1/2 cup":
+            m = "18"
+        elif vol == "3/4 cup":
+            m = "27"
+        elif vol == "1 cup":
+            m = "36"
+        elif vol == "1 1/4 cup":
+            m = "45"
 
     # Salt, baking powder, baking soda
     elif food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt" or food == "Flaky salt":

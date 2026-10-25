@@ -69,13 +69,14 @@ tags:
 - toast
 Description: Apple spread is my go to recipe in the fall, when I have too many <a href='/misc/fruit#apple'>apples</a> from apple picking and I need to use up all 40 before they go bad. This apple butter has no <a href='/misc/hidden-sugar'>added sugars</a>, as the <a href='/misc/fruit#apple'>apples</a> are more than sweet enough to flavor it. You can use this in place of <a href='/misc/fruit#apple'>unsweetened applesauce</a> or mashed <a href='/misc/fruit#banana'>banana</a> in any recipes for a significantly better result.  For the ultimate <a href='/misc/nuts#peanuts'>peanut butter</a> and jelly, make some <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> and <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>.
 Instructions:
-- Cut each <a href='/misc/fruit#apple'>apple</a> into 8ths and place in a <a href='https://amzn.to/49TUS9E'>crock pot</a>.  An entire 3 lb bag, or about 9-10 gala <a href='/misc/fruit#apple'>apples</a>, will be good for this recipe. Add cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, cloves, and water
+- Cut each <a href='/misc/fruit#apple'>apple</a> into 8ths and place in a <a href='https://amzn.to/49TUS9E'>crock pot</a>.  An entire 3 lb bag, or about 9-10 gala <a href='/misc/fruit#apple'>apples</a>, will be good for this recipe. Add cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, cloves, and water.
 
-- Cover and cook on low for 6 hours
+- Cover and cook on low for 6 hours.
 
-- Use an <a href='https://amzn.to/3VHhgMM'>immersion blender</a> to blend up the <a href='/misc/fruit#apple'>apples</a> until everything is smooth
+- Use an <a href='https://amzn.to/3VHhgMM'>immersion blender</a> to blend up the <a href='/misc/fruit#apple'>apples</a> until everything is smooth.
 
-- Loosely cover and cook on low for another 6 hours, stirring occasionally. Mix in <a href='/misc/fruit#lemon-juice'>lemon juice</a> when done (to help preserve it).  Store in a mason jar
+- Loosely cover and cook on low for another 6 hours, stirring occasionally. Mix in <a href='/misc/fruit#lemon-juice'>lemon juice</a> when done (to help preserve it).  Store in a mason jar.
 - <img src='/assets/Food/Sweet Spreads/Apple Spread/apple-spread-4.jpg' alt='' class='instruction-image'>
 Notes:
+- This recipe yields about 800 g, or about 1 2/3 cup of apple spread. That's 40 servings of 1 tbsp (20 g) each.
 ---
