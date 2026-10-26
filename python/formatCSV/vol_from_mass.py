@@ -263,7 +263,7 @@ def vol_from_mass(food, mass, vol):
             v == "16 scoops"
 
     # Labneh
-    elif food == "Labneh cheese, skim":
+    elif food == "Labneh cheese, skim" or food == "Labneh cheese, whole" or food == "Labneh cheese" or food == "Labneh":
         if mass == "15":
             v = "1 tbsp"
         elif mass == "30":
@@ -925,17 +925,17 @@ def vol_from_mass(food, mass, vol):
     # Cashew ricotta
     elif food == "Dairy Free Cashew Ricotta Cheese":
         if mass == "56":
-            v = "1/2 cup"
+            v = "1/4 cup"
         elif mass == "112":
-            v = "1 cup"
+            v = "1/2 cup"
         elif mass == "168":
-            v = "1 1/2 cup"
+            v = "3/4 cup"
         elif mass == "224":
-            v = "2 cup"
+            v = "1 cup"
         elif mass == "280":
-            v = "2 1/2 cup"
+            v = "1 1/4 cup"
         elif mass == "336":
-            v = "3 cup"
+            v = "1 1/2 cup"
 
     # Ice cream
     elif food == "Vanilla ice cream":
@@ -1149,6 +1149,8 @@ def vol_from_mass(food, mass, vol):
             v = "5 tbsp"
         elif mass == "96":
             v = "6 tbsp"
+        elif mass == "112":
+            v = "7 tbsp"
         elif mass == "128":
             v = "1/2 cup"
         elif mass == "196":

@@ -490,37 +490,37 @@ def grams(food, mass, vol):
 
     # Shredded chicken
     elif food == "Simple Shredded Chicken":
-        if vol == "1 serving":
+        if vol == "1 oz":
             m = "28"
-        elif vol == "2 serving":
+        elif vol == "2 oz":
             m = "56"
-        elif vol == "3 serving":
+        elif vol == "3 oz":
             m = "85"
-        elif vol == "4 serving":
+        elif vol == "4 oz":
             m = "113"
-        elif vol == "5 serving":
+        elif vol == "5 oz":
             m = "142"
-        elif vol == "6 serving":
+        elif vol == "6 oz":
             m = "170"
-        elif vol == "7 serving":
+        elif vol == "7 oz":
             m = "198"
-        elif vol == "8 serving":
+        elif vol == "8 oz":
             m = "226"
-        elif vol == "9 serving":
+        elif vol == "9 oz":
             m = "255"
-        elif vol == "10 serving":
+        elif vol == "10 oz":
             m = "283"
-        elif vol == "11 serving":
+        elif vol == "11 oz":
             m = "311"
-        elif vol == "12 serving":
+        elif vol == "12 oz":
             m = "340"
-        elif vol == "13 serving":
+        elif vol == "13 oz":
             m = "368"
-        elif vol == "14 serving":
+        elif vol == "14 oz":
             m = "396"
-        elif vol == "15 serving":
+        elif vol == "15 oz":
             m = "425"
-        elif vol == "16 serving":
+        elif vol == "16 oz":
             m = "454"
 
     # PB Dressing
@@ -648,24 +648,24 @@ def grams(food, mass, vol):
 
     # Tortillas
     elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread":
-        if vol == "1 medium" or vol == "1 serving":
+        if vol == "1 medium":
             m = "45"
-        elif vol == "2 medium" or vol == "2 serving":
+        elif vol == "2 medium":
             m = "90"
-        elif vol == "3 medium" or vol == "3 serving":
+        elif vol == "3 medium":
             m = "135"
-        elif vol == "4 medium" or vol == "4 serving":
+        elif vol == "4 medium":
             m = "180"
 
     # Psyllium wrap
     elif food == "High Fiber Psyllium Wrap":
-        if vol == "1 medium" or vol == "1 serving":
+        if vol == "1 medium":
             m = "80"
-        elif vol == "2 medium" or vol == "2 serving":
+        elif vol == "2 medium":
             m = "160"
-        elif vol == "3 medium" or vol == "3 serving":
+        elif vol == "3 medium" :
             m = "240"
-        elif vol == "4 medium" or vol == "4 serving":
+        elif vol == "4 medium":
             m = "320"
 
     # Oils
@@ -701,14 +701,14 @@ def grams(food, mass, vol):
 
 
     # Labneh cheese
-    elif food == "Labneh cheese, skim":
-        if vol == "0.5 serving":
+    elif food == "Labneh cheese, skim" or food == "Labneh cheese, whole" or food == "Labneh cheese" or food == "Labneh":
+        if vol == "1 tbsp":
             m = "15"
-        elif vol == "1 serving":
+        elif vol == "2 tbsp":
             m = "30"
-        elif vol == "1.5 serving":
+        elif vol == "3 tbsp":
             m = "45"
-        elif vol == "2 serving":
+        elif vol == "4 tbsp" or vol == "1/4 cup":
             m = "60"
 
     # Lentils
@@ -864,7 +864,7 @@ def grams(food, mass, vol):
 
     # Empanadas / pierogi
     elif food == "Empanada/Pierogi dough":
-        if vol == "12 serving":
+        if vol == "12 circles" or food == "12 circle":
             m = "333"
 
     # Yogurt & cottage cheese
@@ -900,27 +900,27 @@ def grams(food, mass, vol):
 
     # Pie crust
     elif food == "Healthier Graham Cracker Pie Crust" or food == "Healthier Graham Cracker Pie Crust, chocolate":
-        if vol == "12 serving":
+        if vol == "12 slice":
             m = "255"
 
     # Marzipan
     elif food == "Marzipan, homemade, with sugar" or food == "Marzipan, homemade, sugar free":
-        if vol == "1 serving":
+        if vol == "1 batch":
             m = "377"
 
     # Cashew ricotta
     elif food == "Dairy Free Cashew Ricotta Cheese":
-        if vol == "1 serving":
+        if vol == "1/4 cup":
             m = "56"
-        elif vol == "2 serving":
+        elif vol == "1/2 cup":
             m = "112"
-        elif vol == "3 serving":
+        elif vol == "3/4 cup":
             m = "168"
-        elif vol == "4 serving":
+        elif vol == "1 cup":
             m = "224"
-        elif vol == "5 serving":
+        elif vol == "1 1/4 cup":
             m = "280"
-        elif vol == "6 serving":
+        elif vol == "1 1/2 cup":
             m = "336"
 
     # Ice cream
@@ -1073,37 +1073,37 @@ def grams(food, mass, vol):
 
     # Jelly
     elif food == "Low sugar berry jam" or food == "Strawberry chia jam":
-        if vol == "1 serving":
+        if vol == "1 tbsp":
             m = "19"
-        elif vol == "2 serving":
+        elif vol == "2 tbsp":
             m = "38"
-        elif vol == "3 serving":
+        elif vol == "3 tbsp":
             m = "57"
-        elif vol == "4 serving":
+        elif vol == "4 tbsp" or vol == "1/4 cup":
             m = "76"
-        elif vol == "5 serving":
+        elif vol == "5 tbsp":
             m = "95"
-        elif vol == "6 serving":
+        elif vol == "6 tbsp":
             m = "114"
-        elif vol == "7 serving":
+        elif vol == "7 tbsp":
             m = "133"
-        elif vol == "8 serving":
+        elif vol == "8 tbsp" or vol == "1/2 cup":
             m = "152"
-        elif vol == "9 serving":
+        elif vol == "9 tbsp":
             m = "171"
-        elif vol == "10 serving":
+        elif vol == "10 tbsp":
             m = "190"
-        elif vol == "11 serving":
+        elif vol == "11 tbsp":
             m = "209"
-        elif vol == "12 serving":
+        elif vol == "12 tbsp" or vol == "3/4 cup":
             m = "228"
-        elif vol == "13 serving":
+        elif vol == "13 tbsp":
             m = "247"
-        elif vol == "14 serving":
+        elif vol == "14 tbsp":
             m = "266"
-        elif vol == "15 serving":
+        elif vol == "15 tbsp":
             m = "285"
-        elif vol == "16 serving":
+        elif vol == "16 tbsp" or vol == "1 cup":
             m = "304"
 
     # Nut butters & sauce
@@ -1112,23 +1112,25 @@ def grams(food, mass, vol):
             m = "6"
         elif vol == "1/2 tbsp":
             m = "8"
-        elif vol == "1 tbsp" or vol == "1/2 serving" or vol == "0.5 serving":
+        elif vol == "1 tbsp":
             m = "16"
         elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "24"
-        elif vol == "2 tbsp" or vol == "1 serving":
+        elif vol == "2 tbsp":
             m = "32"
         elif vol == "2.5 tbsp" or vol == "2 1/2 tbsp":
             m = "40"
-        elif vol == "3 tbsp" or vol == "1 1/2 serving" or vol == "1.5 serving":
+        elif vol == "3 tbsp":
             m = "48"
-        elif vol == "4 tbsp" or vol == "1/4 cup" or vol == "2 serving":
+        elif vol == "4 tbsp" or vol == "1/4 cup":
             m = "64"
         elif vol == "5 tbsp":
             m = "80"
         elif vol == "6 tbsp":
             m = "96"
-        elif vol == "8 tbsp" or vol == "1/2 cup" or vol == "4 serving":
+        elif vol == "7 tbsp":
+            m = "112"
+        elif vol == "8 tbsp" or vol == "1/2 cup":
             m = "128"
         elif vol == "12 tbsp" or vol == "3/4 cup":
             m = "196"
@@ -1168,9 +1170,9 @@ def grams(food, mass, vol):
 
     # Whipped cream
     elif food == "Aquafaba Whipped Cream":
-      if vol == "1/2 batch, about 3 cup" or vol == "1/2 batch" or vol == "3 cup" or vol == "24.5 serving":
+      if vol == "1/2 batch, about 3 cup" or vol == "1/2 batch" or vol == "3 cup" or vol == "49 tbsp":
           m = "123"
-      elif vol == "1 batch, about 6 cup" or vol == "1 batch" or vol == "6 cup" or vol == "49 serving":
+      elif vol == "1 batch, about 6 cup" or vol == "1 batch" or vol == "6 cup" or vol == "98 tbsp":
           m = "226"
 
     # Syrup
@@ -1312,13 +1314,13 @@ def grams(food, mass, vol):
 
     # Sweet potato toast
     elif food == "Sweet potato toast":
-        if vol == "1 slice" or vol == "1 serving":
+        if vol == "1 slice":
             m = "35"
-        elif vol == "2 slice" or vol == "2 serving":
+        elif vol == "2 slice":
             m = "70"
-        elif vol == "3 slice" or vol == "3 serving":
+        elif vol == "3 slice":
             m = "105"
-        elif vol == "4 slice" or vol == "4 serving":
+        elif vol == "4 slice":
             m = "140"
 
     # Pumpkin
@@ -1827,37 +1829,37 @@ def grams(food, mass, vol):
             m = "135"
         elif vol == "1 cup":
             m = "180"
-        elif vol == "1 serving" or vol == "1/2 oz":
+        elif vol == "1/2 oz":
             m = "14"
-        elif vol == "2 serving" or vol == "1 oz":
+        elif vol == "1 oz":
             m = "28"
-        elif vol == "3 serving" or vol == "1 1/2 oz":
+        elif vol == "1 1/2 oz":
             m = "42"
-        elif vol == "4 serving" or vol == "2 oz":
+        elif vol == "2 oz":
             m = "56"
-        elif vol == "5 serving" or vol == "2 1/2 oz":
+        elif vol == "2 1/2 oz":
             m = "70"
-        elif vol == "6 serving" or vol == "3 oz":
+        elif vol == "3 oz":
             m = "85"
-        elif vol == "7 serving" or vol == "3 1/2 oz":
+        elif vol == "3 1/2 oz":
             m = "98"
-        elif vol == "8 serving" or vol == "4 oz":
+        elif vol == "4 oz":
             m = "113"
-        elif vol == "9 serving" or vol == "4 1/2 oz":
+        elif vol == "4 1/2 oz":
             m = "127"
-        elif vol == "10 serving" or vol == "5 oz":
+        elif vol == "5 oz":
             m = "142"
-        elif vol == "11 serving" or vol == "5 1/2 oz":
+        elif vol == "5 1/2 oz":
             m = "156"
-        elif vol == "12 serving" or vol == "6 oz":
+        elif vol == "6 oz":
             m = "170"
-        elif vol == "13 serving" or vol == "6 1/2 oz":
+        elif vol == "6 1/2 oz":
             m = "184"
-        elif vol == "14 serving" or vol == "7 oz":
+        elif vol == "7 oz":
             m = "198"
-        elif vol == "15 serving" or vol == "7 1/2 oz":
+        elif vol == "7 1/2 oz":
             m = "212"
-        elif vol == "16 serving" or vol == "8 oz":
+        elif vol == "8 oz":
             m = "226"
 
     # Eggs

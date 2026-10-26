@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/whipped-cream
 image: /assets/Food/Sweet Spreads/Whipped Cream/cover.jpg
 file: whippedcream
-servingSize: 2 tbsp (5 g)
+servingSize: 1 tbsp (2.5 g)
 section1: 
 start2: 
 section2: 
