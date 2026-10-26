@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/tomato-pesto
 image: /assets/Food/Meme/Tomato Pesto/pasta.jpg
 file: tomatopesto
-servingSize: 2 tbsp (32 g)
+servingSize: 2 tbsp (30 g)
 section1:
 start2:
 section2:
