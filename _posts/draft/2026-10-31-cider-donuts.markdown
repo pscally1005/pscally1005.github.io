@@ -61,6 +61,8 @@ tags:
 - gluten free
 - ricotta cheese
 - cinnamon sugar
+- unsweetened applesauce
+- extra virgin coconut oil
 Description: Fall season means apple cider season, and with that comes delicious apple cider donuts. These healthy, homemade apple cider donuts are made in the <a href='https://amzn.to/3FuWETp'>air fryer</a> instead of being deep fried, making them significantly lower in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>. They're also low in <a href='/misc/hidden-sugar'>added sugar</a>, being sweetened by real apple cider and a touch of <a href='/misc/natural-sweeteners#honey'>honey</a>. Finally, these wholesome donuts are <a href='/misc/celiac'>gluten free</a>, using home ground <a href='/misc/grains#oats'>oat flour</a> instead of <a href='/misc/grains#white-wheat'>refined white flour</a>.
 Instructions:
 - |
@@ -87,4 +89,28 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Apple Cider Donuts/coated.jpg' alt='' class='instruction-image'>
 Notes:
 - I'm using my <a href='/recipes/high-fiber-sugar-substitute'>High Fiber Sugar Substitute</a> as the sweetener in my cinnamon sugar today, but other good options are <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> and <a href='https://amzn.to/4mzsH5p'>allulose</a>.
+
+- If you don't have an <a href='https://amzn.to/3FuWETp'>air fryer</a>, you can bake in a 350F oven. Note that it may take a little bit longer in the oven as opposed to the <a href='https://amzn.to/3FuWETp'>air fryer</a>. Check that the <a href='#recipe'>donuts</a> are lightly golden brown, and a toothpick inserted into the center comes out clean.
+
+- |
+  To make it <a href='/misc/dairy'>dairy-free</a> (or if you just don't have <a href='/misc/homemade-cheese#ricotta'>ricotta</a>), you can replace the <a href='/misc/homemade-cheese#ricotta'>ricotta</a> with 1/2 cup (120 g) <a href='/misc/fruit#apple'>unsweetened applesauce</a>.<br><br>
+
+  In this case, add 1 tbsp (14 g) <a href='/misc/nuts#coconut'>extra virgin coconut oil</a> (or any other <a href='/misc/olive-oil'>oil</a>) to help compensate for the difference in <a href='/misc/fats'>fat</a> between <a href='/misc/fruit#apple'>applesauce</a> and <a href='/misc/homemade-cheese#ricotta'>ricotta</a>.<br><br>
+
+  Additionally, increase the baking time from 10 minutes to 15 minutes, as the batter will be a bit looser, and will need more time to cook. Keep the temperature at 300F in the <a href='https://amzn.to/3FuWETp'>air fryer</a>, or 350F in the oven.
+- |
+  COMPARE(
+    "ciderdonuts",
+    "ciderdonutsapplesauce";
+
+    "<a href='/misc/homemade-cheese#ricotta'>Ricotta</a>",
+    "<a href='/misc/fruit#apple'>Applesauce</a>;
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---

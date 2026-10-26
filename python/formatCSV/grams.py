@@ -973,7 +973,7 @@ def grams(food, mass, vol):
             m = "810"
 
     # Flours
-    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Cornstarch" or food == "Unsweetened coconut flakes" or food == "Sweetened coconut flakes":
+    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Unsweetened coconut flakes" or food == "Sweetened coconut flakes":
         if vol == "1 tsp":
             m = "2.5"
         elif vol == "1/2 tbsp":
@@ -2133,6 +2133,51 @@ def grams(food, mass, vol):
     elif food == "Popcorn kernels":
         if vol == "3 tbsp":
             m = "40"
+
+    # Cornstarch
+    elif food == "Cornstarch":
+        if vol == "1 tsp":
+            m = "3"
+        elif vol == "1/2 tbsp":
+            m = "4"
+        elif vol == "2 tsp":
+            m = "6"
+        elif vol == "1 tbsp":
+            m = "8"
+        elif vol == "2 tbsp":
+            m = "16"
+        elif vol == "2.5 tbsp" or vol == "2 1/2 tbsp":
+            m = "20"
+        elif vol == "3 tbsp":
+            m = "24"
+        elif vol == "1/4 cup" or vol == "4 tbsp":
+            m = "32"
+        elif vol == "5 tbsp":
+            m = "40"
+        elif vol == "6 tbsp":
+            m = "48"
+        elif vol == "7 tbsp":
+            m = "56"
+        elif vol == "1/2 cup" or vol == "8 tbsp":
+            m = "64"
+        elif vol == "9 tbsp":
+            m = "72"
+        elif vol == "10 tbsp":
+            m = "80"
+        elif vol == "2/3 cup":
+            m = "85"
+        elif vol == "11 tbsp":
+            m = "88"
+        elif vol == "3/4 cup" or vol == "12 tbsp":
+            m = "96"
+        elif vol == "13 tbsp":
+            m = "104"
+        elif vol == "14 tbsp":
+            m = "112"
+        elif vol == "15 tbsp":
+            m = "120"
+        elif vol == "1 cup" or vol == "16 tbsp":
+            m = "128"
 
     # Sourdough
     elif food == "Sourdough starter":
