@@ -196,3 +196,12 @@
   total: 3.78
   count: 8
   tier: S
+- id: fulfil
+  name: Fulfil
+  link: https://link.amazon/B09LSfCjn
+  image: fulfil.jpg
+  file: fulfil
+  desc: Fulfil seems pretty similar to <a href='#barebell'>Barebells</a>, being a candy bar style protein bar. The Chocolate Salted Caramel flavor has a chocolate coating, a caramel filling, and soy crunchies, making it like a healthy snickers or twix bar. Each bar has 15 g of protein in 160 calories, giving it a pretty good protein to calorie ratio. Their fiber content is a bit lower compared to some other protein bars, and they're fairly average priced.
+  total: 21.99
+  count: 12
+  tier: B

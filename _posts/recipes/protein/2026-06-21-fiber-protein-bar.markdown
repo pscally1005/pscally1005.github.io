@@ -36,7 +36,7 @@ section5:
 Prep: 5
 Rest:
 Cook:
-Source1:
+Source1: https://www.poormanprotein.com/recipes/inulin-syrup
 Source2:
 Source3:
 Source4:

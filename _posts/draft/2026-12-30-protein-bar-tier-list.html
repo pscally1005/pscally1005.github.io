@@ -37,6 +37,7 @@ tags:
 - poor man protein
 - homemade protein bars
 - protein bars
+- fulfil
 ---
 <div id='tldr' class='table-of-contents-2'></div>
 <b><u><font size='+2'>TL;DR</font></u></b><br>
@@ -107,6 +108,7 @@ The most important nutritional criterion for a protein bar is it's protein perce
 {% if remainder < 10 %}
   {% assign remainder = remainder | prepend: '0' %}
 {% endif %}
+------------------------------------------<br>
 <i>Price</i>: ${{ dollars }}.{{ remainder }}<br>
 {% if bar.file %}
   {% assign ratio = bar_protein | times: 100.0 | divided_by: bar_calories | round: 1 %}

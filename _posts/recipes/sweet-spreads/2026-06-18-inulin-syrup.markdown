@@ -36,7 +36,7 @@ section5:
 Prep: 5
 Rest:
 Cook: 5
-Source1:
+Source1: https://www.poormanprotein.com/recipes/fiber-protein-bar
 Source2:
 Source3:
 Source4:
