@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/cashew-ricotta-cheese
 image: /assets/Food/Savory Sauces/Cashew Ricotta/cover.jpg
 file: cashewricotta
-servingSize: 1 cup (224 g)
+servingSize: 1/4 cup (56 g)
 section1: Soak
 start2: Apple cider vinegar
 section2: Blend
