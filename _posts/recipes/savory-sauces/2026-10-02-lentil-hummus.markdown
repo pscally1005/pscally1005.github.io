@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/lentil-hummus
 image: /assets/Food/Savory Sauces/Lentil hummus/cover2.jpg
 file: lentilhummus
-servingSize: 1 tbsp (16 g)
+servingSize: 2 tbsp (30 g)
 section1: Cook the Lentils
 start2: Cashew butter
 section2: Rest of Ingredients

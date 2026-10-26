@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/blue-cheese-dressing
 image: /assets/Food/Savory Sauces/Blue Cheese/blue-cheese.jpg
 file: bluecheese
-servingSize: 1 tbsp (16 g)
+servingSize: 2 tbsp (30 g)
 section1:
 start2:
 section2:

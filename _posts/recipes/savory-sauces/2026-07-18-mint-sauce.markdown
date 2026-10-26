@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/mint-sauce
 image: /assets/Food/Savory Sauces/Mint Sauce/cover.jpg
 file: mintsauce
-servingSize: 1 tbsp (16 g)
+servingSize: 2 tbsp (30 g)
 section1:
 start2:
 section2:

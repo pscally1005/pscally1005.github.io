@@ -23,10 +23,10 @@ beans: yes
 permalink: /recipes/banana-bread-hummus
 image: /assets/Food/Sweet Spreads/BB Hummus/cover.jpg
 file: bbhummus
-servingSize: 1 tbsp (16 g)
 section1:
 start2:
 section2:
+servingSize: 2 tbsp (32 g)
 start3:
 section3:
 start4:

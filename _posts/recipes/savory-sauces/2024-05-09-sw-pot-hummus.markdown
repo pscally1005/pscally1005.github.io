@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/sweet-potato-hummus
 image: /assets/Food/Savory Sauces/Sw Pot Hummus/cover.jpg
 file: swpothummus
-servingSize: 1 tbsp (16 g)
+servingSize: 2 tbsp (31 g)
 section1: Baked Potato
 start2: Chickpeas, drained and rinsed
 section2: Hummus
