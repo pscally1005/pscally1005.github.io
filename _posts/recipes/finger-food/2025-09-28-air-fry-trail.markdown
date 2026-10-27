@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/air-fried-trail-mix
 image: /assets/Food/Finger Food/Air Fry Trail Mix/cover.jpg
 file: airfrytrail
-servingSize: 1 oz (29 g)
+servingSize: 1 oz (28 g)
 section1: Roasted Chickpeas
 start2: Almonds
 section2: Paprika Spiced Nuts
@@ -69,6 +69,6 @@ Instructions:
 - When totally cooled, mix the 3 bowls together, and transfer to an airtight bag.  Store at room temperature for up to 1 week
 - <img src='/assets/Food/Finger Food/Air Fry Trail Mix/combined.jpg' alt='' class='instruction-image'>
 Notes:
-- My <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/nuts#almonds'>almonds</a>, and <a href='/misc/fake-healthy-foods#chips'>banana chips</a> weighed a respective 114 g, 120 g, and 28 g.  That's a total of 262 g.  At 9 servings, each serving is 29 g, or about 1 oz
+- My <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/nuts#almonds'>almonds</a>, and <a href='/misc/fake-healthy-foods#chips'>banana chips</a> weighed a respective 114 g, 120 g, and 28 g.  That's a total of 262 g.  That's approximately 9 servings of 1 oz (28 g) each
 - <img src='/assets/Food/Finger Food/Air Fry Trail Mix/separate.jpg' alt='' class='instruction-image'>
 ---
