@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/whole-wheat-baguettes
 image: /assets/Food/Bread/Baguette/bruschetta-portrait.jpg
 file: baguette
-servingSize: 1 loaf
+servingSize: 1 baguette (~190 g)
 section1:
 start2:
 section2:

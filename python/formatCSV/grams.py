@@ -34,7 +34,7 @@ def grams(food, mass, vol):
             m = "60"
         elif vol == "1/4 cup":
             m = "45"
-        elif vol == "1 batch" or vol == "7 cup" or vol == "9 serving":
+        elif vol == "7 cup":
             m = "1260"
 
     # NOT drained and rinsed beans
@@ -2181,23 +2181,23 @@ def grams(food, mass, vol):
 
     # Sourdough
     elif food == "Sourdough starter":
-        if vol == "1 serving" or vol == "1/2 cup":
+        if vol == "1/2 cup":
             m = "120"
-        elif vol == "2 serving" or vol == "1 cup":
+        elif vol == "1 cup":
             m = "240"
-        elif vol == "4 serving" or vol == "2 cup":
+        elif vol == "2 cup":
             m = "480"
 
     # Baguette
     elif food == "Whole wheat baguette":
-        if vol == "1 serving" or vol == "1 medium":
+        if vol == "1 baguette" or vol == "1 medium":
             m = "190"
 
     # Flatbread
     elif food == "Sourdough Discard Flatbread":
-        if vol == "1 serving" or vol == "1 flatbread":
+        if vol == "1 medium" or vol == "1 flatbread":
             m = "48"
-        elif vol == "2 serving" or vol == "2 servings" or vol == "2 flatbreads":
+        elif vol == "2 medium" or vol == "2 flatbread" or vol == "2 flatbreads":
             m = "96"
 
     # Lactase
@@ -2268,7 +2268,7 @@ def grams(food, mass, vol):
 
     # True fruit flavors
     elif food == "True Lemon" or food == "True Lime" or food == "True Grapefruit":
-        if vol == "1 packet" or vol == "1 serving":
+        if vol == "1 packet":
             m = "0.8"
 
     # Citric acid
