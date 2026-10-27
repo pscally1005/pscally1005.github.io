@@ -54,18 +54,18 @@ tags:
 - dressing
 - lemon juice
 - tahini
-Description: This delicious and orange dip adds roasted carrots for sweet and roasty flavors to pair with the creamy hummus. For another orange hummus recipe, check out my Golden Sweet Potato Hummus. Or go through my whole page of hummus recipes!
+Description: This delicious and orange <a href='/recipes/savory-sauce'>dip</a> adds roasted <a href='/misc/veggies#carrots'>carrots</a> for sweet and roasty flavors to pair with the creamy <a href='/hummus'>hummus</a>. For another orange <a href='/hummus'>hummus</a> recipe, check out my <a href='/recipes/sweet-potato-hummus'>Golden Sweet Potato Hummus</a>. Or go through my whole page of <a href='/hummus'>hummus recipes</a>!
 Instructions:
-- Preheat your air fryer or oven to 400F. Chop your carrots into large chunks. Roast for about 20 minutes, or until fork tender and lightly browned.
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> or oven to 400F. Chop your <a href='/misc/veggies#carrots'>carrots</a> into large chunks. Roast for about 20 minutes, or until fork tender and lightly browned.
 
-- Drain and rinse a can of chickpeas, reserving the aquafaba.
+- Drain and rinse a can of <a href='/misc/beans#chickpeas'>chickpeas</a>, reserving the aquafaba.
 
-- Add carrots, chickpeas, lemon juice, tahini, minced garlic, salt, turmeric, cumin, and cayenne to a food processor. Blend until smooth.
+- Add <a href='/misc/veggies#carrots'>carrots</a>, <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, salt, turmeric, cumin, and cayenne to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until smooth.
 - <img src='/assets/Food/Savory Sauces/Carrot hummus/processor.jpg' alt='' class='instruction-image'>
 Notes:
-- Thin out with some aquafaba if the hummus is too thick.
+- Thin out with some aquafaba if the <a href='/hummus'>hummus</a> is too thick.
 
-- Any neutral nut or seed butter will work, such as tahini, almond butter, cashew butter, or even pea butter.
+- Any neutral <a href='/recipes/natural-peanut-butter'>nut or seed butter</a> will work, such as <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, or even <a href='/recipes/pea-butter'>pea butter</a>.
 
-- Do not use peanut butter, or it will distinctly taste like peanut butter.
+- Do not use <a href='/recipes/natural-peanut-butter'>peanut butter</a>, or it will distinctly taste like <a href='/recipes/natural-peanut-butter'>peanut butter</a>.
 ---

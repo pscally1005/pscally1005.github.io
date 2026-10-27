@@ -8543,7 +8543,9 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
-    "apple cider",
+    # "apple cider",
+    "orange hummus",
+    "orange dip",
     "into a cake anyway",
     "wholesome donuts",
     "of the chocolate",
