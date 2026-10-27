@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/cheesecake-bars
 image: /assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-cover.jpg
 file: cheesecakebar
-servingSize: 1 bar
+servingSize: 1 bar (72 g)
 section1: Crust
 start2: Natural peanut butter
 section2: Filling

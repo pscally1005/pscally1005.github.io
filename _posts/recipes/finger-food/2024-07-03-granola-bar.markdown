@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/granola-bars
 image: /assets/Food/Finger Food/Granola Bar/granola-bar-cover.jpg
 file: granolabar
-servingSize: 1 granola bar
+servingSize: 1 granola bar (37 g)
 section1:
 start2:
 section2:

@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/yogurt-bark
 image: /assets/Food/Finger Food/Yogurt Bark/bark-cover.jpg
 file: bark
-servingSize: 1 piece
+servingSize: 1 piece (24 g)
 section1:
 start2:
 section2:

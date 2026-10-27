@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/copycat-barebell
 image: /assets/Food/Protein Powder/Barbell/cover.jpg
 file: barbell-unsw
-servingSize: 1 protein bar
+servingSize: 1 bar (83 g)
 section1: Filling - Dry
 start2: Vanilla extract
 section2: Filling - Wet

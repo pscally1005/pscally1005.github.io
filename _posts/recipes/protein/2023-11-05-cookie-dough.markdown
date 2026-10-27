@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/protein-cookie-dough
 image: /assets/Food/Protein Powder/Cookie Dough/cookie-dough.jpg
 file: cookiedough
-servingSize: 1 piece
+servingSize: 1 piece (21 g)
 section1: Chocolate Chips
 start2: Unsweetened applesauce
 section2: Cookie Dough

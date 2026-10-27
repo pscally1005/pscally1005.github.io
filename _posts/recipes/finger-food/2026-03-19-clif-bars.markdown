@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/clif-bars
 image: /assets/Food/Finger Food/Clif Bars/cover.jpg
 file: clifhoney
-servingSize: 1 bar
+servingSize: 1 bar (75 g)
 section1: Wet Ingredients
 start2: Cinnamon
 section2: Dry ingredients

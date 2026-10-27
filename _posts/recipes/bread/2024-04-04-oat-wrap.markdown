@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/oat-wraps
 image: /assets/Food/Bread/Oat Wrap/oat-wrap.jpg
 file: oatwraps
-servingSize: 1 wrap
+servingSize: 1 wrap (~45 g)
 section1:
 start2:
 section2:

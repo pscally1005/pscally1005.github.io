@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/couscous
 image: /assets/Food/Sides/Couscous/couscous.jpg
 file: couscous
-servingSize: About 194 g
+servingSize: ~194 g
 section1: Step 1
 start2: Balsamic vinegar
 section2: Step 2

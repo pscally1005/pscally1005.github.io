@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/trail-mix-balls
 image: /assets/Food/Finger Food/Trail Mix Balls/trail-ball.jpg
 file: trailball
-servingSize: 1 ball
+servingSize: 1 ball (22 g)
 section1:
 start2:
 section2:

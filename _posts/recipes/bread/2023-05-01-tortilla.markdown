@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/tortilla
 image: /assets/Food/Bread/Tortillas/tortilla-cover.jpg
 file: tortillas
-servingSize: 1 tortilla
+servingSize: 1 tortilla (~45 g)
 section1:
 start2:
 section2:

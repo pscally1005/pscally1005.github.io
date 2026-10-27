@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/no-protein-bar
 image: /assets/Food/Meme/No protein bar/cover.jpg
 file: noproteinbar
-servingSize: 1 bar
+servingSize: 1 bar (97 g)
 section1: Filling
 start2: Extra virgin coconut oil
 section2: Coating

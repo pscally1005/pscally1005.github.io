@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/carob-peanut-bars
 image: /assets/Food/Finger Food/Carob Peanut/cover.jpg
 file: carobpbbar
-servingSize: 1 bar
+servingSize: 1 bar (85 g)
 section1: Base
 start2: Carob powder
 section2: Filling

@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/cilantro-lime-rice
 image: /assets/Food/Sides/Cilantro Lime/cover.jpg
 file: cilantrolimerice
-servingSize: 2/3 cup (100 g)
+servingSize: 2/3 cup (120 g)
 section1:
 start2:
 section2:

@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/caponata
 image: /assets/Food/Sides/Caponata/cover.jpg
 file: caponata
-servingSize: 1.5 cup (400 g)
+servingSize: 1 1/2 cup (400 g)
 section1: Eggplant
 start2: Onion
 section2: Other Veggies

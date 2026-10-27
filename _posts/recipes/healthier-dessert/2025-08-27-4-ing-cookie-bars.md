@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/4-ingredient-cookie-bars
 image: /assets/Food/Healthier Dessert/4 Ing Cookie Bars/cover.jpg
 file: 4ingcookiebars
-servingSize: 1 bar
+servingSize: 1 bar (34 g)
 section1: 
 start2: 
 section2: 

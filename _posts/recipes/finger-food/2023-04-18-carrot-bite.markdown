@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/carrot-cake-bites
 image: /assets/Food/Finger Food/Carrot Cake/carrot-cake-bite.jpg
 file: carrotbite
-servingSize: 1 bite
+servingSize: 1 bite (26 g)
 section1: Roasting the Carrots
 start2: Honey
 section2: Rest of the Energy Bites

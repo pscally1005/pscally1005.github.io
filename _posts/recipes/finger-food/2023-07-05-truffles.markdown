@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/truffles
 image: /assets/Food/Healthier Dessert/Truffle/truffle-cover.jpg
 file: truffle
-servingSize: 1 truffle
+servingSize: 1 truffle (20 g)
 section1: Truffles
 start2: Extra virgin coconut oil
 section2: Chocolate

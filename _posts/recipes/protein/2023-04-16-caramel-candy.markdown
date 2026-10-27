@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/protein-candy-bars
 image: /assets/Food/Protein Powder/Caramel/caramel-cover.jpg
 file: caramel
-servingSize: 1 bar
+servingSize: 1 bar (51 g)
 section1: Base Layer
 start2: Chickpeas, drained and rinsed
 section2: Caramel Layer

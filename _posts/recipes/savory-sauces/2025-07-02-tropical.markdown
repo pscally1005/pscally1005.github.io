@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/tropical-salsa
 image: /assets/Food/Savory Sauces/Tropical Salsa/salsa.jpg
 file: tropical
-servingSize: 2 tbsp (30 g)
+servingSize: 2 tbsp (33 g)
 section1:
 start2:
 section2:

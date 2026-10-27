@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/trail-mix
 image: /assets/Food/Finger Food/Trail Mix/trail-mix.jpg
 file: trailmix
-servingSize: 1/4 cup (30 g)
+servingSize: 1 oz (28 g)
 section1:
 start2:
 section2:

@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/pan-de-higo
 image: /assets/Food/Finger Food/Pan de Higo/cover.jpg
 file: pandehigo
-servingSize: 1 piece
+servingSize: 1 piece (22 g)
 section1:
 start2:
 section2:

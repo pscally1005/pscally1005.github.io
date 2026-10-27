@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/date-snickers
 image: /assets/Food/Finger Food/Date Snickers/date-snickers.jpg
 file: datesnickers
-servingSize: 1 date
+servingSize: 1 date (13 g)
 section1:
 start2:
 section2:

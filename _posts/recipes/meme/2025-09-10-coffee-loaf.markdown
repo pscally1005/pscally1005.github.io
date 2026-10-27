@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/coffee-loaf
 image: /assets/Food/Meme/Coffee Loaf/cover.jpg
 file: coffeeloaf
-servingSize: 1 slice
+servingSize: 1 slice (38 g)
 section1: Coffee
 start2: Whole wheat flour
 section2: Dry Ingredients

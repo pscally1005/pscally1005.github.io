@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/three-ingredient-fudge
 image: /assets/Food/Finger Food/Bulking Fudge/cover.jpg
 file: bulkingfudgeplain
-servingSize: 1 piece
+servingSize: 1 piece (14 g)
 section1:
 start2:
 section2:

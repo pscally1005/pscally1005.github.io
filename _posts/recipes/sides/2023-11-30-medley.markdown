@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/vegetable-medley
 image: /assets/Food/Sides/Medley/pan.jpg
 file: medley
-servingSize: About 190 g
+servingSize: ~190 g
 section1: Onions
 start2: Chili powder
 section2: Spices

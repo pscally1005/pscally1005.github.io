@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/tuna-cakes
 image: /assets/Food/Fish/Tuna Cake/tuna-cake-cover.jpg
 file: tunacake
-servingSize: 1 cake
+servingSize: 1 cake (TODO)
 section1:
 start2:
 section2:

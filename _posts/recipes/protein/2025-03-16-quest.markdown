@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/copycat-quest-bars
 image: /assets/Food/Protein Powder/Quest/cover.jpg
 file: quest
-servingSize: 1 bar
+servingSize: 1 bar (65 g)
 section1:
 start2:
 section2:

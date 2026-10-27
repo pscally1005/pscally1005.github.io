@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/ww-bread
 image: /assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg
 file: wwbread
-servingSize: 1 slice
+servingSize: 1 slice (~30 g)
 section1: Base Bread
 start2: Extra virgin olive oil
 section2: Optional Additions

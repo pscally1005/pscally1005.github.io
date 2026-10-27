@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/protein-bar
 image: /assets/Food/Protein Powder/Protein Bar/protein-bar.jpg
 file: proteinbar
-servingSize: 1 bar
+servingSize: 1 bar (47 g)
 section1:
 start2:
 section2:

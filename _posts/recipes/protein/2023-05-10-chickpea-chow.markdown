@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/chickpea-chows
 image: /assets/Food/Protein Powder/Chickpea Chow/chow.jpg
 file: chow
-servingSize: 1 piece
+servingSize: 1 piece (21 g)
 section1:
 start2:
 section2:

@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/protein-chocolate-bar
 image: /assets/Food/Meme/Protein Chocolate/cover.jpg
 file: proteinchocolatebar
-servingSize: 1 oz (29 g)
+servingSize: 1 oz (28 g)
 section1:
 start2:
 section2:

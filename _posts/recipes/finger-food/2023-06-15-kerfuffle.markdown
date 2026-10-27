@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/chocolate-truffle
 image: /assets/Food/Finger Food/Kerfuffle/kerfuffle.jpg
 file: kerfuffle
-servingSize: 1 truffle
+servingSize: 1 truffle (16 g)
 section1:
 start2:
 section2:

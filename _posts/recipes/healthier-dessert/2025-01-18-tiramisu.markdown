@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/tiramisu
 image: /assets/Food/Healthier Dessert/Tiramisu/tiramisu-cover.jpg
 file: tiramisu
-servingSize: 1 slice
+servingSize: 1 slice (69 g)
 section1: "Ladyfingers"
 start2: Natural peanut butter
 section2: "Cream"

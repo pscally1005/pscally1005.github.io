@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/sweet-potato-pie
 image: /assets/Food/Protein Powder/Sw Pot Pie/sw-pot-pie-cover.jpg
 file: swpotpie
-servingSize: 1 bar
+servingSize: 1 bar (22 g)
 section1:
 start2:
 section2:

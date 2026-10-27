@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/pecan-pie-bars
 image: /assets/Food/Healthier Dessert/Pecan pie bars/cover.jpg
 file: pecanpiebarshoney
-servingSize: 1 bar
+servingSize: 1 bar (37 g)
 section1: Crust
 start2: Honey
 section2: Filling

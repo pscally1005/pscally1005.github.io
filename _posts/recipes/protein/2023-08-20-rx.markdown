@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/rx-bars
 image: /assets/Food/Protein Powder/RX/cover.jpg
 file: rxnew
-servingSize: 1 bar
+servingSize: 1 bar (54 g)
 section1:
 start2:
 section2:

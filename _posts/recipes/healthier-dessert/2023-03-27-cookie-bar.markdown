@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/cookie-bar
 image: /assets/Food/Healthier Dessert/Cookie Bar/cover.jpg
 file: cookiebar
-servingSize: 1 bar
+servingSize: 1 bar (36 g)
 section1:
 start2:
 section2:

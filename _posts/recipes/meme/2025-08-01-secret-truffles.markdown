@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/secret-truffles
 image: /assets/Food/Meme/Secret/cover.jpg
 file: secret
-servingSize: 1 truffle
+servingSize: 1 truffle (19 g)
 section1: Truffle
 start2: Cocoa Powder
 section2: Coating

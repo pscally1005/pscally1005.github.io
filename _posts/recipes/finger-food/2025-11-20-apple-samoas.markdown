@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/apple-samoas
 image: /assets/Food/Finger Food/Apple Samoas/cover.jpg
 file: applesamoas
-servingSize: 1 "cookie"
+servingSize: 1 "cookie" (24 g)
 section1: Apple
 start2: Unsweetened coconut flakes
 section2: Coconut Mix

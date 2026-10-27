@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/pistachio-truffles
 image: /assets/Misc/Unhealthy/Pistachio Truffle/cover1.jpg
 file: pistachiotruffle
-servingSize: 1 piece
+servingSize: 1 piece (27 g)
 section1: Filling
 start2: Chocolate chips
 section2: Coating
