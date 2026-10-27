@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/hollandaise
 image: /assets/Food/Savory Sauces/Hollandaise/cover.jpg
 file: hollandaise
-servingSize:
+servingSize: 2 tbsp (30 g)
 section1:
 start2:
 section2:

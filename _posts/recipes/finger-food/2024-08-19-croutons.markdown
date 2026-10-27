@@ -61,5 +61,5 @@ Instructions:
 Notes:
 - The whole batch (cooked) weighs about 100 g, so there's about 3 1/2 servings of 1 oz (28 g) each
 
-- The cover photo for this recipe is a Caesar salad I made by tossing together half a large head of <a href='/misc/veggies#lettuce'>romaine lettuce</a>, 1 serving of my <a href='/recipes/greek-yogurt-caesar-dressing'>Greek Yogurt Caesar Dressing</a>, 1 serving (33 g) of these croutons, and 1/2 oz (15 g) crumbled <a href='/misc/dairy#feta'>feta cheese</a>
+- The cover photo for this recipe is a Caesar salad I made by tossing together half a large head of <a href='/misc/veggies#lettuce'>romaine lettuce</a>, 2 tbsp (30 g) <a href='/recipes/greek-yogurt-caesar-dressing'>Greek Yogurt Caesar Dressing</a>, 1 oz (28 g) <a href='#recipe'>these croutons</a>, and 1/2 oz (14 g) crumbled <a href='/misc/dairy#feta'>feta cheese</a>
 ---

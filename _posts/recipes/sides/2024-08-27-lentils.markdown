@@ -23,7 +23,7 @@ beans: yes
 permalink: /recipes/red-lentils
 image: /assets/Food/Sides/Lentils/lentils.jpg
 file: lentils
-servingSize:
+servingSize: 2/3 cup (120 g)
 section1:
 start2:
 section2:

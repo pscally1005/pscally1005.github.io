@@ -27,7 +27,7 @@ file: carrothummus
 servingSize: 2 tbsp (30 g)
 section1: Roasted Carrots
 start2: Chickpeas, drained and rinsed
-section2: Rest of Hummus
+section2: Remaining Ingredients
 start3:
 section3:
 start4:
@@ -36,7 +36,7 @@ start5:
 section5:
 Prep: 5
 Rest:
-Cook: 30
+Cook: 20
 Source1: https://www.poormanprotein.com/hummus
 Source2:
 Source3:
@@ -54,7 +54,7 @@ tags:
 - dressing
 - lemon juice
 - tahini
-Description: This delicious and orange <a href='/recipes/savory-sauce'>dip</a> adds roasted <a href='/misc/veggies#carrots'>carrots</a> for sweet and roasty flavors to pair with the creamy <a href='/hummus'>hummus</a>. For another orange <a href='/hummus'>hummus</a> recipe, check out my <a href='/recipes/sweet-potato-hummus'>Golden Sweet Potato Hummus</a>. Or go through my whole page of <a href='/hummus'>hummus recipes</a>!
+Description: This delicious orange <a href='/recipes/savory-sauces'>dip</a> adds roasted <a href='/misc/veggies#carrots'>carrots</a> for sweet and roasty flavors to pair with the creamy <a href='/hummus'>hummus</a>. For another orange <a href='/hummus'>hummus</a> recipe, check out my <a href='/recipes/sweet-potato-hummus'>Golden Sweet Potato Hummus</a>. Or go through my whole page of <a href='/hummus'>hummus recipes</a>!
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> or oven to 400F. Chop your <a href='/misc/veggies#carrots'>carrots</a> into large chunks. Roast for about 20 minutes, or until fork tender and lightly browned.
 
@@ -65,7 +65,7 @@ Instructions:
 Notes:
 - Thin out with some aquafaba if the <a href='/hummus'>hummus</a> is too thick.
 
-- Any neutral <a href='/recipes/natural-peanut-butter'>nut or seed butter</a> will work, such as <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, or even <a href='/recipes/pea-butter'>pea butter</a>.
+- Any mild-flavored <a href='/recipes/natural-peanut-butter'>nut or seed butter</a> will work, such as <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, or even <a href='/recipes/pea-butter'>pea butter</a>.
 
 - Do not use <a href='/recipes/natural-peanut-butter'>peanut butter</a>, or it will distinctly taste like <a href='/recipes/natural-peanut-butter'>peanut butter</a>.
 ---

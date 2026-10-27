@@ -86,7 +86,7 @@ Notes:
 - |
   Optional (Chicken Parm):<br><br>
 
-  Add <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> (about 1/2 cup or 120 g for the whole batch of <a href='/misc/meat#chicken-breast'>chicken</a>) and <a href='/misc/dairy#mozzarella'>shredded mozzarella cheese</a> (about 3/4 cup or 84 g for the whole batch of <a href='/misc/meat#chicken-breast'>chicken</a>) to the top of the <a href='/misc/meat#chicken-breast'>chicken</a>, and broil until the <a href='/misc/dairy#mozzarella'>cheese</a> is melted (about 2 minutes).<br><br>
+  Add <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> (about 1/2 cup or 128 g for the whole batch of <a href='/misc/meat#chicken-breast'>chicken</a>) and <a href='/misc/dairy#mozzarella'>shredded mozzarella cheese</a> (about 3/4 cup or 85 g for the whole batch of <a href='/misc/meat#chicken-breast'>chicken</a>) to the top of the <a href='/misc/meat#chicken-breast'>chicken</a>, and broil until the <a href='/misc/dairy#mozzarella'>cheese</a> is melted (about 2 minutes).<br><br>
 
   Note - DO NOT USE PARCHMENT PAPER FOR CHICKEN PARM. IT WILL BURN UNDER THE BROILER
 

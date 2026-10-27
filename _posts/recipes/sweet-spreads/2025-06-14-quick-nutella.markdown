@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/quick-nutella
 image: /assets/Food/Sweet Spreads/Quick Nutella/coverNew.jpg
 file: quicknutella
-servingSize:
+servingSize: Whole batch (54 g)
 section1:
 start2:
 section2:

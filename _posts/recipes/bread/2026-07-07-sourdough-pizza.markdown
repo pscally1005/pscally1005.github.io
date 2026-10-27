@@ -126,7 +126,7 @@ Notes:
 
     <li>You can freeze any leftover raw pizza dough.  After letting the dough rest in the fridge for at least 24 hours, add each dough ball to their own individual airtight bag, and store in the freezer indefinitely.</li><br>
 
-    <li>Below are nutrition facts for 1 serving of <a href='#recipe'>just the pizza dough itself</a>, compared to topped with 2 tbsp (30 g) of <a href='/recipes/pasta-sauce'>sauce</a> and 1 oz (28 g) of <a href='/misc/dairy#mozzarella'>cheese</a>:</li>
+    <li>Below are nutrition facts for 1 serving of <a href='#recipe'>just the pizza dough itself</a>, compared to topped with 2 tbsp (32 g) <a href='/recipes/pasta-sauce'>sauce</a> and 1 oz (28 g) <a href='/misc/dairy#mozzarella'>cheese</a>:</li>
 
 - |
   COMPARE(
