@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/mint-protein-bar
 image: /assets/Food/Protein Powder/Mint Protein Bar/cover.jpg
 file: mintprotbar
-servingSize:
+servingSize: 1 bar (141 g)
 section1:
 start2:
 section2:
