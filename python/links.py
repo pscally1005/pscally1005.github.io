@@ -8570,8 +8570,12 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     # "apple cider",
+    "without and with the chocolate",
+    "without and with chocolate",
+    "adding chocolate adds",
     "orange hummus",
     "orange dip",
+    "coat them in chocolate",
     "into a cake anyway",
     "wholesome donuts",
     "of the chocolate",

@@ -71,38 +71,39 @@ tags:
 - melted chocolate
 - chocolate chips
 Description: |
-  Fall season means pumpkin season! And there's no better way to celebrate while still hitting your protein targets than with these Pumpkin Protein Pops. These high-protein cake pops are gluten-free, sugar-free, and vegan, while being packed with protein and pumpkin spice flavor. They're also a good source of both healthy fats abd fiber, and contains only 1 g of net carbs.<br><br>
+  Fall season means <a href='/misc/veggies#pumpkin'>pumpkin</a> season! And there's no better way to celebrate while still hitting your <a href='/misc/protein'>protein</a> targets than with <a href='#recipe'>these Pumpkin Protein Pops</a>. These <a href='/misc/high-protein'>high-protein</a> cake pops are <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, and vegan, while being packed with <a href='/misc/protein'>protein</a> and pumpkin spice flavor. They're also a good source of both <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, and contain only 1 g of <a href='/misc/carbs'>net carbs</a>.<br><br>
 
-  If you're bulking this season, then you can coat them chocolate for some extra fat and carbs. Or keep them naked for a cut. Or coat just some of them; whatever you're feeling up to!<br><br>
+  If you're bulking this season, then you can coat them in chocolate for some extra <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carbs</a>. Or keep them naked for a cut. Or coat just some of them; whatever you're feeling up to!<br><br>
 
-  For some other protein packed pumpkin treats, check out the following recipes!<br>
+  For some other <a href='/misc/protein'>protein</a> packed <a href='/misc/veggies#pumpkin'>pumpkin</a> treats, check out the following recipes!
   <ul>
-    <li>Perfect Protein Packed Pumpkin Pie</li>
-    <li>Protein Pumpkin Loaf</li>
-    <li>Pumpkin Spice High Protein Baked Oats</li>
-    <li>Pumpkin Protein Pancakes</li>
-    <li>Pumpkin Pie Protein Overnight Oats</li>
+    <li><a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a></li>
+    <li><a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a></li>
+    <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
+    <li><a href='/recipes/pancake'>Pumpkin Protein Pancakes</a></li>
+    <li><a href='/recipes/pumpkin-baked-oats'>Pumpkin Spice High Protein Baked Oats</a></li>
   </ul>
+  <a href='/recipes/pumpkin-baked-oats'><img src='/assets/Food/Breakfast/Baked Oats/Pumpkin/cover.jpg' alt='' class='instruction-image'></a>
 Instructions:
-- Mix all ingredient together in a large bowl to form a dough.
+- Mix all ingredient together in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> to form a dough.
 - <img src='/assets/Food/Protein Powder/Pumpkin Pops/bowl.jpg' alt='' class='instruction-image'>
 
-- Roll into balls, about <i>64</i> total of <b>21 g</b> each, and place onto a place or cookie sheet.
+- Roll into balls, about <i>64</i> total of <b>21 g</b> each, and place onto a plate or <a href='https://amzn.to/45sRAsB'>cookie sheet</a>.
 - <img src='/assets/Food/Protein Powder/Pumpkin Pops/plate.jpg' alt='' class='instruction-image'>
 
 - Stick a toothpick into each one, and store in the refrigerator.
 - <img src='/assets/Food/Protein Powder/Pumpkin Pops/cover-1.jpg' alt='' class='instruction-image'>
 Notes:
-- Any nut or seed butter will work, such as almond butter, cashew butter, peanut butter, tahini, pumpkin seed butter, or even homemade pea butter.
+- Any <a href='/recipes/natural-peanut-butter'>nut or seed butter</a> will work, such as <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/recipes/natural-peanut-butter'>peanut butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a>, or even <a href='/recipes/pea-butter'>homemade pea butter</a>.
 
 - |
-  Optionally, you can coat these in melted chocolate.<br><br>
+  Optionally, you can coat these in melted chocolate. Freeze the <a href='#recipe'>pumpkin pops</a> with the toothpick for about 30 minutes before dipping in melted chocolate.<br><br>
 
   The weights of the <a href='#recipe'>pumpkin pops</a> both without and with chocolate are about <b>21 g</b> and <b>33 g</b>, respectively, meaning each <a href='#recipe'>pumpkin pop</a> holds about <i>12 g</i> of melted chocolate.<br><br>
 
   Doing this 64 times means that you would need roughly 4 1/4 cup (765 g) of melted chocolate for the entire batch, though it's always helpful to have extra melted chocolate, as you will need excess to be able to proprly coat them.
 
-- Note that adding chocolate adds a significant amount of sugar, fat, and calories, and no longer makes these high protein.
+- Note that adding chocolate adds a significant amount of <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/calories'>calories</a>, and no longer makes these <a href='/misc/high-protein'>high protein</a>.
 # - <img src='/assets/Food/Protein Powder/Pumpkin Pops/choc-plate.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Protein Powder/Pumpkin Pops/choc-cover-2.jpg' alt='' class='instruction-image'>
 - |
