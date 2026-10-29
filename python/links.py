@@ -11,6 +11,30 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/pumpkin-pops": [
+        "cake pops",
+        "cake pop",
+        "pumpkin protein pops",
+        "protein pumpkin pops",
+        "pumpkin protien pop",
+        "protein pumpkin pop",
+        "pumpkin cake pops",
+        "pumpkin cake pop",
+        "protein cake pops",
+        "protein cake pop",
+        "chocolate pumpkin protein pops",
+        "chocolate pumpkin protein pop",
+        "chocolate pumpkin cake pops",
+        "chocolate pumpkin cake pop",
+        "chocolate cake pops",
+        "chocolate cake pop",
+        "chocolate protein cake pops",
+        "chocolate protein cake pop",
+        "protein chocolate cake pops",
+        "protein chocolate cake pop",
+        "protein pumpkin cake pops",
+        "protein pumpkin cake pop"
+    ],
     "/recipes/carrot-hummus": [
         "roasted carrot hummus",
         "carrot hummus"
@@ -486,7 +510,9 @@ LINKS = {
         "pea-nut butter",
         "pea-not butter",
         "pea nut butter",
-        "pea not butter"
+        "pea not butter",
+        "homemade pea butter",
+        "pea butter recipe"
     ],
     "/recipes/protein-shake-to-go": [
         "protein shake to go",
@@ -10702,7 +10728,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-02")):
+            if not file.startswith(("2026-11-03")):
                 continue
 
             # exclude some files

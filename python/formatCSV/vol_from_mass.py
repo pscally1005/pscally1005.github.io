@@ -112,6 +112,8 @@ def vol_from_mass(food, mass, vol):
             v = "25 scoop"
         elif mass == "8.4":
             v = "1 tbsp"
+        elif mass == "16.8":
+            v = "2 tbsp"
         elif mass == "9.30":
             v = "30 scoop"
         elif mass == "10.85":
@@ -1063,6 +1065,15 @@ def vol_from_mass(food, mass, vol):
             v = "5 scoop"
         elif mass == "180":
             v = "6 scoop"
+        elif mass == "210":
+            v = "7 scoop"
+        elif mass == "240":
+            v = "8 scoop"
+
+    # Pumpkin Protein Pops
+    elif food == "Pumpkin Protein Pops":
+        if mass == "21.5" or mass == "21" or mass == "22":
+            v = "1 ball"
 
     # Nuts
     elif food == "Almonds" or food == "Walnuts" or food == "Cashews" or food == "Pistachios" or food == "Pecans" or food == "Macadamia nuts" or food == "Hazelnuts" or food == "Brazil nuts" or food == "Mixed nuts" or food == "Mixed nuts, unsalted" or food == "Peanuts" or food == "Pine nuts":

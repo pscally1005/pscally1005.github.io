@@ -89,6 +89,8 @@ def grams(food, mass, vol):
         m = "681"
     elif vol == "28 oz " or vol == "28 oz can":
         m = "792"
+    elif vol == "30 oz":
+        m = "850"
     elif vol == "32 oz" or vol == "2 lb":
         m = "908"
     elif vol == "2.5 lb":
@@ -1046,6 +1048,15 @@ def grams(food, mass, vol):
             m = "150"
         elif vol == "6 scoop":
             m = "180"
+        elif vol == "7 scoop":
+            m = "210"
+        elif vol == "8 scoop":
+            m = "240"
+
+    # Pumpkin Protein Pops
+    elif food == "Pumpkin Protein Pops":
+        if vol == "1 ball" or vol == "1 pop":
+            m = "21.5"
 
     # PB cups
     elif food == "Reese's Peanut Butter Cups":
@@ -2114,6 +2125,8 @@ def grams(food, mass, vol):
             m = "7.75"
         elif vol == "1 tbsp":
             m = "8.4"
+        elif vol == "2 tbsp":
+            m = "16.8"
         elif vol == "30 scoop":
             m = "9.30"
         elif vol == "35 scoop":

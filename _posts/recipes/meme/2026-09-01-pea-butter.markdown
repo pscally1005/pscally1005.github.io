@@ -59,6 +59,7 @@ tags:
 - pea butter recipe
 - nut free peanut butter
 - nut-free peanut butter
+- pea butter recipe
 Description: |
   This isn't <a href='/recipes/natural-peanut-butter'>peanut butter</a>.  It's pea butter, aka <a href='https://amzn.to/4aXnK21'>pea protein</a> with <a href='/misc/olive-oil'>extra virgin olive oil</a>.  The <a href='/misc/olive-oil'>oil</a> and <a href='https://amzn.to/4aXnK21'>protein powder</a> add the exact amounts of <a href='/misc/fats'>fats</a> and <a href='/misc/protein'>protein</a>, while <a href='/misc/grains#oats'>oats</a> and <a href='https://amzn.to/47w8h7R'>inulin</a> add <a href='/misc/carbs'>net carbs</a> and <a href='/misc/fiber'>fiber</a>.  Finally, salt and <a href='https://amzn.to/3P2NFNU'>potassium chloride</a> add <a href='/misc/sodium'>sodium</a> and <a href='/misc/potassium'>potassium</a>.<br><br>
 

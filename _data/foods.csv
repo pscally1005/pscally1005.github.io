@@ -607,3 +607,4 @@ Quest Bar,quest-bar-100g,2.20,60.00,0.03667,8.6,5,TRUE,TRUE,FALSE,FALSE,FALSE,TR
 Rx Bar,rx-bar-100g,1.75,52.00,0.03365,6.9,50,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4h63UEd
 Think Bar,think-100g,2.00,60.00,0.03333,7.5,27,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,18.3,0.0,0.4,0,15,https://amzn.to/4dhcvme
 Fulfil Bar,fulfil-100g,1.83,40.00,0.04575,7.5,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,15.0,0.0,0.6,0,15,https://link.amazon/B09LSfCjn
+Pumpkin Protein Pops,pumpkin-protein-pop-100g,12.19,"1,376.00",0.00886,9.5,41,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/pumpkin-pops
