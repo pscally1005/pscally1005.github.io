@@ -71,6 +71,10 @@ tags:
 - high protein
 - melted chocolate
 - chocolate chips
+- cake pops
+- truffles
+- bon bons
+- bonbons
 Description: |
   Fall season means <a href='/misc/veggies#pumpkin'>pumpkin</a> season! And there's no better way to celebrate while still hitting your <a href='/misc/protein'>protein</a> targets than with <a href='#recipe'>these Pumpkin Protein Pops</a>.<br><br>
 
@@ -97,7 +101,9 @@ Instructions:
 - Stick a toothpick into each one, and store in the refrigerator.
 - <img src='/assets/Food/Protein Powder/Pumpkin Pops/cover-1.jpg' alt='' class='instruction-image'>
 Notes:
-- Any <a href='/recipes/natural-peanut-butter'>nut or seed butter</a> will work, such as <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/recipes/natural-peanut-butter'>peanut butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a>, or even <a href='/recipes/pea-butter'>homemade pea butter</a>.
+- Any <a href='/recipes/natural-peanut-butter'>nut or seed butter</a> will work, such as <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a>, or even <a href='/recipes/pea-butter'>homemade pea butter</a>.
+
+- <a href='/misc/dairy#casein'>Casein</a> can be used as a 1:1 substitute for <a href='/misc/dairy#pea-protein'>pea protein</a>. I have not tried this with <a href='/misc/dairy#whey'>whey</a>.
 
 - |
   Optionally, you can coat these in melted chocolate. Freeze the <a href='#recipe'>pumpkin pops</a> with the toothpick for about 30 minutes before dipping in melted chocolate.<br><br>

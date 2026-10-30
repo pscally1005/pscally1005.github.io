@@ -1,0 +1,89 @@
+---
+layout: post
+title:  High Protein Reese's Lava Cake
+date:   2026-10-30 00:00:00 -0500
+categories:
+- Recipes
+- Protei nPowder
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: yes
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+beans: no
+permalink: /recipes/lava-cake
+image: /assets/Food/Protein Powder/Lava Cake/cover.jpg
+file: lava
+servingSize: 1 cake (~TODO g)
+section1: Filling
+start2: Whey protein powder, vanilla
+section2: Cake
+start3: Whey protein powder, chocolate
+section3: Frosting
+start4:
+section4:
+start5:
+section5:
+Prep: 10
+Rest: 30
+Cook: 10
+Source1: https://www.instagram.com/reels/Dc3Sx9AxFaH/
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/tzPCV
+tags:
+- lava cake
+- reese's
+- reeses
+- chocolate
+- cocoa powder
+- peanut butter
+- powdered peanut butter
+- pb2
+- high-protein
+- high protein
+- cake
+- frosting
+- filling
+- gluten-free
+- gluten free
+- sugar-free
+- sugar free
+- whey protein powder
+Description: With a chocolate cake outside, a gooey peanut butter filling, and a creamy chocolate frosting, this high protein lava cake is sure to beat any sugar cravings. Each cake has over 50 g of protein in under 400 calories, as well as no added sugar and 10 g of fiber.
+Instructions:
+- Mix together powdered peanut butter and almond milk in a small bowl to form a dough. Freeze for 30 minutes.
+- <img src='/assets/Food/Protein Powder/Lava Cake/filling.jpg' alt='' class='instruction-image'>
+
+- Mix together protein powder, oat flour, powdered peanut butter, cocoa powder, sweetener, baking powrer, almond milk, and vanilla in a small bowl.
+- <img src='/assets/Food/Protein Powder/Lava Cake/bowl.jpg' alt='' class='instruction-image'>
+
+- Pour the cake batter into a lightly greased ramekin. Insert your frozen peanut butter ball into the center, and submerge it as much as possible.
+- <img src='/assets/Food/Protein Powder/Lava Cake/raw.jpg' alt='' class='instruction-image'>
+
+- Cook at 350F for 12 minutes in the oven or 8 minutes in the air fryer.
+- <img src='/assets/Food/Protein Powder/Lava Cake/baked.jpg' alt='' class='instruction-image'>
+
+- Let it cool for 5 minutes before inverting onto a plate.
+- <img src='/assets/Food/Protein Powder/Lava Cake/plate.jpg' alt='' class='instruction-image'>
+
+- Mix together protein powder, cocoa powder, and almond milk in a small bowl.
+- <img src='/assets/Food/Protein Powder/Lava Cake/frosting.jpg' alt='' class='instruction-image'>
+
+- Spread the frosting on top of the lava cake.
+- <img src='/assets/Food/Protein Powder/Lava Cake/frosted.jpg' alt='' class='instruction-image'>
+Notes:
+- I'm using vanilla whey in the cake and chocolate whey in the frosting, but you can do the other way around, or use all vanilla in both or all chocolate in both; whatever you have on hand.
+---

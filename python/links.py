@@ -11,6 +11,30 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/pumpkin-whipped-feta": [
+        "pumpkin whipped feta",
+        "pumpkin whipped feta spread"
+    ],
+    "/recipes/lava-cake": [
+        "lava cake",
+        "protein lava cake",
+        "high protein lava cake",
+        "high-protein lava cake",
+        "reese's lava cake",
+        "reeses lava cake",
+        "protein reeses lava cake",
+        "protein reese's lava cake",
+        "high protein reeses lava cake",
+        "high protein reese's lava cake",
+        "high-protein reeses lava cake",
+        "high-protein reese's lava cake",
+        "chocolate lava cake",
+        "peanut butter lava cake",
+        "chocolate peanut butter lava cake",
+        "peanut butter chocolate lava cake",
+        "chocolate peanut butter protein lava cake",
+        "peanut butter chocolate protein lava cake"
+    ],
     "/recipes/pumpkin-pops": [
         "cake pops",
         "cake pop",
@@ -2909,10 +2933,10 @@ LINKS = {
         "dairy free whipped cream",
         "whipped cream"
     ],
-    "/recipes/whipped-feta-spread": [
-        "Whipped Feta Spread",
-        "feta spread"
-    ],
+    # "/recipes/whipped-feta-spread": [
+    #     "Whipped Feta Spread",
+    #     "feta spread"
+    # ],
     "/recipes/white-bean-croutons": [
         "White Bean Croutons",
         "gluten free croutons",
@@ -8034,6 +8058,8 @@ LINKS = {
     ],
     "/recipes/savory-sauces": [
         # "sauce",
+        "dips",
+        "dip",
         "sauces and dips",
         "savory sauces",
         "savory sauce",
@@ -10736,7 +10762,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-03")):
+            if not file.startswith(("2026-11-04", "2026-12-29")):
                 continue
 
             # exclude some files
