@@ -1072,7 +1072,7 @@ def vol_from_mass(food, mass, vol):
 
     # Pumpkin Protein Pops
     elif food == "Pumpkin Protein Pops":
-        if mass == "21.5" or mass == "21" or mass == "22":
+        if mass == "21.5" or mass == "21" or mass == "22" or mass == "21.6":
             v = "1 ball"
 
     # Nuts

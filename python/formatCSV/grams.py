@@ -1056,7 +1056,7 @@ def grams(food, mass, vol):
     # Pumpkin Protein Pops
     elif food == "Pumpkin Protein Pops":
         if vol == "1 ball" or vol == "1 pop":
-            m = "21.5"
+            m = "21.6"
 
     # PB cups
     elif food == "Reese's Peanut Butter Cups":

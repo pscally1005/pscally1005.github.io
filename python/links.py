@@ -33,7 +33,11 @@ LINKS = {
         "protein chocolate cake pops",
         "protein chocolate cake pop",
         "protein pumpkin cake pops",
-        "protein pumpkin cake pop"
+        "protein pumpkin cake pop",
+        "protein pops",
+        "protein pop",
+        "pumpkin pops",
+        "pumpkin pop"
     ],
     "/recipes/carrot-hummus": [
         "roasted carrot hummus",

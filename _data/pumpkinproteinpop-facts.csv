@@ -9,7 +9,7 @@ Calories,42,,
 "Retinol",0,mcg,
 "Thiamin [Vitamin B1]",0.017,mg,1 %
 "Riboflavin [Vitamin B2]",0.057,mg,4 %
-"Niacin [Vitamin B3]",0.26,mg,2 %
+"Niacin [Vitamin B3]",0.261,mg,2 %
 "Pantothenic acid [Vitamin B5]",0.097,mg,2 %
 "Vitamin B6",0.025,mg,1 %
 "Vitamin B12 [Cobalamin]",0,mcg,0 %
@@ -37,7 +37,7 @@ Calories,42,,
 "Phosphorus",68,mg,5 %
 "Potassium",68,mg,1 %
 "Selenium",0.83,mcg,2 %
-"Sodium",38,mg,2 %
+"Sodium",33,mg,1 %
 "Zinc",0.58,mg,5 %
 "Protein",4.07,g,8 %
 "Histidine",0.084,g,7 %
@@ -61,11 +61,11 @@ Calories,42,,
 "Alanine",0.18,g,
 "Aspartic acid",0.402,g,
 "Hydroxyproline",0,g,
-"Carbohydrate",2.29,g,1 %
+"Carbohydrate",2.31,g,1 %
 "Fiber",0.95,g,3 %
-"Sugars",0.84,g,
+"Sugars",0.86,g,
 "Sugars, added",0,g,0 %
-"Net carbs",1.34,g,
+"Net carbs",1.36,g,
 "Fat",2.101,g,3 %
 "Saturated fatty acids",0.187,g,1 %
 "Butanoic acid",0,g,
@@ -91,9 +91,9 @@ Calories,42,,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Fatty acids, total trans",0,g,
 "Cholesterol",0,mg,0 %
-"Alcohol, ethyl",0,g,
+"Alcohol, ethyl",0.1,g,
 "Ash",0.07,g,
 "Caffeine",0,mg,
 "Serine",0.144,g,
 "Theobromine",0,mg,
-"Water",19.78,g,
+"Water",19.86,g,
