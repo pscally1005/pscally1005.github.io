@@ -55,12 +55,12 @@ tags:
 - vic
 - fall
 - spread
-Description: This pumpkin whipped feta is the perfect sauce or dip this fall season. It blends together pumpkin puree and feta cheese with vanilla greek yogurt and thyme for the perfect sweet and savory dip. Use it on anything from bread to raw veggies, or as a salad dressing or sandwich spread!
+Description: This <a href='/misc/veggies#pumpkin'>pumpkin</a> whipped <a href='/misc/dairy#feta'>feta</a> is the perfect <a href='/recipes/savory-sauces'>sauce or dip</a> this fall season. It blends together <a href='/recipes/pumpkin-puree'>pumpkin puree</a> and <a href='/misc/dairy#feta'>feta cheese</a> with <a href='/recipes/vanilla-yogurt'>vanilla greek yogurt</a> and thyme for the perfect sweet and savory <a href='/recipes/savory-sauces'>dip</a>. Use it on anything from <a href='/recipes/bread'>bread</a> to raw <a href='/misc/veggies'>veggies</a>, or as a <a href='/salad-dressings'>salad dressing</a> or sandwich spread!
 Instructions:
-- Add all ingredients to a food processor. Blend until smooth.
+- Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until smooth.
 - <img src='/assets/Food/Savory Sauces/Pumpkin Feta/processor.jpg' alt='' class='instruction-image'>
 
-- Optionally, garnish with thyme, walnuts, or honey.
+- Optionally, garnish with thyme, <a href='/misc/nuts#walnuts'>walnuts</a>, or <a href='/misc/natural-sweeteners#honey'>honey</a>.
 - <img src='/assets/Food/Savory Sauces/Pumpkin Feta/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 ---

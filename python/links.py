@@ -2933,10 +2933,10 @@ LINKS = {
         "dairy free whipped cream",
         "whipped cream"
     ],
-    # "/recipes/whipped-feta-spread": [
-    #     "Whipped Feta Spread",
-    #     "feta spread"
-    # ],
+    "/recipes/whipped-feta-spread": [
+        "Whipped Feta Spread",
+        "feta spread"
+    ],
     "/recipes/white-bean-croutons": [
         "White Bean Croutons",
         "gluten free croutons",
@@ -4737,10 +4737,10 @@ LINKS = {
     "/misc/dairy#whey": [
         "protein powder (unflavored whey)",
         "protein powder (whey)",
-        "protein powder (vanilla whey)",
-        "protein powder (chocolate whey)",
-        "vanilla whey protein powder",
-        "chocolate whey protein powder",
+        # "protein powder (vanilla whey)",
+        # "protein powder (chocolate whey)",
+        # "vanilla whey protein powder",
+        # "chocolate whey protein powder",
         # "vanilla protein powder",
         # "chocolate protein powder",
         "whey protein powder",
@@ -6397,6 +6397,16 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4llkGj5": [
+        "protein powder (vanilla whey)",
+        "vanilla whey protein powder",
+        "vanilla protein powder"
+    ],
+    "https://amzn.to/3HXUMDC": [
+        "protein powder (chocolate whey)",
+        "chocolate whey protein powder",
+        "chocolate protein powder"
+    ],
     "https://amzn.to/4wEmIBw": [
         "fairlife",
         "fairife skim milk",
@@ -8057,7 +8067,12 @@ LINKS = {
         "protein-packed dessert"
     ],
     "/recipes/savory-sauces": [
-        # "sauce",
+        "sauce",
+        "sauces",
+        "sauce or dip",
+        "dip or sauce",
+        "spread",
+        "spreads",
         "dips",
         "dip",
         "sauces and dips",
@@ -8601,6 +8616,15 @@ EXCLUDED_PHRASES = [
     "certainly be baking",
     # "apple cider",
     "without and with the chocolate",
+    "chocolate cake outside",
+    "peanut butter filling",
+    "creamy chocolate frosting",
+    "each cake has over",
+    "frozen peanut butter ball",
+    "in the frosting",
+    "spread the frosting",
+    "all vanilla",
+    "all chocolate",
     "without and with chocolate",
     "adding chocolate adds",
     "orange hummus",
