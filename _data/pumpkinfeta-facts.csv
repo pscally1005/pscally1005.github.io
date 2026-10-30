@@ -17,7 +17,7 @@ Calories,36,,
 "Folate, DFE [Vitamin B9]",5,mcg,1 %
 "Folate, food",4,mcg,
 "Folic acid",0,mcg,
-"Vitamin C [Ascorbic acid]",0.5,mg,1 %
+"Vitamin C [Ascorbic acid]",0.6,mg,1 %
 "Vitamin D",0,mcg,0 %
 "Vitamin D3",0,mcg,
 "Vitamin E (alpha-tocopherol)",0.14,mg,1 %
@@ -62,12 +62,12 @@ Calories,36,,
 "Alanine",0.094,g,
 "Aspartic acid",0.141,g,
 "Hydroxyproline",0,g,
-"Carbohydrate",1.69,g,1 %
+"Carbohydrate",1.71,g,1 %
 "Fiber",0.36,g,1 %
-"Sugars",0.38,g,
+"Sugars",0.39,g,
 "Sugars, added",0,g,0 %
-"Net carbs",1.33,g,
-"Fat",2.391,g,3 %
+"Net carbs",1.35,g,
+"Fat",2.392,g,3 %
 "Saturated fatty acids",1.464,g,7 %
 "Butanoic acid",0.077,g,
 "Hexanoic acid",0.057,g,
@@ -97,4 +97,4 @@ Calories,36,,
 "Caffeine",0,mg,
 "Serine",0.163,g,
 "Theobromine",0,mg,
-"Water",23.13,g,
+"Water",23.35,g,

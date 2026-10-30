@@ -62,18 +62,18 @@ tags:
 - sugar-free
 - sugar free
 - whey protein powder
-Description: With a chocolate cake outside, a gooey peanut butter filling, and a creamy chocolate frosting, this <a href='/misc/high-protein'>high protein</a> lava cake is sure to beat any <a href='/misc/hidden-sugar'>sugar</a> cravings. Each cake has over 50 g of <a href='/misc/protein'>protein</a> in under 400 <a href='/misc/calories'>calories</a>, as well as no <a href='/misc/hidden-sugar'>added sugar</a> and 10 g of <a href='/misc/fiber'>fiber</a>.
+Description: With a chocolate cake exterior, gooey peanut butter center, and a creamy chocolate frosting, this <a href='/misc/high-protein'>high protein</a> lava cake is the ultimate healthy <a href='https://amzn.to/4rwHsZL'>Reese's</a>-inspired dessert, and is sure to satisfy your <a href='/misc/hidden-sugar'>sugar</a> cravings. Each cake packs over 50 g of <a href='/misc/protein'>protein</a> into under 400 <a href='/misc/calories'>calories</a>, as well as having no <a href='/misc/hidden-sugar'>added sugar</a> and 10 g of <a href='/misc/fiber'>fiber</a>.
 Instructions:
-- Mix together <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/dairy#almond-milk'>almond milk</a> in a <a href='https://amzn.to/4zyFnzN'>small bowl</a> to form a dough. Freeze for 30 minutes.
+- Mix together <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/dairy#almond-milk'>almond milk</a> in a <a href='https://amzn.to/4zyFnzN'>small bowl</a> to form a thick dough. Shape into a ball, and freeze for 30 minutes.
 - <img src='/assets/Food/Protein Powder/Lava Cake/filling.jpg' alt='' class='instruction-image'>
 
 - Mix together <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/3Sg1Z7p'>sweetener</a>, baking powder, <a href='/misc/dairy#almond-milk'>almond milk</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a> in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>.
 - <img src='/assets/Food/Protein Powder/Lava Cake/bowl.jpg' alt='' class='instruction-image'>
 
-- Pour the cake batter into a <a href='https://amzn.to/3Hdg0gk'>lightly greased</a> <a href='https://amzn.to/4wzvob5'>ramekin</a>. Insert your frozen peanut butter ball into the center, and submerge it as much as possible.
+- Pour the cake batter into a <a href='https://amzn.to/3Hdg0gk'>lightly greased</a> <a href='https://amzn.to/4wzvob5'>ramekin</a>. Place the frozen peanut butter filling in the center, and gently press it down until mostly submerged.
 - <img src='/assets/Food/Protein Powder/Lava Cake/raw.jpg' alt='' class='instruction-image'>
 
-- Cook at 350F for 12 minutes in the oven or 8 minutes in the <a href='https://amzn.to/3FuWETp'>air fryer</a>.
+- Bake at 350F for 12 minutes in the oven or 8 minutes in the <a href='https://amzn.to/3FuWETp'>air fryer</a>, or until the top and sides are just set to the touch.
 - <img src='/assets/Food/Protein Powder/Lava Cake/baked.jpg' alt='' class='instruction-image'>
 
 - Let it cool for 5 minutes before inverting onto a plate.
@@ -85,5 +85,5 @@ Instructions:
 - Spread the frosting on top of the lava cake.
 - <img src='/assets/Food/Protein Powder/Lava Cake/frosted.jpg' alt='' class='instruction-image'>
 Notes:
-- I'm using <a href='https://amzn.to/4llkGj5'>vanilla whey</a> in the cake and <a href='https://amzn.to/3HXUMDC'>chocolate whey</a> in the frosting, but you can do the other way around, or use all vanilla or all chocolate in both; whatever you have on hand.
+- I'm using <a href='https://amzn.to/4llkGj5'>vanilla whey</a> in the cake and <a href='https://amzn.to/3HXUMDC'>chocolate whey</a> in the frosting, but you can do the other way around, or use all vanilla or all chocolate in both; whichever you have on hand.
 ---

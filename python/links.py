@@ -8617,6 +8617,8 @@ EXCLUDED_PHRASES = [
     # "apple cider",
     "without and with the chocolate",
     "chocolate cake outside",
+    "chocolate cake exterior",
+    "peanut butter center",
     "peanut butter filling",
     "creamy chocolate frosting",
     "each cake has over",
