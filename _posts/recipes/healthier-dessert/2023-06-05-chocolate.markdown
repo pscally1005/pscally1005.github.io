@@ -51,6 +51,7 @@ tags:
 - unsweetened
 - vanilla
 - bark
+- homemade chocolate
 Description: When recipes call for <a href='/misc/chocolate-benefits'>dark chocolate</a> or chocolate chips, I typically make some variation of this recipe.  This chopped up bar of chocolate works great as a replacement for chocolate chips in all recipes, such as <a href='/recipes/date-brownie'>Almond Butter Date Brownies</a>, <a href='/recipes/edible-cookie-dough-bites'>Edible Cookie Dough Bites</a>, or my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>.
 Instructions:
 - In a <a href='https://amzn.to/4zyFnzN'>glass bowl</a>, melt the <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave for about 1 minute.  Stir in <a href='/misc/chocolate-benefits'>cocoa powder</a> until smooth.  Optionally, add a small pinch of salt

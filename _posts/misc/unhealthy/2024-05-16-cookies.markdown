@@ -54,6 +54,9 @@ tags:
 - chocolate chunks
 - chopped chocolate
 - cookie
+- uf
+- university of florida
+- vic
 Description: |
   Here's a standard chocolate chip <a href='/cookies'>cookie</a> recipe. I usually only make and post healthy recipes, but it's okay to enjoy the classic treat from time to time. Chocolate chip <a href='/cookies'>cookies</a> are usually what I make to bring for an occasion; that way I can have 1 or 2 every so often, and I can leave someone else with the rest.<br><br>
 

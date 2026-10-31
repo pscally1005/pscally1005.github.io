@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Meal Prep Egg Wraps
-date:   2023-06-14 00:00:00 -0500
+date:   2026-10-31 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-- Delete
+- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/egg-wrap
 image: /assets/Food/Breakfast/Egg Wrap/egg-wrap-cover.jpg
 file: eggwrap
-servingSize: 1 wrap
+servingSize: 1 wrap (TODO g)
 section1:
 start2:
 section2:
@@ -50,8 +50,23 @@ tags:
 - spinach
 - onion
 - chili
-- egg
+- eggs
+- meal prep
+- mexican cheese
+- cheeddar cheese
+- shredded cheese
+- Salsa
+- hot sauce
+- breakfast
 - freezer
+- low carb wrap
+- low-carb wrap
+- low carb tortilla
+- low-carb tortilla
+- high fiber wrap
+- high-fiber wrap
+- high fiber tortilla
+- high-fiber tortilla
 Description: I love having <a href='/misc/meat#eggs'>eggs</a> for <a href='/recipes/breakfast'>breakfast</a>, but I don't like spending 15 minutes making <a href='/recipes/breakfast'>breakfast</a> for just 1 morning, just to do it again the next day. This recipe serves as a way to prep a whole week's worth of <a href='/recipes/breakfast'>breakfast</a> to store in the freezer for easy reheating in the morning. Wrap these in <a href='/misc/protein'>protein</a> tortillas as I did here for even more of a <a href='/misc/nutrient-alphabet'>nutrient</a> boost.  Other meal prep <a href='/misc/meat#eggs'>egg</a> recipes include my <a href='/recipes/frittata'>Spinach and Onion Frittata</a> and my <a href='/recipes/scrambled-eggs'>Long Weekend Scrambled Eggs</a>.
 Instructions:
 - Dice the <a href='/misc/veggies#onion'>onion</a> small, and add the <a href='/misc/veggies#onion'>onion</a> and defrosted <a href='/misc/veggies#spinach-fresh'>spinach</a> to a <a href='https://amzn.to/4rdR0HI'>12" pan</a> over medium heat (3-4 on my stove) with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>

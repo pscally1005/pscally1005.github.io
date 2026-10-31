@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Air Fryer Apple Cider Donuts
-date:   2026-10-19 00:00:00 -0500
+date:   2026-10-31 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
