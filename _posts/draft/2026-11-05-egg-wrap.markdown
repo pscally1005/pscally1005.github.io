@@ -22,9 +22,9 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/egg-wrap
-image: /assets/Food/Breakfast/Egg Wrap/archive/cover.jpg
+image: /assets/Food/Breakfast/Egg Wrap/cut.jpg
 file: eggwrap
-servingSize: 1 wrap (TODO g)
+servingSize: 1 wrap (~236 g)
 section1: Step 1
 start2: Minced garlic
 section2: Step 2
@@ -32,7 +32,7 @@ start3: Egg
 section3: Step 3
 start4: Shredded cheddar cheese
 section4: Step 4
-start5: TODO
+start5: Low carb wrap
 section5: Step 5
 Prep: 15
 Rest: 15
@@ -70,7 +70,7 @@ tags:
 Description: |
   I love having <a href='/misc/meat#eggs'>eggs</a> for <a href='/recipes/breakfast'>breakfast</a>, but I don't like spending 15 minutes making food, just to do it again the next day. <a href='#recipe'>This recipe</a> serves as a way to prep a whole week's worth of <a href='/recipes/breakfast'>breakfast</a> to store in the freezer for easy reheating in the morning.<br><br>
 
-  On the menu is <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/veggies#onion'>onion</a> <a href='/misc/meat#eggs'>scrambled eggs</a> with <a href='/misc/dairy#cheddar'>cheddar cheese</a> and <a href='/recipes/salsa'>salsa</a>, wrapped in a <a href='https://link.amazon/B030CixA0'>low carb wrap</a>. Each burrito contains about 20 g of <a href='/misc/protein'>protein</a> in 270 <a href='/misc/calories'>calories</a>, with an astounding 21 g <a href='/misc/fiber'>fiber</a>.<br><br>
+  On the menu is <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/veggies#onion'>onion</a> <a href='/misc/meat#eggs'>scrambled eggs</a> with <a href='/misc/dairy#cheddar'>cheddar cheese</a> and <a href='/recipes/salsa'>salsa</a>, wrapped in a <a href='https://link.amazon/B030CixA0'>low carb wrap</a>. Each burrito contains about 18 g of <a href='/misc/protein'>protein</a> in about 250 <a href='/misc/calories'>calories</a>, with an astounding 21 g <a href='/misc/fiber'>fiber</a>.<br><br>
 
   For other meal prep <a href='/misc/meat#eggs'>egg</a> <a href='/recipes/breakfast'>breakfasts</a>, check out the following recipes!
   <ul>
@@ -81,23 +81,25 @@ Description: |
   </ul>
   <a href='/recipes/spinach-mushroom-scrambled-eggs'><img src='/assets/Food/Breakfast/Spinach Mushroom/spinach-mushroom-feta.jpg' alt='' class='instruction-image'></a>
 Instructions:
-- Heat a <a href='https://amzn.to/4rdR0HI'>12" pan</a> over medium heat with a <a href='/misc/olive-oil'>oil</a>. Finely dice your <a href='/misc/veggies#onion'>onion</a>, and add it along with defrosted <a href='/misc/veggies#spinach-fresh'>spinach</a> to the <a href='https://amzn.to/4rdR0HI'>pan</a>.
+- Heat a <a href='https://amzn.to/4rdR0HI'>12" pan</a> over medium heat with <a href='/misc/olive-oil'>oil</a>. Finely dice your <a href='/misc/veggies#onion'>onion</a>, and add it along with defrosted <a href='/misc/veggies#spinach-fresh'>spinach</a> to the <a href='https://amzn.to/4rdR0HI'>pan</a>.
 
 - Season with minced garlic, garlic powder, onion powder, paprika, chili powder, and black pepper. Cover with a lid, and cook until the <a href='/misc/veggies#onion'>onion</a> is translucent, about 10 minutes.
-- <img src='/assets/Food/Breakfast/Egg Wrap/archive/veggies.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Breakfast/Egg Wrap/veggies.jpg' alt='' class='instruction-image'>
 
-- Remove from the heat, and crack in your <a href='/misc/meat#eggs'>eggs</a>. Beat the <a href='/misc/meat#eggs'>eggs</a> with your <a href='https://amzn.to/40F2aK0'>spatula</a> until everything is fully mixed. Return to the burner, lower the heat to medium low, and cook until <a href='/misc/meat#eggs'>eggs</a> just set, about 10 minutes.
-- <img src='/assets/Food/Breakfast/Egg Wrap/archive/eggs.jpg' alt='' class='instruction-image'>
+- Remove from the heat, and crack in your <a href='/misc/meat#eggs'>eggs</a>. Beat the <a href='/misc/meat#eggs'>eggs</a> with your <a href='https://amzn.to/40F2aK0'>spatula</a> until everything is fully mixed. Return to the burner, lower the heat to medium low, and cook with frequent stirring until the <a href='/misc/meat#eggs'>eggs</a> are just set but still creamy, about 2-3 minutes.
+- <img src='/assets/Food/Breakfast/Egg Wrap/eggs.jpg' alt='' class='instruction-image'>
 
 - Remove from the heat, and mix in <a href='/misc/dairy#cheddar'>cheese</a>, <a href='/recipes/salsa'>salsa</a>, and <a href='/recipes/hot-sauce'>hot sauce</a>.
-- <img src='/assets/Food/Breakfast/Egg Wrap/archive/cheese.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Breakfast/Egg Wrap/cheese.jpg' alt='' class='instruction-image'>
 
-- Let the mixture totally cool before dividing it evenly across 6 tortillas, about TODO g each. Wrap each in aluminum foil, and store in the freezer.
-- <img src='/assets/Food/Breakfast/Egg Wrap/archive/filled.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food/Breakfast/Egg Wrap/archive/foil.jpg' alt='' class='instruction-image'>
+- Let the mixture totally cool before dividing it evenly across 6 tortillas, about <b>193 g</b> into each one. Wrap each in aluminum foil, and store in the freezer.
+- <img src='/assets/Food/Breakfast/Egg Wrap/filled.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Breakfast/Egg Wrap/foil.jpg' alt='' class='instruction-image'>
 Notes:
-- To reheat, wrap a frozen burrito in a damp paper towel, and microwave for 2-3 minutes, flipping halfway, or until heated thoroughly. For a crispy <a href='https://link.amazon/B030CixA0'>, brown all sides in a preheated pan on the stove.
-- <img src='/assets/Food/Breakfast/Egg Wrap/archive/plate.jpg' alt='' class='instruction-image'>
+- To reheat, wrap a frozen burrito in a damp paper towel, and microwave for 2-3 minutes, flipping halfway, or until heated thoroughly. For a crispy <a href='https://link.amazon/B030CixA0'>tortilla</a>, brown all sides in a preheated pan on the stove.
+- <img src='/assets/Food/Breakfast/Egg Wrap/uncut.jpg' alt='' class='instruction-image'>
 
 - Each of my <a href='https://link.amazon/B030CixA0'>tortillas</a> weighs about 43 g with a diameter of about 8 inches.
+# - <img src='/assets/Food/Breakfast/Egg Wrap/tortilla-front.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Breakfast/Egg Wrap/tortilla-back.jpg' alt='' class='instruction-image'>
 ---

@@ -14,7 +14,7 @@ nut_butter: no
 pesto: no
 soup_stew: no
 salad: no
-dressing: no
+dressing: yes
 brownie: no
 cookie: no
 copycat: no
@@ -59,14 +59,18 @@ tags:
 - food processor
 - blend
 - feta cheese
+- chobani protein
+- vanilla yogurt
 Description: This <a href='/misc/veggies#pumpkin'>pumpkin</a> whipped <a href='/misc/dairy#feta'>feta</a> is the perfect fall-inspired <a href='/recipes/savory-sauces'>sauce or dip</a>. It blends together <a href='/recipes/pumpkin-puree'>pumpkin puree</a> and <a href='/misc/dairy#feta'>feta cheese</a> with <a href='/recipes/vanilla-yogurt'>vanilla Greek yogurt</a> and thyme for a creamy, sweet and savory <a href='/recipes/savory-sauces'>spread</a>. Use it on anything from <a href='/recipes/bread'>bread</a> to raw <a href='/misc/veggies'>veggies</a>, or as a <a href='/salad-dressings'>salad dressing</a> or sandwich topping. Or you can check out my original <a href='/recipes/whipped-feta-spread'>Whipped Feta Spread</a>!
 Instructions:
 - Add the <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/dairy#feta'>feta cheese</a>, <a href='/misc/dairy#yogurt'>Greek yogurt</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, thyme, and black pepper to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until smooth and creamy.
 - <img src='/assets/Food/Savory Sauces/Pumpkin Feta/processor.jpg' alt='' class='instruction-image'>
 
 - Transfer to a serving bowl and optionally garnish with additional thyme, chopped <a href='/misc/nuts#walnuts'>walnuts</a>, or a drizzle of <a href='/misc/natural-sweeteners#honey'>honey</a>.
-- <img src='/assets/Food/Savory Sauces/Pumpkin Feta/bowl.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Savory Sauces/Pumpkin Feta/untopped.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Savory Sauces/Pumpkin Feta/topped.jpg' alt='' class='instruction-image'>
 
 - Refrigerate in an airtight container for up to 5 days.
+- <img src='/assets/Food/Savory Sauces/Pumpkin Feta/plate.jpg' alt='' class='instruction-image'>
 Notes:
 ---
