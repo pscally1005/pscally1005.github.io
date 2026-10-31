@@ -262,6 +262,10 @@ def vol_from_mass(food, mass, vol):
             v = "5 medium"
         elif mass == "288" or mass == "270" or mass == "258":
             v = "6 medium"
+        elif mass == "336" or mass == "320" or mass == "304":
+            v = "7 medium"
+        elif mass == "384" or mass == "360" or mass == "344":
+            v = "8 medium"
 
     # Lactase
     elif food == "Lactase enzyme":

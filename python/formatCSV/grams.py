@@ -658,6 +658,14 @@ def grams(food, mass, vol):
             m = "135"
         elif vol == "4 medium" or "4 tortilla":
             m = "180"
+        elif vol == "5 medium" or "5 tortilla":
+            m = "225"
+        elif vol == "6 medium" or "6 tortilla":
+            m = "270"
+        elif vol == "7 medium" or "7 tortilla":
+            m = "315"
+        elif vol == "8 medium" or "8 tortilla":
+            m = "360"
 
     # Psyllium wrap
     elif food == "High Fiber Psyllium Wrap":
