@@ -77,7 +77,7 @@ Notes:
 
 - Instead of 48 mini muffins, you can make 12 standard sized muffins.  Bake at 350F for about 18-20 minutes.  Note that each full sized muffin is the equivalent of eating 4 mini muffin
 
-- Instead of 48 mini muffins, you can make 24 pumpkin blondies.  Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.  Bake at 350F for about 30 minutes.  Note that each <a href='/brownies'>blondie</a> is the equivalent of eating 2 mini muffins
+- Instead of 48 mini muffins, you can make 24 pumpkin blondies.  Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper, and <a href='https://link.amazon/B00fjxkKE'>lightly grease with oil</a>.  Bake at 350F for about 30 minutes.  Note that each <a href='/brownies'>blondie</a> is the equivalent of eating 2 mini muffins
 
 - To make these <a href='/misc/fake-healthy-foods#muffins'>muffins</a> <a href='/misc/hidden-sugar'>sugar free</a> (and <a href='/misc/carbs'>low carb</a>), replace the <a href='/misc/natural-sweeteners#honey'>honey</a> with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (1/4 cup, 80 g), and replace the chocolate chips with <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> (1/2 cup, 85 g).  Or you can omit the chocolate chips entirely
 

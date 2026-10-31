@@ -74,7 +74,7 @@ Instructions:
 - Take a large <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut 3 large, thin slices from the center, about 40 g each or 120 g total.
 - <img src='/assets/Food/Finger Food/Sw Pot Toast/raw.jpg' alt='' class='instruction-image'>
 
-- Optionally <a href='https://amzn.to/3Hdg0gk'>lightly spray</a> the top with <a href='/misc/olive-oil'>oil</a>, and optionally sprinkle with flaky salt.
+- Optionally <a href='https://link.amazon/B00fjxkKE'>lightly spray</a> the top with <a href='/misc/olive-oil'>oil</a>, and optionally sprinkle with flaky salt.
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 10 minutes, flipping halfway, or until soft, tender, and lightly browned.
 - <img src='/assets/Food/Finger Food/Sw Pot Toast/cooked.jpg' alt='' class='instruction-image'>

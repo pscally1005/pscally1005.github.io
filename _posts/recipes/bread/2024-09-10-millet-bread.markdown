@@ -56,7 +56,7 @@ tags:
 - sugar free
 Description: This is the best <a href='/misc/celiac'>gluten free</a> <a href='/recipes/bread'>bread</a> I've ever had. As someone who isn't <a href='/misc/celiac'>gluten free</a> and still occasionally eats <a href='/misc/grains#whole-wheat'>wheat</a> <a href='/recipes/bread'>bread</a> (check out my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>), this is the closest <a href='/misc/celiac'>gluten free</a> <a href='/recipes/bread'>bread</a> has ever coming to matching the real deal. The taste and texture are remarkably similar, and I think this <a href='/recipes/bread'>bread</a> can stand by itself not just as a great <a href='/misc/celiac'>gluten free</a> <a href='/recipes/bread'>bread</a>, but as a great <a href='/recipes/bread'>bread</a> overall.  This <a href='/recipes/bread'>bread</a> is best served warm.
 Instructions:
-- Preheat your oven to 325F, and <a href='https://amzn.to/3Hdg0gk'>lightly oil</a> a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>
+- Preheat your oven to 325F, and <a href='https://link.amazon/B00fjxkKE'>lightly oil</a> a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>
 
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, combine the water, vinegar, and psyllium husks. Let sit for 5 minutes.  The psyllium husk needs a few minutes to gel; it should be a similar consistency as <a href='/misc/fruit#apple'>applesauce</a>
 

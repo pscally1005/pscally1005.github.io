@@ -61,7 +61,7 @@ Description: My Bolognese recipe is a sauce that can honestly work as a meal on 
 Instructions:
 - Add <a href='/misc/veggies'>vegetables</a> (<a href='/misc/veggies#onion'>onion</a>, <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#carrots'>carrots</a>, and <a href='/misc/veggies#pepper'>peppers</a>) to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and pulse until fine
 
-- <a href='https://amzn.to/3Hdg0gk'>Spray</a> a <a href='https://amzn.to/3LNGdVy'>dutch oven</a> with oil, and cook the <a href='/misc/veggies'>vegetables</a> until soft over medium high heat until water has boiled off. Stir constantly. Remove to a bowl
+- <a href='https://link.amazon/B00fjxkKE'>Spray</a> a <a href='https://amzn.to/3LNGdVy'>dutch oven</a> with oil, and cook the <a href='/misc/veggies'>vegetables</a> until soft over medium high heat until water has boiled off. Stir constantly. Remove to a bowl
 
 - Over medium high, add the <a href='/misc/meat'>meat</a> into the pan and mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>, mixing with the <a href='/misc/veggies'>vegetables</a> until <a href='/misc/meat'>meat</a> is cooked and no pink remains. Stir constantly, and cook until water is evaporated and pan goes from hissing to cracking (this is the sound of the <a href='/misc/meat'>meat</a> frying in it's own rendered <a href='/misc/fats'>fat</a>)
 

@@ -57,7 +57,7 @@ Description: I've never been a big fan of <a href='/misc/meat#pork-tenderloin'>p
 Instructions:
 - Trim any excess fat off the side of the <a href='/misc/meat'>meat</a>, and cut into 4 pieces. Light season all sides with salt, black pepper, and <a href='/misc/veggies#garlic'>garlic</a>
 
-- Preheat a pan over medium high heat with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>. Cook for 1.5-2 minutes before flipping the <a href='/misc/meat'>meat</a>. The goal here is to brown all 4 sides, not to cook the <a href='/misc/meat'>meat</a> through. Use tongs to flip the <a href='/misc/meat'>meat</a> and brown all the <a href='/recipes/sides'>sides</a>, and then remove from the heat
+- Preheat a pan over medium high heat with a <a href='https://link.amazon/B00fjxkKE'>spray of oil</a>. Cook for 1.5-2 minutes before flipping the <a href='/misc/meat'>meat</a>. The goal here is to brown all 4 sides, not to cook the <a href='/misc/meat'>meat</a> through. Use tongs to flip the <a href='/misc/meat'>meat</a> and brown all the <a href='/recipes/sides'>sides</a>, and then remove from the heat
 
 - Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment, and add your <a href='/misc/meat'>meat</a>. Bake in a preheated 350F oven for 13-15 minutes, or until the <a href='/misc/meat#pork-tenderloin'>pork</a> is <a href='https://amzn.to/4kmobG2'>150F</a>. Let the <a href='/misc/meat'>meat</a> rest for a few minutes before slicing
 

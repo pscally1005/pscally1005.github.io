@@ -69,7 +69,7 @@ Instructions:
 
   For example, my pot weighs <b>324 g</b>, so the pot plus apple cider will weigh <b>564 g</b> (324+240) before reducing, and <b>404 g</b> (324+80) after.
 
-- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F. <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> an <a href='https://amzn.to/4wPTDC8'>air fryer donut mold</a> with <a href='/misc/olive-oil'>oil</a>.
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F. <a href='https://link.amazon/B00fjxkKE'>Lightly grease</a> an <a href='https://amzn.to/4wPTDC8'>air fryer donut mold</a> with <a href='/misc/olive-oil'>oil</a>.
 
 - Add the dry ingredients to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and whisk together - <a href='/misc/grains#oats'>oat flour</a>, cornstarch, baking powder, cinnamon, salt, nutmeg, ginger, and cloves.
 

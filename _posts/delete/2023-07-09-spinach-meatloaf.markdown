@@ -71,7 +71,7 @@ Instructions:
 
 - As the <a href='/misc/veggies#butternut-squash'>butternut squash</a> cooks, move on to the meatloaf. Mix all meatloaf ingredients together in a bowl - <a href='/misc/meat'>meat</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/veggies#spinach-fresh'>spinach</a> (pat it dry first with paper towels), <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy'>cheese</a>, dijon mustard, <a href='https://amzn.to/44VXByC'>soy sauce</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, chili powder, paprika, garlic powder, onion powder, cumin, black pepper, salt, and <a href='/misc/veggies#ginger'>ginger</a>
 
-- <a href='https://amzn.to/3Hdg0gk'>Spray</a> the parchment paper in the <a href='https://amzn.to/3YUjIkN'>bread pans</a>, and put <a href='/misc/meat'>meat</a> on the pan. Shape into a loaf, and insert a <a href='/misc/meat'>meat</a> <a href='https://amzn.to/4kmobG2'>thermometer</a> into the front
+- <a href='https://link.amazon/B00fjxkKE'>Spray</a> the parchment paper in the <a href='https://amzn.to/3YUjIkN'>bread pans</a>, and put <a href='/misc/meat'>meat</a> on the pan. Shape into a loaf, and insert a <a href='/misc/meat'>meat</a> <a href='https://amzn.to/4kmobG2'>thermometer</a> into the front
 
 - Bake at 350F until <a href='/misc/meat'>meat</a> is done (a least <a href='https://amzn.to/4kmobG2'>160F</a> for <a href='/misc/meat#ground-beef'>beef</a> and <a href='https://amzn.to/4kmobG2'>165F</a> for <a href='/misc/meat#ground-turkey'>turkey</a>), or about 45 minutes, depending on the thickness of your loaf.  Serve with <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> on the side
 - <img src='/assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-6.jpg' alt='' class='instruction-image'>

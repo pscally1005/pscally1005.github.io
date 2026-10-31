@@ -53,7 +53,7 @@ Description: |
 
     When I'm not in the mood to make another loaf of <a href='/misc/whole-wheat-sourdough#bread-recipe'>sourdough</a>, I utilize my 1/2 cup (120 g) of <a href='/misc/whole-wheat-sourdough#starter'>sourdough starter</a> to make these flatbreads, that way there's no waste!  Just combine the <a href='/misc/whole-wheat-sourdough#starter'>starter</a> with salt and baking powder, and cook on the stove like a pancake.
 Instructions:
-- Preheat a cast iron or nonstick pan over medium heat with a <a href='https://amzn.to/3Hdg0gk'>light spray of oil</a>
+- Preheat a cast iron or nonstick pan over medium heat with a <a href='https://link.amazon/B00fjxkKE'>light spray of oil</a>
 
 - In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, combine together your <a href='/misc/whole-wheat-sourdough#starter'>starter</a> with salt and baking powder with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 

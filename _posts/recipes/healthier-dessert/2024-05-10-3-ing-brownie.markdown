@@ -59,7 +59,7 @@ tags:
 - banana brownies
 Description: These simple and healthy <a href='/brownies'>brownie</a> bites are made with just 3 ingredients - pureed <a href='/misc/fruit#banana'>bananas</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a>. These taste like delicious chocolate peanut butter <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>, but dense and fudgy, as all <a href='/brownies'>brownies</a> should be. Feel free to add any extra flavors such as <a href='https://amzn.to/43MkDqr'>vanilla</a> or cinnamon, or any mix-ins like chocolate chips or chopped <a href='/misc/nuts'>nuts</a>. The nutrition facts are per <a href='/brownies'>brownie</a> bite.  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
-- Preheat your oven to 350F, and <a href='https://amzn.to/3Hdg0gk'>spray</a> a <a href='https://amzn.to/3T1ymDy'>mini muffin pan</a> with oil
+- Preheat your oven to 350F, and <a href='https://link.amazon/B00fjxkKE'>spray</a> a <a href='https://amzn.to/3T1ymDy'>mini muffin pan</a> with oil
 
 - In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend the <a href='/misc/fruit#banana'>bananas</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a> until smooth
 - <img src='/assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-3.jpg' alt='' class='instruction-image'>

@@ -62,7 +62,7 @@ Description: |
 
   It's simple to put together, and contains no <a href='/misc/fats'>added oil</a>, unlike most focaccia recipes.  For similar <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> <a href='/recipes/bread'>bread recipes</a>, see my <a href='/recipes/gluten-free-pretzels'>Gluten Free Savory Pretzels</a> and <a href='/recipes/almond-flour-empanadas'>Almond Flour Empanadas</a>.
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking dish</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease the paper with oil</a>
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking dish</a> with parchment paper, and <a href='https://link.amazon/B00fjxkKE'>lightly grease the paper with oil</a>
 
 - Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/cheese.jpg' alt='' class='instruction-image'>
@@ -70,7 +70,7 @@ Instructions:
 - Mix in the baking powder and <a href='/misc/meat#eggs'>egg</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Mix in the <a href='/misc/nuts#almonds'>almond flour</a>, and combine with the <a href='https://amzn.to/40F2aK0'>spatula</a>. Switch to your hands, and knead until fully combined.  The dough should be slightly sticky
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/dough.jpg' alt='' class='instruction-image'>
 
-- Press the dough to the baking dish. Make dimples in the dough with your fingers. Top with rosemary and salt, and lightly press them into the dough. Optionally <a href='https://amzn.to/3Hdg0gk'>spray</a> the top with <a href='/misc/olive-oil'>olive oil</a>
+- Press the dough to the baking dish. Make dimples in the dough with your fingers. Top with rosemary and salt, and lightly press them into the dough. Optionally <a href='https://link.amazon/B00fjxkKE'>spray</a> the top with <a href='/misc/olive-oil'>olive oil</a>
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F until puffed and lightly golden brown, about 20 minutes.  Transfer to a wire rack, and allow it to cool totally before cutting into 9 slices

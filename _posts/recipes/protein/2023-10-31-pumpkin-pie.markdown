@@ -61,7 +61,7 @@ tags:
 - gluten free
 Description: Alliterations aside, this pumpkin pie is made with a <a href='/misc/dairy#whey'>protein powder</a> and <a href='/misc/grains#oats'>oat flour</a> crust, and features a filling of <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and no <a href='/misc/hidden-sugar'>added sugars</a>. For some <a href='/misc/fats'>healthy fats</a>, mix some chopped <a href='/misc/nuts'>nuts</a> into the filling, or sprinkle on top of the pie.  For more <a href='/misc/veggies#pumpkin'>pumpkin</a> recipes, see my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>, or <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>.
 Instructions:
-- Preheat your oven to 350F. Liberally grease a 9" metal pie pan with <a href='https://amzn.to/3Hdg0gk'>oil spray</a>
+- Preheat your oven to 350F. Liberally grease a 9" metal pie pan with <a href='https://link.amazon/B00fjxkKE'>oil spray</a>
 
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork. Mix in the rest of the crust ingredients - <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/grains#oats'>oat flour</a>, cornstarch, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>/<a href='https://amzn.to/45wOzIv'>stevia</a>, cinnamon, baking powder, and optionally a dash of <a href='https://amzn.to/4gl7OK1'>butter extract</a>
 

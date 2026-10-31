@@ -70,7 +70,7 @@ Description: |
 
   But you know you what would be good spread on a slice of this Beanana Bread? That's right, some <a href='/recipes/beanut-butter'>Beanut Butter</a>, a <a href='/misc/nuts'>nut-free</a> <a href='/recipes/natural-peanut-butter'>peanut butter</a> alternative made from <a href='/misc/beans#cannellini-beans'>cannellini beans</a>, <a href='/misc/fruit#banana'>banana</a>, <a href='https://amzn.to/4aXnK21'>pea protein</a>, and <a href='/misc/nuts#coconut'>coconut oil</a>.
 Instructions:
-- Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease the paper with oil</a>.
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://link.amazon/B00fjxkKE'>Lightly grease the paper with oil</a>.
 
 - Add all ingredients (besides the <a href='https://amzn.to/4aXnK21'>protein powder</a>) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth.
 - <img src='/assets/Food/Meme/Beanut Butter/processor1.jpg' alt='' class='instruction-image'>

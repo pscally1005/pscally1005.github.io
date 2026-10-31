@@ -71,7 +71,7 @@ Description: |
 
   This is a sweet variant with a <a href='/misc/dairy#yogurt'>Greek yogurt</a> and pumpkin spice base. For a savory <a href='/misc/dairy#yogurt'>yogurt</a> version, check out my <a href='/recipes/savory-baked-oats'>Savory High Protein Baked Oats</a>. For a more seasonal baked <a href='/misc/grains#oats'>oats</a> recipe, check out my <a href='/recipes/pumpkin-baked-oats'>Pumpkin Spice High Protein Baked Oats</a>. Or for a <a href='/misc/chocolate-benefits'>chocolate</a> version check out my <a href='/recipes/chocolate-baked-oats'>Chocolate High Protein Baked Oats</a>! Or for a <a href='/misc/fruit#banana'>banana</a> version, check out my <a href='/recipes/banana-baked-oats'>Banana Bread High Protein Baked Oats</a>!
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease it with oil</a>.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://link.amazon/B00fjxkKE'>lightly grease it with oil</a>.
 
 - Add all ingredients to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined.
 

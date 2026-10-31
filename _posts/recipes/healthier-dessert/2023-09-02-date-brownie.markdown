@@ -68,7 +68,7 @@ Description: |
 
   See my <a href='/recipes/date-cookies'>Almond Flour Cookies</a> for a similar <a href='/misc/celiac'>gluten free</a> <a href='/recipes/healthier-dessert'>dessert</a> using <a href='/misc/fruit#dates'>dates</a> and <a href='/misc/nuts'>nuts</a>.  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
-- Preheat the oven to 350F and line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the parchment paper
+- Preheat the oven to 350F and line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://link.amazon/B00fjxkKE'>Spray</a> the parchment paper
 
 - In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend the <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/fruit#banana'>bananas</a>, and <a href='/recipes/natural-peanut-butter'>nut butter</a> until a smooth paste forms. Blend in the rest of the ingredients
 

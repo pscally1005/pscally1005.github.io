@@ -71,7 +71,7 @@ Description: |
 
   This delicious quick bread is just the right amount of sweet while being full of fall flavor. It's soft, warmly spiced, and delivers the classic flavors of gingerbread in a sliceable quick bread, perfect for <a href='/recipes/breakfast'>breakfast</a> or a wholesome fall <a href='/recipes/healthier-dessert'>dessert</a>.
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease with oil</a>.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://link.amazon/B00fjxkKE'>Lightly grease with oil</a>.
 
 - Whisk together the dry ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> - <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, baking powder, baking soda, ginger, cinnamon, nutmeg, salt, and cloves.
 
@@ -90,7 +90,7 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Gingerbread/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - |
-  <a href='#recipe'>This recipe</a> can also be made into gingerbread muffins. Line a <a href='https://amzn.to/4mzzEDl'>muffin pan</a> with <a href='https://amzn.to/4iDfGZ7'>muffin liners</a> and <a href='https://amzn.to/3Hdg0gk'>lightly grease them with oil</a>.<br><br>
+  <a href='#recipe'>This recipe</a> can also be made into gingerbread muffins. Line a <a href='https://amzn.to/4mzzEDl'>muffin pan</a> with <a href='https://amzn.to/4iDfGZ7'>muffin liners</a> and <a href='https://link.amazon/B00fjxkKE'>lightly grease them with oil</a>.<br><br>
 
   Evenly divide your batter across the 12 cups, about <b>70 g</b> or <b>1/3 cup</b> each. Bake at 350F for about 20 minutes, or until the centers are set, and a toothpick comes out clean. Makes 1 dozen muffins.
 - <img src='/assets/Food/Healthier Dessert/Gingerbread/muffins-plate.jpg' alt='' class='instruction-image'>

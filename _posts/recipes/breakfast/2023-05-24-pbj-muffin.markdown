@@ -76,7 +76,7 @@ Instructions:
 
 - Pour the wet ingredients to the dry, and mix until just combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Fold in the <a href='/misc/fruit#blueberries'>blueberries</a>
 
-- Liberally grease a <a href='https://amzn.to/4mzzEDl'>muffin pan</a> with <a href='https://amzn.to/3Hdg0gk'>spray</a>, and evenly spoon in the batter.  This recipe makes a dozen standard size muffins
+- Liberally grease a <a href='https://amzn.to/4mzzEDl'>muffin pan</a> with <a href='https://link.amazon/B00fjxkKE'>spray</a>, and evenly spoon in the batter.  This recipe makes a dozen standard size muffins
 
 - Bake for about 22 minutes (uncovered) at 350F, until the muffins have an <a href='https://amzn.to/4kmobG2'>internal temperature</a> of about <a href='https://amzn.to/4kmobG2'>200F</a> and toothpick comes out clean
 

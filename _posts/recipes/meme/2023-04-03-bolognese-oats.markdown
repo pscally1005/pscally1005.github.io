@@ -59,7 +59,7 @@ Description: I have this saved under <a href='/recipes/meme'>meme recipes</a> be
 Instructions:
 - Cut the <a href='/misc/veggies#carrots'>carrots</a> and <a href='/misc/veggies#onion'>onion</a> into a large dice and add to a <a href='https://amzn.to/3LNGdVy'>dutch oven</a> with <a href='/misc/olive-oil'>olive oil</a>. Just cover with water and bring to a boil. Boil until all liquid has been cooked off. Set <a href='/misc/veggies'>vegetables</a> aside
 
-- Over medium heat, <a href='https://amzn.to/3Hdg0gk'>spray</a> pot with <a href='/misc/olive-oil'>olive oil</a> and cook <a href='/misc/veggies#garlic'>garlic</a> for about a minute. Add in the <a href='/misc/meat'>meat</a> and mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> to break up clumps. Cook until browned
+- Over medium heat, <a href='https://link.amazon/B00fjxkKE'>spray</a> pot with <a href='/misc/olive-oil'>olive oil</a> and cook <a href='/misc/veggies#garlic'>garlic</a> for about a minute. Add in the <a href='/misc/meat'>meat</a> and mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> to break up clumps. Cook until browned
 
 - Stir in the <a href='/misc/veggies#tomato'>diced tomatoes</a>, tomato sauce, basil, oregano, and red pepper flakes. Season with salt and black pepper to taste. Add the <a href='/misc/veggies'>vegetables</a> back in, and add the vinegar
 

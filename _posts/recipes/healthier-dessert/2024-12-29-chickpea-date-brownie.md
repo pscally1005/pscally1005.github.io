@@ -56,7 +56,7 @@ tags:
 - unsweetened vanilla almond milk
 Description: Not only are these <a href='/brownies'>brownies</a> much healthier, but they're also dead simple. Just blend together everything in a <a href='https://amzn.to/4q0AUjI'>food processor</a>, transfer to a pan, and bake! Where else are you going to find a delicious <a href='/brownies'>brownie</a> recipe that's <a href='/misc/hidden-sugar'>added sugar</a> free, <a href='/misc/celiac'>gluten free</a>, and vegan. Compared to traditional <a href='/brownies'>brownies</a>, these bars are lower in <a href='/misc/fats'>unhealthy fats</a> and <a href='/misc/carbs'>carbs</a>, while also having more <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a> from the <a href='/misc/beans'>beans</a> and <a href='/misc/nuts'>nuts</a>. I'll be honest with you, this is essentially just my <a href='/recipes/double-chocolate-date-cookies'>Double Chocolate Date Cookies</a> baked into <a href='/brownies'>brownie</a> form; that's what I call versatility!  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions: 
-- Preheat your oven to 350F, and line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly oil</a> the paper
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. <a href='https://link.amazon/B00fjxkKE'>Lightly oil</a> the paper
 
 - In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend together all ingredients until smooth. Transfer to your prepared pan
 - <img src='/assets/Food/Healthier Dessert/Chickpea Date Brownie/raw.jpg' alt='' class='instruction-image'>

@@ -74,7 +74,7 @@ Description: |
 Instructions:
 - |
   <b>Cake</b><br>
-  Preheat your oven to 350F. Line 2 <a href='https://amzn.to/4mxxkxl'>9" cake pans</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease</a> them with <a href='/misc/olive-oil'>oil</a>.
+  Preheat your oven to 350F. Line 2 <a href='https://amzn.to/4mxxkxl'>9" cake pans</a> with parchment paper, and <a href='https://link.amazon/B00fjxkKE'>lightly grease</a> them with <a href='/misc/olive-oil'>oil</a>.
 
 - Whisk together the dry ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, baking soda, and salt.
 

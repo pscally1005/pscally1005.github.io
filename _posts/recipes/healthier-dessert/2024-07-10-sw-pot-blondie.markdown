@@ -66,7 +66,7 @@ Description: These delicious chocolate chip peanut butter <a href='/brownies'>bl
 Instructions:
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, combine all the ingredients (except chocolate chips) with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until smooth and thoroughly mixed.  Fold in the chocolate chips with a <a href='https://amzn.to/40F2aK0'>spatula</a>
 
-- Line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the paper.  Transfer the batter to the pan with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, smoothing out the top.  Optionally, top with a few extra chocolate chips
+- Line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and lightly <a href='https://link.amazon/B00fjxkKE'>spray</a> the paper.  Transfer the batter to the pan with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, smoothing out the top.  Optionally, top with a few extra chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Sw Pot Blondies/blondies-raw.jpg' alt='' class='instruction-image'>
 
 - Bake in a preheated 350F oven for about 20 minutes, or until lightly golden brown and set. A toothpick should come out almost clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be around <a href='https://amzn.to/4kmobG2'>190F</a>

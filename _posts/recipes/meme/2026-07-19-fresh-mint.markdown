@@ -54,7 +54,7 @@ tags:
 - green
 Description: I got a lot of fresh mint leftover that I need to use up. There's only so many times I can make a <a href='/recipes/nojito'>Nojito</a> or <a href='/recipes/mint-sauce'>Dairy Free Creamy Mint Sauce</a>. So today I'm blending some mint into a chocolate baked oats bar to give some refreshing mint flavor. Sticking with the green theme, I've also blended in some <a href='/misc/nuts#pistachios'>pistachios</a> for crunch and <a href='/misc/fats'>healthy fats</a>.
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease with oil</a>
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper. <a href='https://link.amazon/B00fjxkKE'>Lightly grease with oil</a>
 
 - Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until fully combined and all the mint is thoroughly chopped into the batter. You should have little to no little green bits of leaves, but still some texture to the <a href='/misc/nuts'>nuts</a>
 - <img src='/assets/Food/Meme/Fresh Mint/processor.jpg' alt='' class='instruction-image'>

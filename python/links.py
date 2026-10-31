@@ -7232,7 +7232,8 @@ LINKS = {
         "inside temperature",
         "registered a temperature"
     ],
-    "https://amzn.to/3Hdg0gk": [
+    # "https://link.amazon/B00fjxkKE": [
+    "https://link.amazon/B00fjxkKE": [
         "spray of olive oil",
         "spray of oil",
         "spray the paper with oil",

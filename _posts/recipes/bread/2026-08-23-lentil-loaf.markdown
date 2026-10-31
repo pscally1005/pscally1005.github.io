@@ -59,7 +59,7 @@ Description: This simple small loaf of <a href='/recipes/bread'>bread</a> is <a 
 Instructions:
 - Soak your <a href='/misc/beans#red-lentils'>lentils</a> in water at room temperature for 2 hours.
 
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3Ffts2R'>small glass meal prep container</a> (mine are <a href='https://amzn.to/3Ffts2R'>6.2" x 4.5"</a>) with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3Ffts2R'>small glass meal prep container</a> (mine are <a href='https://amzn.to/3Ffts2R'>6.2" x 4.5"</a>) with parchment paper, and <a href='https://link.amazon/B00fjxkKE'>lightly grease with oil</a>.
 
 - Add your <a href='/misc/beans#red-lentils'>lentils</a> and soaking liquid to a <a href='https://amzn.to/3SsDLn7'>blender</a> with <a href='/misc/olive-oil'>oil</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, salt, paprika, garlic powder, onion powder, and rosemary. Blend until smooth.
 - <img src='/assets/Food/Bread/Lentil Loaf/blend.jpg' alt='' class='instruction-image'>

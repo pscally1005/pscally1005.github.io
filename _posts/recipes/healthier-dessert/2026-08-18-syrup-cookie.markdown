@@ -86,6 +86,6 @@ Notes:
 
 - <b>Coconut</b> - blended <a href='/misc/nuts#coconut'>unsweetened coconut flakes</a> (1 cup, 100 g), and a drizzle of melted chocolate on the baked <a href='/cookies'>cookies</a> at the end.
 
-- You can also make this into a cookie cake by adding all the raw batter to a parchment lined and <a href='https://amzn.to/3Hdg0gk'>lightly oiled</a> <a href='https://amzn.to/4mxxkxl'>9" cake pan</a>.  Bake for about 20 minutes at 350F, or until a toothpick comes out clean.  This particular version uses <a href='/misc/natural-sweeteners#honey'>honey</a> as the sweetener instead of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and uses <a href='/misc/grains#whole-wheat'>whole wheat</a> as its flour.
+- You can also make this into a cookie cake by adding all the raw batter to a parchment lined and <a href='https://link.amazon/B00fjxkKE'>lightly oiled</a> <a href='https://amzn.to/4mxxkxl'>9" cake pan</a>.  Bake for about 20 minutes at 350F, or until a toothpick comes out clean.  This particular version uses <a href='/misc/natural-sweeteners#honey'>honey</a> as the sweetener instead of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and uses <a href='/misc/grains#whole-wheat'>whole wheat</a> as its flour.
 - <img src='/assets/Food/Healthier Dessert/SF Syrup/cookie-cake.jpg' alt='' class='instruction-image'>
 ---

@@ -65,7 +65,7 @@ tags:
 - extra virgin olive oil
 Description: This <a href='/misc/fish#shrimp'>shrimp</a> oreganata utilizes a homemade breadcrumb mix made of <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and <a href='/misc/seeds#flax-seeds'>ground flaxseeds</a>. It's <a href='/misc/celiac'>gluten free</a>, delicious, and cheaper than store-bought <a href='/misc/celiac'>GF</a> breadcrumbs. This meal comes together very quickly, and is a great light and healthy meal that serves 4. Pair it with a <a href='/recipes/sides'>side</a> of roasted <a href='/misc/veggies'>veggies</a>, and you have a complete dish.
 Instructions:
-- Preheat your oven to 450F, and grease a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
+- Preheat your oven to 450F, and grease a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with a <a href='https://link.amazon/B00fjxkKE'>spray of oil</a>
 
 - In a large mixing bowl, combine together the breadcrumb ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/seeds#flax-seeds'>ground flax</a>, parsley, oregano, basil, garlic powder, onion powder, black pepper, and salt. Set aside
 - <img src='/assets/Food/Fish/Oreganata/oreganata-bc.jpg' alt='' class='instruction-image'>

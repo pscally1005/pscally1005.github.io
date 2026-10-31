@@ -64,7 +64,7 @@ Instructions:
 - Once frozen solid, remove from the pan and cut into pieces.  Transfer the bites to a bag and store them in the freezer
 - <img src='/assets/Food/Finger Food/Vegetable/vegetable-chip-4.jpg' alt='' class='instruction-image'>
 
-- To cook - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400°F. Place the frozen <a href='/misc/veggies#broccoli'>broccoli</a> bites into the <a href='https://amzn.to/3FuWETp'>air fryer</a>. (<a href='https://amzn.to/3Hdg0gk'>Spray with oil</a> if you wish). <a href='https://amzn.to/3FuWETp'>Air fry</a> for 16 minutes, flipping half way. Cooking times may vary depending on thickness, just keep an eye on them.
+- To cook - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400°F. Place the frozen <a href='/misc/veggies#broccoli'>broccoli</a> bites into the <a href='https://amzn.to/3FuWETp'>air fryer</a>. (<a href='https://link.amazon/B00fjxkKE'>Spray with oil</a> if you wish). <a href='https://amzn.to/3FuWETp'>Air fry</a> for 16 minutes, flipping half way. Cooking times may vary depending on thickness, just keep an eye on them.
 Notes:
 - The thinner you make these the crispier they will get in the <a href='https://amzn.to/3FuWETp'>air fryer</a>. If your sheet pan is too small and you try to fit the entire mixture on to it, your final bites will probably be too thick. It may be necessary in this case to use two sheet pans. You want about ⅛"-¼" in thickness
 ---

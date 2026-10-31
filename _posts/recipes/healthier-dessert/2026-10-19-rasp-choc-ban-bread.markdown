@@ -61,7 +61,7 @@ Description: |
 
   For similar recipes, check out my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>, <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a>, and <a href='/recipes/pbj-muffin'>PB&J Muffins</a>!
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease it with oil</a>.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://link.amazon/B00fjxkKE'>Lightly grease it with oil</a>.
 
 - Whisk together the dry ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> - <a href='/misc/grains#oats'>rolled oats</a>, <a href='/misc/grains#oats'>oat flour</a>, cornstarch, baking soda, and salt.
 

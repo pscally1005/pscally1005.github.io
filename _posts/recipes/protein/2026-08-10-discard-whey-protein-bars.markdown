@@ -59,7 +59,7 @@ Description: |
 
   The result is 12 <a href='/protein-bar'>protein bars</a> each with 13 g of <a href='/misc/protein'>protein</a> in just over 100 <a href='/misc/calories'>calories</a>. They also have 5 g of <a href='/misc/fiber'>fiber</a> each, are low in <a href='/misc/fats'>fat</a>, and contain no <a href='/misc/hidden-sugar'>added sugar</a>.
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease it with oil</a>
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. <a href='https://link.amazon/B00fjxkKE'>Lightly grease it with oil</a>
 
 - Beat your <a href='/misc/meat#eggs'>egg</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Whisk in the wet ingredients - liquid whey, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 

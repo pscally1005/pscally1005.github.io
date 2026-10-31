@@ -65,7 +65,7 @@ Instructions:
 - In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mash a <a href='/misc/fruit#banana'>banana</a> with the back of a fork.  Combine in the rest of the ingredients.  Let the batter rest for 5-10 minutes.
 - <img src='/assets/Food/Breakfast/Banana Pancake/pancake-batter.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, preheat a large nonstick pan over medium heat with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>. The pan should sound like it's sizzling lightly when the batter is spooned in.
+- Meanwhile, preheat a large nonstick pan over medium heat with a <a href='https://link.amazon/B00fjxkKE'>spray of oil</a>. The pan should sound like it's sizzling lightly when the batter is spooned in.
 
 - Scoop batter into the pan. Cover, and cook over medium heat for about a minute, or until bubbles start to form. Flip, and cook for an additional minute. Remove from the pan, transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> or plate, and repeat. This recipe should make about 6 small pancakes and serves 1 for <a href='/recipes/breakfast'>breakfast</a>.
 Notes:

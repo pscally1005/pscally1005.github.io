@@ -63,7 +63,7 @@ Description: |
 
   Compared to <a href='/recipes/brownies'>my standard brownie recipe</a>, this batch contains about half the <a href='/misc/calories'>calories</a> and a quarter of the <a href='/misc/hidden-sugar'>added sugar</a>, even when you account for adding chocolate chips
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" baking pan</a> with parchment paper, and <a href='https://link.amazon/B00fjxkKE'>lightly grease with oil</a>
 
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mash your <a href='/misc/veggies#sweet-potato'>sweet potato</a> with the back of a fork until smooth. Stir in the following with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, baking powder, and salt
 

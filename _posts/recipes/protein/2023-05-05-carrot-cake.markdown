@@ -67,7 +67,7 @@ Description: Carrot cake is my personal favorite <a href='/recipes/healthier-des
 Instructions:
 - Cut the <a href='/misc/veggies#carrots'>carrots</a> into strips. Lightly season with salt and oil and roast for 30 minutes at 400F. Blend in a <a href='https://amzn.to/4q0AUjI'>food processor</a> to make the <a href='/misc/veggies#carrots'>carrot</a> "puree"
 
-- Lower your oven to 350F, and line two 9" circular cake pans with parchment paper (or aluminum foil). Liberally <a href='https://amzn.to/3Hdg0gk'>spray</a> the paper as well
+- Lower your oven to 350F, and line two 9" circular cake pans with parchment paper (or aluminum foil). Liberally <a href='https://link.amazon/B00fjxkKE'>spray</a> the paper as well
 
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together the dry ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/dairy#whey'>whey</a>, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, baking powder, baking soda, nutmeg, and salt
 

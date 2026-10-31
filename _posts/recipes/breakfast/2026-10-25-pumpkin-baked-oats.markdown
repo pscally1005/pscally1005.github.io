@@ -76,7 +76,7 @@ Description: |
 
   This variant is a seasonal <a href='/misc/veggies#pumpkin'>pumpkin</a> spice, but for a <a href='/misc/chocolate-benefits'>chocolate</a> version check out my <a href='/recipes/chocolate-baked-oats'>Chocolate High Protein Baked Oats</a>! Or for a <a href='/misc/fruit#banana'>banana</a> variation, check out my <a href='/recipes/banana-baked-oats'>Banana Bread High Protein Baked Oats</a>! Finally, for sweet and savory <a href='/misc/dairy#yogurt'>Greek yogurt</a> versions, check out my <a href='/recipes/yogurt-baked-oats'>Yogurt High Protein Baked Oats</a> and <a href='/recipes/savory-baked-oats'>Savory High Protein Baked Oats</a>!
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease it with oil</a>.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://link.amazon/B00fjxkKE'>lightly grease it with oil</a>.
 
 - Add all ingredients to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined.
 - <img src='/assets/Food/Breakfast/Baked Oats/Pumpkin/bowl.jpg' alt='' class='instruction-image'>

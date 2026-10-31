@@ -56,7 +56,7 @@ Description: |
 
   The combination of <a href='/misc/nuts#coconut'>coconut</a> and <a href='/misc/fruit#banana'>banana</a> gives additional flavor and sweetness. The <a href='/misc/dairy#yogurt'>yogurt</a> adds <a href='/misc/protein'>protein</a> while keeping the <a href='/brownies'>blondies</a> from drying out without the need for <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/olive-oil'>oil</a>.
 Instructions:
-- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F on <a href='https://amzn.to/3FuWETp'>air fry</a> mode. <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> an <a href='https://amzn.to/43AzcfI'>air fryer liner</a> with <a href='/misc/olive-oil'>oil</a>
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F on <a href='https://amzn.to/3FuWETp'>air fry</a> mode. <a href='https://link.amazon/B00fjxkKE'>Lightly grease</a> an <a href='https://amzn.to/43AzcfI'>air fryer liner</a> with <a href='/misc/olive-oil'>oil</a>
 
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork until smooth. Add in the rest of the ingredients (<a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, baking powder, salt, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/nuts#coconut'>coconut flakes</a>), and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 

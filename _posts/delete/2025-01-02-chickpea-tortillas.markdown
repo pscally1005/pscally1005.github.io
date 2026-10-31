@@ -65,7 +65,7 @@ Instructions:
 - Slowly pour in water, and whisk until you have a smooth crepe-like batter. Let the batter rest for 10 minutes
 - <img src='/assets/Food/Finger Food/Chickpea Tortilla/batter.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, preheat a large nonstick pan over medium low heat with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
+- Meanwhile, preheat a large nonstick pan over medium low heat with a <a href='https://link.amazon/B00fjxkKE'>spray of oil</a>
 
 - Pour about 1/4 cup of the batter into the pan, and smooth out with a spoon into a thin and circular tortilla (don't make it too thin)
 

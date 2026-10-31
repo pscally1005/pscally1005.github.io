@@ -55,7 +55,7 @@ Instructions:
 - Cut the ends off the <a href='/misc/veggies#plantain'>plantain</a>, and peel with a knife. Using a <a href='https://amzn.to/4q3nlQz'>mandoline</a> set to 1.5 mm (1/16") thickness, thinly slice your <a href='/misc/veggies#plantain'>plantain</a>, and add to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>. Drizzle with oil, and season with garlic powder, onion powder, salt, and turmeric
 - <img src='/assets/Food/Finger Food/Plantain Chips/plantain-chips-cut.jpg' alt='' class='instruction-image'>
 
-- Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the basket with oil. Arrange in a SINGLE layer in your <a href='https://amzn.to/3FuWETp'>air fryer</a> basket (you will need to fry in multiple batches). Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the tops with oil.  I over-crowded them here; try to have none of them touching
+- Lightly <a href='https://link.amazon/B00fjxkKE'>spray</a> the basket with oil. Arrange in a SINGLE layer in your <a href='https://amzn.to/3FuWETp'>air fryer</a> basket (you will need to fry in multiple batches). Lightly <a href='https://link.amazon/B00fjxkKE'>spray</a> the tops with oil.  I over-crowded them here; try to have none of them touching
 - <img src='/assets/Food/Finger Food/Plantain Chips/plantain-chips-raw.jpg' alt='' class='instruction-image'>
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 350F for about 10-12 minutes, or until golden brown, but not burnt.  You can also bake in a 350F oven for 25-30 minutes. Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool and crisp.  Store leftovers in an airtight container in the fridge

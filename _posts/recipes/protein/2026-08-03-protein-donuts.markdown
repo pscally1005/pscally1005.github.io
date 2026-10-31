@@ -63,7 +63,7 @@ Instructions:
 - Add in the liquid ingredients, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>eggs</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='https://amzn.to/4mzsH5p'>allulose</a>.
 - <img src='/assets/Food/Protein Powder/Donuts/bowl-donuts.jpg' alt='' class='instruction-image'>
 
-- <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> a <a href='https://amzn.to/4wPTDC8'>silicone donut mold</a> with <a href='/misc/olive-oil'>oil</a>. Evenly divide the donut batter across the 4 molds, about <b>165 g</b> each.
+- <a href='https://link.amazon/B00fjxkKE'>Lightly grease</a> a <a href='https://amzn.to/4wPTDC8'>silicone donut mold</a> with <a href='/misc/olive-oil'>oil</a>. Evenly divide the donut batter across the 4 molds, about <b>165 g</b> each.
 - <img src='/assets/Food/Protein Powder/Donuts/raw.jpg' alt='' class='instruction-image'>
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 350F for about 8-12 minutes, or until they're lightly browned, solid, and a toothpick to the center comes out nearly clean. The <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be about <a href='https://amzn.to/4kmobG2'>205F</a>.

@@ -72,7 +72,7 @@ Instructions:
 - Cover with a plate or towel, and let rest in the microwave for 1 hour. It will have grown slightly, but not nearly doubled in size.
 - <img src='/assets/Food/Bread/Sourdough Pizza/bowl.jpg' alt='' class='instruction-image'>
 
-- <a href='https://amzn.to/3Hdg0gk'>Lightly oil</a> the bottom of a <a href='https://amzn.to/4aiCsjh'>9x13" casserole dish</a>. Divide the dough into 8 personal pizza doughs, about 100 g each, and add to the pan. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the tops with <a href='/misc/olive-oil'>oil</a>. Cover with a lid, and refrigerate for at least 24 hours, and up to 1 week.
+- <a href='https://link.amazon/B00fjxkKE'>Lightly oil</a> the bottom of a <a href='https://amzn.to/4aiCsjh'>9x13" casserole dish</a>. Divide the dough into 8 personal pizza doughs, about 100 g each, and add to the pan. <a href='https://link.amazon/B00fjxkKE'>Spray</a> the tops with <a href='/misc/olive-oil'>oil</a>. Cover with a lid, and refrigerate for at least 24 hours, and up to 1 week.
 - <img src='/assets/Food/Bread/Sourdough Pizza/doughs.jpg' alt='' class='instruction-image'>
 
 - When it's time to make pizza, preheat your oven on its hottest temperature (500F or 550F) for at least 1 hour with a <a href='https://amzn.to/4ccXgLm'>baking stone</a> in the oven.  Let the dough come up to room temperature as the oven heats up. Evenly spread your dough into a round and thin circle on top of a piece of parchment paper. Top with <a href='/recipes/pasta-sauce'>sauce</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, and any other desired toppings.
@@ -89,7 +89,7 @@ Notes:
 
 - |
   <ol start="1">
-    <li>Preheat your broiler on high, which only takes a few minutes.  Add a small <a href='https://amzn.to/3Hdg0gk'>spray of oil</a> to the cold <a href='https://amzn.to/465aAxx'>cast iron pan</a>.  Add a small amount of seasonings to the <a href='/misc/olive-oil'>oil</a>, such as salt, red pepper flakes, and dried basil.  Rub the seasoned <a href='/misc/olive-oil'>oil</a> around the bottom of the pan.  Add your dough to the pan and shape it into a rough, thin circle.</li><br>
+    <li>Preheat your broiler on high, which only takes a few minutes.  Add a small <a href='https://link.amazon/B00fjxkKE'>spray of oil</a> to the cold <a href='https://amzn.to/465aAxx'>cast iron pan</a>.  Add a small amount of seasonings to the <a href='/misc/olive-oil'>oil</a>, such as salt, red pepper flakes, and dried basil.  Rub the seasoned <a href='/misc/olive-oil'>oil</a> around the bottom of the pan.  Add your dough to the pan and shape it into a rough, thin circle.</li><br>
   </ol>
 - <img src='/assets/Food/Bread/Sourdough Pizza/CI/raw.jpg' alt='' class='instruction-image'><br>
 

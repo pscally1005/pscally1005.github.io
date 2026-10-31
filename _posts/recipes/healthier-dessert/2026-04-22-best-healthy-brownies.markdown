@@ -58,7 +58,7 @@ Description: |
 
   Doing so keeps the process perfectly familiar, while also resulting in a delicious and fudgy <a href='/brownies'>brownie</a> that's <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/celiac'>gluten free</a>, and high in <a href='/misc/fats'>healthy fats</a>.  For a similar recipe, check out <a href='/recipes/best-healthy-cookie-dough'>The Best Healthy Cookie Dough</a>, or see the full article, <a href='/misc/healthier-brownies-and-cookies-experiment'>Healthier Brownies & Cookies Experiment</a>.
 Instructions:
-- Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease with oil</a>
+- Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://link.amazon/B00fjxkKE'>Lightly grease with oil</a>
 
 - In a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for 1 minute to melt. Add in the <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> for 2 minutes to dissolve the sweetener
 

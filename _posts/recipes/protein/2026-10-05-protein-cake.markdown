@@ -64,7 +64,7 @@ Description: |
 
   The <a href='/misc/veggies#pumpkin'>pumpkin</a> provides moistness without the need for <a href='/misc/fats'>unhealthy fats</a> like <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/fake-healthy-foods#seed-oil'>vegetable oil</a>. The <a href='/misc/nuts#almonds'>almond flour</a> adds <a href='/misc/fats'>healthy fats</a> and keeps it <a href='/misc/celiac'>gluten free</a>.  The <a href='https://amzn.to/4mzsH5p'>allulose</a> and <a href='/misc/dairy#whey'>protein powder</a> provide just enough sweetness to round out this delicious and <a href='/recipes/healthier-dessert'>healthy dessert</a> for all to enjoy!
 Instructions:
-- Preheat your oven to 350F. Line 2 <a href='https://amzn.to/4mxxkxl'>9" circle cake pans</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease</a> them with <a href='/misc/olive-oil'>oil</a>.
+- Preheat your oven to 350F. Line 2 <a href='https://amzn.to/4mxxkxl'>9" circle cake pans</a> with parchment paper, and <a href='https://link.amazon/B00fjxkKE'>lightly grease</a> them with <a href='/misc/olive-oil'>oil</a>.
 
 - Add the wet ingredients to a bowl, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/meat#egg-whites'>egg whites</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/4mzsH5p'>allulose</a>, and <a href='https://amzn.to/43MkDqr'>vanilla extract</a>.
 
