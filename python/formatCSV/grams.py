@@ -649,14 +649,14 @@ def grams(food, mass, vol):
             m = "32"
 
     # Tortillas
-    elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread":
-        if vol == "1 medium":
+    elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread" or food == "Low carb wrap":
+        if vol == "1 medium" or "1 tortilla":
             m = "45"
-        elif vol == "2 medium":
+        elif vol == "2 medium" or "2 tortilla":
             m = "90"
-        elif vol == "3 medium":
+        elif vol == "3 medium" or "3 tortilla":
             m = "135"
-        elif vol == "4 medium":
+        elif vol == "4 medium" or "4 tortilla":
             m = "180"
 
     # Psyllium wrap

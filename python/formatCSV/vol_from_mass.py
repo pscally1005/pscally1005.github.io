@@ -248,12 +248,20 @@ def vol_from_mass(food, mass, vol):
         if mass == "190":
             v = "1 medium"
 
-    # Flatbread
-    elif food == "Sourdough Discard Flatbread":
-        if mass == "48":
-            v = "1 flatbread"
-        elif mass == "96":
-            v = "2 flatbreads"
+    # Tortillas
+    elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread" or food == "Low carb wrap":
+        if mass == "48" or mass == "45" or mass == "43":
+            v = "1 medium"
+        elif mass == "96" or mass == "90" or mass == "86":
+            v = "2 medium"
+        elif mass == "144" or mass == "135" or mass == "129":
+            v = "3 medium"
+        elif mass == "192" or mass == "180" or mass == "172":
+            v = "4 medium"
+        elif mass == "240" or mass == "225" or mass == "215":
+            v = "5 medium"
+        elif mass == "288" or mass == "270" or mass == "258":
+            v = "6 medium"
 
     # Lactase
     elif food == "Lactase enzyme":
