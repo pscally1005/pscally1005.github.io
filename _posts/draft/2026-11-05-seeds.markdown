@@ -1,0 +1,65 @@
+---
+layout: post
+title:  Don't Throw Away Those Seeds!
+date:   2026-11-01 00:00:00 -0500
+categories:
+- Recipes
+- Finger Foods
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: yes
+protein_bar: no
+beans: no
+permalink: /recipes/roasted-seeds
+image: /assets/Food/Finger Food/Seeds/cover.jpg
+file: seeds
+servingSize: 1 oz (28 g)
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 5
+Rest:
+Cook: 60
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/cEMV1
+tags:
+- pumpkin seeds
+- butternut squash seeds
+- acorn squash seeds
+- spaghetti squash seeds
+- watermelon seeds
+- roasted seeds
+- snacks
+- air fry
+- roast
+Description: It's the time of the year when everone is carving pumpkins. But don't throw away those seeds! Did you know that you can roast those pumpkin seeds that you typically toss in the bin? Well I'm sure you did, but did you know you can do this with more than just pumpkin seeds? Butternut squash, acorn squash, spaghetti squash, and even watermelon. All these seeds make a delicious, easy, and nutritious snack!
+Instructions:
+- Scrape off as much of the bits of pumpkin/squash that you can from the seeds, though a little bit is okay. Lightly season with salt.
+- <img src='/assets/Food/Finger Food/Seeds/raw.jpg' alt='' class='instruction-image'>
+
+- Air fry the seeds for 1 hour at 300F. You can also roast in a 400F oven.
+- <img src='/assets/Food/Finger Food/Seeds/cover.jpg' alt='' class='instruction-image'>
+Notes:
+- Note that 100 g of raw seeds will become roughly 60 g of cooked seeds. To end up with 2 servings of roasted seeds of 1 oz (28 g) each, you will need roughly 94 g of raw seeds, or roughly 1 1/2 cups.
+---

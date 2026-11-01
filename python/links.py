@@ -11,6 +11,24 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/roasted-seeds": [
+        "roasted seeds",
+        "roasted pumpkin seeds",
+        "roasted squash seeds",
+        "roasted sunflower seeds",
+        "roasted sesame seeds",
+        "roasted butternut squash seeds",
+        "roasted acorn squash seeds",
+        "roasted spaghetti squash seeds",
+        "don't throw away those seeds!",
+        "don't throw away those seeds"
+    ],
+    "/recipes/bulgur": [
+        "raw bulgur",
+        "soaked bulgur",
+        "overnight bulgur",
+        "you can eat raw bulgur"
+    ],
     "/recipes/pumpkin-whipped-feta": [
         "pumpkin whipped feta",
         "pumpkin whipped feta spread"
@@ -10789,7 +10807,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-04", "2026-12-29")):
+            if not file.startswith(("2026-11-05", "2026-11-07")):
                 continue
 
             # exclude some files

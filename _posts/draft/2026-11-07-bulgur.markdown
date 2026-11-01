@@ -1,0 +1,64 @@
+---
+layout: post
+title:  You Can Eat Raw Bulgur
+date:   2026-11-01 00:00:00 -0500
+categories:
+- Recipes
+- Sides
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+beans: no
+permalink: /recipes/bulgur
+image: /assets/Food/Sides/Bulgur/cover.jpg
+file: rawbulgur
+servingSize: 1 cup (209 g)
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 5
+Rest: 480
+Cook:
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/UiGcL
+tags:
+- bulgur wheat
+- cracked bulgur
+- raw bulgur
+- soaked
+- overnight
+- side
+- carb
+Description: |
+  Did you know that you can eat bulgur raw? Oh, you don't even know what bulgur is. I guess that's fair...<br><br>
+
+  Well, it's a parboiled cracked wheat berry that you could either cook like rice, or do what I'm doing here. Just soak the bulgur overnight in salted water, and it's fully edible in the morning!
+Instructions:
+- Add bulgur, water, and salt to a large bowl. Cover with a lid, and refrigerate overnight, or about 8 hours, until all the water is absorbed.
+- <img src='/assets/Food/Sides/Bulgur/before.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Sides/Bulgur/after.jpg' alt='' class='instruction-image'>
+Notes:
+- This recipe makes about 8 cups of soaked bulgur, where each cup is about 209 g.
+---

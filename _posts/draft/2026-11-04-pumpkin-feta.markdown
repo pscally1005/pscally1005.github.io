@@ -18,7 +18,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/pumpkin-whipped-feta
@@ -52,7 +52,6 @@ tags:
 - dip
 - spread
 - sauce
-- vic
 - fall
 - spread
 - lemon juice

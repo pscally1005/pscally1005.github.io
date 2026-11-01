@@ -781,6 +781,8 @@ def ingredients(food):
         f = "Pumpkin seeds"
     elif food == "cranberry-sauce":
         f = "Sugar free cranberry sauce"
+    elif food == "Seeds, without salt, roasted, whole, pumpkin and squash seeds" or food == "Seeds, with salt, roasted, whole, pumpkin and squash seeds":
+        f = "Raw whole pumpkin seeds"
 
     # Carbs
     elif food == "Tortilla chips, other flavors (Doritos)":
