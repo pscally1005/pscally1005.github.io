@@ -5741,7 +5741,8 @@ LINKS = {
         "potato"
     ],
     "/misc/veggies#pumpkin": [
-        "pumpkin"
+        "pumpkin",
+        "pumpkins"
     ],
     "/misc/veggies#radicchio": [
         "radicchio"
@@ -8640,6 +8641,7 @@ EXCLUDED_PHRASES = [
     "peanut butter center",
     "peanut butter filling",
     "creamy chocolate frosting",
+    "wheat berry",
     "each cake has over",
     "frozen peanut butter ball",
     "in the frosting",

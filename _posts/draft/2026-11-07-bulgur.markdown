@@ -52,13 +52,13 @@ tags:
 - side
 - carb
 Description: |
-  Did you know that you can eat bulgur raw? Oh, you don't even know what bulgur is. I guess that's fair...<br><br>
+  Did you know that you can eat <a href='/misc/grains#bulgur'>bulgur</a> raw? Oh, you don't even know what <a href='/misc/grains#bulgur'>bulgur</a> is. I guess that's fair...<br><br>
 
-  Well, it's a parboiled cracked wheat berry that you could either cook like rice, or do what I'm doing here. Just soak the bulgur overnight in salted water, and it's fully edible in the morning!
+  Well, it's a parboiled cracked <a href='/misc/grains#whole-wheat'>wheat</a> berry that you could either cook like <a href='/misc/grains#brown-rice'>rice</a>, or do what I'm doing here. Just soak the <a href='/misc/grains#bulgur'>bulgur</a> overnight in salted water, and it's fully edible in the morning!
 Instructions:
-- Add bulgur, water, and salt to a large bowl. Cover with a lid, and refrigerate overnight, or about 8 hours, until all the water is absorbed.
+- Add <a href='/misc/grains#bulgur'>bulgur</a>, water, and salt to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Cover with a lid, and refrigerate overnight, or about 8 hours, until all the water is absorbed.
 - <img src='/assets/Food/Sides/Bulgur/before.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Sides/Bulgur/after.jpg' alt='' class='instruction-image'>
 Notes:
-- This recipe makes about 8 cups of soaked bulgur, where each cup is about 209 g.
+- <a href='#recipe'>This recipe</a> makes about 8 cups of soaked <a href='/misc/grains#bulgur'>bulgur</a>, where each cup is about 209 g.
 ---
