@@ -27,7 +27,9 @@ LINKS = {
         "raw bulgur",
         "soaked bulgur",
         "overnight bulgur",
-        "you can eat raw bulgur"
+        "you can eat raw bulgur",
+        "no-cook bulgur",
+        "no cook bulgur"
     ],
     "/recipes/pumpkin-whipped-feta": [
         "pumpkin whipped feta",
