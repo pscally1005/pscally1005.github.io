@@ -54,16 +54,14 @@ tags:
 - air fry
 - roast
 Description: |
-  It's the time of the year when everone is carving <a href='/misc/veggies#pumpkin'>pumpkins</a>. But don't throw away those <a href='/misc/seeds#pumpkin-seeds'>seeds</a>!<br><br>
+  It's <a href='/misc/veggies#pumpkin'>pumpkin</a> carving season, but don't throw away those <a href='/misc/seeds#pumpkin-seeds'>seeds</a>! You probably already know that <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a> can be roasted, but did you know you can do the same with other <a href='/misc/seeds'>seeds</a>?<br><br>
 
-  Did you know that you can roast those <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a> that you typically toss in the bin? Well I'm sure you did, but did you know you can do this with more than just <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a><br><br>
-
-  <a href='/misc/veggies#butternut-squash'>Butternut squash</a>, <a href='/misc/veggies#acorn-squash'>acorn squash</a>, <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, and even <a href='/misc/fruit#watermelon'>watermelon</a>. All these <a href='/misc/seeds'>seeds</a> make a delicious, easy, and nutritious snack!
+  <a href='/misc/veggies#butternut-squash'>Butternut squash</a>, <a href='/misc/veggies#acorn-squash'>acorn squash</a>, <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, and even <a href='/misc/fruit#watermelon'>watermelon</a> <a href='/misc/seeds'>seeds</a> can make a delicious, easy, and nutritious snack!
 Instructions:
-- Scrape off as much of the bits of <a href='/misc/veggies#pumpkin'>pumpkin</a>/<a href='/misc/veggies#butternut-squash'>squash</a> that you can from the <a href='/misc/seeds'>seeds</a>, though a little bit is okay. Lightly season with salt.
+- Remove as much of the <a href='/misc/veggies#pumpkin'>pumpkin</a>/<a href='/misc/veggies#butternut-squash'>squash</a> flesh as possible from the <a href='/misc/seeds'>seeds</a>. A little leftover flesh is okay. Lightly season with salt.
 - <img src='/assets/Food/Finger Food/Seeds/raw.jpg' alt='' class='instruction-image'>
 
-- <a href='https://amzn.to/3FuWETp'>Air fry</a> the <a href='/misc/seeds'>seeds</a> for 1 hour at 300F. You can also roast in a 400F oven.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> the <a href='/misc/seeds'>seeds</a> for 1 hour at 350F, or until crispy and lightly browned. You can also roast in a 400F oven.
 - <img src='/assets/Food/Finger Food/Seeds/cover.jpg' alt='' class='instruction-image'>
 Notes:
 - Note that 100 g of raw <a href='/misc/seeds'>seeds</a> will become roughly 60 g of roasted <a href='/misc/seeds'>seeds</a>. To end up with 2 servings of roasted <a href='/misc/seeds'>seeds</a> of 1 oz (28 g) each, you will need roughly 94 g of raw <a href='/misc/seeds'>seeds</a>, or roughly 1 1/2 cups.
