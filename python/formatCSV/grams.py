@@ -982,6 +982,32 @@ def grams(food, mass, vol):
         elif vol == "2 x 13.5 oz can" or vol == "27 oz can":
             m = "810"
 
+    # Oat fiber
+    elif food == "Oat fiber":
+        if vol == "1 tsp":
+            m = "3"
+        elif vol == "2 tsp":
+            m = "6"
+        elif vol == "1 tbsp":
+            m = "9"
+        elif vol == "2 tbsp":
+            m = "18"
+        elif vol == "3 tbsp":
+            m = "27"
+        elif vol == "1/4 cup" or vol == "4 tbsp":
+            m = "36"
+        elif vol == "1/3 cup":
+            m = "48"
+        elif vol == "1/2 cup":
+            m = "72"
+        elif vol == "2/3 cup":
+            m = "96"
+        elif vol == "3/4 cup":
+            m = "108"
+        elif vol == "1 cup":
+            m = "144"
+
+
     # Flours
     elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Unsweetened coconut flakes" or food == "Sweetened coconut flakes":
         if vol == "1 tsp":

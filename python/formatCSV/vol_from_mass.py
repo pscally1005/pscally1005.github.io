@@ -1004,6 +1004,31 @@ def vol_from_mass(food, mass, vol):
         if mass == "377":
             v = "1 batch"
 
+    # Oat fiber
+    elif food == "Oat fiber":
+        if mass == "3":
+            v = "1 tsp"
+        elif mass == "6":
+            v = "2 tsp"
+        elif mass == "9":
+            v = "1 tbsp"
+        elif mass == "18":
+            v = "2 tbsp"
+        elif mass == "27":
+            v = "3 tbsp"
+        elif mass == "36":
+            v = "1/4 cup"
+        elif mass == "48":
+            v = "1/3 cup"
+        elif mass == "72":
+            v = "1/2 cup"
+        elif mass == "96":
+            v = "2/3 cup"
+        elif mass == "108":
+            v = "3/4 cup"
+        elif mass == "144":
+            v = "1 cup"
+
     # Flours
     elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Unsweetened coconut flakes" or food == "Sweetened coconut flakes":
         if mass == "2.5" or mass == "3":
