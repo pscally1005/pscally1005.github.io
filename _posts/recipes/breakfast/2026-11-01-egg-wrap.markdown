@@ -69,7 +69,7 @@ tags:
 Description: |
   I love having <a href='/misc/meat#eggs'>eggs</a> for <a href='/recipes/breakfast'>breakfast</a>, but I don't like spending 15 minutes making food, just to do it again the next day. <a href='#recipe'>This recipe</a> serves as a way to prep a whole week's worth of <a href='/recipes/breakfast'>breakfast</a> to store in the freezer for easy reheating in the morning.<br><br>
 
-  On the menu is <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/veggies#onion'>onion</a> <a href='/misc/meat#eggs'>scrambled eggs</a> with <a href='/misc/dairy#cheddar'>cheddar cheese</a> and <a href='/recipes/salsa'>salsa</a>, wrapped in a <a href='https://link.amazon/B030CixA0'>low carb wrap</a>. Each burrito contains about 16 g of <a href='/misc/protein'>protein</a> in about 220 <a href='/misc/calories'>calories</a>, with an astounding 20 g <a href='/misc/fiber'>fiber</a>.<br><br>
+  On the menu is <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/veggies#onion'>onion</a> <a href='/misc/meat#eggs'>scrambled eggs</a> with <a href='/misc/dairy#cheddar'>cheddar cheese</a> and <a href='/recipes/salsa'>salsa</a>, wrapped in a <a href='https://link.amazon/B030CixA0'>low carb wrap</a>. Each burrito contains about 16 g of <a href='/misc/protein'>protein</a> in about 220 <a href='/misc/calories'>calories</a>, with an astounding 20 g of <a href='/misc/fiber'>fiber</a>.<br><br>
 
   For other meal prep <a href='/misc/meat#eggs'>egg</a> <a href='/recipes/breakfast'>breakfasts</a>, check out the following recipes!
   <ul>
@@ -91,8 +91,10 @@ Instructions:
 - Remove from the heat, and mix in <a href='/misc/dairy#cheddar'>cheese</a>, <a href='/recipes/salsa'>salsa</a>, and <a href='/recipes/hot-sauce'>hot sauce</a>.
 - <img src='/assets/Food/Breakfast/Egg Wrap/cheese.jpg' alt='' class='instruction-image'>
 
-- Let the mixture totally cool before dividing it evenly across 8 <a href='https://link.amazon/B030CixA0'>tortillas</a>, about <b>156 g</b> of filling per <a href='https://link.amazon/B030CixA0'>tortilla</a>. Wrap each in aluminum foil, and store in the freezer.
+- Let the mixture totally cool before dividing it evenly across 8 <a href='https://link.amazon/B030CixA0'>tortillas</a>, about <b>156 g</b> of filling per <a href='https://link.amazon/B030CixA0'>tortilla</a>.
 - <img src='/assets/Food/Breakfast/Egg Wrap/filled.jpg' alt='' class='instruction-image'>
+
+- Wrap each in aluminum foil, and store in the freezer.
 - <img src='/assets/Food/Breakfast/Egg Wrap/foil.jpg' alt='' class='instruction-image'>
 Notes:
 - To reheat, unwrap the frozen burrito from the foil, and wrap in a damp paper towel. Microwave for 2-3 minutes, flipping halfway, or until heated thoroughly. For a crispy <a href='https://link.amazon/B030CixA0'>tortilla</a>, brown all sides in a preheated pan on the stove.
