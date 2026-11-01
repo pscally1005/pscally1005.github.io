@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Unsweetened Dried Cranberries
-date:   2026-10-24 00:00:00 -0500
+date:   2026-11-01 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/dried-cranberry
 image: /assets/Food/Finger Food/Cranberry/cover.jpg
 file: cranberry
-servingSize: 1/4 cup (9 g)
+servingSize: 1/4 cup (7.5 g)
 section1:
 start2:
 section2:
@@ -34,9 +34,9 @@ start4:
 section4:
 start5:
 section5:
-Prep: 30
+Prep: 5
 Rest:
-Cook: 240
+Cook: 180
 Source1:
 Source2:
 Source3:
@@ -53,28 +53,42 @@ tags:
 - date
 - snack
 - trail mix
-Description: Dried <a href='/misc/fruit#cranberry'>cranberries</a> are a staple on many <a href='/salad'>salads</a>, but unfortunately they're full of <a href='/misc/hidden-sugar'>added sugar</a>, as <a href='/misc/fruit#cranberry'>cranberries</a> are naturally tart and not sweet at all. These simple dried <a href='/misc/fruit#cranberry'>cranberries</a> go great on top of a <a href='/salad'>salad</a> or in a <a href='/yogurt'>yogurt bowl</a>.  Try using them in place of <a href='/misc/fruit#raisins'>raisins</a> in my <a href='/recipes/trail-mix'>Mixed Nuts & Chocolate Trail Mix</a>.
+- air fried
+- air fryer
+- food processor
+- blend
+- salad
+- snack
+- topping
+Description: Dried <a href='/misc/fruit#cranberry'>cranberries</a> are a staple on many <a href='/salad'>salads</a>, but unfortunately they're full of <a href='/misc/hidden-sugar'>added sugar</a>, as <a href='/misc/fruit#cranberry'>cranberries</a> are naturally quite tart, not sweet. These simple unsweetened dried <a href='/misc/fruit#cranberry'>cranberries</a> go great on top of a <a href='/salad'>salad</a> or in a <a href='/yogurt'>yogurt bowl</a>.  Try using them in place of <a href='/misc/fruit#raisins'>raisins</a> in my <a href='/recipes/trail-mix'>Mixed Nuts & Chocolate Trail Mix</a>.
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> on dehydrate mode at 170F.
 
-- Cut each of the <a href='/misc/fruit#cranberry'>cranberries</a> in half.
+- In 2 batches, pulse your <a href='/misc/fruit#cranberry'>cranberries</a> in the <a href='https://amzn.to/4q0AUjI'>food processor</a> just 2-3 times, just enough to split them. Don't overblend, or they'll be mushy.
+
+- Add the <a href='/misc/fruit#cranberry'>cranberries</a> to a <a href='https://amzn.to/43AzcfI'>lined</a> <a href='https://amzn.to/3FuWETp'>air fryer</a>.
 - <img src='/assets/Food/Finger Food/Cranberry/raw.jpg' alt='' class='instruction-image'>
 
-- Dehydrate at 170F for about 3-4 hours, stirring every hour, until dehydrated to your desired texture.
+- Dehydrate at 170F for about 3 hours, stirring every hour, until dehydrated to your desired texture.
 - <img src='/assets/Food/Finger Food/Cranberry/cooked.jpg' alt='' class='instruction-image'>
 
 - Store in a sealed container in the refrigerator.
-- <img src='/assets/Food/Finger Food/Cranberry/bowl.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Finger Food/Cranberry/bowlNew.jpg' alt='' class='instruction-image'>
 Notes:
-- |
-  <a href='#recipe'>This recipe</a> yields about 45 g of dried <a href='/misc/fruit#cranberry'>cranberries</a>, or 1 1/4 cups. That's 5 servings of 1/4 cup (9 g) each.<br><br>
+- You can also cut each one in half individually with a <a href='https://amzn.to/4jlDKwc'>knife</a>, but that took me 30 minutes for all 12 ounces.
 
-  <a href='#recipe'>Homemade dried cranberries</a> weigh less per 1/4 cup than storebought varieties because they're more thoroughly dehydrated and have a different texture.
-- <img src='/assets/Food/Finger Food/Cranberry/cup1.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food/Finger Food/Cranberry/cup2.jpg' alt='' class='instruction-image'>
+- I have also tried making these by adding the <a href='/misc/fruit#cranberry'>cranberries</a> to boiling water for 1 minute to split the skins before dehydrating them. While this worked well for some of them, about half did not split, so these barely dehydrated after the 3 hours.
+
+- For the above reasons, I prefer to use the <a href='https://amzn.to/4q0AUjI'>food processor</a> for cutting the <a href='/misc/fruit#cranberry'>cranberries</a>. It's faster than a <a href='https://amzn.to/4jlDKwc'>knife</a> and more reliable than adding them to boiling water. Occasionally, a <a href='/misc/fruit#cranberry'>cranberry</a> will escape the <a href='https://amzn.to/4q0AUjI'>food processor</a> blade, but the vast majority get cut and dehydrate successfully.
+
+- <a href='#recipe'>This recipe</a> yields about <i>60 g</i> of dried <a href='/misc/fruit#cranberry'>cranberries</a>, or 2 cups. That's 8 servings of <b>1/4 cup (7.5 g)</b> each.
+- <img src='/assets/Food/Finger Food/Cranberry/cup.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Finger Food/Cranberry/quarter.jpg' alt='' class='instruction-image'>
+
+- <a href='#recipe'>Homemade dried cranberries</a> weigh less per 1/4 cup than storebought varieties because they're more thoroughly dehydrated and have a different texture.
 
 - |
-  Here is an equal comparison <i>by volume</i>: <b>1/4 cup</b> each of <a href='#recipe'>homemade unsweetened</a> (9 g), <a href='https://link.amazon/B0baTYFGn'>storebought sweetened</a> (40 g), and <a href='https://link.amazon/B00G0PdLe'>storebought unsweetened</a> (37 g).
+  Here is an equal comparison <i>by volume</i>: <b>1/4 cup</b> each of <a href='#recipe'>homemade unsweetened</a> (7.5 g), <a href='https://link.amazon/B0baTYFGn'>storebought sweetened</a> (40 g), and <a href='https://link.amazon/B00G0PdLe'>storebought unsweetened</a> (37 g).
 - |
   COMPARE(
     "cranberry",
@@ -94,7 +108,7 @@ Notes:
   )
 
 - |
-  Here is an equal comparison <i>by mass</i>: <b>100 g</b> each of <a href='#recipe'>homemade unsweetened</a> (2 3/4 cup), <a href='https://link.amazon/B0baTYFGn'>storebought sweetened</a> (1/2 cup + 2 tbsp), and <a href='https://link.amazon/B00G0PdLe'>storebought unsweetened</a> (2/3 cup).
+  Here is an equal comparison <i>by mass</i>: <b>100 g</b> each of <a href='#recipe'>homemade unsweetened</a> (3 1/3 cup), <a href='https://link.amazon/B0baTYFGn'>storebought sweetened</a> (1/2 cup + 2 tbsp), and <a href='https://link.amazon/B00G0PdLe'>storebought unsweetened</a> (2/3 cup).
 - |
   COMPARE(
     "cranberry100g",
