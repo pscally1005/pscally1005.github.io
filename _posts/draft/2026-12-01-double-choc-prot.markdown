@@ -62,17 +62,17 @@ tags:
 - double chocolate
 - brownie
 - rahul kamat
-Description: These delicious double chocolate, brownie-inspired protein bars are easy, simple, and high in protein. The whey protein, powdered peanut butter, and Greek yogurt add protein, the melted chocolate adds richness and crunch, and the oat flour keeps them gluten-free!
+Description: These delicious double chocolate, brownie-inspired <a href='/protein-bar'>protein bars</a> are easy, simple, and <a href='/misc/high-protein'>high in protein</a>. The <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and <a href='/misc/dairy#yogurt'>Greek yogurt</a> add <a href='/misc/protein'>protein</a>, the melted chocolate adds richness and crunch, and the <a href='/misc/grains#oats'>oat flour</a> keeps them <a href='/misc/celiac'>gluten-free</a>!
 Instructions:
-- Mix together the dry base ingredients in a large bowl - powdered peanut butter, oat flour, whey, cocoa powder, and salt.
+- Mix together the dry base ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt.
 
-- Add in the wet base ingredients, and mix until fully combined with a silicone spatula - yogurt, almond milk, and vanilla.
+- Add in the wet base ingredients, and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>.
 - <img src='/assets/Food/Protein Powder/Double Choc Prot/bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer the dough to a parchment lined container.
+- Transfer the dough to a parchment lined container. <a href='https://amzn.to/3Ffts2R'>My container</a> is 6.2" x 4.5".
 - <img src='/assets/Food/Protein Powder/Double Choc Prot/base.jpg' alt='' class='instruction-image'>
 
-- Add chocolate chips and coconut oil to a small bowl. Microwave in 20 second intervals, stirring in between, until fully melted.
+- Add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Microwave in 20 second intervals, stirring in between, until fully melted.
 - <img src='/assets/Food/Protein Powder/Double Choc Prot/choc.jpg' alt='' class='instruction-image'>
 
 - Spread the melted chocolate on top of the protein bar base. Top with a pinch of flaky salt.
@@ -81,9 +81,9 @@ Instructions:
 - Let the bars chill in the fridge for at least 30 minutes to harden the chocolate before cutting into 5 bars.
 - <img src='/assets/Food/Protein Powder/Double Choc Prot/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- Either chocolate whey or vanilla whey will work in this recipe.
+- Either <a href='https://amzn.to/3HXUMDC'>chocolate whey</a> or <a href='https://amzn.to/4llkGj5'>vanilla whey</a> will work in <a href='#recipe'>this recipe</a>.
 
-- Here's how the nutrition facts differ if you use standard chocolate chips instead of sugar free chocolate chips.
+- Here's how the nutrition facts differ if you use standard chocolate chips instead of <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>.
 - |
   COMPARE(
     "doublechocprot",

@@ -52,7 +52,11 @@ tags:
 - psyllium husk
 - flatbread
 - carb balance
-Description: Do you know those <a href='https://amzn.to/4wdSyoe'>carb balance wraps</a>?  The ones that are low in <a href='/misc/calories'>calories</a> with a ton of <a href='/misc/fiber'>fiber</a>?  Well this is my homemade version of them. It's a crepe batter made from <a href='/misc/psyllium-husk'>psyllium husk</a> that's extremely <a href='/misc/calories'>low calorie</a> and <a href='/misc/fiber'>high fiber</a>. This recipe makes 1 medium sized tortilla or crepe that contains an astounding 7 g of <a href='/misc/fiber'>fiber</a> in a measly 11 <a href='/misc/calories'>calories</a>.
+- copycat carb balance wraps
+Description: |
+  Do you know those <a href='https://link.amazon/B030CixA0'>carb balance wraps</a>?  The ones that are low in <a href='/misc/calories'>calories</a> with a ton of <a href='/misc/fiber'>fiber</a>?  Well this is my homemade version of them. It's a crepe batter made from <a href='/misc/psyllium-husk'>psyllium husk</a> that's extremely <a href='/misc/calories'>low calorie</a> and <a href='/misc/fiber'>high fiber</a>. This recipe makes 1 medium sized tortilla or crepe that contains an astounding 7 g of <a href='/misc/fiber'>fiber</a> in a measly 11 <a href='/misc/calories'>calories</a>.<br><br>
+
+  For another version of a low carb wrap, check out my <a href='/recipes/copycat-carb-balance'>Copycat Carb Balance Wraps</a>, which has the exact same macros as the <a href='https://link.amazon/B030CixA0'>storebought ones</a>.
 Instructions:
 - Preheat a <a href='https://amzn.to/4dBv5Ga'>10" nonstick pan</a> over medium heat with a tiny <a href='https://link.amazon/B00fjxkKE'>spray of oil</a>
 

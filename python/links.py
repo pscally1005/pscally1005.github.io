@@ -3205,12 +3205,12 @@ LINKS = {
         "how to make ground chicken"
     ],
     "/recipes/tortilla": [
+        # "tortillas",
+        # "tortilla",
         "oat-wheat tortillas",
         "oat wheat tortillas",
         "whole wheat tortillas",
         "whole wheat tortilla",
-        "tortillas",
-        "tortilla"
     ],
     "/recipes/apple-spread": [
         "apple spread",
@@ -3979,14 +3979,14 @@ LINKS = {
         "burger bun"
     ],
     "/recipes/oat-wraps": [
+        # "wraps",
+        # "wrap",
         "gluten free oat wraps",
         "gluten free oat wrap",
         "gluten free wraps",
         "gluten free wrap",
         "oat wraps",
-        "oat wrap",
-        "wraps",
-        "wrap"
+        "oat wrap"
     ],
     "/recipes/coconut-bread": [
         "gluten and grain free coconut bread",
@@ -6460,12 +6460,14 @@ LINKS = {
     "https://amzn.to/4llkGj5": [
         "protein powder (vanilla whey)",
         "vanilla whey protein powder",
-        "vanilla protein powder"
+        "vanilla protein powder",
+        "vanilla whey"
     ],
     "https://amzn.to/3HXUMDC": [
         "protein powder (chocolate whey)",
         "chocolate whey protein powder",
-        "chocolate protein powder"
+        "chocolate protein powder",
+        "chocolate whey"
     ],
     "https://amzn.to/4wEmIBw": [
         "fairlife",
@@ -6848,7 +6850,7 @@ LINKS = {
         "duncan hines dark chocolate boxed brownie",
         "standard duncan hines brownies"
     ],
-    "https://amzn.to/4wdSyoe": [
+    "https://link.amazon/B030CixA0": [
         # "zero net carb tortillas",
         # "zero net carb tortilla",
         "carb balance tortillas",
@@ -8678,6 +8680,11 @@ EXCLUDED_PHRASES = [
     "certainly be baking",
     # "apple cider",
     "without and with the chocolate",
+    "brownie-inspired",
+    "brownie inspired",
+    "spread the",
+    "protein bar base",
+    '8" in diameter',
     "chocolate cake outside",
     "chocolate cake exterior",
     "peanut butter center",
