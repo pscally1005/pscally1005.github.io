@@ -62,6 +62,8 @@ def fix(vol):
         v = "5 tbsp"
     elif vol == "6 tbsp, drained" or vol == "0.3675 cup" or vol == "18 tsp" or vol == "0.375 cup" or vol == "0.75 1/2 cup":
         v = "6 tbsp"
+    elif vol == "0.46875 cup":
+        v = "7 1/2 tbsp"
     elif vol == "9.33 tbsp" or vol == "9.33 Tbsp":
         v = "9 tbsp + 1 tsp"
     elif vol == "36 tsp":

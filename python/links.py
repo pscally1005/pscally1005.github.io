@@ -11,6 +11,42 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/copycat-carb-balance": [
+        "copycat carb balance wraps",
+        "copycat carb balance wrap",
+        "copycat carb balance tortillas",
+        "copycat carb balance tortilla",
+        "copycat carb balance",
+        "low carb wraps",
+        "low carb wrap",
+        "low-carb wraps",
+        "low-carb wrap",
+        "low carb tortillas",
+        "low carb tortilla",
+        "low-carb tortillas",
+        "low-carb tortilla",
+        "high fiber wraps",
+        "high fiber wrap",
+        "high-fiber wraps",
+        "high-fiber wrap",
+        "high fiber tortillas",
+        "high fiber tortilla",
+        "high-fiber tortillas",
+        "high-fiber tortilla"
+    ],
+    "/recipes/ground-chicken-pizza": [
+        "ground chicken pizza crust",
+        "ground chicken pizza pie",
+        "ground chicken pizza",
+        "high-protein pizza",
+        "high protein pizza"
+    ],
+    "/recipes/double-chocolate-protein-bars": [
+        "double chocolate protein bars",
+        "double chocolate protein bar",
+        "chocolate brownie protein bars",
+        "chocolate brownie protein bar"
+    ],
     "/recipes/roasted-seeds": [
         "roasted seeds",
         "roasted pumpkin seeds",
@@ -6418,6 +6454,9 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://link.amazon/B04N3ngTi": [
+        "oat fiber"
+    ],
     "https://amzn.to/4llkGj5": [
         "protein powder (vanilla whey)",
         "vanilla whey protein powder",
@@ -6810,14 +6849,15 @@ LINKS = {
         "standard duncan hines brownies"
     ],
     "https://amzn.to/4wdSyoe": [
-        "zero net carb tortillas",
-        "zero net carb tortilla",
+        # "zero net carb tortillas",
+        # "zero net carb tortilla",
         "carb balance tortillas",
         "carb balanace tortilla",
-        "zero net carb wraps",
-        "zero net carb wrap",
+        # "zero net carb wraps",
+        # "zero net carb wrap",
         "carb balance wraps",
-        "carb balanace wrap"
+        "carb balanace wrap",
+        "carb balance"
     ],
     "https://amzn.to/4w2GB4Q": [
         "kettle and fire bone broth",
@@ -10811,7 +10851,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-05", "2026-11-07")):
+            if not file.startswith(("2026-11-09", "2026-11-10", "2026-12-01")):
                 continue
 
             # exclude some files
