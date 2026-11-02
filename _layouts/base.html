@@ -34,6 +34,24 @@
 
       });
 
+      window.addEventListener("load", function () {
+        if (!window.location.hash) return;
+
+        const targetId = decodeURIComponent(window.location.hash.slice(1));
+        const target = document.getElementById(targetId);
+        if (!target) return;
+
+        const scrollMarginTop = parseFloat(
+          window.getComputedStyle(target).scrollMarginTop
+        ) || 0;
+        const targetTop = target.getBoundingClientRect().top + window.scrollY;
+
+        window.scrollTo({
+          top: Math.max(0, targetTop - scrollMarginTop),
+          behavior: "auto"
+        });
+      });
+
     </script>
 
   </body>
