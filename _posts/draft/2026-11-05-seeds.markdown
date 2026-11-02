@@ -61,7 +61,7 @@ Instructions:
 - Remove as much of the <a href='/misc/veggies#pumpkin'>pumpkin</a>/<a href='/misc/veggies#butternut-squash'>squash</a> flesh as possible from the <a href='/misc/seeds'>seeds</a>. A little leftover flesh is okay. Lightly season with salt.
 - <img src='/assets/Food/Finger Food/Seeds/raw.jpg' alt='' class='instruction-image'>
 
-- <a href='https://amzn.to/3FuWETp'>Air fry</a> the <a href='/misc/seeds'>seeds</a> for 1 hour at 350F, or until crispy and lightly browned. You can also roast in a 400F oven.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> the <a href='/misc/seeds'>seeds</a> for 1 hour at 300F, or until crispy and lightly browned. You can also roast in a 350F oven.
 - <img src='/assets/Food/Finger Food/Seeds/cover.jpg' alt='' class='instruction-image'>
 Notes:
 - Note that 100 g of raw <a href='/misc/seeds'>seeds</a> will become roughly 60 g of roasted <a href='/misc/seeds'>seeds</a>. To end up with 2 servings of roasted <a href='/misc/seeds'>seeds</a> of 1 oz (28 g) each, you will need roughly 94 g of raw <a href='/misc/seeds'>seeds</a>, or roughly 1 1/2 cups.
