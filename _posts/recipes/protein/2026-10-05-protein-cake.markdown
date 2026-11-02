@@ -18,7 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
-protein_bar: yes
+protein_bar: no
 beans: no
 permalink: /recipes/protein-cake
 image: /assets/Food/Protein Powder/Protein Cake/cover1.jpg
