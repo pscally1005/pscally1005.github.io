@@ -69,20 +69,20 @@ Instructions:
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together <a href='/misc/ground-chicken'>ground chicken</a>, <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, garlic powder, oregano, salt, and pepper until fully combined.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/bowl.jpg' alt='' class='instruction-image'>
 
-- Evenly divide the <a href='/misc/meat#chicken-breast'>chicken</a> mixture into 4 pieces, about <b>155 g</b> each. Flatten into a thin and wide circle on your <a href='https://amzn.to/45sRAsB'>cookie sheets</a>.
+- Evenly divide the <a href='/misc/meat#chicken-breast'>chicken</a> mixture into 4 pieces, about <b>154 g</b> each. Flatten into a thin and wide circle on your <a href='https://amzn.to/45sRAsB'>cookie sheets</a>, about 1/4" thick and 8" diameter.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/rawDough.jpg' alt='' class='instruction-image'>
 
-- Bake just the crust at 400F for about 25 minutes, or until lightly browned and cooked through.
+- Bake the crust at 400F for about 25 minutes, or until lightly browned and cooked through, and the <a href='/misc/meat#chicken-thighs'>chicken</a> reaches <a href='https://amzn.to/4kmobG2'>165F</a>.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/cookedDough.jpg' alt='' class='instruction-image'>
 
 - Top your cooked crust with <a href='/recipes/savory-sauces'>sauce</a> (2 tbsp, 32 g per pizza) and <a href='/misc/dairy#mozzarella'>cheese</a> (1/2 oz, 14 g per pizza).
 - <img src='/assets/Food/Finger Food/Chicken Pizza/topped.jpg' alt='' class='instruction-image'>
 
-- Increase your oven temperature to 450F. Return the pizza to the oven, and bake for an additional 8-10 minutes, or until the <a href='/recipes/savory-sauces'>sauce</a> and <a href='/misc/dairy#mozzarella'>cheese</a> are lightly bubbly. Optionally broil the top to brown the <a href='/misc/dairy#mozzarella'>cheese</a>.
+- Increase your oven temperature to 450F. Return the pizza to the oven, and bake for an additional 8-10 minutes, or until the <a href='/recipes/savory-sauces'>sauce</a> and <a href='/misc/dairy#mozzarella'>cheese</a> are lightly bubbly. Optionally broil for about 1 minute, until the <a href='/misc/dairy#mozzarella'>cheese</a> is lightly browned.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/baked.jpg' alt='' class='instruction-image'>
 
 - Let the pizzas cool for 5 minutes before cutting into 4 slices each.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- Any other <a href='/recipes/ground-meat'>ground meat</a> will work too besides <a href='/misc/meat#chicken-breast'>chicken</a>, such as <a href='/misc/meat#ground-turkey'>ground turkey</a> or <a href='/misc/meat#ground-beef'>ground beef</a>.
+- Any other <a href='/recipes/ground-meat'>ground meat</a> will work too besides <a href='/misc/meat#chicken-thighs'>chicken</a>, such as <a href='/misc/meat#ground-turkey'>ground turkey</a> or <a href='/misc/meat#ground-beef'>ground beef</a>.
 ---
