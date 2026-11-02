@@ -196,6 +196,8 @@ def ingredients(food):
         f = "Chicken parmesan"
 
     # Baking
+    elif food == "choc-fib-prot-spread":
+        f = "Chocolate fiber protein spread"
     elif food == "pumpkin-protein-pop":
         f = "Pumpkin Protein Pops"
     elif food == "Candies, REESE'S Peanut Butter Cups":
@@ -801,7 +803,7 @@ def ingredients(food):
         f = "Cottage cheese flatbread"
     elif food == "psyllium-wrap":
         f = "High Fiber Psyllium Wrap"
-    elif food == "tortillas" or food == "Whole wheat protein tortillas by La Tortilla Factory Inc":
+    elif food == "tortillas" or food == "Whole wheat protein tortillas by La Tortilla Factory Inc" or food == "Whole wheat wrap":
         f = "Whole wheat tortilla"
     elif food == "Bread, whole wheat" or food == "ww-bread":
         f = "Whole wheat bread"

@@ -648,6 +648,11 @@ def grams(food, mass, vol):
         elif vol == "4 tbsp":
             m = "32"
 
+    # Chocolate fiber protein spread
+    elif food == "Chocolate fiber protein spread":
+      if vol == "1 serving":
+            m = "92.4"
+
     # Tortillas
     elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread" or food == "Low carb wrap":
         if vol == "1 medium" or "1 tortilla":

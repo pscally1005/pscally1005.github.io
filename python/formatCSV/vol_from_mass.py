@@ -248,6 +248,11 @@ def vol_from_mass(food, mass, vol):
         if mass == "190":
             v = "1 medium"
 
+    # Chocolate fiber protein spread
+    elif food == "Chocolate fiber protein spread":
+      if mass == "92" or mass == "92.4" or mass == "93":
+            v = "1 serving"
+
     # Tortillas
     elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread" or food == "Low carb wrap":
         if mass == "48" or mass == "45" or mass == "43":

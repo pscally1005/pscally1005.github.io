@@ -208,6 +208,8 @@ def fix(vol):
     # protein powder
     elif vol == "0.25 scoop":
         v = "1/4 scoop"
+    elif vol == "0.33 scoop":
+        v = "1/3 scoop"
     elif vol == "0.5 scoop | about" or vol == "0.5 scoop" or vol == "0.5 scoops":
         v = "1/2 scoop"
     elif vol == "0.67 scoop | about" or vol == "0.67 scoop" or vol == "0.66 scoop | about" or vol == "0.66 scoop":

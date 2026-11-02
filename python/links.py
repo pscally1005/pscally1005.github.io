@@ -11,6 +11,12 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/pb-apple-wrap": [
+        "peanut butter apple wrap"
+    ],
+    "/recipes/chocolate-fiber-protein-spread": [
+        "chocolate fiber protein spread"
+    ],
     "/recipes/copycat-carb-balance": [
         "copycat carb balance wraps",
         "copycat carb balance wrap",
@@ -3207,10 +3213,10 @@ LINKS = {
     "/recipes/tortilla": [
         # "tortillas",
         # "tortilla",
+        # "whole wheat tortillas",
+        # "whole wheat tortilla",
         "oat-wheat tortillas",
-        "oat wheat tortillas",
-        "whole wheat tortillas",
-        "whole wheat tortilla",
+        "oat wheat tortillas"
     ],
     "/recipes/apple-spread": [
         "apple spread",
@@ -6860,6 +6866,12 @@ LINKS = {
         "carb balance wraps",
         "carb balanace wrap",
         "carb balance"
+    ],
+    "https://link.amazon/B04XW5Uus": [
+        "whole wheat tortillas",
+        "whole wheat tortilla",
+        "whole wheat wraps",
+        "whole wheat wrap"
     ],
     "https://amzn.to/4w2GB4Q": [
         "kettle and fire bone broth",
@@ -10858,7 +10870,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-09", "2026-11-10", "2026-12-01")):
+            if not file.startswith(("2026-11-11", "2026-11-12")):
                 continue
 
             # exclude some files
