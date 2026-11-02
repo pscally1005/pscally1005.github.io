@@ -4632,7 +4632,9 @@ LINKS = {
     # DAIRY
     "/misc/dairy": [
         "I'm Dying For Dairy",
-        "dairy"
+        "dairy",
+        "dairy-free",
+        "dairy free"
     ],
     "/misc/dairy#almond-milk": [
         "plant based milks",
@@ -8691,11 +8693,13 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     # "apple cider",
+    "i spread",
     "without and with the chocolate",
     "brownie-inspired",
     "brownie inspired",
     "spread the",
     "protein bar base",
+    "spread your",
     '8" in diameter',
     "chocolate cake outside",
     "chocolate cake exterior",
@@ -10064,7 +10068,7 @@ EXCLUDED_PHRASES = [
     # "nut free",
     # "nut-free",
     # "dairy free",
-    "dairy-free",
+    # "dairy-free",
     "quail eggs",
     "quail egg",
     "kidney function",

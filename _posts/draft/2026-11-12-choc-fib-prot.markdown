@@ -67,17 +67,17 @@ tags:
 - low-carb tortillas
 - whole wheat wraps
 - whole wheat tortillas
-Description: Here's a simple and quick chocolate spread that's sugar-free, dairy-free, high in protein, and high in fiber. Just mix together pea protein and psyllium husk with cocoa powder, pure granulated monk fruit, and almond milk before spreading onto whatever you like, such as a Copycat Carb Balance Wrap! Each serving has 10 g of protein and 11 g of fiber in just 80 calories.
+Description: Here's a simple and quick chocolate spread that's <a href='/misc/hidden-sugar'>sugar-free</a>, <a href='/misc/dairy'>dairy-free</a>, high in <a href='/misc/protein'>protein</a>, and high in <a href='/misc/fiber'>fiber</a>. Simple mix <a href='/misc/dairy#pea-protein-powder'>pea protein</a> and <a href='/misc/psyllium-husk'>psyllium husks</a> with <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/3Sg1Z7p'>sweetener</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a> for a thick, chocolatey spread. Enjoy it on its own, or spread it onto your favorite foods, such as a <a href='/recipes/copycat-carb-balance'>Copycat Carb Balance Wrap</a>! Each serving provides 10 g of <a href='/misc/protein'>protein</a> and 11 g of <a href='/misc/fiber'>fiber</a> in just 82 <a href='/misc/calories'>calories</a>.
 Instructions:
-- Add all ingredients to a small bowl. Mix together with a silicone spatula.
+- Add all ingredients to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Sweet Spreads/Choc Fib Prot/bowl.jpg' alt='' class='instruction-image'>
 Notes:
-- Here I spread my Chocolate Fiber Protein Spread onto a Copycat Carb Balance Wrap, and topped it with 5 g each of walnuts, chocolate chips, and honey.
+- Here, I spread my Chocolate Fiber Protein Spread onto a <a href='/recipes/copycat-carb-balance'>Copycat Carb Balance Wrap</a>, and topped it with 5 g each of <a href='/misc/nuts#walnuts'>walnuts</a>, chocolate chips, and <a href='/misc/natural-sweeteners#honey'>honey</a>.
 - <img src='/assets/Food/Sweet Spreads/Choc Fib Prot/topped.jpg' alt='' class='instruction-image'>
 - |
   COMPARE(
     "chocfibprotspread",
-    "chocfibprotwrap";
+    "chocfibproteinwrap";
 
     "<a href='#recipe'>Spread</a>",
     "<a href='/recipes/copycat-carb-balance'>On Wrap</a>";
