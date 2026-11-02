@@ -6788,7 +6788,7 @@ LINKS = {
         "sugar free chocolate syrup, storebought"
     ],
     # "https://amzn.to/4aXnK21": [
-    "/misc/dairy#pea-protein-powder": [
+    "/misc/dairy#pea-protein": [
         "pea protein powder",
         "pea protein isolate",
         "pea protein",

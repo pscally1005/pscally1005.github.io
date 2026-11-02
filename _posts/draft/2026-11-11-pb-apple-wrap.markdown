@@ -64,7 +64,7 @@ tags:
 - whole wheat tortillas
 Description: <a href='/recipes/natural-peanut-butter'>Peanut Butter</a> & <a href='/misc/fruit#apple'>Apple</a> is far superior to <a href='/recipes/natural-peanut-butter'>Peanut Butter</a> & <a href='/recipes/berry-jam'>Jelly</a>, and I'm not afraid to admit it. Especially when you cook the <a href='/misc/fruit#apple'>apple</a> beforehand, softening it and bringing out its natural sweetness. This simple <a href='/recipes/breakfast'>breakfast</a> or snack wraps cinnamon-spiced <a href='/misc/fruit#apple'>apple</a> and creamy <a href='/recipes/natural-peanut-butter'>nut butter</a> in a toasted <a href='/recipes/copycat-carb-balance'>Copycat Carb Balance Carb Wrap</a> that'll put your average PB&J to shame.
 Instructions:
-- Cut your <a href='/misc/fruit#apple'>apple</a> into a medium dice. Add to a <a href='https://amzn.to/4dBv5Ga'>medium pan</a> over medium heat with cinnamon, nutmeg, ginger, cloves, salt, and water. Cover and cook for about 5 minutes, or until the apple is lightly browned and softened.
+- Cut your <a href='/misc/fruit#apple'>apple</a> into a medium dice. Add to a <a href='https://amzn.to/4dBv5Ga'>medium pan</a> over medium heat with cinnamon, nutmeg, ginger, cloves, salt, and water. Cover and cook for about 5 minutes, or until the apple is lightly browned and softened, and most of the water has evaporated.
 - <img src='/assets/Food/Breakfast/PB Apple Wrap/apple.jpg' alt='' class='instruction-image'>
 
 - Transfer the cooked <a href='/misc/fruit#apple'>apple</a> aside, and wipe out the pan with a paper towel.
@@ -72,7 +72,7 @@ Instructions:
 - Spread your <a href='/recipes/natural-peanut-butter'>nut butter</a> evenly onto a <a href='/recipes/copycat-carb-balance'>tortilla</a>. Add your cooked <a href='/misc/fruit#apple'>apple</a> on top, and fold into a burrito.
 - <img src='/assets/Food/Breakfast/PB Apple Wrap/open.jpg' alt='' class='instruction-image'>
 
-- Return the wrap to the pan over medium heat, cut side down. Cook for about 1 minutes per side, turning to brown and crisp the <a href='/recipes/copycat-carb-balance'>tortilla</a> on all sides before serving.
+- Return the wrap to the pan over medium heat, cut side down. Cook for about 1 minute per side, turning to brown and crisp the <a href='/recipes/copycat-carb-balance'>tortilla</a> on all sides before serving.
 - <img src='/assets/Food/Breakfast/PB Apple Wrap/uncut.jpg' alt='' class='instruction-image'>
 Notes:
 - Any <a href='/recipes/natural-peanut-butter'>nut or seed butter</a> will work, such as <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a>, or even <a href='/recipes/pea-butter'>homemade pea butter</a>.
