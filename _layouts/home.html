@@ -339,7 +339,7 @@ layout: base
                 {% endif %}
 
                 {% if show_badges %}
-                  {% unless post.title == "Food/Nutrition Meme Dump" %}
+                  {% unless post.title == "Food/Nutrition Meme Dump" or post.title == "Meme Dump Round 2" %}
                     {% include allergenSymbols.html %}
                   {% endunless %}
                 {% endif %}

@@ -100,7 +100,7 @@ layout: none
       {%- assign high_protein = "false" -%}
     {% endif %}
 
-    {% if post.title == "Food/Nutrition Meme Dump" %}
+    {% if post.title == "Food/Nutrition Meme Dump" or post.title == "Meme Dump Round 2" %}
       {%- assign gluten_free = "false" -%}
       {%- assign vegetarian = "false" -%}
       {%- assign dairy_free = "false" -%}
