@@ -138,7 +138,11 @@ LINKS = {
         "carrot hummus"
     ],
     "#recipe": [
-        "this recipe"
+        "this recipe",
+        "recipe"
+    ],
+    "#nutrition-facts": [
+        "nutrition facts",
     ],
     "/recipes/apple-cider": [
         "apple cider",
@@ -8703,6 +8707,8 @@ EXCLUDED_PHRASES = [
     # "apple cider",
     "i spread",
     "without and with the chocolate",
+    "bacon grease",
+    "spread an",
     "brownie-inspired",
     "brownie inspired",
     "spread the",

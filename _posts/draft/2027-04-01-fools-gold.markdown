@@ -22,7 +22,7 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/fools-gold-loaf
-image: /assets/Food/Meme/Fools Gold/cover.jpg
+image: /assets/Food/Meme/Fools Gold/cover.png
 file: foolsgold1
 servingSize: 1 sandwich
 section1:
@@ -50,13 +50,13 @@ tags:
 - jelly
 - peanut butter
 - pb&j
-Description: The Fool's Gold Loaf is Elvis's infamous sandwich. It combines an entire jar of peanut butter, an entire jar of jelly, and a pound of bacon on a 12-inch baguette. Who said hitting your protein goals was hard? This entire sandwich packs over 200 g of protein. Just don't look at the rest of the nutrition facts...
+Description: The Fool's Gold Loaf is Elvis's infamous sandwich. It combines an entire jar of <a href='/misc/fake-healthy-foods#peanut-butter'>peanut butter</a>, an entire jar of <a href='/misc/fake-healthy-foods#jelly'>jelly</a>, and a pound of <a href='/misc/meat#bacon'>bacon</a> on a 12-inch <a href='/misc/fake-healthy-foods#bread'>baguette</a>. Who said hitting your <a href='/misc/protein'>protein</a> goals was hard? This entire sandwich packs over 200 g of <a href='/misc/protein'>protein</a>. Just don't look at the rest of the <a href='#nutrition-facts'>nutrition facts</a>...
 Instructions:
-- Fry a pound of bacon in a large skillet over medium heat until crispy. Transfer the bacon to a paper towel lined plate to drain the excess grease. Reserve the bacon grease.
+- Fry a pound of <a href='/misc/meat#bacon'>bacon</a> in a large skillet over medium heat until crispy. Transfer the <a href='/misc/meat#bacon'>bacon</a> to a paper towel lined plate to drain the excess grease. Reserve the bacon grease.
 
-- Cut your bread in half, and partially hollow out the center to make room for the fillings. Brush the inside and outside of the loaf with the bacon grease. Toast for 10-15 minutes in a 350F oven, until lightly browned.
+- Cut your <a href='/misc/fake-healthy-foods#bread'>bread</a> in half, and partially hollow out the center to make room for the fillings. Brush the inside and outside of the loaf with the bacon grease. Toast for 10-15 minutes in a 350F oven, until lightly browned.
 
-- Spread an entire 16 oz jar of peanut butter on one side of the toasted bread. Spread an entire 16 oz jar of jelly onto the other side. Add your sliced bacon.
+- Spread an entire 16 oz jar of <a href='/misc/fake-healthy-foods#peanut-butter'>peanut butter</a> on one side of the toasted <a href='/misc/fake-healthy-foods#bread'>bread</a>. Spread an entire 16 oz jar of <a href='/misc/fake-healthy-foods#jelly'>jelly</a> onto the other side. Add your sliced <a href='/misc/meat#bacon'>bacon</a>.
 
 - Make an appointment with your local cardiologist.
 Notes:
