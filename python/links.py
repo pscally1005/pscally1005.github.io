@@ -11,6 +11,23 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/fiber-bread": [
+        "high-fiber wheat bread",
+        "high fiber wheat bread",
+        "high-fiber bread",
+        "high fiber bread",
+        "high fiber, high protein bread",
+        "high-fiber, high-protein bread",
+        "high fiber keto bread",
+        "high-fiber keto bread",
+        "high protein keto bread",
+        "high-protein keto bread"
+    ],
+    "/recipes/low-cal-cookie-dough": [
+        "81 calorie cookie dough",
+        "low calorie cookie dough",
+        "low-calorie cookie dough"
+    ],
     "/recipes/fools-gold-loaf": [
         "fool's gold loaf",
         "fool's gold sandwich",
@@ -10888,7 +10905,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2027-04-01")):
+            if not file.startswith(("2026-11-13", "2026-11-14")):
                 continue
 
             # exclude some files

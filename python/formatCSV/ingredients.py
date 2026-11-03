@@ -300,7 +300,7 @@ def ingredients(food):
         f = "Baking soda"
     elif food == "Baking powder by The Kroger Co." or food == "Baking powder by SE GROCERS" or food == "Baking powder by Raley's":
         f = "Baking powder"
-    elif food == "Leavening agents, active dry, baker's, yeast":
+    elif food == "Leavening agents, active dry, baker's, yeast" or food == "Yeast":
         f = "Dry yeast"
     elif food == "Vital wheat gluten by The King Arthur Flour Company, Inc.":
         f = "Vital wheat gluten"
