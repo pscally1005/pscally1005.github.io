@@ -72,10 +72,12 @@ Panko breadcrumbs,breadcrumbs,1.87,224.00,0.00835,4.0,71,FALSE,TRUE,TRUE,TRUE,TR
 Whole wheat flour,whole-wheat,5.58,"2,240.00",0.00249,8.5,75,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
 Whole wheat bread,whole-wheat-bread,1.97,560.00,0.00352,8.3,59,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/ww-bread
 Whole wheat baguette,whole-wheat-bread,0.65,190.00,0.00342,8.4,74,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/whole-wheat-baguettes
+French baguette,white-bread,1.97,283.00,0.00696,2.0,80,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
+White bread,white-bread,1.97,283.00,0.00696,2.0,80,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
 Whole wheat pita bread,whole-wheat-bread,0.27,60.00,0.00442,8.3,73,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/pita
 Whole wheat bagel,ww-bagel,0.38,103.00,0.00369,7.9,70,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/whole-wheat-bagels
 Whole wheat pasta,pasta,1.43,454.00,0.00315,7.3,50,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
-Whole wheat pizza dough,pizza-dough,1.37,586.00,0.00234,8.2,74,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/pizza
+Whole wheat pizza dough,pizza-dough,1.37,586.00,0.00234,6.2,74,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/pizza
 Whole wheat tortilla,tortilla,3.18,454.00,0.00700,7.9,30,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/tortilla
 Low carb wrap,low-carb-wrap,3.22,344.00,0.00936,8.5,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/copycat-carb-balance
 Pretzels,pretzels,0.99,283.00,0.00350,3.0,83,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,0,
@@ -409,6 +411,7 @@ Unsweetened dried cranberries,cranberryunsw100g,4.99,141.50,0.03527,9.9,32,TRUE,
 Homemade dried cranberries,cranberry100g,2.50,60.00,0.04167,9.9,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/dried-cranberry
 Low sugar berry jam,jam-low-sugar,2.13,190.00,0.01121,8.8,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,0.0,0.0,0.0,0.0,0,40,/recipes/berry-jam
 Frozen acai puree,acai,5.00,396.00,0.01263,9.3,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4cBNvpn
+Grape jelly,jelly,2.78,849.00,0.00327,1.0,51,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,45.0,0.0,0.0,0.0,0,30,
 Watermelon,watermelon,4.67,"4,500.00",0.00104,7.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Cantaloupe,cantaloupe,4.67,360.00,0.01297,7.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Honeydew,honeydew,4.67,360.00,0.01297,7.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -479,7 +482,7 @@ Dried onion flakes,onion-flakes,5.99,180.00,0.03328,8.6,58,TRUE,TRUE,TRUE,TRUE,T
 Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,9.2,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4sgDH9S
 Peanut Chili Salad Dressing,pb-dressing-100g,0.87,87.50,0.00994,5.5,31,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3.4,0.0,0.0,0.0,0,18,/recipes/peanut-chili-salad-dressing
 Reese's Peanut Butter Cups,reeses-100g,14.92,849.00,0.01757,4.1,60,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,47.2,0.0,0.0,0.0,0,15,https://amzn.to/4rwHsZL
-Skippy peanut butter,skippy-pb,6.27,"1,132.00",0.00554,6.7,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4.7,0.0,0.0,0.0,0,15,
+Creamy peanut butter,skippy-pb,6.27,"1,132.00",0.00554,6.7,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4.7,0.0,0.0,0.0,0,15,
 Natural peanut butter,peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 "Natural peanut butter, or tahini",peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Walden Farms Peanut Spread,wf-peanut,4.49,340.00,0.01321,5.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.3,0.0,0.0,0,15,https://amzn.to/4ggGWuF
@@ -548,6 +551,7 @@ High Protein Veggie Ground,veggie-ground-100g,14.44,"1,900.00",0.00760,9.4,32,FA
 Beef liver,liver,3.29,454.00,0.00725,8.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Beef top sirloin,steak,7.82,454.00,0.01722,7.3,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Ham, cooked",ham-cooked,3.99,454.00,0.00879,7.4,28,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Bacon, raw",bacon,4.54,454.00,0.01000,3.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Pork tenderloin,pork-tenderloin,3.43,454.00,0.00756,8.2,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Frozen raw shrimp, peeled and deveined",shrimp,4.68,339.60,0.01378,7.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4kpECB6
 "Frozen cooked shrimp, peeled and deveined",shrimp,5.47,339.60,0.01611,7.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3FBnSHY

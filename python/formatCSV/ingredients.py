@@ -342,6 +342,8 @@ def ingredients(food):
         f = "Agave"
     elif food == "Jellies" or food == "jam" or food == "chia-jam" or food == "Smucker's Raspberry Sugar Free Jam" or food == "Raspberry jelly" or food == "Low Sugar Berry Jam" or food == "Jellies":
         f = "Low sugar berry jam"
+    elif food == "Jellies" or food == "Jelly" or food == "Grape jelly":
+        f = "Grape jelly"
     elif food == "sugar-free-syrup" or food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc." or food == "Sugar free syrup by IHOP AT HOME":
         f = "Sugar free syrup"
     elif food == "Almond flour by RALEY'S" or food == "Almond flour by Supervalu, Inc.":
@@ -714,7 +716,9 @@ def ingredients(food):
         f = "50% chocolate"
     elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium" or food == "Nuts, without salt added, plain, almond butter":
         f = "Almond butter"
-    elif food == "No stir peanut butter" or food == "pb" or food == "Peanut Butter, smooth" or food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
+    elif food == "No stir peanut butter":
+        f = "Creamy peanut butter"
+    elif food == "pb" or food == "Peanut Butter, smooth" or food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
         f = "Natural peanut butter"
     elif food == "pea-butter":
         f = "Pea butter"
@@ -809,6 +813,7 @@ def ingredients(food):
         f = "Whole wheat bread"
     elif food == "Bread, white" or food == "Roll, white, soft":
         f = "White bread"
+        # f = "French baguette"
     elif food == "ww-bagles":
         f = "Whole wheat bagel"
     elif food == "baguette":
@@ -854,7 +859,9 @@ def ingredients(food):
     elif food == "Whopper (Burger King)":
         f = "Cheeseburger"
     elif food == "Pork, baked, cooked, bacon, cured":
-        f = "Bacon, cookied"
+        f = "Bacon, cooked"
+    elif food == "Pork, unprepared, bacon, cured":
+        f = "Bacon, raw"
     elif food == "Ham, cooked, smoked, honey":
         f = "Ham, cooked"
     elif food == "Beef, raw, liver, variety meats and by-products":
