@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Protein Pumpkin Pops
-date:   2026-10-29 00:00:00 -0500
+date:   2026-11-03 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
