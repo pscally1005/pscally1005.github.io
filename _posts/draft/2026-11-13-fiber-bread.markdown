@@ -34,8 +34,8 @@ start4:
 section4:
 start5:
 section5:
-Prep: 1440
-Rest: 60
+Prep: 15
+Rest: 180
 Cook: 45
 Source1: https://s.samsungfood.com/lRWh2
 Source2:
@@ -67,27 +67,30 @@ tags:
 - slice
 - sandwich
 - toast
-Description: Oat fiber really is a cheat code to working in a ton of fiber for zero calories. This high fiber and high protein bread features oat fiber, vital wheat gluten, ground flax and psyllium husk. Despite being a low carb, this bread has that classic texture and taste, but with 10 g of fiber and 12 g of protein per 100 calorie slice, with only 3 g of net carbs and 4 g of fat.
+Description: |
+  <a href='https://link.amazon/B04N3ngTi'>Oat fiber</a> really is a cheat code to working in a ton of <a href='/misc/fiber'>fiber</a> for <a href='/misc/calories'>zero calories</a>. This <a href='/misc/fiber'>high fiber</a> and <a href='/misc/high-protein'>high protein</a> <a href='/recipes/bread'>bread</a> features <a href='https://link.amazon/B04N3ngTi'>oat fiber</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, <a href='/misc/seeds#flax-seeds'>ground flax</a> and <a href='/misc/psyllium-husk'>psyllium husk</a>.<br><br>
+
+  Despite being <a href='/misc/carbs'>low carb</a>, this <a href='/recipes/bread'>bread</a> has that classic texture and taste, but with 10 g of <a href='/misc/fiber'>fiber</a> and 12 g of <a href='/misc/protein'>protein</a> per 100 <a href='/misc/calories'>calorie</a> slice, with only 3 g of <a href='/misc/carbs'>net carbs</a> and 4 g of <a href='/misc/fats'>fat</a>.
 Instructions:
-- Add whole wheat flour, yeast, and warm water to a small mason jar. Mix together, cover with a lid, and let it sit on the counter for 24 hours. This is your "starter".
+- Add water to a <a href='https://amzn.to/4vamaBm'>small mason jar</a>, and microwave for 30 seconds. Stir in <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, and yeast, and warm water with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Cover with a lid, and let it sit at room temperature for 2 hours, until roughly doubled in size, to form your "starter".
 - <img src='/assets/Food/Bread/Fiber Bread/starter-before.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Bread/Fiber Bread/starter-after.jpg' alt='' class='instruction-image'>
 
-- Whisk together dry ingredients in a large bowl - vital wheat gluten, oat fiber, ground flax, psyllium husk, yeast, salt, pure granulated monk fruit, garlic powder, and onion powder.
+- Whisk together dry ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> - <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, <a href='https://link.amazon/B04N3ngTi'>oat fiber</a>, <a href='/misc/seeds#flax-seeds'>ground flax</a>, <a href='/misc/psyllium-husk'>psyllium husk</a>, yeast, salt, <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a>, garlic powder, and onion powder.
 
-- Whisk together the wet ingredients in a separate large bowl - starter, eggs, oil, and warm water.
+- Whisk together the wet ingredients in a separate <a href='https://amzn.to/4zyFnzN'>large bowl</a> - starter, <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/olive-oil'>oil</a>, and warm water.
 
 - Add the wet into the dry, and bring together into a dough.
 - <img src='/assets/Food/Bread/Fiber Bread/bowl.jpg' alt='' class='instruction-image'>
 
-- Knead for about 10 minutes, or until smooth and elastic. Add the dough to a lightly greased 9x5" loaf pan. Let it rest at room temperature for 1 hour, until roughly doubled in size.
+- Knead for about 10 minutes, or until smooth and elastic. Add the dough to a <a href='https://link.amazon/B00fjxkKE'>lightly greased</a> <a href='https://amzn.to/3YUjIkN'>9x5" loaf pan</a>. Let it rest at room temperature for 1 hour, until roughly doubled in size.
 - <img src='/assets/Food/Bread/Fiber Bread/raw-before.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Bread/Fiber Bread/raw-after.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 45 minutes, or until the top is lightly browned, and the internal temperature is 205F. The bottom of the loaf should sound hollow when tapped.
+- Bake at 350F for about 45 minutes, or until the top is lightly browned, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is <a href='https://amzn.to/4kmobG2'>205F</a>. The bottom of the loaf should sound hollow when tapped.
 - <img src='/assets/Food/Bread/Fiber Bread/baked.jpg' alt='' class='instruction-image'>
 
-- Let it cool for 1 hour on a wire rack in the fridge before slicing.
+- Let it cool for 1 hour on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> in the fridge before slicing.
 - <img src='/assets/Food/Bread/Fiber Bread/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---
