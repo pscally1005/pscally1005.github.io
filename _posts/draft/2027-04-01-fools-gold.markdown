@@ -42,7 +42,7 @@ Source2:
 Source3:
 Source4:
 Source5:
-whisk: https://app.samsungfood.com/recipes/10701a1a11aefc779e58e19f560e7a4c0cd
+whisk: https://s.samsungfood.com/5VN2B
 tags:
 - white bread
 - elvis
