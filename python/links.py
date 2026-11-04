@@ -4,8 +4,8 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_includes"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_includes"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts"
 DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 DATA_FILES = ("protein_bars.yml", "quest_ranking.yml")
@@ -8990,8 +8990,18 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "orea mint ice cream",
+    "random protein cookie dough recipe",
+    "<a href='/misc/processed-foods'>ultra-processed</a> protein bar",
     "no other protein bar",
     "lemon delight",
+    "additional chocolate",
+    "dark cookies",
+    "i do like chocolate and",
+    "don't like s'mores",
+    "smell of s'mores",
+    "worst part of s'mores",
+    "s'mores takes my",
     "unbeatable protein bar",
     "changes with these protein bars",
     "still definitely a protein bar",
@@ -9014,6 +9024,11 @@ EXCLUDED_PHRASES = [
     "creamy peanut butter,",
     "s'mores, white",
     "white chocolate raspberry",
+    "raspberry white chocolate",
+    "oatmeal chocolate chip",
+    "oatmeal chocolate chip cookie",
+    "artificial berry",
+    "artificial fruit",
     "birthday cake",
     "plant based protein bar",
     "as a protein bar",
@@ -9065,7 +9080,7 @@ EXCLUDED_PHRASES = [
     "peanut butter chocolate chip",
     "their protein bars",
     "chocolate mint",
-    "not idea for a protein bar",
+    "not ideal for a protein bar",
     "baked the protein brownies",
     # "apple cider",
     "quest makes",
@@ -11285,8 +11300,8 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            # if not file.startswith(("2026-12-30")):
-            if not file.startswith(("protein_bars", "quest_ranking")):
+            if not file.startswith(("2026-12-30")):
+            # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 
             # exclude some files
