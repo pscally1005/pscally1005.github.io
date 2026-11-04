@@ -253,6 +253,24 @@ def vol_from_mass(food, mass, vol):
       if mass == "92" or mass == "92.4" or mass == "93":
             v = "1 serving"
 
+    # Quest bars
+    elif food == "Quest Bar":
+        if mass == "60":
+            v = "1 bar"
+        elif mass == "600":
+            v = "10 bar"
+
+    # Espresso powder
+    elif food == "Instant espresso powder, decaf":
+        if mass == "0.3":
+            v = "1/4 tsp"
+        elif mass == "0.6":
+            v = "1/2 tsp"
+        elif mass == "0.9":
+            v = "3/4 tsp"
+        elif mass == "1.2":
+            v = "1 tsp"
+
     # Tortillas
     elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread" or food == "Low carb wrap":
         if mass == "48" or mass == "45" or mass == "43":

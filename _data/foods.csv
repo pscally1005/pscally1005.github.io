@@ -47,7 +47,8 @@ Red lentil pasta,red-lentil-pasta,3.00,249.04,0.01205,8.7,44,TRUE,TRUE,TRUE,TRUE
 Low sodium soy sauce,soy-sauce,1.58,420.00,0.00376,2.5,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,30,
 "Soy sauce, low sodium, gluten free",soy-sauce,3.99,300.00,0.01330,2.5,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/44VXByC
 "Soy sauce, shoyu",shoyu,1.58,450.00,0.00351,2.5,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,30,
-"Tofu, firm",tofu,2.00,454.00,0.00441,9.8,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Tofu, firm",tofu,1.50,454.00,0.00330,9.8,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Tofu, silken",silken,1.50,454.00,0.00330,9.8,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Miso,miso,3.99,454.00,0.00879,2.5,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/49bU693
 Extra virgin olive oil,olive-oil,6.72,476.00,0.01412,4.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Extra virgin coconut oil,coconut-oil,5.98,392.00,0.01526,4.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
@@ -309,6 +310,7 @@ Egg whites,egg-whites,1.30,540.00,0.00241,8.9,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0
 Liquid egg whites,egg-whites,3.98,908.00,0.00438,8.9,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Hdzv8u
 Egg yolk,egg-yolk,0.87,540.00,0.00161,7.5,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Ground coffee, decaf",ground-coffee,9.96,732.97,0.01359,7.7,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,https://amzn.to/43fldNm
+"Instant espresso powder, decaf",espresso-powder,9.97,89.71,0.11113,10.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,https://link.amazon/B06ASUmbc
 Cocoa powder,cocoa-powder,2.48,226.40,0.01095,10.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,
 Cocoa Powder,cocoa-powder,2.48,226.40,0.01095,10.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,
 Cacao powder,cocoa-powder,9.34,454.00,0.02057,10.0,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,https://amzn.to/4jqcKMa
@@ -610,7 +612,7 @@ No Cow Bar,no-cow-100g,2.75,60.00,0.04583,8.0,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,
 One Protein Bar,one-protein-100g,2.08,60.00,0.03467,7.5,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,6.7,0.0,0.4,0,15,https://amzn.to/4k6zt3F
 Perfect Bar,perfect-bar-100g,3.63,65.00,0.05585,5.9,50,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,18.5,0.0,0.0,0.4,0,15,https://amzn.to/3VXWuvO
 Pure Protein Bar,pure-protein-100g,1.58,50.00,0.03160,8.5,17,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,4.0,8.0,0.0,0.5,0,15,https://amzn.to/4xSjZnZ
-Quest Bar,quest-bar-100g,2.20,60.00,0.03667,8.6,5,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,8.3,0.0,0.4,0,15,https://amzn.to/4xWiNzY
+Quest Bar,quest-bar-100g,2.20,60.00,0.03667,8.6,5,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,8.3,0.0,0.4,0,15,https://link.amazon/B0fJCrTM7
 Rx Bar,rx-bar-100g,1.75,52.00,0.03365,6.9,50,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4h63UEd
 Think Bar,think-100g,2.00,60.00,0.03333,7.5,27,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,18.3,0.0,0.4,0,15,https://amzn.to/4dhcvme
 Fulfil Bar,fulfil-100g,1.83,40.00,0.04575,7.5,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,15.0,0.0,0.6,0,15,https://link.amazon/B09LSfCjn

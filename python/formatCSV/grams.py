@@ -653,6 +653,24 @@ def grams(food, mass, vol):
       if vol == "1 serving":
             m = "92.4"
 
+    # Quest bars
+    elif food == "Quest Bar":
+        if vol == "1 bar":
+            m = "60"
+        elif vol == "10 bar":
+            m = "600"
+
+    # Espresso powder
+    elif food == "Instant espresso powder, decaf":
+        if vol == "1/4 tsp":
+            m = "0.3"
+        elif vol == "1/2 tsp":
+            m = "0.6"
+        elif vol == "3/4 tsp":
+            m = "0.9"
+        elif vol == "1 tsp":
+            m = "1.2"
+
     # Tortillas
     elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread" or food == "Low carb wrap":
         if vol == "1 medium" or "1 tortilla":

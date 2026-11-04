@@ -6491,6 +6491,9 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://link.amazon/B0fJCrTM7": [
+        "quest bar variety pack"
+    ],
     "https://link.amazon/B04N3ngTi": [
         "oat fiber"
     ],
@@ -7563,6 +7566,22 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/protein-bar-tier-list": [
+        "protein bar tier list",
+        "protein bar ranking",
+        "protein bar rankings",
+        "what is the best protein bar?",
+        "what is the best protein bar"
+    ],
+    "/misc/quest-ranking": [
+        "quest bar ranking",
+        "quest bar rankings",
+        "quest bar tier list",
+        "what is the best tasting quest bar?",
+        "what is the best tasting quest bar",
+        "what is the best quest bar?",
+        "what is the best quest bar"
+    ],
     "/misc/five-tastes": [
         # "tastes",
         # "taste",
@@ -10905,7 +10924,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-13", "2026-11-14")):
+            if not file.startswith(("2026-12-30")):
                 continue
 
             # exclude some files
