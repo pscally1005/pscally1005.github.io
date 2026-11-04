@@ -2,49 +2,49 @@
   name: Mint Chocolate Chunk
   link: https://link.amazon/B09MHJ7Sj
   image: mint.jpg
-  desc: The moment we've been waiting for. Mint Chocolate Chunk wins the gold. I'm one of those mint lovers, so if you're a mint hater then this would probably be at the bottom of your list. The Mint Chocolate Chunk reminds me of the Oreo Mint ice cream I used to get at Carvel as a kid. <a href='#cookies-and-cream'>Cookies & Cream</a> was already one of my favorite flavors. But add in some mint and additional chocolate? Then you get the unbeatable protein bar.
+  desc: The moment we've been waiting for. Mint Chocolate Chunk wins the gold. I'm one of those mint lovers, so if you're a mint hater then this would probably be at the bottom of your list. The Mint Chocolate Chunk reminds me of the Oreo Mint <a href='/recipes/ice-cream'>ice cream</a> I used to get at Carvel as a kid. <a href='#cookies-and-cream'>Cookies & Cream</a> was already one of my favorite flavors. But add in some mint and additional <a href='/misc/chocolate-benefits'>chocolate</a>? Then you get the unbeatable <a href='/protein-bar'>protein bar</a>.
   ranking: 1
 - id: blueberry
   name: Blueberry Muffin
   link: https://link.amazon/B0h9qmv2Y
   image: blueberry.jpg
-  desc: I love me a good fruity dessert, but I've never been a blueberry muffin fan. But that changes with these protein bars. Unlike <a href='#raspberry'>White Chocolate Raspberry</a>, Blueberry Muffin tastes more like actual fruit and not an artificial fruit flavoring. And this doesn't just taste like blueberry; it tastes like blueberry muffin specifically. I feel like I can taste the strussel on top in addition to just the blueberry flavor. If you told me this was a candy bar flavored like a blueberry muffin, I'd believe you. Silver medal.
+  desc: I love me a good fruity <a href='/recipes/healthier-dessert'>dessert</a>, but I've never been a blueberry muffin fan. But that changes with these <a href='/protein-bar'>protein bars</a>. Unlike <a href='#raspberry'>White Chocolate Raspberry</a>, Blueberry Muffin tastes more like actual <a href='/misc/fruit'>fruit</a> and not an artificial fruit flavoring. And this doesn't just taste like <a href='/misc/fruit#blueberries'>blueberry</a>; it tastes like blueberry muffin specifically. I feel like I can taste the strussel on top in addition to just the <a href='/misc/fruit#blueberries'>blueberry</a> flavor. If you told me this was a candy bar flavored like a blueberry muffin, I'd believe you. Silver medal.
   ranking: 2
 - id: smores
   name: S'mores
   link: https://link.amazon/B07MalI4d
   image: smores.jpg
-  desc: I gotta admit, I don't like S'mores, since I don't like marshmallows. I do like chocolate and graham crackers, but I was a bit skeptical of this one. They nailed the flavor and smell of s'mores, while taking away the worst part of s'mores:<b></b> the gross marshmallow texture. S'mores takes my bronze medal.
+  desc: I gotta admit, I don't like <a href='/recipes/smores'>S'mores</a>, since I don't like marshmallows. I do like <a href='/misc/chocolate-benefits'>chocolate</a> and <a href='/misc/fake-healthy-foods#crackers'>graham crackers</a>, but I was a bit skeptical of this one. They nailed the flavor and smell of <a href='/recipes/smores'>s'mores</a>, while taking away the worst part of <a href='/recipes/smores'>s'mores</a>:<b></b> the gross marshmallow texture. <a href='/recipes/smores'>S'mores</a> takes my bronze medal.
   ranking: 3
 - id: cookies-and-cream
   name: Cookies & Cream
   link: https://link.amazon/B0bAd7qRo
   image: cookies-and-cream.jpg
-  desc: Cookies & Cream is the fan favorite, and previously my favorite flavor. There's a reason why there 2 of these in the <a href='https://link.amazon/B0fJCrTM7'>variety pack</a>, along with <a href='#cookie-dough'>Chocolate Chip Cookie Dough</a>. Although I'm not a fan of Oreo's in general, I am a sucker for Cookies & Cream, and this bar doesn't disappoint. The mix of the dark cookies and white cream throughout the creamy bar is definitely a hit for a reason, and it's my runner up for the podium.
+  desc: Cookies & Cream is the fan favorite, and previously my favorite flavor. There's a reason why there 2 of these in the <a href='https://link.amazon/B0fJCrTM7'>variety pack</a>, along with <a href='#cookie-dough'>Chocolate Chip Cookie Dough</a>. Although I'm not a fan of Oreo's in general, I am a sucker for Cookies & Cream, and this bar doesn't disappoint. The mix of the dark <a href='/cookies'>cookies</a> and white cream throughout the creamy bar is definitely a hit for a reason, and it's my runner up for the podium.
   ranking: 4
 - id: cookie-dough
   name: Chocolate Chip Cookie Dough
   link: https://link.amazon/B01rMbhpL
   image: cookie-dough.jpg
-  desc: Chocolate Chip Cookie Dough, the OG Quest Bar. Only one of two to be a duplicate in <a href='https://link.amazon/B0fJCrTM7'>the variety pack</a>, along with <a href='#cookies-and-cream'>Cookies & Cream</a>. It definitely holds up well, as it ranks in the top half, but I still got 4 more that I like more. If I were to try some random protein cookie dough recipe on Instagram, it would probably taste very similar to this. Nice sweet, neutral base with chocolate chips throughout. Still definitely a protein bar, but it's the first one on the list that I'd eat again for more than just convenient protein.
+  desc: Chocolate Chip Cookie Dough, the OG <a href='/recipes/copycat-quest-bars'>Quest Bar</a>. Only one of two to be a duplicate in <a href='https://link.amazon/B0fJCrTM7'>the variety pack</a>, along with <a href='#cookies-and-cream'>Cookies & Cream</a>. It definitely holds up well, as it ranks in the top half, but I still got 4 more that I like more. If I were to try some random <a href='/recipes/copycat-quest-cookie'>protein cookie</a> dough <a href='#recipe'>recipe</a> on Instagram, it would probably taste very similar to this. Nice sweet, neutral base with chocolate chips throughout. Still definitely a <a href='/protein-bar'>protein bar</a>, but it's the first one on the list that I'd eat again for more than just convenient <a href='/misc/protein'>protein</a>.
   ranking: 5
 - id: pb
   name: Chocolate Peanut Butter
   link: https://link.amazon/B0fZv6jxP
   image: pb.jpg
-  desc: Chocolate Peanut Butter is a classic combination, but how does the Quest Bar hold up? I'd say middle of the road. If you're a fan of the no stir / creamy peanut butter (aka Jif or Skippy), then you'll probably love this one. Because the peanut butter tastes like the "fake" peanut butter, and not the natural kind. If you're a peanut butter snob like me, and you only eat natural peanut butter (just nuts + salt), you probably won't be a fan. Even then, you can't go wrong with a peanut butter base filled with chocolate chips.
+  desc: Chocolate Peanut Butter is a classic combination, but how does the <a href='/recipes/copycat-quest-bars'>Quest Bar</a> hold up? I'd say middle of the road. If you're a fan of the <a href='/misc/fake-healthy-foods#peanut-butter'>no stir</a> / creamy <a href='/recipes/natural-peanut-butter'>peanut butter</a> (aka Jif or Skippy), then you'll probably love this one. Because the <a href='/recipes/natural-peanut-butter'>peanut butter</a> tastes like the "fake" <a href='/recipes/natural-peanut-butter'>peanut butter</a>, and not the natural kind. If you're a <a href='/recipes/natural-peanut-butter'>peanut butter</a> snob like me, and you only eat <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> (just <a href='/misc/nuts'>nuts</a> + salt), you probably won't be a fan. Even then, you can't go wrong with a <a href='/recipes/natural-peanut-butter'>peanut butter</a> base filled with chocolate chips.
   ranking: 6
 - id: raspberry
   name: White Chocolate Raspberry
   link: https://link.amazon/B0jlXXX4z
   image: raspberry.jpg
-  desc: White Chocolate Raspberry is the one I was most excited for, since it seemed like the most unique flavor. Raspberries are my favorite fruit, and I'm weirdly a sucker for white chocolate. This wasn't too dense and chewy like some other bars, and the flavor was generally pretty good, but it did definitely have that artificial berry taste.
+  desc: <a href='/recipes/white-chocolate'>White Chocolate</a> <a href='/misc/fruit#raspberry'>Raspberry</a> is the one I was most excited for, since it seemed like the most unique flavor. <a href='/misc/fruit#raspberry'>Raspberries</a> are my favorite <a href='/misc/fruit'>fruit</a>, and I'm weirdly a sucker for <a href='/recipes/white-chocolate'>white chocolate</a>. This wasn't too dense and chewy like some other bars, and the flavor was generally pretty good, but it did definitely have that artificial <a href='/misc/fruit#blueberries'>berry</a> taste.
   ranking: 7
 - id: oats
   name: Oatmeal Chocolate Chip
   link: https://link.amazon/B0ea5kxpX
   image: oats.jpg
-  desc: Oatmeal Chocolate Chip kinda is basically just a worse <a href='#cookie-dough'>Chocolate Chip Cookie Dough</a>. It has a very similar base, mix-ins, flavor, and smell, but just worse in every way. Kinda like a real oatmeal chocolate chip cookie as compared to a regular chocolate chip cookie.
+  desc: <a href='/oatmeal'>Oatmeal</a> Chocolate Chip kinda is basically just a worse <a href='#cookie-dough'>Chocolate Chip Cookie Dough</a>. It has a very similar base, mix-ins, flavor, and smell, but just worse in every way. Kinda like a real <a href='/recipes/oatmeal-chocolate-cookies'>oatmeal chocolate chip cookie</a> as compared to a regular chocolate chip cookie.
   ranking: 8
 - id: double-chocolate
   name: Double Chocolate Chunk
@@ -56,5 +56,5 @@
   name: Chocolate Brownie
   link: https://link.amazon/B0fIGhn7k
   image: brownie.jpg
-  desc: Starting at the bottom, this was my least favorite flavor. I found it to be very dry and lacking in flavor. It was also the only flavor to not have chocolate chips or any kind of mix in, so the entire bar was homogenous. It very much tasted like generic chocolate protein bar.
+  desc: Starting at the bottom, this was my least favorite flavor. I found it to be very dry and lacking in flavor. It was also the only flavor to not have chocolate chips or any kind of mix in, so the entire bar was homogenous. It very much tasted like generic <a href='/misc/chocolate-benefits'>chocolate</a> <a href='/protein-bar'>protein bar</a>.
   ranking: 10

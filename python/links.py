@@ -4,9 +4,11 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
-# POSTS_DIR = r"C:\Users\mets1\Documents\website\_includes"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_includes"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts"
+DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
+DATA_FILES = ("protein_bars.yml", "quest_ranking.yml")
 
 LINKS = {
 
@@ -155,8 +157,8 @@ LINKS = {
         "carrot hummus"
     ],
     "#recipe": [
-        "this recipe",
-        "recipe"
+        # "recipe",
+        "this recipe"
     ],
     "#nutrition-facts": [
         "nutrition facts",
@@ -2427,9 +2429,11 @@ LINKS = {
         "pad thai"
     ],
     "/recipes/pan-de-higo": [
+        # "larabars",
+        # "lara bars",
+        # "larabar",
+        # "lara bar",
         "Pan de Higo / Larabars",
-        "larabars",
-        "larabar",
         "pan de higo"
     ],
     "/recipes/pancake": [
@@ -3767,6 +3771,8 @@ LINKS = {
         "homemade protein milkshake"
     ],
     "/recipes/rx-bars": [
+        # "rx bars",
+        # "rx bar",
         "copycat chocolate rx bars",
         "copycat rx bars",
         "chocolate rx bars",
@@ -3774,9 +3780,7 @@ LINKS = {
         "copycat rx bar",
         "chocolate rx bar",
         "homemade rx bars",
-        "homemade rx bar",
-        "rx bars",
-        "rx bar"
+        "homemade rx bar"
     ],
     "/recipes/copycat-barebell": [
         "copycat barebell protein bars",
@@ -3793,6 +3797,9 @@ LINKS = {
         "barebell"
     ],
     "/recipes/copycat-quest-bars": [
+        # "quest",
+        # "quest bars",
+        # "quest bar",
         "copycat quest protein bars",
         "copycat quest protein bar",
         "quest protein bars",
@@ -3800,10 +3807,7 @@ LINKS = {
         "homemade quest protein bars",
         "homemade quest protein bar",
         "homemade quest",
-        "copycat quest",
-        "quest bars",
-        "quest bar",
-        "quest"
+        "copycat quest"
     ],
     "/recipes/copycat-quest-cookie": [
         "copycat quest protein cookies",
@@ -4652,7 +4656,9 @@ LINKS = {
         "soy bean",
         "soybeans",
         "soybean",
-        "soy"
+        "soy",
+        "soy free",
+        "soy-free"
     ],
     "/misc/beans#tofu": [
         "tofu"
@@ -6454,10 +6460,15 @@ LINKS = {
         "high-protein foods",
         "high protein",
         "high-protein",
-        "protein ratio"
+        "protein ratio",
         "high in protein",
+        "high protein to calorie ratio",
+        "high protein to calorie",
         "protein to calorie ratio",
-        "protein ratios"
+        "protein ratios",
+        "protein ratio",
+        "protein percentage",
+        "protein to calorie ratios",
     ],
     "/misc/calories": [
         "It's About More Than Calories",
@@ -6491,6 +6502,12 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://link.amazon/B07fhH0OC": [
+        # "clif bars",
+        # "clif bar",
+        "standard clif bars",
+        "standard clif bar"
+    ],
     "https://link.amazon/B0fJCrTM7": [
         "quest bar variety pack"
     ],
@@ -7571,9 +7588,10 @@ LINKS = {
         "protein bar ranking",
         "protein bar rankings",
         "what is the best protein bar?",
-        "what is the best protein bar"
+        "what is the best protein bar",
+        "tier list of protein bars"
     ],
-    "/misc/quest-ranking": [
+    "/misc/quest-bar-ranking": [
         "quest bar ranking",
         "quest bar rankings",
         "quest bar tier list",
@@ -7767,7 +7785,7 @@ LINKS = {
     ],
     "/misc/costs": [
         # "costs",
-        # "cost",
+        "cost",
         "cost analysis"
     ],
     "/misc/chicken-leg-quarters": [
@@ -8740,13 +8758,95 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "no other protein bar",
+    "lemon delight",
+    "cookies & creme",
+    "expensive protein bars",
+    "expensive protein bar",
+    "cookies and creme",
+    "cookies & cream",
+    "cookies and cream",
+    # "quest is one of",
+    "protein bar game",
+    "standard protein bar",
+    "creamy peanut butter,",
+    "protein bar.",
+    "s'mores, white",
+    "white chocolate raspberry",
+    "birthday cake",
+    "plant based protein bar",
+    "as a protein bar",
+    "slept on protein bars",
+    "chocolate deluxe",
+    "gross protein bar",
+    "chocolate peanut caramel",
+    "slept on protein bar",
+    "plant-based protein bar",
+    "strawberry shortcake",
+    "any protein bar brand",
+    "happy birthday, s'mores, peanut butter cup",
+    "blueberry cobbler",
+    "candy bar or cookies",
+    "almond bliss",
+    "candy bar or a cookie",
+    "perfect protein bar",
+    "such as reese's peanut butter cup",
+    "hersheyu's cookies & creme",
+    "bad protein bars",
+    "hershey's chocolate",
+    "rather than a protein bar",
+    "protein bar or snack on the go",
+    "compared to a protein bar",
+    "protein bar brand",
+    "a protein bar, no",
+    "fudge brownie",
+    "this protien bar easily",
+    "not a protein bar",
+    # "go macro",
+    # "kirkland protein bars",
+    # "kind protein max",
+    "but a protein bar",
+    "the other protein bars",
+    "cookie-fied",
+    "candy bar style protein bars",
+    "soy crunchies",
+    "chocolate salted caramel",
+    "candy bar style protein bar",
+    "types of protein bars",
+    "of any protein bar",
+    "peanut butter chocolate chunk",
+    "the only protein bar",
+    "caramel cashew",
+    "chocolate dough",
+    "chocolatey peanut butter",
+    "salted peanut caramel",
+    "a good protein bar",
+    "peanut butter chocolate chip",
+    "their protein bars",
+    "chocolate mint",
+    "not idea for a protein bar",
+    "baked the protein brownies",
     # "apple cider",
+    "quest makes",
+    "these 16 protein brownies",
+    "remaining quest bars",
+    "remaining protein bars",
+    "1 quest bar",
     "i spread",
+    "different quest bars",
+    "different quest bar",
+    "each quest bar",
     "without and with the chocolate",
+    "specifically, quest bars",
     "bacon grease",
+    "12 protein bars",
     "spread an",
+    "cost per gram",
+    "tried quite a few protein bars",
+    "a protein bar would be",
     "brownie-inspired",
     "brownie inspired",
+    "criterion for a protein bar",
     "spread the",
     "protein bar base",
     "spread your",
@@ -10908,6 +11008,26 @@ def process_front_matter(text, links, exclude_phrases=None):
 
     return "".join(output)
 
+
+def process_yaml_descriptions(text, links, exclude_phrases=None):
+    """Auto-link YAML descriptions without changing other YAML fields."""
+    output = []
+
+    for line in text.splitlines(keepends=True):
+        match = re.match(r"^(\s*desc:\s+)(.*?)(\r?\n)?$", line)
+        if not match:
+            output.append(line)
+            continue
+
+        description = auto_link_html_safe_single_quotes(
+            match.group(2),
+            links,
+            exclude_phrases
+        )
+        output.append(f"{match.group(1)}{description}{match.group(3) or ''}")
+
+    return "".join(output)
+
 # -------------------------------------------------------------
 # Main processing loop (NO BeautifulSoup)
 # -------------------------------------------------------------
@@ -10924,7 +11044,8 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-12-30")):
+            # if not file.startswith(("2026-12-30")):
+            if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 
             # exclude some files
@@ -10948,6 +11069,25 @@ def main():
 
                 print(f"Updated: {path}")
                 count += 1
+
+    for file in DATA_FILES:
+        path = os.path.join(DATA_DIR, file)
+
+        with open(path, "r", encoding="utf-8") as f:
+            original = f.read()
+
+        updated = process_yaml_descriptions(
+            original,
+            ALIAS_LOOKUP,
+            EXCLUDED_PHRASES
+        )
+
+        if updated != original:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(updated)
+
+            print(f"Updated: {path}")
+            count += 1
 
     print(f"Total files updated: {count}")
 
