@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Pumpkin Whipped Feta
-date:   2026-10-30 00:00:00 -0500
+date:   2026-11-04 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
