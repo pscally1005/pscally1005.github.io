@@ -42,19 +42,19 @@ tags:
 <div id='tldr' class='table-of-contents-2'></div>
 <b><u><font size='+2'>TL;DR</font></u></b><br>
 <ul>
-  <li><i>Maximum protein per calorie</i>: <a href='#david'>David</a></li>
-  <li><i>Maximum protein per dollar</i>: <a href='#poormanprotein'>Poor Man Protein</a>.</li>
+  <li><i>Maximum <a href='/misc/protein'>protein</a> per <a href='/misc/calories'>calorie</a></i>: <a href='#david'>David</a></li>
+  <li><i>Maximum <a href='/misc/protein'>protein</a> per dollar</i>: <a href='#poormanprotein'>Poor Man Protein</a>.</li>
   <li><i>Best packaged value</i>: <a href='#kirkland'>Kirkland</a></li>
-  <li><i>Best combination of high protein density and low cost</i>: <a href='#poormanprotein'>Poor Man Protein</a></li>
+  <li><i>Best combination of <a href='/misc/high-protein'>high protein</a> density and low cost</i>: <a href='#poormanprotein'>Poor Man Protein</a></li>
 </ul><br>
 
 <div id='overview' class='table-of-contents-2'></div>
 <b><u><font size='+2'>Overview</font></u></b><br>
-This is my personal tier list of protein bars. I've tried quite a few protein bars over the years, and this is my ranking of them based on taste, texture, nutrition, and cost. Nothing on here is for a specific flavor, just the brand overall.<br><br>
+This is my personal tier list of protein bars I've tried quite a few protein bars over the years, and this is my ranking of them based on taste, texture, <a href='/misc/nutrition'>nutrition</a>, and <a href='/misc/costs'>cost</a>. Nothing on here is for a specific flavor, just the brand overall.<br><br>
 
-In my ideal world, a protein bar would be high in protein, low in calories, and taste good. I also want it to be affordable. The bars on this list are ranked based on how well they meet those criteria.<br><br>
+In my ideal world, a protein bar would be high in <a href='/misc/protein'>protein</a>, low in <a href='/misc/calories'>calories</a>, and taste good. I also want it to be affordable. The bars on this list are ranked based on how well they meet those criteria.<br><br>
 
-The most important nutritional criterion for a protein bar is it's protein percentage. This is represented by the following formula: (grams of protein ÷ calories) × 100. A good protein bar should have a protein percentage of at least <b>10%</b>.<br><br>
+The most important nutritional criterion for a protein bar is it's <a href='/misc/high-protein'>protein percentage</a>. This is represented by the following formula: (grams of <a href='/misc/protein'>protein</a> ÷ <a href='/misc/calories'>calories</a>) × 100. A good protein bar should have a <a href='/misc/high-protein'>protein percentage</a> of at least <b>10%</b>.<br><br>
 
 <b><u><font size='+2'>Table of Contents</font></u></b><br>
 {% assign sorted_protein_bars = site.data.protein_bars | sort: 'name' %}
@@ -118,10 +118,10 @@ The most important nutritional criterion for a protein bar is it's protein perce
   {% if cost_per_gram_remainder < 10 %}
     {% assign cost_per_gram_remainder = cost_per_gram_remainder | prepend: '0' %}
   {% endif %}
-  <i>Protein</i>: {{ bar_protein }} g<br>
-  <i>Calories</i>: {{ bar_calories }}<br>
-  <i>Protein Percentage</i>: {{ ratio }}%<br>
-  <i>Cost per gram of Protein</i>: ${{ cost_per_gram_dollars }}.{{ cost_per_gram_remainder }}<br>
+  <i><a href='/misc/protein'>Protein</a></i>: {{ bar_protein }} g<br>
+  <i><a href='/misc/calories'>Calories</a></i>: {{ bar_calories }}<br>
+  <i><a href='/misc/high-protein'>Protein Percentage</a></i>: {{ ratio }}%<br>
+  <i>Cost per gram of <a href='/misc/protein'>Protein</a></i>: ${{ cost_per_gram_dollars }}.{{ cost_per_gram_remainder }}<br>
 {% endif %}
 
 {% if bar.file %}
