@@ -24,7 +24,7 @@ LINKS = {
         "high-protein keto bread"
     ],
     "/recipes/low-cal-cookie-dough": [
-        "81 calorie cookie dough",
+        "76 calorie cookie dough",
         "low calorie cookie dough",
         "low-calorie cookie dough"
     ],

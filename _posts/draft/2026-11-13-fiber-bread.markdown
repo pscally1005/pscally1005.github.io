@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/fiber-bread
 image: /assets/Food/Bread/Fiber Bread/cover.jpg
 file: fiberbread
-servingSize: 1 slice (40 g)
+servingSize: 1 slice (53 g)
 section1: Starter
 start2: Vital wheat gluten
 section2: Dry
@@ -70,9 +70,9 @@ tags:
 Description: |
   <a href='https://link.amazon/B04N3ngTi'>Oat fiber</a> really is a cheat code to working in a ton of <a href='/misc/fiber'>fiber</a> for <a href='/misc/calories'>zero calories</a>. This <a href='/misc/fiber'>high fiber</a> and <a href='/misc/high-protein'>high protein</a> <a href='/recipes/bread'>bread</a> features <a href='https://link.amazon/B04N3ngTi'>oat fiber</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, <a href='/misc/seeds#flax-seeds'>ground flax</a> and <a href='/misc/psyllium-husk'>psyllium husk</a>.<br><br>
 
-  Despite being <a href='/misc/carbs'>low carb</a>, this <a href='/recipes/bread'>bread</a> has that classic texture and taste, but with 10 g of <a href='/misc/fiber'>fiber</a> and 12 g of <a href='/misc/protein'>protein</a> per 100 <a href='/misc/calories'>calorie</a> slice, with only 3 g of <a href='/misc/carbs'>net carbs</a> and 4 g of <a href='/misc/fats'>fat</a>.
+  Despite being <a href='/misc/carbs'>low carb</a>, this <a href='/recipes/bread'>bread</a> has that classic texture and taste, but with 9 g of <a href='/misc/fiber'>fiber</a> and 11 g of <a href='/misc/protein'>protein</a> per 93 <a href='/misc/calories'>calorie</a> slice, with only 3 g of <a href='/misc/carbs'>net carbs</a> and 4 g of <a href='/misc/fats'>fat</a>.
 Instructions:
-- Add water to a <a href='https://amzn.to/4vamaBm'>small mason jar</a>, and microwave for 30 seconds. Stir in <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, and yeast, and warm water with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Cover with a lid, and let it sit at room temperature for 2 hours, until roughly doubled in size, to form your "starter".
+- Add water to a <a href='https://amzn.to/4vamaBm'>small mason jar</a>, and microwave for 30 seconds. Stir in <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, and yeast, with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Cover with a lid, and let it sit at room temperature for 2 hours to form your "starter", until roughly doubled in size and it smells fermented.
 - <img src='/assets/Food/Bread/Fiber Bread/starter-before.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Bread/Fiber Bread/starter-after.jpg' alt='' class='instruction-image'>
 
@@ -83,14 +83,14 @@ Instructions:
 - Add the wet into the dry, and bring together into a dough.
 - <img src='/assets/Food/Bread/Fiber Bread/bowl.jpg' alt='' class='instruction-image'>
 
-- Knead for about 10 minutes, or until smooth and elastic. Add the dough to a <a href='https://link.amazon/B00fjxkKE'>lightly greased</a> <a href='https://amzn.to/3YUjIkN'>9x5" loaf pan</a>. Let it rest at room temperature for 1 hour, until roughly doubled in size.
+- Knead for 5 minutes. Add the dough to a <a href='https://link.amazon/B00fjxkKE'>lightly greased</a> <a href='https://amzn.to/3YUjIkN'>9x5" loaf pan</a>. Let it rest at room temperature for 1 hour, until roughly doubled in size.
 - <img src='/assets/Food/Bread/Fiber Bread/raw-before.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Bread/Fiber Bread/raw-after.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 45 minutes, or until the top is lightly browned, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is <a href='https://amzn.to/4kmobG2'>205F</a>. The bottom of the loaf should sound hollow when tapped.
 - <img src='/assets/Food/Bread/Fiber Bread/baked.jpg' alt='' class='instruction-image'>
 
-- Let it cool for 1 hour on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> in the fridge before slicing.
+- Let it cool for 1 hour on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> on the counter before slicing.
 - <img src='/assets/Food/Bread/Fiber Bread/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---

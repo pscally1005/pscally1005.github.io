@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  81 Calorie Cookie Dough
+title:  76 Calorie Cookie Dough
 date:   2026-11-03 00:00:00 -0500
 categories:
 - Recipes
@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/low-cal-cookie-dough
 image: /assets/Food/Healthier Dessert/Low Cal Cookie Dough/cover.jpg
 file: lowcalcookiedough
-servingSize:
+servingSize: 1 bowl (73 g)
 section1:
 start2:
 section2:
@@ -58,11 +58,14 @@ tags:
 - pure granulated monk fruit
 - unsweetened almond milk
 - cinnamon
-Description: Have you ever dreamed about getting 100% of your daily value of <a href='/misc/fiber'>fiber</a> eating an 81 <a href='/misc/calories'>calorie</a> bowl of cookie dough? Well, then I'm here to satisfy your oddly specific dream with this <a href='/misc/fiber'>high fiber</a>, <a href='/misc/calories'>low calorie</a>, <a href='/misc/hidden-sugar'>sugar free</a> cookie dough!
+Description: Have you ever dreamed about getting nearly 100% of your daily value of <a href='/misc/fiber'>fiber</a> eating a 76 <a href='/misc/calories'>calorie</a> bowl of cookie dough? Well, then I'm here to satisfy your oddly specific dream with this <a href='/misc/fiber'>high fiber</a>, <a href='/misc/calories'>low calorie</a>, <a href='/misc/hidden-sugar'>sugar free</a> cookie dough!
 Instructions:
 - Mix together all ingredients in a <a href='https://amzn.to/4zyFnzN'>small bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
-- <img src='/assets/Food/Healthier Dessert/Low Cal Cookie Dough/bowl.jpg' alt='' class='instruction-image'>
 Notes:
+- You can also bake this cookie dough by flattening into a wide and thin circle on a piece of parchment paper, and <a href='https://amzn.to/3FuWETp'>air frying</a> for 10 minutes at 300F.
+- <img src='/assets/Food/Healthier Dessert/Low Cal Cookie Dough/cookie-raw.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/Low Cal Cookie Dough/cookie-baked.jpg' alt='' class='instruction-image'>
+
 - Below is a nutritional comparison if you make <a href='#recipe'>this recipe</a> as is, versus using <a href='/misc/hidden-sugar'>granulated sugar</a> (1 tbsp, 12 g) and regular chocolate chips (1 tbsp, 15 g) instead of <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> and <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>.
 - |
   COMPARE(
