@@ -80,19 +80,27 @@ Notes:
 
 - If you add 2 tsp (10 g) baking powder and bake in a parchment lined <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> at 350F for 30 minutes, you'll end up with my <a href='/recipes/beanana-bread'>High Protein Beanana Bread</a>!
 
-- Below is a nutritional comparison of <a href='#recipe'>this beanut butter</a> to <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, per 2 tbsp (32 g).  As you can see, the <a href='#recipe'>beanut butter</a> is much lower in total <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, while being higher in <a href='/misc/protein'>protein</a> per <a href='/misc/calories'>calorie</a>.
+- The table at the bottom is a nutritional comparison of <a href='#recipe'>this beanut butter</a> to <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, per <b>2 tbsp (32 g)</b>.  As you can see, the <a href='#recipe'>beanut butter</a> is much lower in total <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, while being higher in <a href='/misc/protein'>protein</a> per <a href='/misc/calories'>calorie</a>.
 
 - The typical <a href='/misc/fats'>low fat</a> <a href='/recipes/natural-peanut-butter'>peanut butter</a> alternative is to mix 2 tbsp (12 g) <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> with 1 1/2 tbsp (22.5 g) water to replicate 2 tbsp of <a href='/recipes/natural-peanut-butter'>peanut butter</a>. I've also included this in the comparison below. As you can see, the <a href='#recipe'>Beanut Butter</a> is remarkably close in macros to the <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> spread.
+
+- |
+  The <a href='https://www.verywellhealth.com/beanut-butter-12164863'>original beanut butter recipe</a> you'll find online is made by <a href='https://amzn.to/4q0AUjI'>blending</a> the following ingredients. This makes 9 2/3 servings of 2 tbsp (32 g) each.<br><br>
+
+  My problem with this is that it's a "<a href='/recipes/natural-peanut-butter'>peanut butter</a> alternative", but it has <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, so it isn't <a href='/misc/nuts'>nut</a> free. <a href='#recipe'>My recipe</a> solves this problem.
+- INGREDIENTS(beanutog)
 
 - |
   COMPARE(
     "beanut",
     "pb",
-    "pb2water";
+    "pb2water",
+    "beanutog";
 
     "<a href='#recipe'>Beanut<br>Butter</a>",
     "<a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a>",
-    "<a href='https://amzn.to/4sgDH9S'>Powdered<br>Peanut<br>Butter</a>";
+    "<a href='https://amzn.to/4sgDH9S'>Powdered<br>Peanut<br>Butter</a>",
+    "<a href='https://www.verywellhealth.com/beanut-butter-12164863'>Original<br>Beanut<br>Butter</a>";
 
     "Calories",
     "Protein",

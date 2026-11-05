@@ -8,7 +8,7 @@
   name: Blueberry Muffin
   link: https://link.amazon/B0h9qmv2Y
   image: blueberry.jpg
-  desc: I love me a good fruity <a href='/recipes/healthier-dessert'>dessert</a>, but I've never been a blueberry muffin fan. But that changes with these protein bars. Unlike <a href='#raspberry'>White Chocolate Raspberry</a>, Blueberry Muffin tastes more like actual <a href='/misc/fruit'>fruit</a> and not an artificial fruit flavoring. And this doesn't just taste like <a href='/misc/fruit#blueberries'>blueberry</a>; it tastes like blueberry muffin specifically. I feel like I can taste the strussel on top in addition to just the <a href='/misc/fruit#blueberries'>blueberry</a> flavor. If you told me this was a candy bar flavored like a blueberry muffin, I'd believe you. Silver medal.
+  desc: I love me a good fruity <a href='/recipes/healthier-dessert'>dessert</a>, but I've never been a blueberry muffin fan. But that changes with these protein bars. Unlike <a href='#raspberry'>White Chocolate Raspberry</a>, Blueberry Muffin tastes more like actual <a href='/misc/fruit'>fruit</a> and not an artificial fruit flavoring. And this doesn't just taste like <a href='/misc/fruit#blueberries'>blueberry</a>; it tastes like blueberry muffin specifically. I feel like I can taste the strussel on top in addition to the <a href='/misc/fruit#blueberries'>blueberry</a> flavor. If you told me this was a candy bar flavored like a blueberry muffin, I'd believe you. Silver medal.
   ranking: 2
 - id: smores
   name: S'mores
@@ -44,7 +44,7 @@
   name: Oatmeal Chocolate Chip
   link: https://link.amazon/B0ea5kxpX
   image: oats.jpg
-  desc: Oatmeal Chocolate Chip kinda is basically just a worse <a href='#cookie-dough'>Chocolate Chip Cookie Dough</a>. It has a very similar base, mix-ins, flavor, and smell, but just worse in every way. Kinda like a real oatmeal chocolate chip cookie as compared to a regular chocolate chip cookie.
+  desc: Oatmeal Chocolate Chip is basically just a worse <a href='#cookie-dough'>Chocolate Chip Cookie Dough</a>. It has a very similar base, mix-ins, flavor, and smell, but just worse in every way. Kinda like a real oatmeal chocolate chip cookie as compared to a regular chocolate chip cookie.
   ranking: 8
 - id: double-chocolate
   name: Double Chocolate Chunk
@@ -57,3 +57,4 @@
   link: https://link.amazon/B0fIGhn7k
   image: brownie.jpg
   desc: Starting at the bottom, this was my least favorite flavor. I found it to be very dry and lacking in flavor. It was also the only flavor to not have chocolate chips or any kind of mix in, so the entire bar was homogenous. It very much tasted like generic chocolate protein bar.
+  ranking: 10

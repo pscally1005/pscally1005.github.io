@@ -62,5 +62,5 @@ Instructions:
 
 - Drain off any excess water. For me, this was about 2 cups (480 g).
 Notes:
-- <a href='#recipe'>This recipe</a> makes about 6 2/3 cups of soaked <a href='/misc/grains#bulgur'>bulgur</a>, where each cup is about 180 g.
+- <a href='#recipe'>This recipe</a> makes about 6 2/3 cups of <a href='/misc/grains#bulgur'>bulgur</a>, where each cup is about 180 g.
 ---
