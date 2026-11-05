@@ -1159,7 +1159,7 @@ def vol_from_mass(food, mass, vol):
             v = "2 cup"
 
     # Jelly
-    elif food == "Low sugar berry jam" or food == "Strawberry chia jam":
+    elif food == "Low sugar berry jam" or food == "Strawberry chia jam" or food == "Jelly" or food == "Jelly, reduced sugar" or food == "Berry jam":
         if mass == "19":
             v = "1 tbsp"
         elif mass == "38":

@@ -1140,7 +1140,7 @@ def grams(food, mass, vol):
             m = "256"
 
     # Jelly
-    elif food == "Low sugar berry jam" or food == "Strawberry chia jam":
+    elif food == "Low sugar berry jam" or food == "Strawberry chia jam" or food == "Jelly" or food == "Jelly, reduced sugar" or food == "Berry jam":
         if vol == "1 tbsp":
             m = "19"
         elif vol == "2 tbsp":

@@ -340,8 +340,11 @@ def ingredients(food):
         f = "Maple syrup"
     elif food == "Sweetener, agave, syrup":
         f = "Agave"
-    elif food == "Jellies" or food == "jam" or food == "chia-jam" or food == "Smucker's Raspberry Sugar Free Jam" or food == "Raspberry jelly" or food == "Low Sugar Berry Jam" or food == "Jellies":
+    elif food == "Jellies" or food == "jam" or food == "Smucker's Raspberry Sugar Free Jam" or food == "Raspberry jelly" or food == "Low Sugar Berry Jam" or food == "Jellies":
         f = "Low sugar berry jam"
+    elif food == "chia-jam" or food == "Berry jam" or food == "Strawberry chia jam":
+        # f = "Strawberry chia jam"
+        f = "Berry jam"
     elif food == "Jellies" or food == "Jelly" or food == "Grape jelly":
         f = "Grape jelly"
     elif food == "sugar-free-syrup" or food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc." or food == "Sugar free syrup by IHOP AT HOME":

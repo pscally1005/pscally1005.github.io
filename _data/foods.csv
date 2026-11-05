@@ -411,7 +411,9 @@ Sugar free cranberry sauce,cranberry-sauce,5.23,600.00,0.00872,8.6,43,TRUE,TRUE,
 Sweetened dried cranberries,cranberrysw100g,3.99,226.40,0.01762,5.0,64,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,73.0,0.0,0.0,0.0,0,40,https://link.amazon/B0baTYFGn
 Unsweetened dried cranberries,cranberryunsw100g,4.99,141.50,0.03527,9.9,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://link.amazon/B00G0PdLe
 Homemade dried cranberries,cranberry100g,2.50,60.00,0.04167,9.9,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/dried-cranberry
-Low sugar berry jam,jam-low-sugar,2.13,190.00,0.01121,8.8,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,0.0,0.0,0.0,0.0,0,40,/recipes/berry-jam
+Low sugar berry jam,jam-low-sugar,2.13,190.00,0.01121,8.8,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.3,0.0,0.0,0.0,0,40,/recipes/berry-jam
+Strawberry chia jam,chia-jam,2.13,190.00,0.01121,9.5,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/strawberry-chia-jam
+Berry jam,chia-jam,2.13,396.00,0.00538,9.5,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/strawberry-chia-jam
 Frozen acai puree,acai,5.00,396.00,0.01263,9.3,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4cBNvpn
 Grape jelly,jelly,2.78,849.00,0.00327,1.0,51,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,45.0,0.0,0.0,0.0,0,30,
 Watermelon,watermelon,4.67,"4,500.00",0.00104,7.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,

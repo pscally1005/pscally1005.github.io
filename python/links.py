@@ -3336,7 +3336,7 @@ LINKS = {
         "low sugar jam",
         "no sugar jam",
         "sugar free jam",
-        "berry jam",
+        # "berry jam",
         "raspberry jam",
         "raspberry jelly",
         "blackberry jam",
@@ -3345,6 +3345,7 @@ LINKS = {
         "jelly"
     ],
     "/recipes/strawberry-chia-jam": [
+        "berry jam",
         "strawberry jam",
         "blueberry jam",
         "chia jam",
