@@ -8,7 +8,7 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_includes"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts"
 DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
-DATA_FILES = ("protein_bars.yml", "quest_ranking.yml")
+# DATA_FILES = ("protein_bars.yml", "quest_ranking.yml")
 
 LINKS = {
 
@@ -6348,7 +6348,9 @@ LINKS = {
         "starch",
         "Carbs: The Devil in Disguise?",
         "complex starches",
-        "complex starch"
+        "complex starch",
+        "complex carbohydrates",
+        "complex carbohydrate"
     ],
     "/misc/fats": [
         "Fat: The Innocent Criminal?",
@@ -9009,6 +9011,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "shape the cookie",
+    "sealing in the jelly",
     "orea mint ice cream",
     "random protein cookie dough recipe",
     "<a href='/misc/processed-foods'>ultra-processed</a> protein bar",
@@ -9933,8 +9937,8 @@ EXCLUDED_PHRASES = [
     # "graham cracker crust",
     "peanut butter pie",
     "into cookies",
-    "peanut butter cookies",
-    "peanut butter cookie",
+    # "peanut butter cookies",
+    # "peanut butter cookie",
     "thin cookie",
     "oatmeal cookies",
     "oatmeal cookie",
@@ -11345,24 +11349,24 @@ def main():
                 print(f"Updated: {path}")
                 count += 1
 
-    for file in DATA_FILES:
-        path = os.path.join(DATA_DIR, file)
+    # for file in DATA_FILES:
+    #     path = os.path.join(DATA_DIR, file)
 
-        with open(path, "r", encoding="utf-8") as f:
-            original = f.read()
+    #     with open(path, "r", encoding="utf-8") as f:
+    #         original = f.read()
 
-        updated = process_yaml_descriptions(
-            original,
-            ALIAS_LOOKUP,
-            EXCLUDED_PHRASES
-        )
+    #     updated = process_yaml_descriptions(
+    #         original,
+    #         ALIAS_LOOKUP,
+    #         EXCLUDED_PHRASES
+    #     )
 
-        if updated != original:
-            with open(path, "w", encoding="utf-8") as f:
-                f.write(updated)
+    #     if updated != original:
+    #         with open(path, "w", encoding="utf-8") as f:
+    #             f.write(updated)
 
-            print(f"Updated: {path}")
-            count += 1
+    #         print(f"Updated: {path}")
+    #         count += 1
 
     print(f"Total files updated: {count}")
 

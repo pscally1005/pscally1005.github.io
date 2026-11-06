@@ -63,19 +63,19 @@ tags:
 - pb & j
 - cookies
 - panera
-Description: What's more classic than a Peanut Butter and Jelly sandwich? Probably a good cookie. So let's combine those two together. Using my Peanut Butter Cookies a base, and my Berry Jam as a filling, I'm making a batch of a dozen raspberry jelly filled peanut butter cookies. What's more, not only are these cookies deliciously sweet, but they're also gluten free, sugar free, and vegan, while being a good source of healthy fats and complex carbohydrates!
+Description: What's more classic than a <a href='/recipes/natural-peanut-butter'>Peanut Butter</a> and <a href='/recipes/berry-jam'>Jelly</a> sandwich? Probably a good <a href='/cookies'>cookie</a>. So let's combine those two together. Using my <a href='/recipes/peanut-butter-cookies'>Peanut Butter Cookies</a> a base, and my <a href='/recipes/strawberry-chia-jam'>Berry Jam</a> as a filling, I'm making a batch of a dozen <a href='/recipes/berry-jam'>raspberry jelly</a> filled <a href='/recipes/natural-peanut-butter'>peanut butter</a> <a href='/cookies'>cookies</a>. What's more, not only are these <a href='/cookies'>cookies</a> deliciously sweet, but they're also <a href='/misc/celiac'>gluten free</a>, <a href='/misc/hidden-sugar'>sugar free</a>, and vegan, while being a good source of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/carbs'>complex carbohydrates</a>!
 Instructions:
-- Whisk together peanut butter, sugar free syrup, applesauce, and vanilla in a large bowl.
+- Whisk together <a href='/recipes/natural-peanut-butter'>peanut butter</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='/misc/fruit#apple'>applesauce</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>.
 
-- Add in the baking powder, cornstarch, and oat flour. Mix with a silicone spatula until fully combined. Let the dough rest in the bowl in the fridge for 30 minutes for the oats to absorb moisture.
+- Add in the baking powder, cornstarch, and <a href='/misc/grains#oats'>oat flour</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined. Let the dough rest in the bowl in the fridge for 30 minutes for the <a href='/misc/grains#oats'>oats</a> to absorb moisture.
 - <img src='/assets/Food/Healthier Dessert/PB&J Cookies/bowl.jpg' alt='' class='instruction-image'>
 
-- Preheat your oven to 350F. Line a large cookie sheet with parchment paper.
+- Preheat your oven to 350F. Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- Scoop your dough into 12 equally sized balls, about 2 tbsp (33 g) each.
+- Scoop your dough into 12 equally sized balls, about <b>2 tbsp (33 g)</b> each.
 - <img src='/assets/Food/Healthier Dessert/PB&J Cookies/scooped.jpg' alt='' class='instruction-image'>
 
-- Flatten into a very thin and wide circle. Make a dimple in the center, and add 1/2 tbsp (9.5 g) to the center of each cookie.
+- Flatten into a very thin and wide circle. Make a dimple in the center, and add <b>1/2 tbsp (9.5 g)</b> to the center of each cookie.
 - <img src='/assets/Food/Healthier Dessert/PB&J Cookies/filled.jpg' alt='' class='instruction-image'>
 
 - Shape the cookie into a ball, sealing in the jelly. Flatten to a 1/4" thick circular disk. Repeat with all 12 cookies.
