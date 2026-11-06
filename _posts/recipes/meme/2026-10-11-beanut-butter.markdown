@@ -37,7 +37,7 @@ Prep: 5
 Rest:
 Cook:
 Source1: https://www.poormanprotein.com/recipes/beanana-bread
-Source2:
+Source2: https://www.verywellhealth.com/beanut-butter-12164863
 Source3:
 Source4:
 Source5:
