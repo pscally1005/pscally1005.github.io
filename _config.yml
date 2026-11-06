@@ -85,6 +85,13 @@ include:
   - _pages/recipes
   - _pages/misc
 
+exclude:
+  - python
+  - script
+  - download
+  - node_modules
+  - bash.exe.stackdump
+
 sitemap:
   url: https://www.poormanprotein.com/sitemap.xml
   baseurl: ""
