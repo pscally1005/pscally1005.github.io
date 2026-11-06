@@ -59,12 +59,12 @@ tags:
 - chocolate chips
 - unsweetened vanilla almond milk
 - vic
-Description: This high-protein cookie dough can be pounded by the spoonful without you feeling guilty about it. This single serving bowl is made in under 5 minutes, and contains 37 g of protein per 268 calories. For an even lower calorie cookie dough, check out my 76 Calorie Cookie Dough!
+Description: This <a href='/misc/high-protein'>high-protein</a> cookie dough can be pounded by the spoonful without you feeling guilty about it. This single serving bowl is made in under 5 minutes, and contains 37 g of <a href='/misc/protein'>protein</a> per 268 <a href='/misc/calories'>calories</a>. For an even lower <a href='/misc/calories'>calorie</a> cookie dough, check out my <a href='/recipes/low-cal-cookie-dough'>76 Calorie Cookie Dough</a>!
 Instructions:
-- Mix together protein powder, powdered peanut butter, and almond milk in a small bowl. Top with cacao nibs, and eat!
+- Mix together <a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a> in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Top with <a href='https://link.amazon/B0dAdVfzm'>cacao nibs</a>, and eat!
 - <img src='/assets/Food/Protein Powder/Protein Spoon Cookie Dough/bowl.jpg' alt='' class='instruction-image'>
 Notes:
-- I happen to have cacao nibs on hand, but you can also use sugar free chocolate chips or regular chocolate chips (1 tbsp, 15 g).
+- I happen to have <a href='https://link.amazon/B0dAdVfzm'>cacao nibs</a> on hand, but you can also use <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a> or regular chocolate chips (1 tbsp, 15 g).
 - |
   COMPARE(
     "proteinspooncookiedough",
