@@ -1967,6 +1967,25 @@ def vol_from_mass(food, mass, vol):
         elif vol == "1 1/4 cup":
             m = "45"
 
+    # MSG
+    elif food == "MSG":
+        if mass == "0.5":
+            v = "1/8 tsp"
+        elif mass == "1":
+            v = "1/4 tsp"
+        elif mass == "2":
+            v = "1/2 tsp"
+        elif mass == "3":
+            v = "3/4 tsp"
+        elif mass == "4":
+            v = "1 tsp"
+        elif mass == "6":
+            v = "1/2 tbsp"
+        elif mass == "8":
+            v = "2 tsp"
+        elif mass == "12":
+            v = "1 tbsp"
+
     # Salt, baking powder, baking soda
     elif food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt" or food == "Flaky salt":
         if mass == "0.06":

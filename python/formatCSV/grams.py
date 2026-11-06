@@ -170,6 +170,25 @@ def grams(food, mass, vol):
         elif vol == "1 1/4 cup":
             m = "45"
 
+    # MSG
+    elif food == "MSG":
+        if vol == "1/8 tsp":
+            m = "0.5"
+        elif vol == "1/4 tsp":
+            m = "1"
+        elif vol == "1/2 tsp":
+            m = "2"
+        elif vol == "3/4 tsp":
+            m = "3"
+        elif m == "1 tsp":
+            m = "4"
+        elif vol == "1/2 tbsp":
+            m = "6"
+        elif vol == "2 tsp":
+            m = "8"
+        elif vol == "1 tbsp":
+            m = "12"
+
     # Salt, baking powder, baking soda
     elif food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt" or food == "Flaky salt":
         if vol == "Tiny pinch":

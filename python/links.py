@@ -7665,6 +7665,8 @@ LINKS = {
         "large bowl",
         "medium bowls",
         "medium bowl",
+        "medium sized bowls",
+        "medium sized bowl",
         "small bowls",
         "small bowl",
         "small microwave safe bowls",
