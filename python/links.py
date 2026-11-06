@@ -13,6 +13,24 @@ DATA_FILES = ("protein_bars.yml", "quest_ranking.yml")
 LINKS = {
 
     # RECIPES
+    "/recipes/peanut-butter-jelly-cookies": [
+        "peanut butter jelly cookies",
+        "peanut butter and jelly cookies",
+        "peanut butter & jelly cookies",
+        "peanut butter jam cookies",
+        "peanut butter and jam cookies",
+        "peanut butter & jam cookies",
+        "peanut butter jelly cookie",
+        "peanut butter and jelly cookie",
+        "peanut butter & jelly cookie",
+        "peanut butter jam cookie",
+        "peanut butter and jam cookie",
+        "peanut butter & jam cookie",
+        "pb&j cookies",
+        "pb&j cookie",
+        "pb & j cookies",
+        "pb & j cookie"
+    ],
     "/recipes/fiber-bread": [
         "high-fiber wheat bread",
         "high fiber wheat bread",
@@ -11301,7 +11319,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-12-30")):
+            if not file.startswith(("2026-12-25")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 
