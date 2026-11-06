@@ -13,6 +13,18 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/protein-spoon-cookie-dough": [
+        "protein cookie dough to eat with a spoon",
+        "protein cookie dough",
+        "protein cookie dough you can eat with a spoon",
+        "protein spoon cookie dough",
+        "high protein cookie dough",
+        "high protein spoon cookie dough",
+        "high protein cookie dough to eat with a spoon",
+        "high protein cookie dough you can eat with a spoon",
+        "protein cookie dough by the spoonful",
+        "high protein cookie dough by the spoonful"
+    ],
     "/recipes/peanut-butter-jelly-cookies": [
         "peanut butter jelly cookies",
         "peanut butter and jelly cookies",
@@ -6524,6 +6536,10 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://link.amazon/B0dAdVfzm": [
+        "cacao nibs",
+        "cacao nib"
+    ],
     "https://amzn.to/4A6i5Se": [
         "aloha bars",
         "aloha bar",
@@ -11323,7 +11339,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-12-25")):
+            if not file.startswith(("2026-12-03")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 

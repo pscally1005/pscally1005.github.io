@@ -1005,8 +1005,8 @@ def grams(food, mass, vol):
         elif vol == "2 x 13.5 oz can" or vol == "27 oz can":
             m = "810"
 
-    # Oat fiber
-    elif food == "Oat fiber":
+    # Oat fiber & cacao nibs
+    elif food == "Oat fiber" or food == "Cacao nibs":
         if vol == "1 tsp":
             m = "3"
         elif vol == "2 tsp":

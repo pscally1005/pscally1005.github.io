@@ -1027,8 +1027,8 @@ def vol_from_mass(food, mass, vol):
         if mass == "377":
             v = "1 batch"
 
-    # Oat fiber
-    elif food == "Oat fiber":
+    # Oat fiber & cacao nibs
+    elif food == "Oat fiber" or food == "Cacao nibs":
         if mass == "3":
             v = "1 tsp"
         elif mass == "6":
