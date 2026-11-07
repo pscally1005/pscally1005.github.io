@@ -35,12 +35,12 @@ section4:
 start5:
 section5:
 Prep: 15
-Rest: 10
+Rest: 5
 Cook: 35
 Source1: https://theeastcoastkitchen.com/chicken-crust-pizza-180g-protein-ready-in-35-min/
 Source2: https://basicswithbails.com/ingredients/chicken/chicken-crust-pizza/
 Source3: https://healthyrecipesblogs.com/chicken-crust-pizza/#recipe
-Source4:
+Source4: https://www.poormanprotein.com/recipes/spaghetti-squash-pizza
 Source5:
 whisk: https://s.samsungfood.com/KMOYM
 tags:
@@ -65,9 +65,9 @@ tags:
 - ground chicken pizza crust
 - spaghetti squash pizza crust
 Description: |
-  High protein pizza. No <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. No <a href='/misc/dairy#yogurt'>yogurt</a>. No <a href='/misc/dairy#whey'>protein powder</a>. Just good, old fashioned <a href='/misc/meat'>meat</a>.  As the crust...<br><br>
+  <a href='/misc/high-protein'>High protein</a> pizza. No <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. No <a href='/misc/dairy#yogurt'>yogurt</a>. No <a href='/misc/dairy#whey'>protein powder</a>. Just good, old fashioned <a href='/misc/meat'>meat</a>.  As the crust.<br><br>
 
-  For another low carb, high protein pizza recipe, check out my Spaghetti Squash Pizza!
+  For another <a href='/misc/carbs'>low carb</a>, <a href='/misc/high-protein'>high protein</a> pizza recipe, check out my <a href='/recipes/spaghetti-squash-pizza'>Spaghetti Squash Pizza</a>!
 Instructions:
 - Preheat your oven to 400F. Line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper.
 
@@ -80,21 +80,21 @@ Instructions:
 - Bake the crust at 400F for about 25 minutes, flipping halfway, or until lightly browned and cooked through, and the <a href='/misc/meat#chicken-thighs'>chicken</a> reaches <a href='https://amzn.to/4kmobG2'>165F</a>.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/cookedDough.jpg' alt='' class='instruction-image'>
 
-- Top your cooked crust with <a href='/recipes/savory-sauces'>sauce</a> (2 tbsp, 32 g per pizza) and <a href='/misc/dairy#mozzarella'>cheese</a> (1/2 oz, 14 g per pizza).
+- Top your cooked crust with <a href='/recipes/pasta-sauce'>sauce</a> (2 tbsp, 32 g per pizza) and <a href='/misc/dairy#mozzarella'>cheese</a> (1/2 oz, 14 g per pizza).
 - <img src='/assets/Food/Finger Food/Chicken Pizza/topped.jpg' alt='' class='instruction-image'>
 
-- Increase your oven temperature to 450F. Return the pizza to the oven, and bake for an additional 8-10 minutes, or until the <a href='/recipes/savory-sauces'>sauce</a> and <a href='/misc/dairy#mozzarella'>cheese</a> are lightly bubbly. Optionally broil for about 1 minute, until the <a href='/misc/dairy#mozzarella'>cheese</a> is lightly browned.
+- Increase your oven temperature to 450F. Return the pizza to the oven, and bake for an additional 8-10 minutes, or until the <a href='/recipes/pasta-sauce'>sauce</a> and <a href='/misc/dairy#mozzarella'>cheese</a> are lightly bubbly. Optionally broil for about 1 minute, until the <a href='/misc/dairy#mozzarella'>cheese</a> is lightly browned.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/baked.jpg' alt='' class='instruction-image'>
 
 - Let the pizzas cool for 5 minutes before cutting into 4 slices each.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/cut.jpg' alt='' class='instruction-image'>
 
-- To reheat, air fry at 400F for 3-5 minutes, or until warm and crispy.
+- To reheat, <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for 3-5 minutes, or until warm and crispy.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/plate.jpg' alt='' class='instruction-image'>
 Notes:
 - Any other <a href='/recipes/ground-meat'>ground meat</a> will work too besides <a href='/misc/meat#chicken-thighs'>chicken</a>, such as <a href='/misc/meat#ground-turkey'>ground turkey</a> or <a href='/misc/meat#ground-beef'>ground beef</a>.
 
-- You can also use low moisture part skim <a href='/misc/dairy#mozzarella'>mozzarella</a> instead of <a href='/misc/fats'>fat</a> free.
+- Low moisture part skim <a href='/misc/dairy#mozzarella'>mozzarella</a> can also be used in place of <a href='/misc/fats'>fat</a> free.
 - |
   COMPARE(
     "chickenpizza",

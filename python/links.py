@@ -9042,7 +9042,9 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "shape the cookie",
+    '8" diameter',
     "chicken mixture",
+    "garlic, and oregano",
     "sealing in the jelly",
     "orea mint ice cream",
     "random protein cookie dough recipe",
