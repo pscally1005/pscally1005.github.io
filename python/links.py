@@ -13,6 +13,14 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/spaghetti-squash-pizza": [
+        "spaghetti squash pizza",
+        "spaghetti squash pizza crust",
+        "high-protein spaghetti squash pizza",
+        "high-protein spaghetti squash pizza crust",
+        "high protein spaghetti squash pizza",
+        "high protein spaghetti squash pizza crust"
+    ],
     "/recipes/protein-spoon-cookie-dough": [
         "protein cookie dough to eat with a spoon",
         "protein cookie dough",
@@ -99,10 +107,13 @@ LINKS = {
     ],
     "/recipes/ground-chicken-pizza": [
         "ground chicken pizza crust",
-        "ground chicken pizza pie",
         "ground chicken pizza",
-        "high-protein pizza",
-        "high protein pizza"
+        "high-protein ground chicken pizza",
+        "high protein ground chicken pizza",
+        "chicken pizza crust",
+        "chicken pizza",
+        "high-protein chicken pizza",
+        "high protein chicken pizza"
     ],
     "/recipes/double-chocolate-protein-bars": [
         "double chocolate protein bars",
@@ -4190,7 +4201,8 @@ LINKS = {
     "/recipes/spaghetti-squash": [
         "spaghetti squash cooked 3 ways",
         "spaghetti squash cooked three ways",
-        "cooked spaghetti squash"
+        "cooked spaghetti squash",
+        "spaghetti squash, cooked"
     ],
     "/recipes/cloud-bread-loaf": [
         "cloud bread loaf",
@@ -9030,6 +9042,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "shape the cookie",
+    "chicken mixture",
     "sealing in the jelly",
     "orea mint ice cream",
     "random protein cookie dough recipe",
@@ -11341,7 +11354,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-12-03")):
+            if not file.startswith(("2026-11-09", "2026-11-10")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 

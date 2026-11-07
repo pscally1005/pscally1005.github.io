@@ -167,6 +167,7 @@ Frozen cauliflower,cauliflower-frozen,1.16,336.00,0.00345,9.9,32,TRUE,TRUE,TRUE,
 Cauliflower,cauliflower-frozen,1.16,336.00,0.00345,9.9,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Diced green chiles,diced-green-chiles,1.50,198.10,0.00757,7.8,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/43APBRm
 Spaghetti squash,spaghetti-squash,1.58,454.00,0.00348,9.3,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Spaghetti squash, cooked",cooked-spaghetti-squash,1.58,340.50,0.00464,9.3,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/spaghetti-squash
 "Frozen kale, thawed",kale-frozen,1.57,336.00,0.00467,10.0,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Spinach, fresh",spinach-fresh,4.98,454.00,0.01097,10.0,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Kale,kale,4.98,454.00,0.01097,10.0,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,

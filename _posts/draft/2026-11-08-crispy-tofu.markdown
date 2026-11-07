@@ -76,7 +76,7 @@ Instructions:
 - Arrange your <a href='/misc/beans#tofu'>tofu</a> in a single layer in the <a href='https://amzn.to/3FuWETp'>air fryer</a>.
 - <img src='/assets/Food/Meatless/Crispy Tofu/raw.jpg' alt='' class='instruction-image'>
 
-- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 15 minutes, or until browned and crispy.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 15 minutes, flipping halfway, or until browned and crispy.
 - <img src='/assets/Food/Meatless/Crispy Tofu/cooked.jpg' alt='' class='instruction-image'>
 
 - To reheat, <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 5 minutes, or until warmed and crispy.
@@ -85,4 +85,6 @@ Notes:
 - It's better to arrange the <a href='/misc/beans#tofu'>tofu</a> in a single layer in the <a href='https://amzn.to/3FuWETp'>air fryer</a> in order for it to get properly crispy. You may need to <a href='https://amzn.to/3FuWETp'>air fry</a> in 2 batches. Over crowding the basket will lead to steaming and less crispiness.
 
 - Cornstarch (1 tbsp, 8 g) can be used in place of <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>. However, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a> (aka "<a href='https://amzn.to/43wLkhB'>nooch</a>") not only tastes better, but is fortified with <a href='/misc/nutrient-alphabet#B'>B vitamins</a>, including <a href='/misc/vitamin-b12'>Vitamin B12</a>. <a href='/misc/vitamin-b12'>B12</a> is naturally found only in animal-source foods (<a href='/misc/meat'>meat</a>, <a href='/misc/fish'>fish</a>, <a href='/misc/dairy'>dairy</a>, and <a href='/misc/meat#eggs'>eggs</a>), so adding it to this vegan meal gives it a nutrient boost!
+
+- Optionally serve with any dipping <a href='/recipes/savory-sauces'>sauce</a> of choice, such as my <a href='/recipes/peanut-chili-salad-dressing'>Peanut Chili Salad Dressing</a>!
 ---

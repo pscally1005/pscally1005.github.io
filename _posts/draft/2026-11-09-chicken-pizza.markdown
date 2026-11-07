@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ground Chicken Pizza
-date:   2026-11-02 00:00:00 -0500
+date:   2026-11-07 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
@@ -24,8 +24,8 @@ beans: no
 permalink: /recipes/ground-chicken-pizza
 image: /assets/Food/Finger Food/Chicken Pizza/cover.jpg
 file: chickenpizza
-servingSize: 1 pizza (TODO g)
-section1: "Dough"
+servingSize: 1 pizza (~145 g)
+section1: Crust
 start2: Simple pasta sauce
 section2: Toppings
 start3:
@@ -62,17 +62,22 @@ tags:
 - marinara sauce
 - garlic powder
 - oregano
-Description: High protein pizza. No <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. No <a href='/misc/dairy#yogurt'>yogurt</a>. No <a href='/misc/dairy#whey'>protein powder</a>. Just good, old fashioned <a href='/misc/meat'>meat</a>.  As the crust...
+- ground chicken pizza crust
+- spaghetti squash pizza crust
+Description: |
+  High protein pizza. No <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. No <a href='/misc/dairy#yogurt'>yogurt</a>. No <a href='/misc/dairy#whey'>protein powder</a>. Just good, old fashioned <a href='/misc/meat'>meat</a>.  As the crust...<br><br>
+
+  For another low carb, high protein pizza recipe, check out my Spaghetti Squash Pizza!
 Instructions:
 - Preheat your oven to 400F. Line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper.
 
 - In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together <a href='/misc/ground-chicken'>ground chicken</a>, <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, garlic powder, oregano, salt, and pepper until fully combined.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/bowl.jpg' alt='' class='instruction-image'>
 
-- Evenly divide the <a href='/misc/meat#chicken-breast'>chicken</a> mixture into 4 pieces, about <b>154 g</b> each. Flatten into a thin and wide circle on your <a href='https://amzn.to/45sRAsB'>cookie sheets</a>, about 1/4" thick and 8" diameter.
+- Evenly divide the chicken mixture into 4 pieces, about <b>150 g</b> each. Flatten into a thin and wide circle on your <a href='https://amzn.to/45sRAsB'>cookie sheets</a>, about 1/8" thick and 8" diameter.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/rawDough.jpg' alt='' class='instruction-image'>
 
-- Bake the crust at 400F for about 25 minutes, or until lightly browned and cooked through, and the <a href='/misc/meat#chicken-thighs'>chicken</a> reaches <a href='https://amzn.to/4kmobG2'>165F</a>.
+- Bake the crust at 400F for about 25 minutes, flipping halfway, or until lightly browned and cooked through, and the <a href='/misc/meat#chicken-thighs'>chicken</a> reaches <a href='https://amzn.to/4kmobG2'>165F</a>.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/cookedDough.jpg' alt='' class='instruction-image'>
 
 - Top your cooked crust with <a href='/recipes/savory-sauces'>sauce</a> (2 tbsp, 32 g per pizza) and <a href='/misc/dairy#mozzarella'>cheese</a> (1/2 oz, 14 g per pizza).
@@ -83,6 +88,24 @@ Instructions:
 
 - Let the pizzas cool for 5 minutes before cutting into 4 slices each.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/cut.jpg' alt='' class='instruction-image'>
+
+- To reheat, air fry at 400F for 3-5 minutes, or until warm and crispy.
+- <img src='/assets/Food/Finger Food/Chicken Pizza/plate.jpg' alt='' class='instruction-image'>
 Notes:
 - Any other <a href='/recipes/ground-meat'>ground meat</a> will work too besides <a href='/misc/meat#chicken-thighs'>chicken</a>, such as <a href='/misc/meat#ground-turkey'>ground turkey</a> or <a href='/misc/meat#ground-beef'>ground beef</a>.
+
+- You can also use low moisture part skim <a href='/misc/dairy#mozzarella'>mozzarella</a> instead of <a href='/misc/fats'>fat</a> free.
+- |
+  COMPARE(
+    "chickenpizza",
+    "chickenpizzalmps";
+
+    "<a href='#recipe'>Fat<br>Free</a>",
+    "<a href='#notes'>Low<br>Moisture<br>Part<br>Skim</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs"
+  )
 ---
