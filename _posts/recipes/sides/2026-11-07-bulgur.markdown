@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  You Can Eat Raw Bulgur
-date:   2026-11-04 00:00:00 -0500
+date:   2026-11-07 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
