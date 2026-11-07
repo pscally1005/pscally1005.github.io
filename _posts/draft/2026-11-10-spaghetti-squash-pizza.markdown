@@ -18,7 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/spaghetti-squash-pizza
