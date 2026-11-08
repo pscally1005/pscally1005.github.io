@@ -20,7 +20,8 @@ LINKS = {
         "sugar free condensed milk",
         "dairy free condensed milk",
         "dairy-free, sugar-free, sweetened condensed milk",
-        "dairy free, sugar free, sweetened condensed milk"
+        "dairy free, sugar free, sweetened condensed milk",
+        "homemade sweetened condensed milk"
     ],
     "/recipes/pumpkin-truffles": [
         "pumpkin truffles",
@@ -7809,7 +7810,7 @@ LINKS = {
         "small pot",
         "small pots",
         "medium saucepot",
-        "medium pot"
+        "medium pot",
         "medium sauce pot",
         "medium sized saucepot",
         "medium sized pot",
@@ -9069,7 +9070,10 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "ridges on the side",
     "shape the cookie",
+    "look like a pumpkin",
+    "14 oz (396 g) of condensed milk",
     '8" diameter',
     "chicken mixture",
     "garlic, and oregano",

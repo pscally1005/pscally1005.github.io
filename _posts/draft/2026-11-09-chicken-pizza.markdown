@@ -83,7 +83,7 @@ Instructions:
 - Top your cooked crust with <a href='/recipes/pasta-sauce'>sauce</a> (2 tbsp, 32 g per pizza) and <a href='/misc/dairy#mozzarella'>cheese</a> (1/2 oz, 14 g per pizza).
 - <img src='/assets/Food/Finger Food/Chicken Pizza/topped.jpg' alt='' class='instruction-image'>
 
-- Increase your oven temperature to 450F. Return the pizza to the oven, and bake for an additional 8-10 minutes, or until the <a href='/recipes/pasta-sauce'>sauce</a> and <a href='/misc/dairy#mozzarella'>cheese</a> are lightly bubbly. Optionally broil for about 1 minute, until the <a href='/misc/dairy#mozzarella'>cheese</a> is lightly browned.
+- Increase your oven temperature to 450F. Return the pizza to the oven, and bake for an additional 8-10 minutes, or until the <a href='/recipes/pasta-sauce'>sauce</a> is hot and the <a href='/misc/dairy#mozzarella'>cheese</a> is browned.
 - <img src='/assets/Food/Finger Food/Chicken Pizza/baked.jpg' alt='' class='instruction-image'>
 
 - Let the pizzas cool for 5 minutes before cutting into 4 slices each.

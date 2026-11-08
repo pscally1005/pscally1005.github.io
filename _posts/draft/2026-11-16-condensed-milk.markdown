@@ -59,18 +59,18 @@ tags:
 - pumpkin truffles
 - 7 layer bars
 - seven layer bars
-Description: Homemade sweetened condensed milk! But it's dairy free and sugar free. Replacing the milk with almond milk and the sugar with liquid monk fruit gives turns this sugar bomb pantry staple into a low calorie, sugar free, and vegan ingredient! Try it out in my new Pumpkin Truffles!
+Description: Homemade sweetened condensed milk, but made <a href='/misc/dairy'>dairy free</a> and <a href='/misc/hidden-sugar'>sugar free</a>! Replacing the <a href='/misc/dairy#skim-milk'>milk</a> with <a href='/misc/dairy#almond-milk'>almond milk</a> and the <a href='/misc/hidden-sugar'>sugar</a> with <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> turns this <a href='/misc/hidden-sugar'>sugar bomb</a> pantry staple into a <a href='/misc/calories'>low calorie</a>, <a href='/misc/hidden-sugar'>sugar free</a>, and vegan ingredient! Try it out in my new <a href='/recipes/pumpkin-truffles'>High Fiber Pumpkin Truffles</a>!
 Instructions:
-- Add almond milk to a medium pot over high heat. Bring to a boil, and let it boil for about 5 minutes, or until reduced by half.
+- Add <a href='/misc/dairy#almond-milk'>almond milk</a> to a <a href='https://amzn.to/46ccg8m'>medium pot</a> over high heat. Bring to a boil, and continue boiling for about 5 minutes, whisking frequently, or until reduced by half.
 
-- Mix together cornstarch and water in a small glass. Remove the pot form the heat, and slowly stir in the cornstarch slurry. Return the pot to the heat, and let it boil for 1 minute, until thickened.
+- Mix together cornstarch and water in a small glass. Remove the pot from the heat, and slowly whisk in the cornstarch slurry. Return the pot to the heat, and boil for 1 minute, stirring constantly, until thickened.
 - <img src='/assets/Food/Sweet Spreads/Condensed Milk/pot.jpg' alt='' class='instruction-image'>
 
-- Remove from the heat, and stir in liquid monk fruit, vanilla extract, and salt. Pour into a mason jar, and let it cool uncovered on the counter for 1 hour before covering with a lid and transferring to the fridge.
+- Remove from the heat, and stir in <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and salt. Pour into a <a href='https://amzn.to/4vamaBm'>mason jar</a>, and let it cool uncovered at room temperature for 30 minutes before covering with a lid and transferring to the fridge.
 Notes:
-- This recipe is designed to make 14 oz (396 g) of condensed milk, enough to exactly substitute a standard size 14 oz (396 g) can of sweetened condensed milk.
+- <a href='#recipe'>This recipe</a> is designed to make 14 oz (396 g) of condensed milk, enough to exactly substitute a standard size 14 oz (396 g) can of <a href='https://link.amazon/B0gAsxJJN'>sweetened condensed milk</a>.
 
-- Compared to a standard can of storebought sweetened condensed milk, this homemade healthy version contains significantly fewer calories and fat, with no added sugar.
+- Compared to a standard can of <a href='https://link.amazon/B0gAsxJJN'>storebought sweetened condensed milk</a>, this homemade healthy version contains significantly fewer <a href='/misc/calories'>calories</a> and <a href='/misc/fats'>fat</a>, with no <a href='/misc/hidden-sugar'>added sugar</a>.
 - |
   COMPARE(
     "condensedmilk",
