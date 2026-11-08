@@ -1219,6 +1219,15 @@ def vol_from_mass(food, mass, vol):
         if mass == "25" or mass == "26":
             v = "3 mini"
 
+    # Pumpkin seeds
+    elif food == "Raw whole pumpkin seeds":
+        if mass == "31":
+            v = "1/2 cup"
+        elif mass == "62":
+            v = "1 cup"
+        elif mass == "94":
+            v = "1 1/2 cup"
+
     # Nut butters & sauce
     elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter" or food == "Simple pasta sauce":
         if mass == "5" or mass == "6":

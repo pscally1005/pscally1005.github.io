@@ -1215,6 +1215,15 @@ def grams(food, mass, vol):
         elif vol == "16 tbsp" or vol == "1 cup":
             m = "304"
 
+    # Pumpkin seeds
+    elif food == "Raw whole pumpkin seeds":
+        if vol == "1/2 cup":
+            m = "31"
+        elif vol == "1 cup":
+            m = "62"
+        elif vol == "1 1/2 cup":
+            m = "94"
+
     # Nut butters & sauce
     elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter" or food == "Simple pasta sauce":
         if vol == "1 tsp":
