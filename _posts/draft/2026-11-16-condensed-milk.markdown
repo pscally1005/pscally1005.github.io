@@ -22,7 +22,7 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/condensed-milk
-image: /assets/Food/Sweet Spreads/Condensed Milk/coverNew.jpg
+image: /assets/Food/Sweet Spreads/Condensed Milk/coverFinal.jpg
 file: condensedmilk
 servingSize: 2 tbsp (39 g)
 section1:
@@ -64,10 +64,10 @@ Instructions:
 - <img src='/assets/Food/Sweet Spreads/Condensed Milk/powder.jpg' alt='' class='instruction-image'>
 
 - Remove from the heat, and add in the <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='https://amzn.to/43MkDqr'>vanilla extract</a>. Whisk vigorously to break up the <a href='https://amzn.to/4zMyIm3'>milk powder</a> clumps.
-- <img src='/assets/Food/Sweet Spreads/Condensed Milk/potNew.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Sweet Spreads/Condensed Milk/potFinal.jpg' alt='' class='instruction-image'>
 
 - <a href='https://amzn.to/4q2FwWu'>Strain</a> into a <a href='https://amzn.to/4vamaBm'>mason jar</a> to remove any remaining clumps of <a href='https://amzn.to/4zMyIm3'>milk powder</a>. Let it cool uncovered at room temperature for 30 minutes before covering with a lid and transferring to the fridge.
-- <img src='/assets/Food/Sweet Spreads/Condensed Milk/coverNew.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Sweet Spreads/Condensed Milk/jarFinal.jpg' alt='' class='instruction-image'>
 Notes:
 - <a href='#recipe'>This recipe</a> is designed to make 14 oz (396 g) of condensed milk, enough to exactly substitute a standard size 14 oz (396 g) can of <a href='https://link.amazon/B0gAsxJJN'>sweetened condensed milk</a>.
 
