@@ -1,0 +1,74 @@
+---
+layout: post
+title:  4 Calorie Wraps
+date:   2026-11-08 00:00:00 -0500
+categories:
+- Recipes
+- Bread
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+beans: no
+permalink: /recipes/four-calorie-wraps
+image: /assets/Food/Bread/4 Cal Wrap/cover.jpg
+file: 4calwrap
+servingSize: 1 wrap (TODO g)
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 10
+Rest:
+Cook: 10
+Source1: https://www.powerhungry.com/2024/02/28/oat-fiber-tortillas-13-calories/#wprm-recipe-container-35681
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/ITZ7w
+tags:
+- 4 calories
+- four calories
+- oat fiber
+- psyllium husks
+- wraps
+- tortillas
+- burritos
+- fajitas
+- high fiber psyllium wraps
+- high fiber psyllium tortillas
+- copycat carb balance tortillas
+- copycat carb balance wraps
+Description: These high fiber wraps are virtually calorie free. Each one has a measly 4 calories, with an astounding 21 g of fiber. They're flexible and mild in flavor, making them the perfect vessel for any tacos, crepes, or tortilla pizzas! For other high fiber, low calorie wrap recipes, check out my High Fiber Psyllium Wraps and Copycat Carb Balance Wraps!
+Instructions:
+- Mix together oat fiber, psyllium husk, salt, and water in a large bowl. Let it sit for about 5 minutes for the oat fiber and psyllium husk to absorb the moisture.
+- <img src='/assets/Food/Bread/4 Cal Wrap/bowl.jpg' alt='' class='instruction-image'>
+
+- Divide the dough into 4 equal portions, about <b>82 g</b> each. Roll into a wide and thin circle between 2 sheets of parchment paper, about 8" diameter and 1/16" thick.
+- <img src='/assets/Food/Bread/4 Cal Wrap/rolled.jpg' alt='' class='instruction-image'>
+
+- Place the tortilla in a cold, nonstick pan.  Cook on medium heat for 1-2 minutes on the first side, until small brown spots start to develop. Flip, and cook the other side for an additional minute.
+- <img src='/assets/Food/Bread/4 Cal Wrap/pan.jpg' alt='' class='instruction-image'>
+
+- Transfer to a plate, and repeat with the remaining tortillas.
+- <img src='/assets/Food/Bread/4 Cal Wrap/plate.jpg' alt='' class='instruction-image'>
+Notes:
+- Rinse and dry the pan in between tortillas to cool it down.
+---

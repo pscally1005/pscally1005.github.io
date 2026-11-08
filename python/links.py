@@ -13,6 +13,16 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/four-calorie-wraps": [
+        "four calorie wraps",
+        "four calorie wrap",
+        "4 calorie wraps",
+        "4 calorie wrap",
+        "four calorie tortillas",
+        "four calorie tortilla",
+        "four calorie wraps",
+        "four calorie wrap"
+    ],
     "/recipes/condensed-milk": [
         "homemade condensed milk",
         "sugar-free condensed milk",
@@ -11390,7 +11400,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-16", "2026-11-17")):
+            if not file.startswith(("2026-11-18")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 
