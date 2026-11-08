@@ -466,6 +466,8 @@ def ingredients(food):
         f = "Evaporated milk"
     elif food == "Milk, fat free (skim), evaporated":
         f = "Fat free evaporated milk"
+    elif food == "condensed-milk":
+        f = "Condensed milk, dairy free, sugar free"
     elif food == "Eggs, egg whole, Large, Grade A" or food == "Large egg" or food == "Large Egg":
         f = "Egg"
     elif food == "100% liquid egg whites by KROGER":

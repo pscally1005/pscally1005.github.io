@@ -13,6 +13,21 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/condensed-milk": [
+        "homemade condensed milk",
+        "sugar-free condensed milk",
+        "dairy-free condensed milk",
+        "sugar free condensed milk",
+        "dairy free condensed milk",
+        "dairy-free, sugar-free, sweetened condensed milk",
+        "dairy free, sugar free, sweetened condensed milk"
+    ],
+    "/recipes/pumpkin-truffles": [
+        "pumpkin truffles",
+        "pumpkin truffle",
+        "high fiber pumpkin truffles",
+        "high fiber pumpkin truffle"
+    ],
     "/recipes/spaghetti-squash-pizza": [
         "spaghetti squash pizza",
         "spaghetti squash pizza crust",
@@ -6548,6 +6563,19 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/44QEaHo": [
+        "evaporated milk"
+    ],
+    "https://amzn.to/3Zrz019": [
+        "evaporated milk, fat free",
+        "fat free evaporated milk"
+    ],
+    "https://link.amazon/B0gAsxJJN": [
+        "storebought condensed milk",
+        "storebought sweetened condensed milk",
+        "condensed milk",
+        "sweetened condensed milk"
+    ],
     "https://link.amazon/B0dAdVfzm": [
         "cacao nibs",
         "cacao nib"
@@ -10761,8 +10789,8 @@ EXCLUDED_PHRASES = [
     # "nutrition",
     "nutritious",
     "flours",
-    "evaporated milk",
-    "condensed milk",
+    # "evaporated milk",
+    # "condensed milk",
     # "carrot cake",
     "breaded",
     "fryer",
@@ -11356,7 +11384,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-09", "2026-11-10")):
+            if not file.startswith(("2026-11-16", "2026-11-17")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 

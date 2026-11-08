@@ -74,7 +74,8 @@ def grams(food, mass, vol):
     elif vol == "12 oz" or vol == "3/4 lb":
         m = "340"
     elif vol == "14 oz":
-        m = "400"
+        # m = "400"
+        m = "396"
     elif vol == "14.5 oz" or vol == "14.5oz can" or vol == "14.5 oz can":
         m = "410"
     elif vol == "15 oz":
@@ -582,6 +583,23 @@ def grams(food, mass, vol):
             m = "95"
         elif vol == "8 tbsp" or vol == "1/2 cup":
             m = "108"
+
+    # Condensed milk
+    elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free":
+        if vol == "1 tbsp":
+            m = "19"
+        elif vol == "2 tbsp":
+            m = "39"
+        elif vol == "1/4 cup":
+            m = "78"
+        elif vol == "1/3 cup":
+            m = "104"
+        elif vol == "1/2 cup":
+            m = "156"
+        elif vol == "2/3 cup":
+            m = "208"
+        elif vol == "1 cup":
+            m = "312"
 
     # Liquids
     elif food == "Water" or food == "Apple cider" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Whole milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "Vodka" or food == "Fruit juice, sugar free" or food == "Cream cheese" or food == "Cream cheese, 1/3 less fat" or food == "Liquid whey, sweet" or food == "Liquid whey, acid" or food == "Liquid whey" or food == "Rum" or food == "Simple syrup" or food == "Honey mustard dressing" or food == "Lemonade, storebought" or food == "Hummus" or food == "Classic tahini hummus" or food == "Pesto" or food == "Creamy pesto dip" or food == "Hummus, storebought" or food == "Sweetened almond milk":
