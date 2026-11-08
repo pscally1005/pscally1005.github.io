@@ -86,24 +86,24 @@ Shredded wheat cereal,shredded-wheat-cereal,2.94,464.12,0.00633,7.4,48,FALSE,TRU
 Sourdough starter,sourdough-starter,2.79,"2,240.00",0.00125,8.5,54,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/misc/whole-wheat-sourdough#starter
 Sourdough Discard Flatbread,sourdough-flatbread,0.18,96.00,0.00188,8.2,54,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/sourdough-flatbread
 Phyllo dough,phyllo,2.99,454.00,0.00659,3.8,60,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,https://amzn.to/4uKqFT3
-Oat fiber,oat-fiber,30.95,"2,270.00",0.01363,9.4,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,https://link.amazon/B04N3ngTi
-Oat flour,oat-flour,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,/misc/homemade-flours
-"Oat flour, or almond flour",oat-flour,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,/misc/homemade-flours
-Rolled oats,oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
-Quick oats,oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
-"Rolled oats, or quick",oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
-"Quick oats, or rolled",oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
-"Quick oats, or oat flour",oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
-Graham cracker,graham-crackers,2.22,407.52,0.00545,3.0,74,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,23.0,0.0,0.0,0.0,75,50,
-Gluten free graham crackers,gf-graham-cracker,1.42,300.00,0.00473,8.4,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.2,0.0,0.0,0,50,/recipes/gf-crackers
-Healthier Graham Cracker Pie Crust,pie-crust,1.53,255.00,0.00600,8.4,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,50,/recipes/pie-crust
-"Healthier Graham Cracker Pie Crust, chocolate",pie-crust-choc,1.53,255.00,0.00600,8.4,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,50,/recipes/pie-crust
+Oat fiber,oat-fiber,30.95,"2,270.00",0.01363,9.4,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,https://link.amazon/B04N3ngTi
+Oat flour,oat-flour,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/misc/homemade-flours
+"Oat flour, or almond flour",oat-flour,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/misc/homemade-flours
+Rolled oats,oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Quick oats,oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Rolled oats, or quick",oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Quick oats, or rolled",oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Quick oats, or oat flour",oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Graham cracker,graham-crackers,2.22,407.52,0.00545,3.0,74,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,23.0,0.0,0.0,0.0,75,40,
+Gluten free graham crackers,gf-graham-cracker,1.42,300.00,0.00473,8.4,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.2,0.0,0.0,0,40,/recipes/gf-crackers
+Healthier Graham Cracker Pie Crust,pie-crust,1.53,255.00,0.00600,8.4,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,40,/recipes/pie-crust
+"Healthier Graham Cracker Pie Crust, chocolate",pie-crust-choc,1.53,255.00,0.00600,8.4,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,40,/recipes/pie-crust
 Cornstarch,cornstarch,1.82,448.00,0.00406,3.5,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,
 Corn on the cob,corn,0.50,102.00,0.00490,8.4,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Frozen corn,corn,2.48,"1,811.20",0.00137,8.4,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Cornmeal,cornmeal,1.56,905.60,0.00172,6.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,
 Popcorn kernels,popcorn,2.00,908.00,0.00220,9.4,65,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/43zN9KE
-Gluten Free Oat Wraps,oatwraps,0.55,225.00,0.00244,9.1,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,/recipes/oat-wraps
+Gluten Free Oat Wraps,oatwraps,0.55,225.00,0.00244,9.1,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/oat-wraps
 Farro,farro,3.50,396.20,0.00883,9.3,63,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
 Rye flour,rye,9.66,"1,362.00",0.00709,9.3,70,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,15,
 Spelt flour,spelt,57.99,"11,350.00",0.00511,9.4,55,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
@@ -303,7 +303,7 @@ Skim milk,skim-milk,2.69,"3,904.00",0.00069,8.0,32,TRUE,TRUE,FALSE,FALSE,TRUE,TR
 Fairlife skim milk,fairlife-skim,4.29,"1,464.00",0.00293,8.5,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4wEmIBw
 Evaporated milk,evaporated-milk,1.22,339.60,0.00359,5.2,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/44QEaHo
 Fat free evaporated milk,evaporated-milk-skim,1.22,339.60,0.00359,5.5,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/3Zrz019
-Sugar free sweetened condensed milk,condensed-milk-homemade,2.49,396.20,0.00628,8.8,47,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/recipes/condensed-milk
+Sugar free sweetened condensed milk,condensed-milk-homemade,2.49,396.20,0.00628,8.8,47,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/recipes/condensed-milk
 Sweetened condensed milk,condensed-milk-store,1.97,396.20,0.00497,3.1,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,46.7,0.0,0.0,17.8,0,0,https://link.amazon/B0gAsxJJN
 "Coconut milk, full fat",coconut-milk,1.50,405.00,0.00370,5.2,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4kZIRo6
 "Coconut milk, lite",coconut-milk-lite,1.50,405.00,0.00370,5.5,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4skN5Jz

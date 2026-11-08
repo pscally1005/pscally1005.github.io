@@ -58,7 +58,7 @@ tags:
 - copycat carb balance wraps
 - gluten free
 - gluten-free
-Description: These <a href='/misc/fiber'>high fiber</a> wraps are virtually <a href='/misc/calories'>calorie</a> free. Each one has a measly 4 <a href='/misc/calories'>calories</a>, with an astounding 21 g of <a href='/misc/fiber'>fiber</a>. They're flexible and mild in flavor, making them the perfect vessel for any tacos, crepes, or tortilla pizzas! For other <a href='/misc/fiber'>high fiber</a>, <a href='/misc/calories'>low calorie</a> wrap recipes, check out my <a href='/recipes/psyllium-wrap'>High Fiber Psyllium Wraps</a> and <a href='/recipes/copycat-carb-balance'>Copycat Carb Balance Wraps</a>!
+Description: These <a href='/misc/fiber'>high fiber</a>, <a href='/misc/celiac'>gluten free</a> wraps are virtually <a href='/misc/calories'>calorie</a> free. Each one has a measly 4 <a href='/misc/calories'>calories</a>, with an astounding 21 g of <a href='/misc/fiber'>fiber</a>. They're flexible and mild in flavor, making them the perfect vessel for any tacos, crepes, or tortilla pizzas! For other <a href='/misc/fiber'>high fiber</a>, <a href='/misc/calories'>low calorie</a> wrap recipes, check out my <a href='/recipes/psyllium-wrap'>High Fiber Psyllium Wraps</a> and <a href='/recipes/copycat-carb-balance'>Copycat Carb Balance Wraps</a>!
 Instructions:
 - Preheat your oven to 300F.
 
