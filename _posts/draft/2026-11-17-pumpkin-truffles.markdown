@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  High Fiber Pumpkin Truffles
-date:   2026-11-07 00:00:00 -0500
+date:   2026-11-08 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
@@ -61,7 +61,7 @@ tags:
 - almond flour
 - ground flaxseed
 - ground flax seed
-Description: These <a href='/misc/fiber'>high fiber</a>, <a href='/misc/hidden-sugar'>sugar free</a> pumpkin truffles feature my newly homemade <a href='/recipes/condensed-milk'>Dairy Free, Sugar Free, Sweetened Condensed Milk</a>. Mix that with some <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, pumpkin spices, and <a href='/misc/fiber'>high fiber</a> flours, and you'll have yourself a quick and easy, <a href='/misc/fiber'>high fiber</a> snack!
+Description: These <a href='/misc/fiber'>high fiber</a>, <a href='/misc/hidden-sugar'>sugar free</a> pumpkin truffles feature my newly homemade <a href='/recipes/condensed-milk'>Sugar Free Sweetened Condensed Milk</a>. Mix that with some <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, pumpkin spices, and <a href='/misc/fiber'>high fiber</a> flours, and you'll have yourself a quick and easy, <a href='/misc/fiber'>high fiber</a> snack!
 Instructions:
 - Add all ingredients to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to form a dough.
 - <img src='/assets/Food/Finger Food/Pumpkin Truffle/bowl.jpg' alt='' class='instruction-image'>

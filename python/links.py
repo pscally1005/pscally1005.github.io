@@ -16,11 +16,7 @@ LINKS = {
     "/recipes/condensed-milk": [
         "homemade condensed milk",
         "sugar-free condensed milk",
-        "dairy-free condensed milk",
         "sugar free condensed milk",
-        "dairy free condensed milk",
-        "dairy-free, sugar-free, sweetened condensed milk",
-        "dairy free, sugar free, sweetened condensed milk",
         "homemade sweetened condensed milk"
     ],
     "/recipes/pumpkin-truffles": [
@@ -7835,7 +7831,8 @@ LINKS = {
     "https://amzn.to/4q2FwWu": [
         "fine mesh strainer",
         "mesh strainer",
-        "sift"
+        "sift",
+        "strain"
     ],
     "https://amzn.to/49ZXQcQ": [
         "spider"

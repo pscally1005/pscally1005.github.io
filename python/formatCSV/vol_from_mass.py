@@ -596,7 +596,7 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 cup"
 
     # Condensed milk
-    elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free":
+    elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free" or food == "Sugar free sweetened condensed milk":
         if mass == "19" or mass == "19.5" or mass == "20":
             v = "1 tbsp"
         elif mass == "39":
@@ -734,6 +734,10 @@ def vol_from_mass(food, mass, vol):
             v = "15 tbsp"
         elif mass == "92":
             v = "1 cup"
+        elif mass == "138":
+            v = "1 1/2 cup"
+        elif mass == "184":
+            v = "2 cup"
 
     # Marmite & vegemite
     elif food == "Marmite" or food == "Vegemite" or food == "Yeast extract spread":

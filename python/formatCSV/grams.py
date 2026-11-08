@@ -422,6 +422,10 @@ def grams(food, mass, vol):
           m = "86.25"
       elif vol == "16 tbsp" or vol == "1 cup":
           m = "92"
+      elif vol == "1 1/2 cup" or vol == "1.5 cup":
+          m = "138"
+      elif vol == "2 cup":
+          m = "184"
 
     # Marmite & vegemite
     elif food == "Marmite" or food == "Vegemite" or food == "Yeast extract spread":
@@ -585,7 +589,7 @@ def grams(food, mass, vol):
             m = "108"
 
     # Condensed milk
-    elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free":
+    elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free" or food == "Sugar free sweetened condensed milk":
         if vol == "1 tbsp":
             m = "19"
         elif vol == "2 tbsp":
