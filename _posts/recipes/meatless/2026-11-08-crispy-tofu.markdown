@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Air Fryer Crispy Tofu
-date:   2026-11-06 00:00:00 -0500
+date:   2026-11-08 00:00:00 -0500
 categories:
 - Recipes
 - Meatless
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
