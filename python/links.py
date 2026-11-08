@@ -6976,7 +6976,11 @@ LINKS = {
         "milk powder, skim",
         "milk powder, nonfat",
         "milk powder, non fat",
-        "milk powder"
+        "milk powder",
+        "nonfat milk powder",
+        "non fat milk powder",
+        "skim milk powder",
+        "fat free milk powder"
     ],
     "https://amzn.to/4wzvob5": [
         "small ramekins",
@@ -9070,6 +9074,7 @@ EXCLUDED_PHRASES = [
     "ridges on the side",
     "shape the cookie",
     "look like a pumpkin",
+    "look like pumpkins",
     "14 oz (396 g) of condensed milk",
     '8" diameter',
     "chicken mixture",
