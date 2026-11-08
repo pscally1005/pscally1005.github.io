@@ -56,18 +56,18 @@ tags:
 - high fiber psyllium tortillas
 - copycat carb balance tortillas
 - copycat carb balance wraps
-Description: These high fiber wraps are virtually calorie free. Each one has a measly 4 calories, with an astounding 21 g of fiber. They're flexible and mild in flavor, making them the perfect vessel for any tacos, crepes, or tortilla pizzas! For other high fiber, low calorie wrap recipes, check out my High Fiber Psyllium Wraps and Copycat Carb Balance Wraps!
+Description: These <a href='/misc/fiber'>high fiber</a> wraps are virtually <a href='/misc/calories'>calorie</a> free. Each one has a measly 4 <a href='/misc/calories'>calories</a>, with an astounding 21 g of <a href='/misc/fiber'>fiber</a>. They're flexible and mild in flavor, making them the perfect vessel for any tacos, crepes, or tortilla pizzas! For other <a href='/misc/fiber'>high fiber</a>, <a href='/misc/calories'>low calorie</a> wrap recipes, check out my <a href='/recipes/psyllium-wrap'>High Fiber Psyllium Wraps</a> and <a href='/recipes/copycat-carb-balance'>Copycat Carb Balance Wraps</a>!
 Instructions:
-- Mix together oat fiber, psyllium husk, salt, and water in a large bowl. Let it sit for about 5 minutes for the oat fiber and psyllium husk to absorb the moisture.
+- Mix together <a href='https://link.amazon/B04N3ngTi'>oat fiber</a>, <a href='/misc/psyllium-husk'>psyllium husk</a>, salt, and water in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Let it sit for about 5 minutes for the <a href='https://link.amazon/B04N3ngTi'>oat fiber</a> and <a href='/misc/psyllium-husk'>psyllium husk</a> to absorb the moisture.
 - <img src='/assets/Food/Bread/4 Cal Wrap/bowl.jpg' alt='' class='instruction-image'>
 
 - Divide the dough into 4 equal portions, about <b>82 g</b> each. Roll into a wide and thin circle between 2 sheets of parchment paper, about 8" diameter and 1/16" thick.
 - <img src='/assets/Food/Bread/4 Cal Wrap/rolled.jpg' alt='' class='instruction-image'>
 
-- Place the tortilla in a cold, nonstick pan.  Cook on medium heat for 1-2 minutes on the first side, until small brown spots start to develop. Flip, and cook the other side for an additional minute.
+- Place the tortilla in a cold, <a href='https://amzn.to/4dBv5Ga'>nonstick</a> pan.  Cook on medium heat for 1-2 minutes on the first side, until small brown spots start to develop. Flip, and cook the other side for an additional minute.
 - <img src='/assets/Food/Bread/4 Cal Wrap/pan.jpg' alt='' class='instruction-image'>
 
-- Transfer to a plate, and repeat with the remaining tortillas.
+- Transfer to a plate, and cover with a clean towel. Repeat with the remaining tortillas.
 - <img src='/assets/Food/Bread/4 Cal Wrap/plate.jpg' alt='' class='instruction-image'>
 Notes:
 - Rinse and dry the pan in between tortillas to cool it down.
