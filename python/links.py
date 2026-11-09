@@ -13,6 +13,20 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/ramekin-brownies": [
+        "ramekin brownies",
+        "ramekin brownie",
+        "air fryer ramekin brownies",
+        "air fryer ramekin brownie",
+        "air fryer ramekin brownies (high protein, high fiber)",
+        "air fryer ramekin brownie (high protein, high fiber)",
+        "air fryer ramekin brownies (high-protein, high-fiber)",
+        "air fryer ramekin brownie (high-protein, high-fiber)",
+        "air fryer ramekin brownies (high protein, high fiber)",
+        "air fryer ramekin brownie (high fiber, high protein)",
+        "air fryer ramekin brownies (high-fiber, high-protein)",
+        "air fryer ramekin brownie (high-fiber, high-protein)"
+    ],
     "/recipes/four-calorie-wraps": [
         "four calorie wraps",
         "four calorie wrap",
@@ -11401,7 +11415,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-18")):
+            if not file.startswith(("2026-11-19")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 

@@ -703,7 +703,9 @@ def grams(food, mass, vol):
 
     # Espresso powder
     elif food == "Instant espresso powder, decaf":
-        if vol == "1/4 tsp":
+        if vol == "1/8 tsp":
+            m = "0.15"
+        elif vol == "1/4 tsp":
             m = "0.3"
         elif vol == "1/2 tsp":
             m = "0.6"

@@ -262,7 +262,9 @@ def vol_from_mass(food, mass, vol):
 
     # Espresso powder
     elif food == "Instant espresso powder, decaf":
-        if mass == "0.3":
+        if mass == "0.15":
+            v = "1/8 tsp"
+        elif mass == "0.3":
             v = "1/4 tsp"
         elif mass == "0.6":
             v = "1/2 tsp"
