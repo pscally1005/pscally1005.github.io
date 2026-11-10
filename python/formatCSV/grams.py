@@ -2402,6 +2402,66 @@ def grams(food, mass, vol):
         elif vol == "5 tbsp":
             m = "120"
 
+    # Rice crispy treats
+    elif food == "Rice crispy treats":
+        if vol == "1 bar" or vol == "1 serving":
+            m = "22"
+
+    # Gelatin
+    elif food == "Gelatin":
+        if vol == "1 tbsp":
+            m = "10"
+        elif vol == "2 tbsp":
+            m = "20"
+        elif vol == "3 tbsp":
+            m = "30"
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            m = "40"
+
+    # Fluff
+    elif food == "Marshmallow fluff" or food == "Marshmallow fluff, homemade" or food == "Marshmallow fluff, storebought" or food == "Fluff":
+        if vol == "1 tbsp":
+            m = "6"
+        elif vol == "2 tbsp":
+            m = "12"
+        elif vol == "3 tbsp":
+            m = "18"
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            m = "24"
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            m = "48"
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            m = "72"
+        elif vol == "16 tbsp" or vol == "1 cup":
+            m = "96"
+        elif vol == "2 cup" or vol == "32 tbsp":
+            m = "192"
+        elif vol == "3 cup" or vol == "48 tbsp":
+            m = "288"
+        elif vol == "4 cup" or vol == "64 tbsp":
+            m = "384"
+        elif vol == "5 cup" or vol == "80 tbsp":
+            m = "480"
+
+    # Puffed rice
+    elif food == "Puffed rice cereal":
+        if vol == "1/2 cup":
+            m = "8"
+        elif vol == "1 cup":
+            m = "16"
+        elif vol == "1 1/2 cup":
+            m = "24"
+        elif vol == "2 cup":
+            m = "32"
+        elif vol == "3 cup":
+            m = "48"
+        elif vol == "4 cup":
+            m = "64"
+        elif vol == "5 cup":
+            m = "80"
+        elif vol == "6 cup":
+            m = "96"
+
     return m
 
 def main(path = ""):

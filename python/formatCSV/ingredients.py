@@ -9,7 +9,7 @@ def ingredients(food):
     f = food
 
     # Misc
-    if food == "Water, generic, bottled" or food == "Beverages, well, tap, water":
+    if food == "Water, generic, bottled" or food == "Beverages, well, tap, water" or food == "Water, tap":
         f = "Water"
     elif food == "Nutricost Electrolyte Mix":
         f = "Electrolyte mix"
@@ -196,6 +196,8 @@ def ingredients(food):
         f = "Chicken parmesan"
 
     # Baking
+    elif food == "fluff-maple" or food == "fluff-honey" or food == "fluff-sfs" or food == "fluff":
+        f = "Marshmallow fluff"
     elif food == "choc-fib-prot-spread":
         f = "Chocolate fiber protein spread"
     elif food == "pumpkin-protein-pop":

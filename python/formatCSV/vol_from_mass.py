@@ -2121,6 +2121,66 @@ def vol_from_mass(food, mass, vol):
         elif mass == "120":
             v = "5 tbsp"
 
+    # Rice crispy treats
+    elif food == "Rice crispy treats":
+        if mass == "22":
+            v = "1 bar"
+
+    # Gelatin
+    elif food == "Gelatin":
+        if mass == "10":
+            v = "1 tbsp"
+        elif mass == "20":
+            v = "2 tbsp"
+        elif mass == "30":
+            v = "3 tbsp"
+        elif mass == "40":
+          v = "1/4 cup"
+
+    # Fluff
+    elif food == "Marshmallow fluff" or food == "Marshmallow fluff, homemade" or food == "Marshmallow fluff, storebought" or food == "Fluff":
+        if mass == "6":
+            v = "1 tbsp"
+        elif mass == "12":
+            v = "2 tbsp"
+        elif mass == "18":
+            v = "3 tbsp"
+        elif mass == "24":
+            v = "4 tbsp"
+        elif mass == "48":
+            v = "1/4 cup"
+        elif mass == "72":
+            v = "3/4 cup"
+        elif mass == "96":
+            v = "1 cup"
+        elif mass == "192":
+            v = "2 cup"
+        elif mass == "288":
+            v = "3 cup"
+        elif mass == "384":
+            v = "4 cup"
+        elif mass == "480":
+            v = "5 cup"
+
+    # Puffed rice
+    elif food == "Puffed rice cereal":
+        if mass == "8":
+            v = "1/2 cup"
+        elif mass == "16":
+            v = "1 cup"
+        elif mass == "24":
+            v = "1 1/2 cup"
+        elif mass == "32":
+            v = "2 cup"
+        elif mass == "48":
+            v = "3 cup"
+        elif mass == "64":
+            v = "4 cup"
+        elif mass == "80":
+            v = "5 cup"
+        elif mass == "96":
+            v = "6 cup"
+
     return v
 
 def main(path = ""):

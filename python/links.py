@@ -13,6 +13,34 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/marshmallow-fluff": [
+        "marshmallow fluff",
+        "fluff",
+        "marshmallows",
+        "marshmallow",
+        "homemade marshmallow fluff",
+        "homemade fluff",
+        "homemade marshmallows",
+        "healthy marshmallow",
+        "healthy marshmallow fluff",
+        "healthy fluff",
+        "healthy marshmallows",
+        "healthy marshmallow",
+        "healthier marshmallow fluff",
+        "healthier fluff",
+        "healthier marshmallows",
+        "healthier marshmallow"
+    ],
+    "/recipes/rice-crispy-treats": [
+        "rice crispy treats",
+        "rice crispy treat",
+        "homemade rice crispy treats",
+        "homemade rice crispy treat",
+        "healthy rice crispy treats",
+        "healthy rice crispy treat",
+        "healthier rice crispy treats",
+        "healthier rice crispy treat"
+    ],
     "/recipes/ramekin-brownies": [
         "ramekin brownies",
         "ramekin brownie",
@@ -6584,6 +6612,33 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://link.amazon/B005odqun": [
+        "candy thermometer"
+    ],
+    "https://link.amazon/B08lfLI2Y": [
+        "rice crispies",
+        "rice crispy",
+        "puffed rice",
+        "puffed rice cereal",
+        "rice cereal"
+    ],
+    "https://link.amazon/B0guGB2NI": [
+        "gelatin powder",
+        "unflavored gelatin",
+        "gelatin"
+    ],
+    "https://link.amazon/B0fZuOtnn": [
+        # "rice crispy treats",
+        # "rice crispy treat",
+        "storebought rice crispy treats",
+        "storebought rice crispy treat"
+    ],
+    "https://link.amazon/B01x3kci4": [
+        # "marshmallow fluff",
+        # "fluff",
+        "storebought fluff",
+        "storebought marshmallow fluff",
+    ],
     "https://amzn.to/44QEaHo": [
         "evaporated milk"
     ],
@@ -7754,7 +7809,9 @@ LINKS = {
     ],
     "https://amzn.to/4rb3CiD": [
         "metal bowls",
-        "metal bowl"
+        "metal bowl",
+        "large metal bowls",
+        "large metal bowl"
     ],
     "https://amzn.to/45yqsbM": [
         "electric hand mixer",
@@ -11416,7 +11473,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-19")):
+            if not file.startswith(("2026-11-20", "2026-11-21")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 
