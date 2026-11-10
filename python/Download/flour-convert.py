@@ -21,36 +21,38 @@ def options(num):
     elif(num == 8):
         return ("Quick Oats")
     elif(num == 9):
-        return ("Cornstarch")
+        return ("Oat Fiber")
     elif(num == 10):
-        return ("Cocoa Powder")
+        return ("Cornstarch")
     elif(num == 11):
-        return ("Whey Protein Powder")
+        return ("Cocoa Powder")
     elif(num == 12):
-        return ("Casein Protein Powder")
+        return ("Whey Protein Powder")
     elif(num == 13):
-        return ("Pea Protein Powder")
+        return ("Casein Protein Powder")
     elif(num == 14):
-        return ("Coconut Flour")
+        return ("Pea Protein Powder")
     elif(num == 15):
-        return ("Chia Seeds")
+        return ("Coconut Flour")
     elif(num == 16):
-        return ("Peanut Flour")
+        return ("Chia Seeds")
     elif(num == 17):
-        return ("Flaxmeal")
+        return ("Peanut Flour")
     elif(num == 18):
-        return ("Almond Flour")
+        return ("Flaxmeal")
     elif(num == 19):
-        return ("Almond Meal")
+        return ("Almond Flour")
     elif(num == 20):
-        return ("Millet Flour")
+        return ("Almond Meal")
     elif(num == 21):
-        return ("Hemp Seeds")
+        return ("Millet Flour")
     elif(num == 22):
-        return ("Psyllium Husk")
+        return ("Hemp Seeds")
     elif(num == 23):
-        return ("Ground Coffee")
+        return ("Psyllium Husk")
     elif(num == 24):
+        return ("Ground Coffee")
+    elif(num == 25):
         return ("Granulated Sugar")
     else:
         print("1:  All Purpose Flour (Not Heat Treated)")
@@ -61,22 +63,23 @@ def options(num):
         print("6:  Vital Wheat Gluten (Heat Treated)")
         print("7:  Oat Flour")
         print("8:  Quick Oats")
-        print("9:  Cornstarch")
-        print("10: Cocoa Powder")
-        print("11: Whey Protein Powder")
-        print("12: Casein Protein Powder")
-        print("13: Pea Protein Powder")
-        print("14: Coconut Flour")
-        print("15: Chia Seeds")
-        print("16: Peanut Flour")
-        print("17: Flaxmeal")
-        print("18: Almond Flour")
-        print("19: Almond Meal")
-        print("20: Millet Flour")
-        print("21: Hemp Seeds")
-        print("22: Psyllium Husk")
-        print("23: Ground Coffee")
-        print("24: Granulated Sugar")
+        print("9:  Oat Fiber")
+        print("10: Cornstarch")
+        print("11: Cocoa Powder")
+        print("12: Whey Protein Powder")
+        print("13: Casein Protein Powder")
+        print("14: Pea Protein Powder")
+        print("15: Coconut Flour")
+        print("16: Chia Seeds")
+        print("17: Peanut Flour")
+        print("18: Flaxmeal")
+        print("19: Almond Flour")
+        print("20: Almond Meal")
+        print("21: Millet Flour")
+        print("22: Hemp Seeds")
+        print("23: Psyllium Husk")
+        print("24: Ground Coffee")
+        print("25: Granulated Sugar")
 
 # user input for entering FROM flour, FROM amount, and TO flour
 # returns all 3 entered values
@@ -86,7 +89,7 @@ def select():
     while(True):
         try:
             f = int(input("\nEnter a number to select your FROM flour: "))
-            if(f < 1 or f > 23):
+            if(f < 1 or f > 25):
                 f = int("abc")
             print("You selected: ", end="")
             print(options(f))
@@ -115,7 +118,7 @@ def select():
     while(True):
         try:
             t = int(input("\nEnter a number to select your TO flour: "))
-            if(t < 1 or t > 23):
+            if(t < 1 or t > 25):
                 t = int("abc")
             print("You selected: ", end="")
             print(options(t))
@@ -138,6 +141,7 @@ def calc(f, g, t):
     vwg_heat = 29
     oatFlour = 41
     quickOat = 45
+    oatFiber = 19
     cornstarch = 35
     cocoa = 23
     whey = 64
@@ -155,15 +159,16 @@ def calc(f, g, t):
     coffee = 60
     sugar = 180
 
-    arr = [0] * 24
-    arr[1] = ap_noHeat
-    arr[2] = ap_heat
-    arr[3] = ww_noHeat
-    arr[4] = ww_heat
-    arr[5] = vwg_noHeat
-    arr[6] = vwg_heat
-    arr[7] = oatFlour
-    arr[8] = quickOat
+    arr = [0] * 25
+    arr[0] = ap_noHeat
+    arr[1] = ap_heat
+    arr[2] = ww_noHeat
+    arr[3] = ww_heat
+    arr[4] = vwg_noHeat
+    arr[5] = vwg_heat
+    arr[6] = oatFlour
+    arr[7] = quickOat
+    arr[8] = oatFiber
     arr[9] = cornstarch
     arr[10] = cocoa
     arr[11] = whey
@@ -181,7 +186,7 @@ def calc(f, g, t):
     arr[23] = coffee
     arr[24] = sugar
 
-    num = round(float(float(g / arr[f]) * arr[t]),1)
+    num = round((g / arr[f-1]) * arr[t-1], 1)
     print("For " + str(g) + " g of " + options(f).upper() + ", you will need APPROXIMATELY " + str(num) + " g of " + options(t).upper())
     return num
 
