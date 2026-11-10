@@ -334,10 +334,10 @@ Blackstrap molasses,blackstrap,6.79,452.80,0.01500,4.2,55,TRUE,TRUE,TRUE,TRUE,TR
 Molasses,molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,74.8,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
 "Molasses, or honey",molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,74.8,0.0,0.0,0.0,0,40,https://amzn.to/4xnOctZ
 Marshmallow,marshmallow,1.17,283.00,0.00413,1.0,63,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,61.9,0.0,0.0,0.0,0,40,
-Marshmallow fluff,fluff-homemade,6.79,480.00,0.01415,3.1,54,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,40.3,0.0,0.0,0.0,0,40,/recipes/marshmallow-fluff
+Marshmallow fluff,fluff-homemade,6.79,480.00,0.01415,3.1,54,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,40.3,0.0,0.0,0.0,0,40,/recipes/marshmallow-fluff
 "Marshmallow fluff, storebought",fluff-store,2.88,454.00,0.00634,1.0,63,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,61.9,0.0,0.0,0.0,0,40,https://link.amazon/B01x3kci4
 Rice crispy treats,rice-crispy,4.96,350.92,0.01413,1.0,55,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,36.4,0.0,0.0,0.0,0,40,https://link.amazon/B0fZuOtnn
-Gelatin,gelatin,24.99,905.60,0.02759,0.0,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.2,0,0,https://link.amazon/B0guGB2NI
+Gelatin,gelatin,24.99,905.60,0.02759,0.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.2,0,0,https://link.amazon/B0guGB2NI
 Vanilla instant pudding mix,pudding-mix,0.98,96.22,0.01018,2.0,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,80.3,0.0,0.0,4.2,0,40,https://amzn.to/4jjD7mH
 "Pistachio pudding mix, sugar free",pudding-mix-sf,1.50,28.30,0.05300,3.0,40,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,0.0,0.0,0.0,4.2,0,40,https://amzn.to/47oj3Mp
 Duncan Hines Keto Brownie Mix,duncan-hines-keto,5.92,280.00,0.02114,3.0,51,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,20.8,0.0,0.0,0,15,https://amzn.to/43uSbYP

@@ -22,7 +22,7 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/marshmallow-fluff
-image: /assets/Food/Sweet Spreads/Fluff/cover.jpg
+image: /assets/Food/Sweet Spreads/Fluff/bowl.jpg
 file: fluffmaple
 servingSize: 2 tbsp (12 g)
 section1: Step 1
@@ -50,6 +50,10 @@ tags:
 - homemade rice crispy treats
 - healthier rice crispy treats
 - healthy rice crispy treats
+- rice krispy treats
+- homemade rice krispy treats
+- healthier rice krispy treats
+- healthy rice krispy treats
 - smores
 - s'mores
 - fluffer nutter
@@ -65,20 +69,23 @@ Instructions:
 - Add <a href='https://link.amazon/B0guGB2NI'>gelatin</a> and cold water to a <a href='https://amzn.to/4rb3CiD'>large metal bowl</a>. Whisk together, and set it aside to bloom.
 - <img src='/assets/Food/Sweet Spreads/Fluff/gelatin.jpg' alt='' class='instruction-image'>
 
-- Bring <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> and water to 240F using a <a href='https://link.amazon/B005odqun'>candy thermometer</a> over high heat.
+- Bring <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> and water to a boil over high heat. Once boiling, continue to boil for 2 minutes.
 - <img src='/assets/Food/Sweet Spreads/Fluff/boil.jpg' alt='' class='instruction-image'>
 
 - Slowly pour the hot syrup into the <a href='https://link.amazon/B0guGB2NI'>gelatin</a> while mixing on low speed with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>.
 
-- Increase to high speed, and mix for at least 10 minutes, or until it becomes fluffy, white, cooled, and airy, like marshmallow fluff.
+- Increase to high speed, and mix for at least 10 minutes, or until it becomes fluffy, white, and airy, like marshmallow fluff. Be patient, it will come together!
 - <img src='/assets/Food/Sweet Spreads/Fluff/bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer to a <a href='https://amzn.to/4vedGsO'>large mason jar</a>. Chill for at least 2 hours before using. Store in the fridge.
-- <img src='/assets/Food/Sweet Spreads/Fluff/jar.jpg' alt='' class='instruction-image'>
+- Transfer to a <a href='https://amzn.to/4hcIXsT'>large container</a>.
+- <img src='/assets/Food/Sweet Spreads/Fluff/container.jpg' alt='' class='instruction-image'>
+
+- Chill for at least 2 hours before using. Store in the fridge.
+- <img src='/assets/Food/Sweet Spreads/Fluff/cover5.jpg' alt='' class='instruction-image'>
 Notes:
 - <a href='#recipe'>This recipe</a> makes approximately 5 cups (480 g) of marshmallow fluff.
 
-- <a href='#recipe'>This homemade marshmallow fluff</a> should also work with <a href='/misc/natural-sweeteners#honey'>honey</a> (1 cup, 336 g) or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (1 cup, 320 g) instead of <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, although I have not yet tried them.
+- <a href='#recipe'>This homemade marshmallow fluff</a> will also work with <a href='/misc/natural-sweeteners#honey'>honey</a> (1 cup, 336 g) or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (1 cup, 320 g) instead of <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>.
 
 - Below is a nutritional comparison of <a href='#recipe'>this recipe</a> made with <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, as well as <a href='https://link.amazon/B01x3kci4'>storebought fluff</a> per <b>2 tbsp (12 g)</b>.
 - |
@@ -97,4 +104,5 @@ Notes:
     "Net Carbs",
     "Added Sugar"
   )
+- <img src='/assets/Food/Sweet Spreads/Fluff/cover2.jpg' alt='' class='instruction-image'>
 ---

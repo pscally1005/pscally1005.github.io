@@ -39,7 +39,23 @@ LINKS = {
         "healthy rice crispy treats",
         "healthy rice crispy treat",
         "healthier rice crispy treats",
-        "healthier rice crispy treat"
+        "healthier rice crispy treat",
+        "rice krispy treats",
+        "rice krispy treat",
+        "homemade rice krispy treats",
+        "homemade rice krispy treat",
+        "healthy rice krispy treats",
+        "healthy rice krispy treat",
+        "healthier rice krispy treats",
+        "healthier rice krispy treat",
+        "rice krispies treats",
+        "rice krispies treat",
+        "homemade rice krispies treats",
+        "homemade rice krispies treat",
+        "healthy rice krispies treats",
+        "healthy rice krispies treat",
+        "healthier rice krispies treats",
+        "healthier rice krispies treat",
     ],
     "/recipes/ramekin-brownies": [
         "ramekin brownies",
@@ -6615,9 +6631,11 @@ LINKS = {
     "https://link.amazon/B005odqun": [
         "candy thermometer"
     ],
-    "https://link.amazon/B08lfLI2Y": [
+    "https://link.amazon/B0hc1TDhB": [
         "rice crispies",
         "rice crispy",
+        "rice krispy",
+        "rice krispies",
         "puffed rice",
         "puffed rice cereal",
         "rice cereal"
@@ -6630,8 +6648,20 @@ LINKS = {
     "https://link.amazon/B0fZuOtnn": [
         # "rice crispy treats",
         # "rice crispy treat",
+        # "rice krispy treats",
+        # "rice krispy treat",
+        # "rice crispies treats",
+        # "rice crispies treat",
+        # "rice krispies treats",
+        # "rice krispies treat",
         "storebought rice crispy treats",
-        "storebought rice crispy treat"
+        "storebought rice crispy treat",
+        "storebought rice krispy treats",
+        "storebought rice krispy treat",
+        "storebought rice crispies treats",
+        "storebought rice crispies treat",
+        "storebought rice krispies treats",
+        "storebought rice krispies treat"
     ],
     "https://link.amazon/B01x3kci4": [
         # "marshmallow fluff",
@@ -7447,7 +7477,9 @@ LINKS = {
         "large glass meal prep container",
         "large glass meal prep containers",
         "large meal prep containers",
-        "large meal prep container"
+        "large meal prep container",
+        "large containers",
+        "large container"
     ],
     "https://amzn.to/3O5nlSH": [
         "pizza wheel",
@@ -7742,6 +7774,7 @@ LINKS = {
         "205F",
         "210F",
         "215F",
+        "220F",
         "inside temperature",
         "registered a temperature"
     ],
@@ -10664,7 +10697,7 @@ EXCLUDED_PHRASES = [
     "dessert topping",
     "mac & cheese",
     "mac and cheese",
-    "rice crispies",
+    # "rice crispies",
     "frozen breakfasts",
     "frozen breakfast",
     "egg sandwiches",
