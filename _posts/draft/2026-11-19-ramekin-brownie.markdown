@@ -74,22 +74,25 @@ tags:
 - monk fruit
 - cocoa powder
 - chocolate
-Description: This high protein, high fiber air fryer brownie recipe makes 2 generous portions. It's gluten free and sugar free, and a good source of healthy fats from the almond flour. But most importantly, it's a great source of both fiber and protein from the oat fiber and protein powder, rounding out this satiating and satisfying healthy snack!
+Description: |
+  This <a href='/misc/high-protein'>high protein</a>, <a href='/misc/fiber'>high fiber</a> <a href='https://amzn.to/3FuWETp'>air fryer</a> <a href='/brownies'>brownie recipe</a> makes 2 generous portions. It's <a href='/misc/celiac'>gluten free</a> and <a href='/misc/hidden-sugar'>sugar free</a>, and a good source of <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#almonds'>almond flour</a>.<br><br>
+
+  But most importantly, it's a great source of both <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>, thanks to the <a href='https://link.amazon/B04N3ngTi'>oat fiber</a> and <a href='/misc/dairy#whey'>protein powder</a>, rounding out this satiating and satisfying healthy snack!
 Instructions:
-- Preheat your air fryer to 300F. Grease 2 ramekins with oil.
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F. <a href='https://link.amazon/B00fjxkKE'>Grease</a> 2 <a href='https://amzn.to/4wzvob5'>ramekins</a> with <a href='/misc/olive-oil'>oil</a>.
 
-- Whisk together the dry ingredients in a large bowl.
+- Whisk together the dry ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>.
 
-- Add in the wet ingredients, and mix until fully combined with a silicone spatula.
+- Add in the wet ingredients, and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Protein Powder/Ramekin/bowl.jpg' alt='' class='instruction-image'>
 
-- Evenly divide the batter across your 2 ramekins, about 214 g each.
+- Evenly divide the batter across your 2 <a href='https://amzn.to/4wzvob5'>ramekins</a>, about <b>214 g</b> each.
 - <img src='/assets/Food/Protein Powder/Ramekin/raw.jpg' alt='' class='instruction-image'>
 
-- Air fry at 300F for 20 minutes, or until a toothpick comes out nearly clean, and the top is fully set.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for 20 minutes, or until a toothpick comes out nearly clean, and the top is fully set.
 - <img src='/assets/Food/Protein Powder/Ramekin/baked.jpg' alt='' class='instruction-image'>
 
 - Let it cool for at least 5 minutes before eating.
-- <img src='/assets/Food/Protein Powder/Ramekin/eat.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Protein Powder/Ramekin/cover.jpg' alt='' class='instruction-image'>
 Notes:
 ---

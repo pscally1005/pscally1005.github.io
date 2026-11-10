@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,236,,
+Calories,233,,
 "Vitamin A, RAE",229,mcg,25 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",3,mcg,
@@ -14,11 +14,11 @@ Calories,236,,
 "cis-beta-Carotene",0,mcg,
 "trans-Lycopene",0,mcg,
 "trans-beta-Carotene",0,mcg,
-"Thiamin [Vitamin B1]",0.123,mg,10 %
-"Riboflavin [Vitamin B2]",0.452,mg,35 %
-"Niacin [Vitamin B3]",1.144,mg,7 %
+"Thiamin [Vitamin B1]",0.122,mg,10 %
+"Riboflavin [Vitamin B2]",0.45,mg,35 %
+"Niacin [Vitamin B3]",1.138,mg,7 %
 "Pantothenic acid [Vitamin B5]",0.579,mg,12 %
-"Vitamin B6",0.131,mg,8 %
+"Vitamin B6",0.13,mg,8 %
 "Vitamin B12 [Cobalamin]",0.86,mcg,36 %
 "Folate, DFE [Vitamin B9]",19,mcg,5 %
 "Vitamin C [Ascorbic acid]",0,mg,0 %
@@ -35,14 +35,14 @@ Calories,236,,
 "Copper",0.58,mg,64 %
 "Fluoride",3.7,mcg,
 "Iodine",12.35,mcg,8 %
-"Iron",3.51,mg,20 %
+"Iron",3.5,mg,19 %
 "Magnesium",119,mg,28 %
-"Manganese",1.1,mg,48 %
+"Manganese",1.097,mg,48 %
 "Phosphorus",483,mg,39 %
-"Potassium",571,mg,12 %
+"Potassium",569,mg,12 %
 "Selenium",15.26,mcg,28 %
 "Sodium",563,mg,24 %
-"Zinc",3.35,mg,30 %
+"Zinc",3.34,mg,30 %
 "Protein",23.21,g,46 %
 "Histidine",0.529,g,46 %
 "Isoleucine",0.935,g,60 %
@@ -65,23 +65,23 @@ Calories,236,,
 "Alanine",1.023,g,
 "Aspartic acid",2.241,g,
 "Hydroxyproline",0,g,
-"Carbohydrate",33.43,g,12 %
+"Carbohydrate",33.27,g,12 %
 "Fiber",21.77,g,78 %
 "Starch",0,g,
-"Sugars",8.92,g,
+"Sugars",8.76,g,
 "Sugars, added",0,g,0 %
 "Fructose",0,g,
 "Glucose",0.05,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0,g,
-"Net carbs",11.66,g,
-"Fat",10.207,g,13 %
-"Saturated fatty acids",1.836,g,9 %
+"Net carbs",11.5,g,
+"Fat",10.206,g,13 %
+"Saturated fatty acids",1.835,g,9 %
 "Tetradecanoic acid",0.008,g,
 "Hexadecanoic acid",0.583,g,
 "Octadecanoic acid",0.204,g,
-"Monounsaturated fatty acids",5.41,g,
+"Monounsaturated fatty acids",5.409,g,
 "Cis-hexadecenoic acid",0.06,g,
 "Cis-octadecenoic acid",0.843,g,
 "Polyunsaturated fatty acids",2.182,g,
@@ -97,7 +97,7 @@ Calories,236,,
 "Fatty acids, total trans",0,g,
 "Cholesterol",106,mg,35 %
 "25-hydroxycholecalciferol",0.14,mcg,
-"Alcohol, ethyl",0.8,g,
+"Alcohol, ethyl",0.4,g,
 "Ash",0.21,g,
 "Caffeine",12,mg,
 "Choline, free",0.15,mg,
@@ -108,4 +108,4 @@ Calories,236,,
 "Nitrogen",0.5,g,
 "Serine",1.054,g,
 "Theobromine",103,mg,
-"Water",142.17,g,
+"Water",141.52,g,

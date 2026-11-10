@@ -5,7 +5,6 @@ date:   2026-11-09 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

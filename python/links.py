@@ -7699,6 +7699,7 @@ LINKS = {
         "spray with oil",
         "cooking spray",
         "oil spray",
+        "grease",
         "spray",
         "lightly grease with oil",
         "lightly grease the paper with oil",
