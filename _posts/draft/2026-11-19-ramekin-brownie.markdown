@@ -18,7 +18,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
-vic: no
+vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/ramekin-brownies
