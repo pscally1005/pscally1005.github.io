@@ -25,9 +25,9 @@ permalink: /recipes/marshmallow-fluff
 image: /assets/Food/Sweet Spreads/Fluff/cover.jpg
 file: fluffmaple
 servingSize: 2 tbsp (12 g)
-section1:
-start2:
-section2:
+section1: Step 1
+start2: Maple syrup
+section2: Step 2
 start3:
 section3:
 start4:
@@ -35,7 +35,7 @@ section4:
 start5:
 section5:
 Prep: 10
-Rest:
+Rest: 120
 Cook: 10
 Source1: https://www.instagram.com/p/DfCmFq5FQx6/?obrf=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==
 Source2: http://poormanprotein.com/recipes/rice-crispy-treats
@@ -47,6 +47,9 @@ tags:
 - marshmallow fluff
 - marshmallows
 - rice crispy treats
+- homemade rice crispy treats
+- healthier rice crispy treats
+- healthy rice crispy treats
 - smores
 - s'mores
 - fluffer nutter
@@ -55,29 +58,29 @@ tags:
 - honey
 - gelatin
 Description: |
-  This homemade marshmallow fluff contains only 3 ingredients; 2 if you exclude water (I don't). It's sweetened with maple syrup, making it refined sugar free. Not only does this pack more flavor than standard storebought fluff, but it has significantly fewer calories and sugar too!<br><br>
+  This homemade marshmallow fluff contains only 3 ingredients; 2 if you exclude water (I don't). It's sweetened with <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, making it <a href='/misc/hidden-sugar'>refined sugar free</a>. Not only does this pack more flavor than standard <a href='https://link.amazon/B01x3kci4'>storebought fluff</a>, but it has significantly fewer <a href='/misc/calories'>calories</a> and <a href='/misc/hidden-sugar'>sugar</a> too!<br><br>
 
-  Do you know what the best use for marshmallow fluff is, besides a Fluffer Nutter or making fudge? Making Homemade Rice Crispy Treats!
+  Do you know what the best use for marshmallow fluff is, besides a Fluffer Nutter or making <a href='/recipes/classic-fudge'>fudge</a>? Making <a href='/recipes/rice-crispy-treats'>Homemade Rice Crispy Treats</a>!
 Instructions:
-- Add gelatin and cold water to a large metal bowl. Whisk together, and set it aside to bloom.
+- Add <a href='https://link.amazon/B0guGB2NI'>gelatin</a> and cold water to a <a href='https://amzn.to/4rb3CiD'>large metal bowl</a>. Whisk together, and set it aside to bloom.
 - <img src='/assets/Food/Sweet Spreads/Fluff/gelatin.jpg' alt='' class='instruction-image'>
 
-- Bring maple syrup and water to 240F using a candy thermometer over high heat.
+- Bring <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> and water to 240F using a <a href='https://link.amazon/B005odqun'>candy thermometer</a> over high heat.
 - <img src='/assets/Food/Sweet Spreads/Fluff/boil.jpg' alt='' class='instruction-image'>
 
-- Slowly pour the hot syrup into the gelatin while mixing on low speed with an electric hand mixer.
+- Slowly pour the hot syrup into the <a href='https://link.amazon/B0guGB2NI'>gelatin</a> while mixing on low speed with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>.
 
 - Increase to high speed, and mix for at least 10 minutes, or until it becomes fluffy, white, cooled, and airy, like marshmallow fluff.
 - <img src='/assets/Food/Sweet Spreads/Fluff/bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer to a large mason jar. Store in the fridge.
+- Transfer to a <a href='https://amzn.to/4vedGsO'>large mason jar</a>. Chill for at least 2 hours before using. Store in the fridge.
 - <img src='/assets/Food/Sweet Spreads/Fluff/jar.jpg' alt='' class='instruction-image'>
 Notes:
-- This recipe makes approximately 5 cups (480 g) of marshmallow fluff.
+- <a href='#recipe'>This recipe</a> makes approximately 5 cups (480 g) of marshmallow fluff.
 
-- This homemade marshmallow fluff should also work with honey (1 cup, 336 g) or sugar free syrup (1 cup, 320 g) instead of maple syrup, although I have not yet tried them.
+- <a href='#recipe'>This homemade marshmallow fluff</a> should also work with <a href='/misc/natural-sweeteners#honey'>honey</a> (1 cup, 336 g) or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (1 cup, 320 g) instead of <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, although I have not yet tried them.
 
-- Below is a nutritional comparison of this recipe made with maple syrup, honey, and sugar free syrup, as well as storebought fluff per <b>2 tbsp (12 g)</b>.
+- Below is a nutritional comparison of <a href='#recipe'>this recipe</a> made with <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, as well as <a href='https://link.amazon/B01x3kci4'>storebought fluff</a> per <b>2 tbsp (12 g)</b>.
 - |
   COMPARE(
     "fluffmaple",
@@ -91,10 +94,7 @@ Notes:
     "<a href='https://link.amazon/B01x3kci4'>Storebought<br>Fluff</a>";
 
     "Calories",
-    "Protein",
-    "Fat",
     "Net Carbs",
-    "Fiber",
     "Added Sugar"
   )
 ---

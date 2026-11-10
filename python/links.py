@@ -9154,6 +9154,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "ridges on the side",
+    "hot syrup",
     "shape the cookie",
     "look like a pumpkin",
     "tacos, crepes",

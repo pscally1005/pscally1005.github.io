@@ -48,33 +48,35 @@ tags:
 - rice crispies
 - rice crisp treats
 - homemade marshmallow fluff
+- healthy marshmallow fluff
+- healthier marshmallow fluff
 - marshmallows
-Description: These homemade rice crispy treats are made with only 2 ingredients:<b></b> plain puffed rice cereal, and my Homemade Marshmallow Fluff. They're refined sugar free, and taste way better than those storebought rice crispy treats that taste like cardboard.
+Description: These homemade rice crispy treats are made with only 2 ingredients:<b></b> plain <a href='https://link.amazon/B08lfLI2Y'>puffed rice cereal</a>, and my <a href='/recipes/marshmallow-fluff'>Homemade Marshmallow Fluff</a>. They're <a href='/misc/hidden-sugar'>refined sugar free</a>, and taste way better than those <a href='https://link.amazon/B0fZuOtnn'>storebought rice crispy treats</a> that taste like cardboard.
 Instructions:
-- Mix together puffed rice cereal and marshmallow fluff in a large bowl with a silicone spatula until well combined.
+- Mix together <a href='https://link.amazon/B08lfLI2Y'>puffed rice cereal</a> and <a href='/recipes/marshmallow-fluff'>marshmallow fluff</a> in a <a href='https://amzn.to/4rb3CiD'>large metal bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until well combined.
 - <img src='/assets/Food/Healthier Dessert/Rice Crispy Treat/bowl.jpg' alt='' class='instruction-image'>
 
-- Line a 9x13" pan with parchment paper. Evenly press the mixture into the pan.
+- Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. Evenly press the mixture into the pan while wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking.
 - <img src='/assets/Food/Healthier Dessert/Rice Crispy Treat/pan.jpg' alt='' class='instruction-image'>
 
 - Chill in the fridge for at least 2 hours before slicing into 24 bars.
 - <img src='/assets/Food/Healthier Dessert/Rice Crispy Treat/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- Below is a nutritional comparison of these homemade rice crispy treats using either my Healthier Marshmallow Fluff, or standard storebought fluff, as compared to a storebought rice crispy treat. Each of the 3 bars has the same serving size, <b>22 g</b>.
+- If you use my <a href='/recipes/marshmallow-fluff'>Healthier Marshmallow Fluff</a>, then 5 cups (480 g) corresponds to 1 entire batch.
+
+- Below is a nutritional comparison of <a href='#recipe'>these homemade rice crispy treats</a> using either my <a href='/recipes/marshmallow-fluff'>Healthier Marshmallow Fluff</a>, or standard <a href='https://link.amazon/B01x3kci4'>storebought fluff</a>, as compared to a <a href='https://link.amazon/B0fZuOtnn'>storebought rice crispy treat</a>. Each of the 3 bars has the same serving size, <b>22 g</b>.
 - |
   COMPARE(
     "ricecrispytreats",
     "ricecrispytreatstore",
-    "rice-crispy-treats";
+    "rice-crispy-treat";
 
-    "<a href='#recipe'>Homemade</a>",
-    "<a href='https://link.amazon/B0fZuOtnn'>Storebought</a>";
+    "<a href='/recipes/marshmallow-fluff'>Homemade<br>Fluff</a>",
+    "<a href='https://link.amazon/B01x3kci4'>Storebought<br>Fluff</a>",
+    "<a href='https://link.amazon/B0fZuOtnn'>Storebought<br>Rice<br>Crispy<br>Treats</a>";
 
     "Calories",
-    "Protein",
-    "Fat",
-    "Net Carbs",
-    "Fiber",
+    "Net Carbs",,
     "Added Sugar"
   )
 ---
