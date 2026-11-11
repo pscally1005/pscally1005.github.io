@@ -68,7 +68,7 @@ Notes:
 
 - Working with room temperature <a href='/recipes/marshmallow-fluff'>fluff</a> will be easier than chilled <a href='/recipes/marshmallow-fluff'>fluff</a>.
 
-- In step 2, don't compress the mixture too much in the pan. Press it just firmly enough to create an evenly layer. Excessive compression can make them too dense.
+- Don't compress the mixture too much in the pan or it could become too dense. Press it just firmly enough to create an even layer.
 
 - If you use my <a href='/recipes/marshmallow-fluff'>Healthier Marshmallow Fluff</a>, then 5 cups (480 g) corresponds to 1 entire batch.
 

@@ -6,7 +6,7 @@
 
   {% if nutrientData %}
     {% assign nutrientLabel = nutrientData.label | default: nutrient %}
-    {% assign nutrientLink = "<a href='" | append: nutrientData.href | append: "'>" | append: nutrientLabel | append: "</a>" %}
+    {% assign nutrientLink = '<a href="' | append: nutrientData.href | append: '">' | append: nutrientLabel | append: "</a>" %}
   {% endif %}
 
   {{ nutrientLink }}
