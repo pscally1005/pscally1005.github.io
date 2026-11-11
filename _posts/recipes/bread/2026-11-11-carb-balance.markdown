@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Copycat Carb Balance Wraps
-date:   2026-11-03 00:00:00 -0500
+date:   2026-11-11 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
