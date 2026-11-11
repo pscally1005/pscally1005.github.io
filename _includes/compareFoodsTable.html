@@ -49,30 +49,18 @@
                     {% assign costType = "" %}
                     {% if nutrient == "Cost" %}
                         {% assign costType = "both" %}
-                    {% elsif nutrient == "Serving Cost" or nutrient == "Cost (Serving)" %}
+                    {% elsif nutrient == "Serving Cost" %}
                         {% assign costType = "serving" %}
-                    {% elsif nutrient == "Total Cost" or nutrient == "Cost (Total)" %}
+                    {% elsif nutrient == "Total Cost" %}
                         {% assign costType = "total" %}
                     {% endif %}
 
-                    {% if nutrient == "Cost" %}
-                        <td><a href="/misc/costs">Total<br>Cost</a></td>
-                    {% elsif costType == "serving" %}
-                        <td><a href="/misc/costs">Serving<br>Cost</a></td>
-                    {% elsif costType == "total" %}
-                        <td><a href="/misc/costs">Total<br>Cost</a></td>
-                    {% elsif nutrient == "Score" or nutrient == "Nutrition Score" %}
-                        <td><a href="/misc/nutrition">{{ nutrient }}</a></td>
-                    {% elsif nutrient == "Mass" or nutrient == "Serving Size" %}
+                    {% if nutrient == "Mass" or nutrient == "Serving Size" %}
                         {% if page.title == "Copycat Barebell Protein Bars" %}
                             <td>Filling<br>Weight</td>
                         {% else %}
-                            <td><a href="/misc/serving-sizes">Serving<br>Size</a></td>
+                            <td>{% include nutrientLinks.html nutrient=nutrient %}</td>
                         {% endif %}
-                    {% elsif nutrient == "Glycemic Index" %}
-                        <td><a href="/misc/diabetes">Glycemic<br>Index</a></td>
-                    {% elsif nutrient == "Glycemic Load" %}
-                        <td><a href="/misc/diabetes">Glycemic<br>Load</a></td>
                     {% else %}
                         <td>{% include nutrientLinks.html nutrient=nutrient %}</td>
                     {% endif %}
@@ -230,7 +218,7 @@
 
                 {% if nutrient == "Cost" %}
                     <tr>
-                        <td><a href='/misc/costs'>Serving<br>Cost</a></td>
+                        <td>{% include nutrientLinks.html nutrient="Serving Cost" %}</td>
 
                         {% for f in files %}
                             <td>
@@ -254,9 +242,9 @@
             {% if include.cost == "true" or include.cost == "serving" %}
                 <tr>
                     {% if include.cost == "true" %}
-                        <td><a href='/misc/costs'>Cost<br>(Serving)</a></td>
+                        <td>{% include nutrientLinks.html nutrient="Serving Cost" %}</td>
                     {% else %}
-                        <td><a href='/misc/costs'>Cost</a></td>
+                        <td>{% include nutrientLinks.html nutrient="Serving Cost" %}</td>
                     {% endif %}
 
                     {% assign loopVar = site.data[include.ing] %}
@@ -270,7 +258,7 @@
 
                 {% if include.cost == "true" %}
                     <tr>
-                        <td><a href='/misc/costs'>Cost<br>(Total)</a></td>
+                        <td>{% include nutrientLinks.html nutrient="Total Cost" %}</td>
 
                         {% assign loopVar = site.data[include.ing] %}
                         {% for f in files %}
@@ -288,7 +276,7 @@
                     {% if page.title == "Copycat Barebell Protein Bars" %}
                       <td>Filling<br>Weight</td>
                     {% else %}
-                      <td><a href='/misc/serving-sizes'>Serving<br>Size</a></td>
+                      <td>{% include nutrientLinks.html nutrient="Mass" %}</td>
                     {% endif %}
 
                     {% assign loopVar = site.data[include.ing] %}

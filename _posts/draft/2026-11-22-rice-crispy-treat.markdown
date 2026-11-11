@@ -79,9 +79,9 @@ Notes:
     "ricecrispytreatstore",
     "rice-crispy-treat";
 
-    "<a href='/recipes/marshmallow-fluff'>Homemade<br>Fluff</a>",
-    "<a href='https://link.amazon/B01x3kci4'>Storebought<br>Fluff</a>",
-    "<a href='https://link.amazon/B0fZuOtnn'>Storebought<br>Rice<br>Crispy<br>Treats</a>";
+    "With<br><a href='/recipes/marshmallow-fluff'>Homemade<br>Fluff</a>",
+    "With<br><a href='https://link.amazon/B01x3kci4'>Storebought<br>Fluff</a>",
+    "<a href='https://link.amazon/B0fZuOtnn'>Storebought<br>Rice<br>Krispies<br>Treat</a>";
 
     "Calories",
     "Net Carbs",

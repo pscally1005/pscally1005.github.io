@@ -1,0 +1,162 @@
+Calories:
+  href: /misc/calories
+Fat:
+  href: /misc/fats
+Total Fat:
+  href: /misc/fats
+Saturated Fat:
+  href: /misc/fats
+Trans Fat:
+  href: /misc/fats
+Polyunsaturated Fat:
+  href: /misc/fats
+Monounsaturated Fat:
+  href: /misc/fats
+Cholesterol:
+  href: /misc/cholesterol
+Sodium:
+  href: /misc/sodium
+Carbs:
+  href: /misc/carbs
+Carbohydrates:
+  href: /misc/carbs
+Total Carbohydrate:
+  href: /misc/carbs
+Total Carbs:
+  href: /misc/carbs
+Fiber:
+  href: /misc/fiber
+Total Fiber:
+  href: /misc/fiber
+Soluble Fiber:
+  href: /misc/fiber#soluble
+Insoluble Fiber:
+  href: /misc/fiber#insoluble
+Net Carbs:
+  href: /misc/carbs
+Sugar:
+  href: /misc/carbs
+Total Sugar:
+  href: /misc/carbs
+Lactose:
+  href: /misc/dairy
+Added Sugar:
+  href: /misc/hidden-sugar
+Sugar Alcohol:
+  href: /misc/fake-healthy-foods#sugar-substitutes
+Allulose:
+  href: /misc/fake-healthy-foods#sugar-substitutes
+Protein:
+  href: /misc/protein
+Protein Ratio:
+  href: /misc/high-protein
+Gluten:
+  href: /misc/celiac
+Histidine:
+  href: /misc/nutrient-alphabet#H
+Isoleucine:
+  href: /misc/protein
+Leucine:
+  href: /misc/protein
+Lysine:
+  href: /misc/protein
+Methionine:
+  href: /misc/protein
+Phenylalanine:
+  href: /misc/protein
+Threonine:
+  href: /misc/protein
+Tryptophan:
+  href: /misc/protein
+Valine:
+  href: /misc/nutrient-alphabet#V
+Vitamin A:
+  href: /misc/nutrient-alphabet#A
+Vitamin B1:
+  href: /misc/nutrient-alphabet#T
+Thiamin:
+  href: /misc/nutrient-alphabet#T
+Vitamin B2:
+  href: /misc/nutrient-alphabet#R
+Riboflavin:
+  href: /misc/nutrient-alphabet#R
+Vitamin B3:
+  href: /misc/nutrient-alphabet#N
+Niacin:
+  href: /misc/nutrient-alphabet#N
+Vitamin B5:
+  href: /misc/nutrient-alphabet#P
+Pantothenic Acid:
+  href: /misc/nutrient-alphabet#P
+Vitamin B6:
+  href: /misc/nutrient-alphabet#B
+Pyridoxine:
+  href: /misc/nutrient-alphabet#B
+Vitamin B9:
+  href: /misc/nutrient-alphabet#F
+Folate:
+  href: /misc/nutrient-alphabet#F
+Vitamin B12:
+  href: /misc/vitamin-b12
+Cobalamin:
+  href: /misc/vitamin-b12
+Vitamin C:
+  href: /misc/vitamin-c
+Vitamin D:
+  href: /misc/nutrient-alphabet#D
+Vitamin E:
+  href: /misc/nutrient-alphabet#E
+Vitamin K:
+  href: /misc/nutrient-alphabet#K
+Choline:
+  href: /misc/choline
+Calcium:
+  href: /misc/calcium
+Copper:
+  href: /misc/nutrient-alphabet#C
+Iodine:
+  href: /misc/nutrient-alphabet#I
+Iron:
+  href: /misc/iron
+Magnesium:
+  href: /misc/magnesium
+Manganese:
+  href: /misc/nutrient-alphabet#M
+Phosphorus:
+  href: /misc/phosphorus
+Potassium:
+  href: /misc/potassium
+Selenium:
+  href: /misc/nutrient-alphabet#S
+Zinc:
+  href: /misc/nutrient-alphabet#Z
+Lycopene:
+  href: /misc/nutrient-alphabet#L
+Caffeine:
+  href: /misc/caffeine
+Glycemic Index:
+  href: /misc/diabetes
+  label: Glycemic<br>Index
+Glycemic Load:
+  href: /misc/diabetes
+  label: Glycemic<br>Load
+Cost:
+  href: /misc/costs
+  label: Total<br>Cost
+Serving Cost:
+  href: /misc/costs
+  label: Serving<br>Cost
+Total Cost:
+  href: /misc/costs
+  label: Total<br>Cost
+Score:
+  href: /misc/nutrition
+Nutrition Score:
+  href: /misc/nutrition
+  label: Nutrition<br>Score
+Mass:
+  href: /misc/serving-sizes
+  label: Serving<br>Size
+Serving Size:
+  href: /misc/serving-sizes
+  label: Serving<br>Size
