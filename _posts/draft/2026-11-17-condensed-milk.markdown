@@ -23,7 +23,7 @@ protein_bar: no
 beans: no
 permalink: /recipes/condensed-milk
 image: /assets/Food/Sweet Spreads/Condensed Milk/coverFinal.jpg
-file: condensedmilk
+file: condensedmilksfs
 servingSize: 2 tbsp (39 g)
 section1:
 start2:
@@ -58,6 +58,20 @@ tags:
 - pumpkin truffles
 - 7 layer bars
 - seven layer bars
+- homemade sweetened condensed milk
+- healthy sweetened condensed milk
+- healthier sweetened condensed milk
+- sugar free sweetened condensed milk
+- maple syrup sweetened condensed milk
+- maple sweetened condensed milk
+- honey sweetened condensed milk
+- homemade condensed milk
+- healthy condensed milk
+- healthier condensed milk
+- sugar free condensed milk
+- maple syrup condensed milk
+- maple condensed milk
+- honey condensed milk
 Description: Homemade sweetened condensed milk, but <a href='/misc/hidden-sugar'>sugar free</a>! Using <a href='https://amzn.to/4zMyIm3'>nonfat milk powder</a> and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> turns this <a href='/misc/hidden-sugar'>sugar bomb</a> pantry staple into a <a href='/misc/calories'>low calorie</a> and <a href='/misc/hidden-sugar'>sugar free</a> ingredient! Try it out in my new <a href='/recipes/pumpkin-truffles'>High Fiber Pumpkin Truffles</a>!
 Instructions:
 - Add <a href='https://amzn.to/4zMyIm3'>powdered milk</a> to a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat. Toast for about 5 minutes, or until browned and smells like caramel. Stir frequently, or it will stick and burn.
@@ -76,7 +90,7 @@ Notes:
 - Compared to a standard can of <a href='https://link.amazon/B0gAsxJJN'>storebought sweetened condensed milk</a> (<b>2 tbsp, 39 g</b>), the homemade version with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> contains significantly fewer <a href='/misc/calories'>calories</a> and <a href='/misc/fats'>fat</a>, with no <a href='/misc/hidden-sugar'>added sugar</a>.
 - |
   COMPARE(
-    "condensedmilk",
+    "condensedmilksfs",
     "condensedmilkhoney",
     "condensedmilkmaple",
     "sw-cond-milk";

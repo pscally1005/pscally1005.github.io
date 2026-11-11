@@ -598,7 +598,7 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 cup"
 
     # Condensed milk
-    elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free" or food == "Sugar free sweetened condensed milk":
+    elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free" or food == "Sugar free sweetened condensed milk" or food == "Maple syrup sweetened condensed milk" or food == "Honey sweetened condensed milk":
         if mass == "19" or mass == "19.5" or mass == "20":
             v = "1 tbsp"
         elif mass == "39":

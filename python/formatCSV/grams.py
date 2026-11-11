@@ -589,7 +589,7 @@ def grams(food, mass, vol):
             m = "108"
 
     # Condensed milk
-    elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free" or food == "Sugar free sweetened condensed milk":
+    elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free" or food == "Sugar free sweetened condensed milk" or food == "Maple syrup sweetenedcondensed milk" or food == "Honey sweetened condensed milk":
         if vol == "1 tbsp":
             m = "19"
         elif vol == "2 tbsp":
