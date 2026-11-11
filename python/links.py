@@ -86,6 +86,8 @@ LINKS = {
         "four calorie wrap"
     ],
     "/recipes/condensed-milk": [
+        "condensed milk",
+        "sweetened condensed milk",
         "homemade condensed milk",
         "homemade sweetened condensed milk",
         "sugar-free condensed milk",
@@ -6693,10 +6695,10 @@ LINKS = {
         "fat free evaporated milk"
     ],
     "https://link.amazon/B0gAsxJJN": [
+        # "condensed milk",
+        # "sweetened condensed milk",
         "storebought condensed milk",
-        "storebought sweetened condensed milk",
-        "condensed milk",
-        "sweetened condensed milk"
+        "storebought sweetened condensed milk"
     ],
     "https://link.amazon/B0dAdVfzm": [
         "cacao nibs",

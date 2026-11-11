@@ -70,27 +70,27 @@ tags:
 - gluten-free
 - high protein
 - high-protein
-Description: These simple high protein bars are made with just 5 ingredients in under 10 minutes. I'm using my new homemade Sugar Free Sweetened Condensed Milk, and mixing that with protein powder, oat fiber, vanilla, and salt before letting it chill in the fridge and slicing into 9 bars! Each bar has 15 g of protein in just about 100 calories!
+Description: These simple <a href='/misc/high-protein'>high protein</a> bars are made with just 5 ingredients in under 10 minutes. I'm using my new homemade <a href='/recipes/condensed-milk'>Sugar Free Sweetened Condensed Milk</a>, and mixing that with <a href='/misc/dairy#casein'>protein powder</a>, <a href='https://link.amazon/B04N3ngTi'>oat fiber</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt before letting it chill in the fridge and slicing into 9 bars! Each bar has 15 g of <a href='/misc/protein'>protein</a> in just about 100 <a href='/misc/calories'>calories</a>!
 Instructions:
-- Mix together condensed milk, vanilla, salt, oat fiber, and casein in a large bowl until fully combined.
+- Mix together <a href='/recipes/condensed-milk'>condensed milk</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, salt, <a href='https://link.amazon/B04N3ngTi'>oat fiber</a>, and <a href='/misc/dairy#casein'>protein powder</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> until fully combined.
 - <img src='/assets/Food/Protein Powder/Caramel Protein Bars/bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer the dough to a parchment lined 9" square pan. Evenly press the dough into the pan.
+- Transfer the dough to a parchment lined <a href='https://amzn.to/3YY2H9q'>9" square pan</a>. Evenly press the dough into the pan.
 - <img src='/assets/Food/Protein Powder/Caramel Protein Bars/pan.jpg' alt='' class='instruction-image'>
 
 - Let it chill in the fridge for about 2 hours before cutting into 9 squares.
 - <img src='/assets/Food/Protein Powder/Caramel Protein Bars/cut.jpg' alt='' class='instruction-image'>
 
-- Add to an airtight container, separating each bar with parchment paper. Store in the fridge or freezer.
+- Transfer to an airtight container, separating each bar with parchment paper. Store in the fridge or freezer.
 - <img src='/assets/Food/Protein Powder/Caramel Protein Bars/store.jpg' alt='' class='instruction-image'>
 Notes:
-- The dough will feel too dry and sticky, but it will come together after a few minutes of mixing. Use your hands wearing kitchen gloves to prevent sticking. It's too thick for a silicone spatula, which I learned the hard way (rip).
+- The dough will feel too dry and sticky, but it will come together after a few minutes of mixing. Use your hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking. It's too thick for a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, which I learned the hard way (rip).
 - <img src='/assets/Food/Protein Powder/Caramel Protein Bars/spatula.jpg' alt='' class='instruction-image'>
 
 - |
-  This recipe is written to use my Sugar Free Sweetened Condensed Milk, which is sweetened with sugar free syrup. However, you can sweeten my Homemade Condensed Milk with either maple syrup or honey. Finally, you can also use storebought condensed milk in this recipe.<br><br>
+  <a href='#recipe'>This recipe</a> is written to use my <a href='/recipes/condensed-milk'>Sugar Free Sweetened Condensed Milk</a>, which is sweetened with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>. However, you can sweeten my <a href='/recipes/condensed-milk'>Homemade Condensed Milk</a> with either <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> or <a href='/misc/natural-sweeteners#honey'>honey</a>. Finally, you can also use <a href='https://link.amazon/B0gAsxJJN'>storebought condensed milk</a> in <a href='#recipe'>this recipe</a>.<br><br>
 
-  Note that the latter 3 options will add a significant amount of sugar and calories, and these protein bars will no longer be high protein.
+  Note that the latter 3 options will add a significant amount of <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/calories'>calories</a>, and these <a href='/protein-bar'>protein bars</a> will no longer be <a href='/misc/high-protein'>high protein</a>.
 - |
   COMPARE(
     "caramelproteinbarsfs",
