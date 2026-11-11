@@ -53,7 +53,7 @@ tags:
 - healthy marshmallow fluff
 - healthier marshmallow fluff
 - marshmallows
-Description: These homemade rice crispy treats are made with only 2 ingredients:<b></b> plain <a href='https://link.amazon/B0hc1TDhB'>puffed rice cereal</a>, and my <a href='/recipes/marshmallow-fluff'>Homemade Marshmallow Fluff</a>. They're <a href='/misc/hidden-sugar'>refined sugar free</a>, and are much better than cardboard tasting storebought <a href='https://link.amazon/B0fZuOtnn'>Rice Krispies Treats</a>.
+Description: These homemade rice crispy treats are made with only 2 ingredients:<b></b> plain <a href='https://link.amazon/B0hc1TDhB'>puffed rice cereal</a>, and my <a href='/recipes/marshmallow-fluff'>Homemade Marshmallow Fluff</a>. They're <a href='/misc/hidden-sugar'>refined sugar free</a>, and are much better than those cardboard tasting storebought <a href='https://link.amazon/B0fZuOtnn'>Rice Krispies Treats</a>.
 Instructions:
 - Mix together <a href='https://link.amazon/B0hc1TDhB'>puffed rice cereal</a> and <a href='/recipes/marshmallow-fluff'>marshmallow fluff</a> in a <a href='https://amzn.to/4rb3CiD'>large metal bowl</a> with your hands until well combined.
 - <img src='/assets/Food/Healthier Dessert/Rice Crispy Treat/bowl.jpg' alt='' class='instruction-image'>
