@@ -59,7 +59,7 @@ Instructions:
 Notes:
 - For chocolate instead of vanilla, omit, the <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and instead use 1 tbsp (5 g) of <a href='/misc/chocolate-benefits'>cocoa powder</a>
 
-- Alternatively, you can use <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a> instead of fairlife <a href='/misc/skim-milk'>skim milk</a> to make it even cheaper.  In that case, increase the <a href='/misc/dairy#whey'>whey</a> to 1 1/2 scoops (45 g)
+- Alternatively, you can use <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a> instead of <a href='https://amzn.to/4wEmIBw'>fairlife skim milk</a> to make it slightly cheaper.  In that case, increase the <a href='/misc/dairy#whey'>whey</a> to 1 1/2 scoops (45 g)
 
 - |
   COMPARE(
@@ -72,7 +72,8 @@ Notes:
     "Calories",
     "Protein",
     "Fat",
-    "Net Carbs"
+    "Net Carbs",
+    "Serving Cost"
   )
 
 # - You can also sweeten this with a <a href='https://amzn.to/4layTR1'>flavored electrolyte mix</a> as well, like I did in my <a href='/recipes/electrolyte-protein-shake'>Electrolyte Protein Shake</a>.  Just replace the <a href='https://amzn.to/43MkDqr'>vanilla</a> and <a href='https://amzn.to/3SqwsMO'>liqud monk fruit</a> with your <a href='https://amzn.to/4layTR1'>electrolyte mix</a>

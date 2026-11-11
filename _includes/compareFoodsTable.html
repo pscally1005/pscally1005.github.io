@@ -46,7 +46,30 @@
 
                     {% assign nutrient = nutrients[i] %}
 
-                    {% if nutrient == "Glycemic Index" %}
+                    {% assign costType = "" %}
+                    {% if nutrient == "Cost" %}
+                        {% assign costType = "both" %}
+                    {% elsif nutrient == "Serving Cost" or nutrient == "Cost (Serving)" %}
+                        {% assign costType = "serving" %}
+                    {% elsif nutrient == "Total Cost" or nutrient == "Cost (Total)" %}
+                        {% assign costType = "total" %}
+                    {% endif %}
+
+                    {% if nutrient == "Cost" %}
+                        <td><a href="/misc/costs">Total<br>Cost</a></td>
+                    {% elsif costType == "serving" %}
+                        <td><a href="/misc/costs">Serving<br>Cost</a></td>
+                    {% elsif costType == "total" %}
+                        <td><a href="/misc/costs">Total<br>Cost</a></td>
+                    {% elsif nutrient == "Score" or nutrient == "Nutrition Score" %}
+                        <td><a href="/misc/nutrition">{{ nutrient }}</a></td>
+                    {% elsif nutrient == "Mass" or nutrient == "Serving Size" %}
+                        {% if page.title == "Copycat Barebell Protein Bars" %}
+                            <td>Filling<br>Weight</td>
+                        {% else %}
+                            <td><a href="/misc/serving-sizes">Serving<br>Size</a></td>
+                        {% endif %}
+                    {% elsif nutrient == "Glycemic Index" %}
                         <td><a href="/misc/diabetes">Glycemic<br>Index</a></td>
                     {% elsif nutrient == "Glycemic Load" %}
                         <td><a href="/misc/diabetes">Glycemic<br>Load</a></td>
@@ -141,6 +164,55 @@
                             {% assign ing_file = f | append: "-ing" %}
                             {% assign facts_file = f | append: "-facts" %}
 
+                            {% if costType != "" %}
+                                {% if costType == "both" or costType == "total" %}
+                                    {% include calcCost.html ing=ing_file total="true" folder=include.folder %}
+                                {% else %}
+                                    {% include calcCost.html ing=ing_file folder=include.folder %}
+                                {% endif %}
+                            {% elsif nutrient == "Mass" or nutrient == "Serving Size" %}
+                                {% include calcMass.html ing=ing_file folder=include.folder %}
+                            {% elsif nutrient == "Score" or nutrient == "Nutrition Score" %}
+                                {% assign weightedScore = 0 %}
+                                {% assign scoreMass = 0 %}
+                                {% assign scoreIngredients = site.data[ing_file] %}
+                                {% if include.folder %}
+                                    {% assign scoreIngredients = site.data[include.folder][ing_file] %}
+                                {% endif %}
+                                {% for scoreIngredient in scoreIngredients %}
+                                    {% unless forloop.last %}
+                                        {% assign scoreFood = scoreIngredient["Ingredient"] %}
+                                        {% assign scoreAmount = scoreIngredient["Amount"] | times: 1.0 %}
+                                        {% for foodRow in site.data.foods %}
+                                            {% if foodRow["Food"] == scoreFood %}
+                                                {% assign foodScore = foodRow["Score"] %}
+                                                {% unless foodScore == "" or foodScore == "TODO" or foodScore == 0 or foodScore == "0" or foodScore == "0.0" %}
+                                                    {% assign scoreContribution = scoreAmount | times: foodScore %}
+                                                    {% assign weightedScore = weightedScore | plus: scoreContribution %}
+                                                    {% assign scoreMass = scoreMass | plus: scoreAmount %}
+                                                {% endunless %}
+                                                {% break %}
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endunless %}
+                                {% endfor %}
+                                {% if scoreMass > 0 %}
+                                    {% assign nutritionScore = weightedScore | divided_by: scoreMass %}
+                                {% else %}
+                                    {% assign nutritionScore = 0 %}
+                                {% endif %}
+                                {% if nutritionScore <= 0 %}
+                                    <font class='grey-text-themed'>
+                                {% elsif nutritionScore > 0 and nutritionScore < 6 %}
+                                    <font class='red-text-themed'>
+                                {% elsif nutritionScore < 8 %}
+                                    <font class='yellow-text-themed'>
+                                {% else %}
+                                    <font class='green-text-themed'>
+                                {% endif %}
+                                    {{ nutritionScore | round: 1 }}
+                                </font>
+                            {% else %}
                                 {% include getNutrient.html
                                     ing=ing_file
                                     facts=facts_file
@@ -151,9 +223,23 @@
                                     folder=include.folder
                                     showPercentage=showPercentage
                                 %}
+                            {% endif %}
                         </td>
                     {% endfor %}
                 </tr>
+
+                {% if nutrient == "Cost" %}
+                    <tr>
+                        <td><a href='/misc/costs'>Serving<br>Cost</a></td>
+
+                        {% for f in files %}
+                            <td>
+                                {% assign ing_file = f | append: "-ing" %}
+                                {% include calcCost.html ing=ing_file folder=include.folder %}
+                            </td>
+                        {% endfor %}
+                    </tr>
+                {% endif %}
             {% endfor %}
 
             {% if include.tiers %}

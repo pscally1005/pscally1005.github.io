@@ -92,19 +92,7 @@
                                     {% endfor %}
                                 {% endcomment %}
 
-                                {% assign costFlg = "false" %}
-                                {% if page.title == "Copycat Barebell Protein Bars" or page.title == "Chocolate Covered Marzipan" or page.title == "Lactose Free No Churn Chocolate Ice Cream" or page.title == "Recession Beans: A $1 Meal" %}
-                                  {% assign costFlg = "true" %}
-                                {% elsif page.title == "Sugar Free Dubai Chocolate" or page.title == "Copycat Core Power Protein Milkshake" or page.title == "Copycat LMNT Electrolyte Powder" or page.title == "Homemade Electrolyte Powder" %}
-                                  {% assign costFlg = "serving" %}
-                                {% endif %}
-
-                                {% assign massFlg = "false" %}
-                                {% if page.title == "Copycat Barebell Protein Bars" or page.title == "Lactose Free No Churn Chocolate Ice Cream" %}
-                                  {% assign massFlg = "true" %}
-                                {% endif %}
-
-                                {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" cost=costFlg mass=massFlg %}
+                                {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
 
                             <!-- Empanada exception -->
                             {% elsif flg_exception == "true" %}

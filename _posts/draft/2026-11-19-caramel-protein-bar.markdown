@@ -18,7 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 protein_bar: yes
 beans: no
 permalink: /recipes/caramel-protein-bars

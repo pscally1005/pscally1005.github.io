@@ -97,7 +97,7 @@ Notes:
 
   While it seems like an excess amount of <a href='/misc/veggies#cabbage'>cabbage</a> when raw, the <a href='/misc/veggies#cabbage'>cabbage</a> will cook down; see the before and after pictures in step 3.  Cooking will also release a ton of water from the <a href='/misc/veggies#cabbage'>cabbage</a>, turning this into a creamy <a href='/soups-and-stews'>stew</a> instead of the drier <a href='/misc/veggies#cabbage'>cabbage</a> <a href='/salad'>salad</a> it looks like when raw.
 
-- You can also use canned <a href='/misc/beans'>beans</a> instead of dried, but that takes the cost up to $10.44 total, or $1.30 per serving.  Just combine together 4 15.5 oz cans of <a href='/misc/beans'>beans</a> (not drained or rinsed) with all the raw ingredients, cover, and cook on low for 8 hours.
+- You can also use canned <a href='/misc/beans'>beans</a> instead of dried, but that takes the cost up to <b>$10.44</b> total, or <b>$1.30</b> per serving.  Just combine together 4 15.5 oz cans of <a href='/misc/beans'>beans</a> (not drained or rinsed) with all the raw ingredients, cover, and cook on low for 8 hours.
 - |
   COMPARE(
     "recession",
@@ -110,6 +110,7 @@ Notes:
     "Protein",
     "Fat",
     "Net Carbs",
-    "Fiber"
+    "Fiber",
+    "Cost"
   )
 ---

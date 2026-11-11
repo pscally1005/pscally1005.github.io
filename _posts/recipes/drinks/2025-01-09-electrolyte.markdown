@@ -59,7 +59,7 @@ tags:
 Description: |
   <a href='/misc/fake-healthy-foods#sports-drinks'>Electrolyte drink</a> mixes are great for after a hard, sweating workout, or for those with POTS (Postural Orthostatic Tachycardia Syndrome).  But those packets can be super expensive; it's significantly easier to make them yourself.<br><br>
 
-  Thankfully, LMNT, one of the leading <a href='/misc/fake-healthy-foods#sports-drinks'>electrolyte drink</a> companies, makes that dead simple to do by providing their base recipe right on their website.  Instead of paying <b>$1.50</b> per serving, you can pay just <b>$0.05</b>!<br><br>
+  Thankfully, LMNT, one of the leading <a href='/misc/fake-healthy-foods#sports-drinks'>electrolyte drink</a> companies, makes that dead simple to do by providing their base recipe right on their website.  Instead of paying <b>$1.50</b> per serving, you can pay just <b>$0.06</b>!<br><br>
 
   Just add a scoop to a large glass of water, add a flavoring and a <a href='https://amzn.to/3SqwsMO'>sweetener</a>, and enjoy your <a href='/misc/sodium'>sodium</a>, <a href='/misc/potassium'>potassium</a> and <a href='/misc/magnesium'>magnesium</a>!
 Instructions:
@@ -88,7 +88,8 @@ Notes:
     "Calories",
     "Sodium",
     "Magnesium",
-    "Potassium"
+    "Potassium",
+    "Serving Cost"
   )
 
 # - |

@@ -139,6 +139,7 @@ Notes:
     "Calories",
     "Magnesium",
     "Potassium",
-    "Sodium"
+    "Sodium",
+    "Serving Cost"
   )
 ---

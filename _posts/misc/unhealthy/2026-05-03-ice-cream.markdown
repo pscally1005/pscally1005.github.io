@@ -113,7 +113,9 @@ Notes:
     "Fat",
     "Net Carbs",
     "Fiber",
-    "Added Sugar"
+    "Added Sugar",
+    "Cost",
+    "Mass"
   )
 
 - |
@@ -140,6 +142,8 @@ Notes:
     "Fat",
     "Net Carbs",
     "Fiber",
-    "Added Sugar"
+    "Added Sugar",
+    "Cost",
+    "Mass"
   )
 ---
