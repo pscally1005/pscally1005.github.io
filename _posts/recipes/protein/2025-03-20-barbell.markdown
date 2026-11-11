@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Copycat Barebell Protein Bars
-date:   2026-11-11 00:00:00 -0500
+date:   2025-03-20 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
@@ -93,12 +93,14 @@ Notes:
 - |
   The following are all good variations I've tried of these <a href='/protein-bar'>protein bars</a>:<br><br>
   <ol>
+      <div id='1' class='table-of-contents-2'></div>
       <li><i>Original recipe with <a href='/misc/chocolate-benefits'>unsweetened chocolate</a> (<a href='#recipe'>as written above</a>)</i>
         <ul>
           <li>Mix melted <a href='/misc/nuts#coconut'>coconut oil</a> with <a href='/misc/chocolate-benefits'>cocoa powder</a> to make your melted <a href='/misc/chocolate-benefits'>chocolate</a></li>
           <li>I prefer it unsweetened, but you can add 1-2 tbsp of any <a href='https://amzn.to/4ceFnvP'>granular</a> (12-24 g) or <a href='/recipes/sugar-free-syrup'>liquid</a> (20-40 g) sweetener, or 1/2 tsp (2.5 g) <a href='https://amzn.to/44ZDhwi'>liquid monk fruit</a></li>
         </ul><br>
 
+      <div id='2' class='table-of-contents-2'></div>
       <li><i><a href='/recipes/monkfruit-chocolate-chunks'>Sugar free chocolate chips</a></i>
         <ul>
           <li>Replace the <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a></li>
@@ -106,18 +108,21 @@ Notes:
           <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
+      <div id='3' class='table-of-contents-2'></div>
       <li><i><a href='/misc/grains#oats'>Oat Flour</a></i>
         <ul>
           <li>Replace <a href='/misc/nuts#coconut'>coconut flour</a> with <a href='/misc/grains#oats'>oat flour</a> (1:1)</li>
           <li>Reduce the water to 1/4 cup (60 g)</li>
         </ul><br>
 
+      <div id='4' class='table-of-contents-2'></div>
       <li><i><a href='/misc/nuts#almonds'>Almond Flour</a></i>
         <ul>
           <li>Replace <a href='/misc/nuts#coconut'>coconut flour</a> with <a href='/misc/nuts#almonds'>almond flour</a> (1:1)</li>
           <li>Reduce the water to 1/4 cup (60 g)</li>
         </ul><br>
 
+      <div id='5' class='table-of-contents-2'></div>
       <li><i>Candy Bar</i>
         <ul>
           <li>Replace <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with granulated <a href='/misc/hidden-sugar'>sugar</a> (1:1)</li>
@@ -126,12 +131,14 @@ Notes:
           <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
+      <div id='6' class='table-of-contents-2'></div>
       <li><i>Flavored <a href='/misc/dairy#whey'>Whey</a></i>
         <ul>
           <li>Use a flavored <a href='/misc/dairy#whey'>whey protein powder</a> in place of the unflavored.  Vanilla is better but <a href='/misc/chocolate-benefits'>chocolate</a> is good too</li>
           <li>Omit the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
         </ul><br>
 
+      <div id='7' class='table-of-contents-2'></div>
       <li><i>Double Flavored <a href='/misc/dairy#whey'>Whey</a></i>
         <ul>
           <li>Use a flavored <a href='/misc/dairy#whey'>whey protein powder</a> in place of the unflavored.  Vanilla is better but <a href='/misc/chocolate-benefits'>chocolate</a> is good too</li>
@@ -139,11 +146,13 @@ Notes:
           <li>Replace the <a href='/misc/chocolate-benefits'>cocoa powder</a> in the coating with flavored <a href='/misc/dairy#whey'>whey protein powder</a>.  Use vanilla for a white <a href='/misc/chocolate-benefits'>chocolate</a> coating, or <a href='/misc/chocolate-benefits'>chocolate</a> for a milk <a href='/misc/chocolate-benefits'>chocolate</a> coating</li>
         </ul><br>
 
+      <div id='8' class='table-of-contents-2'></div>
       <li><i><a href='https://amzn.to/44ZDhwi'>Liquid Monk Fruit</a></i>
         <ul>
           <li>Use 1 tsp (5 g) of <a href='https://amzn.to/44ZDhwi'>liquid monk fruit</a> (or <a href='https://amzn.to/45wOzIv'>stevia</a>) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
         </ul><br>
 
+      <div id='9' class='table-of-contents-2'></div>
       <li><i><a href='/misc/natural-sweeteners#honey'>Honey</a></i>
         <ul>
           <li>Use 4 tbsp (84 g) of <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
@@ -153,6 +162,7 @@ Notes:
           <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
+      <div id='10' class='table-of-contents-2'></div>
       <li><i>Double <a href='/misc/natural-sweeteners#honey'>Honey</a></i>
         <ul>
           <li>Use 4 tbsp (84 g) of <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
@@ -160,6 +170,7 @@ Notes:
           <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a>, but add 2 tbsp (42 g) <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) to the melted <a href='/misc/chocolate-benefits'>chocolate</a></li>
         </ul><br>
 
+      <div id='11' class='table-of-contents-2'></div>
       <li><i><a href='/recipes/sugar-free-syrup'>Sugar Free Syrup</a></i>
         <ul>
           <li>Use 4 tbsp (80 g) of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
@@ -167,6 +178,7 @@ Notes:
           <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a>, but optionally add 2 tbsp (40 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> to the melted <a href='/misc/chocolate-benefits'>chocolate</a> </li>
         </ul><br>
 
+      <div id='12' class='table-of-contents-2'></div>
       <li><i>Reese's</i></li>
         <ul>
           <li>Replace the <a href='/misc/dairy#whey'>whey</a> in the filling with 1 cup (96 g) <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a></li>
@@ -175,6 +187,7 @@ Notes:
           <li>Keep the <a href='/misc/chocolate-benefits'>chocolate</a> coating the same</li>
         </ul><br>
 
+      <div id='13' class='table-of-contents-2'></div>
       <li><i>Double <a href='/misc/nuts#peanuts'>Peanut Butter</a></i></li>
       <ul>
         <li>Replace the <a href='/misc/dairy#whey'>whey</a> in the filling with 1 cup (96 g) <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a></li>
@@ -184,6 +197,7 @@ Notes:
         <li>If your <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> is unsalted, then add a 1/4 tsp (1.25 g) of salt to the <a href='/misc/nuts#peanuts'>peanut butter</a> coating</li>
       </ul><br>
 
+      <div id='14' class='table-of-contents-2'></div>
       <li><i>White Chocolate Peanut Butter</i></li>
       <ul>
         <li>Replace the <a href='/misc/dairy#whey'>whey</a> in the filling with 1 cup (96 g) <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a></li>
@@ -192,6 +206,7 @@ Notes:
         <li>Replace the <a href='/misc/chocolate-benefits'>cocoa powder</a> in the coating with vanilla <a href='/misc/dairy#whey'>whey protein powder</a>.  You can also use chocolate for a milk chocolate peanut butter <a href='/protein-bar'>protein bar</a></li>
       </ul><br>
 
+      <div id='15' class='table-of-contents-2'></div>
       <li><i><a href='/misc/dairy#casein'>Casein Protein Powder</a></i></li>
         <ul>
           <li>Replace the <a href='/misc/dairy#whey'>whey</a> in the filling with 3 scoops (90 g) of <a href='/misc/dairy#casein'>casein protein powder</a></li>
@@ -199,6 +214,7 @@ Notes:
           <li>Increase the water to 1.25 cup (300 g).  No that's not a typo</li>
         </ul><br>
 
+      <div id='16' class='table-of-contents-2'></div>
       <li><i>Lower <a href='/misc/hidden-sugar'>Sugar</a></i></li>
         <ul>
           <li>This variation is for those who want less <a href='/misc/hidden-sugar'>added sugar</a> than the candy bar, <a href='/misc/natural-sweeteners#honey'>honey</a>, or double <a href='/misc/natural-sweeteners#honey'>honey</a> versions, but not <a href='/misc/hidden-sugar'>sugar free</a> like the rest.  It's a good compromise of <a href='/misc/hidden-sugar'>sugar free</a> flavored <a href='/misc/dairy#whey'>protein powder</a> and <a href='/misc/natural-sweeteners#honey'>honey</a> sweetened <a href='/misc/chocolate-benefits'>chocolate</a></li>
@@ -227,22 +243,22 @@ Notes:
     "barbell-casein",
     "barbell-low-sug";
 
-    "<a href='#recipe'>Original<br>Recipe</a>",
-    "<a href='/recipes/monkfruit-chocolate-chunks'>Sugar<br>Free<br>Chocolate<br>Chips</a>",
-    "<a href='/misc/grains#oats'>Oat<br>Flour</a>",
-    "<a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
-    "Candy<br>Bar",
-    "Flavored<br><a href='/misc/dairy#whey'>Whey</a>",
-    "Double<br>Flavored<br><a href='/misc/dairy#whey'>Whey</a>",
-    "<a href='https://amzn.to/44ZDhwi'>Liquid<br>Monk<br>Fruit</a>",
-    "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
-    "Double<br><a href='/misc/natural-sweeteners#honey'>Honey</a>",
-    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
-    "Reese's",
-    "Double<br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a>",
-    "White<br>Chocolate<br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a>",
-    "<a href='/misc/dairy#casein'>Casein<br>Protein<br>Powder</a>",
-    "Lower<br><a href='/misc/hidden-sugar'>Sugar</a>";
+    "<a href='#1'>1</a><br><a href='#recipe'>Original<br>Recipe</a>",
+    "<a href='#2'>2</a><br><a href='/recipes/monkfruit-chocolate-chunks'>Sugar<br>Free<br>Chocolate<br>Chips</a>",
+    "<a href='#3'>3</a><br><a href='/misc/grains#oats'>Oat<br>Flour</a>",
+    "<a href='#4'>4</a><br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
+    "<a href='#5'>5</a><br>Candy<br>Bar",
+    "<a href='#6'>6</a><br>Flavored<br><a href='/misc/dairy#whey'>Whey</a>",
+    "<a href='#7'>7</a><br>Double<br>Flavored<br><a href='/misc/dairy#whey'>Whey</a>",
+    "<a href='#8'>8</a><br><a href='https://amzn.to/44ZDhwi'>Liquid<br>Monk<br>Fruit</a>",
+    "<a href='#9'>9</a><br><a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "<a href='#10'>10</a><br>Double<br><a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "<a href='#11'>11</a><br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
+    "<a href='#12'>12</a><br>Reese's",
+    "<a href='#13'>13</a><br>Double<br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a>",
+    "<a href='#14'>14</a><br>White<br>Chocolate<br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a>",
+    "<a href='#15'>15</a><br><a href='/misc/dairy#casein'>Casein<br>Protein<br>Powder</a>",
+    "<a href='#16'>16</a><br>Lower<br><a href='/misc/hidden-sugar'>Sugar</a>";
 
     "Calories",
     "Protein",
@@ -250,7 +266,6 @@ Notes:
     "Net Carbs",
     "Fiber",
     "Added Sugar",
-    "Sugar Alcohol",
     "Cost",
     "Mass"
   )

@@ -143,16 +143,16 @@ Notes:
     "swpottoastnutella",
     "swpottoastyogblue";
 
-    "<a href='#1'>1</a>",
-    "<a href='#2'>2</a>",
-    "<a href='#3'>3</a>",
-    "<a href='#4'>4</a>",
-    "<a href='#5'>5</a>",
-    "<a href='#6'>6</a>",
-    "<a href='#7'>7</a>",
-    "<a href='#8'>8</a>",
-    "<a href='#9'>9</a>",
-    "<a href='#10'>10</a>";
+    "<a href='#1'>1</a><br><a href='/misc/fruit#avocado'>Avocado</a><br><a href='/misc/cooking-eggs#fried'>Egg</a>",
+    "<a href='#2'>2</a><br><a href='/hummus'>Hummus</a><br><a href='https://amzn.to/40gmjGE'>Everything<br>Bagel<br>Seasoning</a>",
+    "<a href='#3'>3</a><br><a href='/misc/homemade-cheese#labneh'>Labneh</a><br><a href='/misc/fish#salmon'>Smoked<br>Salmon</a>",
+    "<a href='#4'>4</a><br><a href='/recipes/creamy-pesto'>Pesto</a><br><a href='/misc/veggies#tomato'>Tomato</a>",
+    "<a href='#5'>5</a><br><a href='/misc/dairy#cottage-cheese'>Cottage<br>Cheese</a><br><a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "<a href='#6'>6</a><br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a><br><a href='/misc/fruit#banana'>Banana</a>",
+    "<a href='#7'>7</a><br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a><br><a href='/recipes/berry-jam'>Jam</a>",
+    "<a href='#8'>8</a><br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a><br><a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "<a href='#9'>9</a><br><a href='/recipes/protein-nutella'>Protein<br>Nutella</a><br><a href='/misc/fruit#strawberries'>Strawberries</a>",
+    "<a href='#10'>10</a><br><a href='/misc/dairy#yogurt'>Yogurt</a><br><a href='/misc/fruit#blueberries'>Blueberries</a>";
 
     "Calories",
     "Protein",
