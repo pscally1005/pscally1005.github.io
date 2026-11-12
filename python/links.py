@@ -13,6 +13,17 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/red-velvet-cheesecake": [
+        "protein red velvet cheesecake bars",
+        "protein red velvet cheesecake bar",
+        "protein red velvet cheesecake",
+        "high protein red velvet cheesecake bars",
+        "high protein red velvet cheesecake bar",
+        "high protein red velvet cheesecake",
+        "high-protien red velvet cheesecake bars",
+        "high-protien red velvet cheesecake bar",
+        "high-protein red velvet cheesecake"
+    ],
     "/recipes/caramel-protein-bars": [
         "caramel protein bars",
         "caramel protein bar"
@@ -11525,7 +11536,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-19")):
+            if not file.startswith(("2026-12-04")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 
