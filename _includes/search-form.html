@@ -6,10 +6,7 @@
     </div>
 
     <!-- Search Results Count -->
-    <div id="results-count" class='page-post-count'></div> <!-- This will display the number of results found -->
-
-    <!-- Search Results Container -->
-    <ul id="results-container"></ul>
+    <div id="results-count" class="page-post-count"></div>
 </div>
 
 <!-- Custom search (word-boundary + relevance sort); SimpleJekyllSearch no longer used -->
@@ -20,9 +17,23 @@
     display: block;
     max-width: 600px;
     width: 100%;
-    margin: 0 auto 10px; /* center on desktop */
+    margin: 0 auto; /* center on desktop */
     box-sizing: border-box;
     right: 1px;
+  }
+
+  #results-count {
+    display: none;
+    margin: .25em 0 0;
+    padding-bottom: 0;
+  }
+
+  .filter-options[open] #results-count {
+    display: block;
+  }
+
+  #search-results-container {
+    display: none;
   }
 
   #search-input {
@@ -103,7 +114,11 @@
 
     // Custom search: word-boundary matching + relevance sort (title > tags > categories > other)
     const searchResultTemplate = `
-            <li class="result-item"
+            <li class="post-item result-item"
+                data-url="{url}"
+                data-date="{date}"
+                data-content-type="{content_type}"
+                data-content-categories="{content_categories}"
                 data-gluten-free="{gluten_free}"
                 data-vegetarian="{vegetarian}"
                 data-dairy-free="{dairy_free}"
@@ -115,7 +130,7 @@
                     <img src='{image}' alt='' class='blog-roll-image'>
                     <span class='post-meta'>{date}</span>
                     <div class='post-title'>
-                        <a class='post-link' href="{url}">{title}</a>
+                        <b><a class='post-link' href="{url}">{title}</a></b>
                     </div>
                     <center>
                         <div class='allergen-container'>
@@ -177,25 +192,83 @@
 
     let searchData = [];
 
-    fetch('/search.json')
-      .then(r => r.json())
+    function normalizeSearchUrl(url) {
+      let value = (url || '').trim();
+      try {
+        value = new URL(value, window.location.origin).pathname;
+      } catch (error) {
+        value = value.split(/[?#]/)[0];
+      }
+      return value.replace(/\/+$/, '').replace(/^\/+/, '');
+    }
+
+    function isArticleItem(item) {
+      if (item.content_type === 'article') return true;
+      if (item.content_type === 'recipe') return false;
+      const url = normalizeSearchUrl(item.url).toLowerCase();
+      const categories = (item.content_categories || item.categories || '').toLowerCase();
+      return url.indexOf('misc/') === 0 && categories.indexOf('unhealthy recipes') === -1;
+    }
+
+    function getPageSearchData() {
+      const pagePosts = document.querySelectorAll('#home-posts-container .post-item');
+      const summary = document.querySelector('.filter-options summary');
+      const isArticlePage = summary && summary.textContent.trim() === 'Find Articles';
+      const isHomePage = Boolean(document.getElementById('contentType'));
+      const typeMatches = isHomePage
+        ? searchData
+        : searchData.filter(item => isArticlePage ? isArticleItem(item) : !isArticleItem(item));
+      if (!pagePosts.length) return typeMatches;
+
+      const pageUrls = new Set(Array.from(pagePosts).map(post =>
+        normalizeSearchUrl(post.getAttribute('data-url'))
+      ));
+      const pageTitles = new Set(Array.from(pagePosts).map(post => {
+        const title = post.getAttribute('data-title') || '';
+        return title.trim().replace(/\s+/g, ' ').toLowerCase();
+      }));
+
+      const pageMatches = typeMatches.filter(item => {
+        const hasMatchingUrl = pageUrls.has(normalizeSearchUrl(item.url));
+        const hasMatchingTitle = pageTitles.has(
+          (item.title || '').trim().replace(/\s+/g, ' ').toLowerCase()
+        );
+        return hasMatchingUrl || hasMatchingTitle;
+      });
+      return pageMatches.length ? pageMatches : typeMatches;
+    }
+
+    fetch('{{ "/search.json" | relative_url }}')
+      .then(response => {
+        if (!response.ok) throw new Error(`Search index request failed: ${response.status}`);
+        return response.json();
+      })
       .then(json => {
+        if (!Array.isArray(json)) throw new Error('Search index is not an array');
         searchData = json;
         const q = document.getElementById('search-input').value.trim();
         if (q) runSearch(q);
       })
-      .catch(() => { searchData = []; });
+      .catch(error => {
+        searchData = [];
+        console.error('Unable to load search index.', error);
+      });
 
     function runSearch(query) {
       const container = document.getElementById('results-container');
+      const resultsContainer = document.getElementById('search-results-container');
+      const homeContainer = document.getElementById('home-posts-container');
       container.innerHTML = '';
       const q = (query || '').trim();
+      resultsContainer.style.display = q ? 'block' : 'none';
+      homeContainer.style.display = q ? 'none' : '';
       if (!q) {
         updateResultsUI();
+        filterPosts();
         return;
       }
       const terms = q.split(/\s+/).filter(Boolean);
-      const matches = searchData
+      const matches = getPageSearchData()
         .filter(item => itemMatchesQuery(item, terms))
         .map(item => ({
           item,
@@ -209,12 +282,17 @@
         .map(x => x.item);
       if (matches.length === 0) {
         updateResultsUI();
+        filterPosts();
         return;
       }
       matches.forEach(item => container.appendChild(
         Object.assign(document.createElement('div'), { innerHTML: compileTemplate(item) }).firstElementChild
       ));
       updateResultsUI();
+      filterPosts();
+      if (typeof sortPosts === 'function') {
+        sortPosts(document.getElementById('sortOrder').value);
+      }
     }
 
     document.getElementById('search-input').addEventListener('input', function() {
@@ -230,7 +308,9 @@
       const visibleItems = [...resultItems].filter(item => item.offsetParent !== null);
       const count = visibleItems.length;
 
-      resultsCountElement.textContent = count > 0 ? `${count} result(s) found` : 'No results found';
+      if (searchInput.value.trim()) {
+        resultsCountElement.textContent = `${count} result(s) found`;
+      }
 
       visibleItems.forEach((item, index) => {
         const countElement = item.querySelector('.post-count');

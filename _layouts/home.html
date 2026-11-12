@@ -20,33 +20,19 @@ layout: base
     <h1 class='page-title'><a rel='' target='' href='#top-home'>Recent Posts</a></h1>
   {%- endif -%}
 
-  <!-- Shuffle Button -->
-  {% if
-    page.title and
-    page.title != "Search" and
-    page.title != "Archive" and
-    page.title != "Hidden" and
-    page.title != "Draft" and
-    page.title != "Delete"
-  %}
-    <div class='shuffle-container'>
-      <center><a href='#' id='button' class='button'>Shuffle Post</a></center>
-    </div>
+  {% assign is_misc_page = false %}
+  {% if page.categories == "Misc." or page.categories[0] == "Misc." %}
+    {% assign is_misc_page = true %}
   {% endif %}
 
-  <!-- Allergen filter -->
-  {% if
-    page.categories != "Misc." or
-    page.categories == "Misc." and page.title == "Unhealthy Recipes"
-  %}
-    {% unless
-        page.title == "Search"
-    %}
+  <!-- Recipe and article filters -->
+  {% unless page.title == "Archive" or page.title == "Hidden" or page.title == "Draft" or page.title == "Delete" %}
       <center>
-        <div class='filter-options' aria-label='Recipe filters'>
-          <h2>Find Recipes</h2>
+        <details class='filter-options'>
+          <summary>{% if is_misc_page %}Find Articles{% else %}Find Recipes{% endif %}</summary>
+          <div class='filter-options-content' aria-label='Recipe filters'>
+          {% unless is_misc_page %}
           <div class='filter-mode'>
-            <span>Filter mode</span>
             <div class='filter-mode-options' role='group' aria-label='Filter mode'>
               <label><input type='radio' name='filterMode' value='include' checked /> Include</label>
               <label><input type='radio' name='filterMode' value='exclude' /> Exclude</label>
@@ -62,44 +48,99 @@ layout: base
             <label><input type='checkbox' id='sugarFree' /> <span id='sugarLabel'>Sugar-Free</span></label>
             <label><input type='checkbox' id='highProtein' /> <span id='highProteinLabel'>High-Protein</span></label>
           </div>
+          {% endunless %}
+          {% if page.title == "Home" %}
+          <div class='content-type-filter'>
+            <label for='contentType'>Content type:</label>
+            <select id='contentType'>
+              <option value='all' selected>All</option>
+              <option value='recipe'>Recipes</option>
+              <option value='article'>Articles</option>
+            </select>
+          </div>
+          {% endif %}
+          <div class='sort-options'>
+            <label for='sortOrder'>Sort by:</label>
+            <select id='sortOrder'>
+              <option value='newest' selected>Date (Newest First)</option>
+              <option value='oldest'>Date (Oldest First)</option>
+              <option value='abc'>Alphabetical (A–Z)</option>
+              <option value='zyx'>Alphabetical (Z–A)</option>
+              <option value='random'>Random</option>
+            </select>
+          </div>
+          <div class='shuffle-container'>
+            <center><a href='#' id='button' class='button'>Shuffle Post</a></center>
+          </div>
           <div class='filter-footer'>
+          {% unless is_misc_page %}
             <p id='filter-count'>0 filters selected</p>
             <button type='button' id='clearFilters'>Clear Filters</button>
+          {% endunless %}
           </div>
-        </div>
+          {% include search-form.html %}
+          </div>
+        </details>
       </center>
+      <div id="search-results-container">
+        <ul id="results-container"></ul>
+      </div>
 
       <style>
         .filter-options {
-          max-width: 620px;
+          width: fit-content;
+          box-sizing: border-box;
           margin: 1em auto;
-          padding: 1em 1.25em;
+          padding: 0;
           border: 2px solid var(--minima-brand-color);
           background-color: var(--minima-background-color);
           color: var(--default-text-color);
           border-radius: 8px;
+          text-align: center;
+        }
+
+        .filter-options summary {
+          padding: .5em 1em;
+          color: var(--default-text-color);
+          cursor: pointer;
+          font-size: 1.2em;
+          font-weight: bold;
+          list-style-position: inside;
+        }
+
+        .filter-options-content {
+          width: 100%;
+          padding-top: 1em;
+          padding-bottom: 0;
           text-align: left;
         }
 
-        .filter-options h2 {
-          margin: 0 0 .75em;
-          text-align: center;
+        .filter-options[open] {
+          width: 100%;
+          max-width: 620px;
+          padding: 1em 1.25em 0;
         }
 
-        .filter-mode {
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          gap: 1em;
-          margin-bottom: .5em;
-          text-align: center;
+        .filter-options[open] summary {
+          padding: 0;
         }
 
         .filter-mode-options {
           display: inline-flex;
+          margin: 0 auto 1em;
+          width: fit-content;
           border: 2px solid var(--minima-brand-color);
           border-radius: 6px;
           overflow: hidden;
+        }
+
+        .filter-mode {
+          display: flex;
+          justify-content: center;
+        }
+
+        .filter-mode-options {
+          text-align: center;
         }
 
         .filter-mode-options label {
@@ -159,53 +200,68 @@ layout: base
           cursor: pointer;
         }
 
-        @media (max-width: 480px) {
-          .filter-mode {
-            align-items: center;
-          }
+        .content-type-filter {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: .5em;
+          margin: 1em 0;
+          color: var(--default-text-color);
+        }
 
+        .sort-options {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: .5em;
+          margin: 1em 0;
+          color: var(--default-text-color);
+        }
+
+        .content-type-filter select,
+        .sort-options select {
+          width: 210px;
+          height: 32px;
+          padding: 3px 8px;
+          border: 1px solid var(--minima-brand-color);
+          border-radius: 6px;
+          background: var(--minima-background-color);
+          color: var(--default-text-color);
+          font: inherit;
+          line-height: 1.2;
+          text-align: center;
+          vertical-align: middle;
+        }
+
+        @media (max-width: 480px) {
           .filter-checkboxes {
             grid-template-columns: 1fr;
           }
         }
     </style>
 
-    {% endunless %}
-  {% endif %}
-
-  <!-- Sort Options -->
-  {% unless page.title == "Search" %}
-    <center>
-      <div class="sort-options" style="margin-top: 1em;">
-        <label for="sortOrder"><span class='page-sort-by'>Sort by:</span></label>
-        <select id="sortOrder">
-          <option value="newest" selected>Date (Newest First)</option>
-          <option value="oldest">Date (Oldest First)</option>
-          <option value="abc">Alphabetical (A–Z)</option>
-          <option value="zyx">Alphabetical (Z–A)</option>
-          <option value="random">Random</option>
-        </select>
-      </div>
-    </center>
-  {% endunless%}
+  {% endunless %}
 
   <script>
     // Function to sort posts by date or alphabetically
     function sortPosts(order) {
-      const container = document.getElementById('home-posts-container');
+      const searchInput = document.getElementById('search-input');
+      const container = searchInput && searchInput.value.trim()
+        ? document.getElementById('results-container')
+        : document.getElementById('home-posts-container');
       const posts = Array.from(container.querySelectorAll('.post-item'));
 
       // Extract title and date from each post
       const sortedPosts = posts.sort((a, b) => {
         switch (order) {
           case 'abc':
-            return a.querySelector('.post-title b').textContent
+            return a.querySelector('.post-title').textContent
               .trim().toLowerCase()
-              .localeCompare(b.querySelector('.post-title b').textContent.trim().toLowerCase());
+              .localeCompare(b.querySelector('.post-title').textContent.trim().toLowerCase());
           case 'zyx':
-            return b.querySelector('.post-title b').textContent
+            return b.querySelector('.post-title').textContent
               .trim().toLowerCase()
-              .localeCompare(a.querySelector('.post-title b').textContent.trim().toLowerCase());
+              .localeCompare(a.querySelector('.post-title').textContent.trim().toLowerCase());
           case 'oldest':
             return new Date(a.dataset.date) - new Date(b.dataset.date);
           case 'random':
@@ -225,10 +281,6 @@ layout: base
     }
 
     // Event listener for dropdown changes
-    document.getElementById('sortOrder').addEventListener('change', function() {
-      sortPosts(this.value);
-    });
-
     // remember last user choice
     document.getElementById('sortOrder').addEventListener('change', function() {
       localStorage.setItem('sortOrder', this.value);
@@ -243,15 +295,6 @@ layout: base
     });
 
   </script>
-
-  <style>
-    .sort-options select {
-      padding: 4px 8px;
-      font-size: 0.9rem;
-      border-radius: 6px;
-    }
-  </style>
-
 
   {{ content }}
 
@@ -319,13 +362,6 @@ layout: base
     {%- if page.list_title -%}
       <h2 class='post-list-heading'>{{ page.list_title }}</h2>
     {%- endif -%}
-
-    <!-- Display total count of posts -->
-    <div class='post-count-container'>
-      {% if page.title != "Search" %}
-        <span class='page-post-count'>{{ postCount }} result(s)</span>
-      {% endif %}
-    </div>
 
     <ul class='post-list'>
 
@@ -404,8 +440,11 @@ layout: base
 
             <div class='post-item'
                 data-url='{{ post.url | relative_url }}'
+                data-title='{{ post.title | escape }}'
                 data-date='{{ post.date | date_to_xmlschema }}'
-                data-gluten-free='{{ gluten_free }}'
+                          data-content-type='{% if post.categories[0] == "Misc." and post.categories[1] != "Unhealthy Recipes" %}article{% else %}recipe{% endif %}'
+                          data-content-categories='{{ post.categories }}'
+                          data-gluten-free='{{ gluten_free }}'
                 data-vegetarian='{{ vegetarian }}'
                 data-dairy-free='{{ dairy_free }}'
                 data-vegan='{{ vegan }}'
@@ -470,7 +509,8 @@ layout: base
 <!-- JavaScript for shuffling posts -->
 <script>
   // JavaScript for shuffling posts
-  document.getElementById('button').addEventListener('click', function(event) {
+  var shuffleButton = document.getElementById('button');
+  if (shuffleButton) shuffleButton.addEventListener('click', function(event) {
     event.preventDefault();
 
     // Get the posts that are currently displayed (visible) after filtering
@@ -534,6 +574,16 @@ layout: base
     clearFiltersButton.addEventListener('click', function() {
       resetFilters();
       document.querySelector('input[name="filterMode"][value="include"]').checked = true;
+      var contentTypeElement = document.getElementById('contentType');
+      if (contentTypeElement) contentTypeElement.value = 'all';
+      document.getElementById('sortOrder').value = 'newest';
+      localStorage.setItem('sortOrder', 'newest');
+      var searchInput = document.getElementById('search-input');
+      if (searchInput) {
+        searchInput.value = '';
+        searchInput.dispatchEvent(new Event('input'));
+      }
+      sortPosts('newest');
       filterPosts();
     });
   }
@@ -543,15 +593,29 @@ layout: base
     var filterOptions = document.querySelector('.filter-options');
     if (!filterOptions) return;
 
-    var posts = document.querySelectorAll('.post-item');
-    var excludeMode = document.querySelector('input[name="filterMode"]:checked').value === 'exclude';
-    var glutenFreeChecked = document.getElementById('glutenFree').checked;
-    var vegetarianChecked = document.getElementById('vegetarian').checked;
-    var dairyFreeChecked = document.getElementById('dairyFree').checked;
-    var veganChecked = document.getElementById('vegan').checked;
-    var nutFreeChecked = document.getElementById('nutFree').checked;
-    var sugarFreeChecked = document.getElementById('sugarFree').checked;
-    var highProteinChecked = document.getElementById('highProtein').checked;
+    var searchInput = document.getElementById('search-input');
+    var activeContainer = searchInput && searchInput.value.trim()
+      ? document.getElementById('results-container')
+      : document.getElementById('home-posts-container');
+    var posts = activeContainer ? activeContainer.querySelectorAll('.post-item') : [];
+    var modeInput = document.querySelector('input[name="filterMode"]:checked');
+    var excludeMode = modeInput ? modeInput.value === 'exclude' : false;
+    var glutenFreeElement = document.getElementById('glutenFree');
+    var vegetarianElement = document.getElementById('vegetarian');
+    var dairyFreeElement = document.getElementById('dairyFree');
+    var veganElement = document.getElementById('vegan');
+    var nutFreeElement = document.getElementById('nutFree');
+    var sugarFreeElement = document.getElementById('sugarFree');
+    var highProteinElement = document.getElementById('highProtein');
+    var glutenFreeChecked = glutenFreeElement ? glutenFreeElement.checked : false;
+    var vegetarianChecked = vegetarianElement ? vegetarianElement.checked : false;
+    var dairyFreeChecked = dairyFreeElement ? dairyFreeElement.checked : false;
+    var veganChecked = veganElement ? veganElement.checked : false;
+    var nutFreeChecked = nutFreeElement ? nutFreeElement.checked : false;
+    var sugarFreeChecked = sugarFreeElement ? sugarFreeElement.checked : false;
+    var highProteinChecked = highProteinElement ? highProteinElement.checked : false;
+    var contentTypeElement = document.getElementById('contentType');
+    var contentType = contentTypeElement ? contentTypeElement.value : 'all';
 
     var visibleCount = 0;
 
@@ -563,6 +627,14 @@ layout: base
       var postNutFree = post.getAttribute('data-nut-free') === "true";
       var postSugarFree = post.getAttribute('data-sugar-free') === "true";
       var postHighProtein = post.getAttribute('data-high-protein') === "true";
+      var categories = (post.getAttribute('data-content-categories') || '').trim().toLowerCase();
+      var postContentType = (post.getAttribute('data-content-type') || '').trim().toLowerCase();
+      if (postContentType !== 'article' && postContentType !== 'recipe') {
+        postContentType = /^\s*(?:\[\s*)?(?:["']\s*)?misc\./i.test(categories) &&
+          categories.indexOf('unhealthy recipes') === -1
+          ? 'article'
+          : 'recipe';
+      }
 
       var shouldDisplay = true;
 
@@ -573,29 +645,55 @@ layout: base
       if (nutFreeChecked && postNutFree === excludeMode) shouldDisplay = false;
       if (sugarFreeChecked && postSugarFree === excludeMode) shouldDisplay = false;
       if (highProteinChecked && postHighProtein === excludeMode) shouldDisplay = false;
+      if (contentType !== 'all') {
+        var matchesContentType = postContentType === contentType;
+        if ((excludeMode && matchesContentType) || (!excludeMode && !matchesContentType)) {
+          shouldDisplay = false;
+        }
+      }
 
       post.style.display = shouldDisplay ? 'block' : 'none';
 
       if (shouldDisplay) visibleCount++;
     });
 
-    var postCountElement = document.querySelector('.page-post-count');
-    if (postCountElement) {
-      postCountElement.textContent = visibleCount + " result(s)";
+    var resultsCountElement = document.getElementById('results-count');
+    if (resultsCountElement) {
+      resultsCountElement.textContent = visibleCount + " result(s) found";
     }
 
-    var selectedCount = document.querySelectorAll('.filter-checkboxes input:checked').length;
-    document.getElementById('filter-count').textContent = selectedCount + (selectedCount === 1 ? " filter selected" : " filters selected");
-    document.getElementById('filter-description').textContent = excludeMode
-      ? "Show recipes that do not meet the selected criteria."
-      : "Show recipes that meet the selected criteria.";
-    updateFilterLabels(excludeMode);
+    var filterCountElement = document.getElementById('filter-count');
+    if (filterCountElement) {
+      var selectedCount = document.querySelectorAll('.filter-checkboxes input:checked').length;
+      if (contentType !== 'all') selectedCount++;
+      filterCountElement.textContent = selectedCount + (selectedCount === 1 ? " filter selected" : " filters selected");
+    }
+    var filterDescriptionElement = document.getElementById('filter-description');
+    if (filterDescriptionElement) {
+      filterDescriptionElement.textContent = excludeMode
+        ? "Show recipes that do not meet the selected criteria."
+        : "Show recipes that meet the selected criteria.";
+    }
+    if (document.getElementById('glutenLabel')) updateFilterLabels(excludeMode);
   }
 
   // Listen for changes to the filter checkboxes
   document.querySelectorAll('.filter-options input').forEach(function(input) {
       input.addEventListener('change', filterPosts);
   });
+  var contentTypeFilter = document.getElementById('contentType');
+  if (contentTypeFilter) contentTypeFilter.addEventListener('change', filterPosts);
+
+  var filterPanel = document.querySelector('.filter-options');
+  if (filterPanel) {
+    filterPanel.addEventListener('toggle', function() {
+      var resultsCountElement = document.getElementById('results-count');
+      if (resultsCountElement) {
+        resultsCountElement.style.display = filterPanel.open ? 'block' : 'none';
+      }
+      if (filterPanel.open) filterPosts();
+    });
+  }
 
 </script>
 

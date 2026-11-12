@@ -112,6 +112,8 @@ layout: none
 
     {
       "title"    : "{{ post.title | escape }}",
+      "content_type": "{% if post.categories[0] == 'Misc.' and post.categories[1] != 'Unhealthy Recipes' %}article{% else %}recipe{% endif %}",
+      "content_categories": "{{ post.categories }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "categories": "{{ post.categories }}",
       "date"     : "{{ post.date | date: date_format }}",
