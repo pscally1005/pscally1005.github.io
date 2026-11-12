@@ -936,7 +936,7 @@
         // Update the servings count in the nutrition facts section
         const nutritionServingCount = document.getElementById('nutritionServingCount');
         if (nutritionServingCount) {
-            nutritionServingCount.textContent = servings;
+            nutritionServingCount.textContent = formatQuantity(servings, "");
         }
     }
 
@@ -984,6 +984,7 @@
     // Initial update on page load
     servingCountInput.value = baseServings; // Show initial servings in the input
     updateIngredients(); // Update ingredients initially
+    document.addEventListener("DOMContentLoaded", updateIngredients);
 </script>
 
 <style>
