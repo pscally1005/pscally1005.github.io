@@ -47,6 +47,7 @@ tags:
 - pea butter
 - pea protein powder
 - pea protein isolate
+- pea protein concentrate
 - extra virgin olive oil
 - oat flour
 - inulin
@@ -60,6 +61,7 @@ tags:
 - nut free peanut butter
 - nut-free peanut butter
 - pea butter recipe
+- psyllium husks
 Description: |
   This isn't <a href='/recipes/natural-peanut-butter'>peanut butter</a>.  It's pea butter, aka <a href='https://amzn.to/4aXnK21'>pea protein</a> with <a href='/misc/olive-oil'>extra virgin olive oil</a>.  The <a href='/misc/olive-oil'>oil</a> and <a href='https://amzn.to/4aXnK21'>protein powder</a> add the exact amounts of <a href='/misc/fats'>fats</a> and <a href='/misc/protein'>protein</a>, while <a href='/misc/grains#oats'>oats</a> and <a href='https://amzn.to/47w8h7R'>inulin</a> add <a href='/misc/carbs'>net carbs</a> and <a href='/misc/fiber'>fiber</a>.  Finally, salt and <a href='https://amzn.to/3P2NFNU'>potassium chloride</a> add <a href='/misc/sodium'>sodium</a> and <a href='/misc/potassium'>potassium</a>.<br><br>
 
@@ -75,10 +77,12 @@ Instructions:
 Notes:
 - I'm using <a href='/misc/olive-oil'>EVOO</a>, but any other <a href='/misc/olive-oil'>oil</a>, like <a href='/misc/nuts#coconut'>virgin coconut oil</a> or avocado oil would work here.
 
-- |
-  I prefer <a href='/misc/grains#oats'>oat flour</a> because of it's nutty flavor, as well as it's slightly coarse texture, making it feel like a <a href='/recipes/natural-peanut-butter'>homemade nut butter</a>, halfway between creamy and crunchy.  <a href='/misc/grains#oats'>Oat flour</a> also provides nearly identical amounts of <a href='/misc/carbs'>net carbs</a> to make this <a href='/copycat'>copycat</a> <a href='/recipes/natural-peanut-butter'>nut butter</a> match a standard <a href='/recipes/natural-peanut-butter'>peanut butter</a>.<br><br>
+- 1/2 tbsp (2.5 g) <a href='/misc/psyllium-husk'>psyllium husk</a> can be used in place of <a href='https://amzn.to/47w8h7R'>inulin</a>.
 
-  Other options besides <a href='/misc/grains#oats'>oat flour</a> though include <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/seeds#flax-seeds'>ground flaxseed</a>, cornstarch, or even <a href='/misc/chocolate-benefits'>cocoa powder</a>.  Just make sure to use <b>6 g</b> of each (volume may vary).
+# - |
+#   I prefer <a href='/misc/grains#oats'>oat flour</a> because of it's nutty flavor, as well as it's slightly coarse texture, making it feel like a <a href='/recipes/natural-peanut-butter'>homemade nut butter</a>, halfway between creamy and crunchy.  <a href='/misc/grains#oats'>Oat flour</a> also provides nearly identical amounts of <a href='/misc/carbs'>net carbs</a> to make this <a href='/copycat'>copycat</a> <a href='/recipes/natural-peanut-butter'>nut butter</a> match a standard <a href='/recipes/natural-peanut-butter'>peanut butter</a>.<br><br>
+
+#   Other options besides <a href='/misc/grains#oats'>oat flour</a> though include <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/seeds#flax-seeds'>ground flaxseed</a>, cornstarch, or even <a href='/misc/chocolate-benefits'>cocoa powder</a>.  Just make sure to use <b>6 g</b> of each (volume may vary).
 # - |
 #   COMPARE(
 #     "peabutter",
@@ -114,6 +118,8 @@ Notes:
     <li>Made <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a> using <a href='#recipe'>pea butter</a> instead of <a href='/recipes/natural-peanut-butter'>peanut butter</a>.</li>
 
     <li>Spread <a href='#recipe'>pea butter</a> onto a <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbread</a>.</li>
+
+    <li>Substituted the <a href='/misc/nuts#almonds'>almond butter</a> with <a href='#recipe'>pea butter</a> in my <a href='/recipes/bulking-brownies'>Clean Bulking Brownies</a>.</li>
 
     <li>Substituted the <a href='/misc/nuts#almonds'>almond butter</a> with <a href='#recipe'>pea butter</a> in my <a href='/recipes/nutty-veggies'>Nutty Veggies</a>.</li>
 

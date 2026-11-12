@@ -744,7 +744,7 @@
       <!-- Extract the percentage -->
       {% if line contains '%' %}
           {% assign percentage_raw = line | split: '(' | last %}
-          {% assign percentage = percentage_raw | remove: '%' | remove: ')' | strip %}
+          {% assign percentage = percentage_raw | remove: '%' | remove: ')' | strip | replace: ' ', '' | plus: 0 %}
       {% else %}
           {% assign percentage = -1 %}
       {% endif %}

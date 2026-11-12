@@ -5,7 +5,7 @@ date:   2025-01-09 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
-showPercentage: no
+showPercentage: vitMin
 hummus: no
 oatmeal: no
 yogurt: no

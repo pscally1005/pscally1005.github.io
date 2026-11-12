@@ -1025,6 +1025,11 @@
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
+        if (window.nutritionPercentTooltipsInitialized) {
+            return;
+        }
+        window.nutritionPercentTooltipsInitialized = true;
+
         document.querySelectorAll(".nutrition-percent").forEach(function (el) {
             el.addEventListener("click", function (e) {
                 e.preventDefault();
