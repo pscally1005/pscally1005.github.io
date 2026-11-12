@@ -819,8 +819,13 @@
           {% assign percentage = 0 %}
       {% endif %}
 
+      {% capture dv_tooltip %}{% include dvTooltipText.html percent=percentage nutrient=nutrient %}{% endcapture %}
+      {% assign dv_tooltip = dv_tooltip | strip_newlines | strip %}
+      {% capture percentage_html %}{% include percentTooltip.html percent=percentage tooltip=dv_tooltip %}{% endcapture %}
+      {% assign percentage_html = percentage_html | strip %}
+
       <!-- Combine for the output -->
-      {% assign output = value | append: ' ' | append: unit | append: '<br>(' | append: percentage | append: ' %)' %}
+      {% assign output = value | append: ' ' | append: unit | append: '<br>(' | append: percentage_html | append: ')' %}
 
       {% comment %}
         nutrient:"{{ nutrient }}"<br>
@@ -834,7 +839,7 @@
       {% endif %}
       {% if showPercentage == "True" or showPercentage == "true" %}
           {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" or page.title == "The Surprising Benefits of Chocolate" or page.title == "Olive Oil: Superfood or Super Overrated?" or page.title == "Beans are Carbs" %}
-              {% assign output = value | append: ' ' | append: unit | append: ' (' | append: percentage | append: ' %)' %}
+              {% assign output = value | append: ' ' | append: unit | append: ' (' | append: percentage_html | append: ')' %}
 
               {% assign nutrients_without_percentage = "Calories|Net Carbs|Sugar|Monounsaturated Fat|Polyunsaturated Fat|Trans Fat|Caffeine|Total Sugar|Sugar Alcohol|Allulose|Lactose|EPA|DHA|Alcohol|Soluble Fiber|Insoluble Fiber" | split: "|" %}
               {% if nutrients_without_percentage contains nutrient %}

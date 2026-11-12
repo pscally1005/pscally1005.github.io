@@ -1,4 +1,21 @@
 {% assign dv_info = site.data.dailyValues[include.nutrient] %}
+{% unless dv_info %}
+  {% assign dv_key = "" %}
+  {% case include.nutrient %}
+    {% when "Vitamin A" %}{% assign dv_key = "Vitamin A, RAE" %}
+    {% when "Vitamin B1", "Thiamin" %}{% assign dv_key = "Thiamin [Vitamin B1]" %}
+    {% when "Vitamin B2", "Riboflavin" %}{% assign dv_key = "Riboflavin [Vitamin B2]" %}
+    {% when "Vitamin B3", "Niacin" %}{% assign dv_key = "Niacin [Vitamin B3]" %}
+    {% when "Vitamin B5", "Pantothenic Acid" %}{% assign dv_key = "Pantothenic acid [Vitamin B5]" %}
+    {% when "Vitamin B9", "Folate" %}{% assign dv_key = "Folate, DFE [Vitamin B9]" %}
+    {% when "Vitamin B12", "Cobalamin" %}{% assign dv_key = "Vitamin B12 [Cobalamin]" %}
+    {% when "Vitamin C" %}{% assign dv_key = "Vitamin C [Ascorbic acid]" %}
+    {% when "Vitamin E" %}{% assign dv_key = "Vitamin E (alpha-tocopherol)" %}
+  {% endcase %}
+  {% if dv_key != "" %}
+    {% assign dv_info = site.data.dailyValues[dv_key] %}
+  {% endif %}
+{% endunless %}
 {% assign percent = include.percent %}
 {% if dv_info.reference %}
 {{ percent }} % {{ dv_info.reference }} ({{ dv_info.amount }} {{ dv_info.unit }})
