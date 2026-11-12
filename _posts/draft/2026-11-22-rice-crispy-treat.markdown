@@ -36,7 +36,7 @@ start5:
 section5:
 Prep: 10
 Rest: 120
-Cook:
+Cook: 5
 Source1: https://www.instagram.com/p/DfCmFq5FQx6/?obrf=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==
 Source2: http://poormanprotein.com/recipes/marshmallow-fluff
 Source3:
@@ -55,24 +55,21 @@ tags:
 - marshmallows
 Description: These homemade rice crispy treats are made with only 2 ingredients:<b></b> plain <a href='https://link.amazon/B0hc1TDhB'>puffed rice cereal</a>, and my <a href='/recipes/marshmallow-fluff'>Homemade Marshmallow Fluff</a>. They're <a href='/misc/hidden-sugar'>refined sugar free</a>, and are much better than those cardboard tasting storebought <a href='https://link.amazon/B0fZuOtnn'>Rice Krispies Treats</a>.
 Instructions:
-- Mix together <a href='https://link.amazon/B0hc1TDhB'>puffed rice cereal</a> and <a href='/recipes/marshmallow-fluff'>marshmallow fluff</a> in a <a href='https://amzn.to/4rb3CiD'>large metal bowl</a> with your hands until well combined.
+- Add <a href='https://link.amazon/B0hc1TDhB'>puffed rice</a> to a dry <a href='https://amzn.to/4rdR0HI'>large pan</a>. Toast over medium heat for about 3-5 minutes with occasional stirring, or until fragrant, lightly browned, and crispier. Set aside to cool for 5 minutes.
+- <img src='/assets/Food/Healthier Dessert/Rice Crispy Treat/stove.jpg' alt='' class='instruction-image'>
+
+- Mix together <a href='https://link.amazon/B0hc1TDhB'>puffed rice cereal</a> and (room temperature) <a href='/recipes/marshmallow-fluff'>marshmallow fluff</a> in a <a href='https://amzn.to/4rb3CiD'>large metal bowl</a> with your hands (wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>) until well combined.
 - <img src='/assets/Food/Healthier Dessert/Rice Crispy Treat/bowl.jpg' alt='' class='instruction-image'>
 
-- Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. Evenly press the mixture into the pan.
+- Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. Lightly wet a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and evenly press the mixture into the pan.
 - <img src='/assets/Food/Healthier Dessert/Rice Crispy Treat/pan.jpg' alt='' class='instruction-image'>
 
 - Chill in the fridge for at least 2 hours before slicing into 24 bars.
 - <img src='/assets/Food/Healthier Dessert/Rice Crispy Treat/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- Wear <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking when mixing in step 1 and pressing into the pan in step 2.
-
-- Working with room temperature <a href='/recipes/marshmallow-fluff'>fluff</a> will be easier than chilled <a href='/recipes/marshmallow-fluff'>fluff</a>.
-
-- Don't compress the mixture too much in the pan or it could become too dense. Press it just firmly enough to create an even layer.
-
 - If you use my <a href='/recipes/marshmallow-fluff'>Healthier Marshmallow Fluff</a>, then 5 cups (480 g) corresponds to 1 entire batch.
 
-- Below is a nutritional comparison of <a href='#recipe'>these homemade rice crispy treats</a> using either my <a href='/recipes/marshmallow-fluff'>Healthier Marshmallow Fluff</a>, or standard <a href='https://link.amazon/B01x3kci4'>storebought fluff</a>, as compared to a storebought <a href='https://link.amazon/B0fZuOtnn'>Rice Krispies Treat</a>. Each of the 3 bars has the same serving size, <b>22 g</b>.
+- Below is a nutritional comparison of <a href='#recipe'>these homemade rice crispy treats</a> using either my <a href='/recipes/marshmallow-fluff'>Healthier Marshmallow Fluff</a>, or standard <a href='https://link.amazon/B01x3kci4'>storebought fluff</a>, as compared to a storebought <a href='https://link.amazon/B0fZuOtnn'>Rice Krispies Treat</a>. Each of the 3 versinos has the same serving size of <b>22 g</b>.
 - |
   COMPARE(
     "ricecrispytreats",

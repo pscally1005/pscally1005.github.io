@@ -10496,7 +10496,7 @@ EXCLUDED_PHRASES = [
     "peanut spread",
     "breakfast is the most important meal of the day",
     "isn't the healthiest breakfast",
-    "puffed rice",
+    # "puffed rice",
     'part of a complete breakfast',
     "transport fats",
     "transport fat",
