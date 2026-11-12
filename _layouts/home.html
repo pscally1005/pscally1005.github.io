@@ -43,39 +43,129 @@ layout: base
         page.title == "Search"
     %}
       <center>
-        <div class='filter-options'>
-          <label><input type='checkbox' id='glutenFree' /> Gluten-Free</label>
-          <label><input type='checkbox' id='vegetarian' /> Vegetarian</label>
-          <span class="mobile-break"></span>
-          <label><input type='checkbox' id='dairyFree' /> Dairy-Free</label>
-          <label><input type='checkbox' id='vegan' /> Vegan</label>
-          <span class="break"></span>
-          <label><input type='checkbox' id='nutFree' /> Nut-Free</label>
-          <label><input type='checkbox' id='sugarFree' /> Sugar-Free</label>
-          <span class="mobile-break"></span>
-          <label><input type='checkbox' id='highProtein' /> High-Protein</label>
+        <div class='filter-options' aria-label='Recipe filters'>
+          <h2>Find Recipes</h2>
+          <div class='filter-mode'>
+            <span>Filter mode</span>
+            <div class='filter-mode-options' role='group' aria-label='Filter mode'>
+              <label><input type='radio' name='filterMode' value='include' checked /> Include</label>
+              <label><input type='radio' name='filterMode' value='exclude' /> Exclude</label>
+            </div>
+          </div>
+          <p id='filter-description'>Show recipes that meet the selected criteria.</p>
+          <div class='filter-checkboxes'>
+            <label><input type='checkbox' id='glutenFree' /> <span id='glutenLabel'>Gluten-Free</span></label>
+            <label><input type='checkbox' id='vegetarian' /> <span id='vegetarianLabel'>Vegetarian</span></label>
+            <label><input type='checkbox' id='dairyFree' /> <span id='dairyLabel'>Dairy-Free</span></label>
+            <label><input type='checkbox' id='vegan' /> <span id='veganLabel'>Vegan</span></label>
+            <label><input type='checkbox' id='nutFree' /> <span id='nutLabel'>Nut-Free</span></label>
+            <label><input type='checkbox' id='sugarFree' /> <span id='sugarLabel'>Sugar-Free</span></label>
+            <label><input type='checkbox' id='highProtein' /> <span id='highProteinLabel'>High-Protein</span></label>
+          </div>
+          <div class='filter-footer'>
+            <p id='filter-count'>0 filters selected</p>
+            <button type='button' id='clearFilters'>Clear Filters</button>
+          </div>
         </div>
       </center>
 
       <style>
-        /* Adds a line break to both mobile & desktop */
-        .break {
-          display: block;
-          height: 0; /* optional spacing if needed */
+        .filter-options {
+          max-width: 620px;
+          margin: 1em auto;
+          padding: 1em 1.25em;
+          border: 2px solid var(--minima-brand-color);
+          background-color: var(--minima-background-color);
+          color: var(--default-text-color);
+          border-radius: 8px;
+          text-align: left;
         }
 
-        /* Add a line break only on mobile */
-        @media (max-width: 768px) {
-          .mobile-break {
-            display: block;
-            height: 0; /* optional spacing if needed */
+        .filter-options h2 {
+          margin: 0 0 .75em;
+          text-align: center;
+        }
+
+        .filter-mode {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          gap: 1em;
+          margin-bottom: .5em;
+          text-align: center;
+        }
+
+        .filter-mode-options {
+          display: inline-flex;
+          border: 2px solid var(--minima-brand-color);
+          border-radius: 6px;
+          overflow: hidden;
+        }
+
+        .filter-mode-options label {
+          padding: .35em .75em;
+          cursor: pointer;
+        }
+
+        .filter-mode-options label:has(input:checked) {
+          background: var(--minima-brand-color);
+          font-weight: bold;
+        }
+
+        .filter-mode-options input {
+          position: absolute;
+          opacity: 0;
+        }
+
+        #filter-description,
+        #filter-count {
+          margin: .5em 0;
+          font-size: .9em;
+          color: var(--default-text-color);
+        }
+
+        #filter-description {
+          text-align: center;
+        }
+
+        .filter-footer {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 1em;
+        }
+
+        #clearFilters {
+          padding: .35em .75em;
+          border: 2px solid var(--minima-brand-color);
+          border-radius: 6px;
+          background: transparent;
+          color: var(--default-text-color);
+          cursor: pointer;
+        }
+
+        #clearFilters:hover {
+          background: var(--menu-hover-color);
+        }
+
+        .filter-checkboxes {
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+          gap: .6em 1.5em;
+          margin: 1em 0;
+        }
+
+        .filter-checkboxes label {
+          cursor: pointer;
+        }
+
+        @media (max-width: 480px) {
+          .filter-mode {
+            align-items: center;
           }
-        }
 
-        /* Hide the break on desktop */
-        @media (min-width: 769px) {
-          .mobile-break {
-            display: none;
+          .filter-checkboxes {
+            grid-template-columns: 1fr;
           }
         }
     </style>
@@ -423,9 +513,38 @@ layout: base
       });
   }
 
+  function updateFilterLabels(excludeMode) {
+    var labels = {
+      glutenLabel: excludeMode ? "Contains Gluten" : "Gluten-Free",
+      vegetarianLabel: excludeMode ? "Not Vegetarian" : "Vegetarian",
+      dairyLabel: excludeMode ? "Contains Dairy" : "Dairy-Free",
+      veganLabel: excludeMode ? "Not Vegan" : "Vegan",
+      nutLabel: excludeMode ? "Contains Nuts" : "Nut-Free",
+      sugarLabel: excludeMode ? "Contains Sugar" : "Sugar-Free",
+      highProteinLabel: excludeMode ? "Not High-Protein" : "High-Protein"
+    };
+
+    Object.keys(labels).forEach(function(id) {
+      document.getElementById(id).textContent = labels[id];
+    });
+  }
+
+  var clearFiltersButton = document.getElementById('clearFilters');
+  if (clearFiltersButton) {
+    clearFiltersButton.addEventListener('click', function() {
+      resetFilters();
+      document.querySelector('input[name="filterMode"][value="include"]').checked = true;
+      filterPosts();
+    });
+  }
+
   // Function to filter posts based on selected allergen values
   function filterPosts() {
+    var filterOptions = document.querySelector('.filter-options');
+    if (!filterOptions) return;
+
     var posts = document.querySelectorAll('.post-item');
+    var excludeMode = document.querySelector('input[name="filterMode"]:checked').value === 'exclude';
     var glutenFreeChecked = document.getElementById('glutenFree').checked;
     var vegetarianChecked = document.getElementById('vegetarian').checked;
     var dairyFreeChecked = document.getElementById('dairyFree').checked;
@@ -447,13 +566,13 @@ layout: base
 
       var shouldDisplay = true;
 
-      if (glutenFreeChecked && !postGlutenFree) shouldDisplay = false;
-      if (vegetarianChecked && !postVegetarian) shouldDisplay = false;
-      if (dairyFreeChecked && !postDairyFree) shouldDisplay = false;
-      if (veganChecked && !postVegan) shouldDisplay = false;
-      if (nutFreeChecked && !postNutFree) shouldDisplay = false;
-      if (sugarFreeChecked && !postSugarFree) shouldDisplay = false;
-      if (highProteinChecked && !postHighProtein) shouldDisplay = false;
+      if (glutenFreeChecked && postGlutenFree === excludeMode) shouldDisplay = false;
+      if (vegetarianChecked && postVegetarian === excludeMode) shouldDisplay = false;
+      if (dairyFreeChecked && postDairyFree === excludeMode) shouldDisplay = false;
+      if (veganChecked && postVegan === excludeMode) shouldDisplay = false;
+      if (nutFreeChecked && postNutFree === excludeMode) shouldDisplay = false;
+      if (sugarFreeChecked && postSugarFree === excludeMode) shouldDisplay = false;
+      if (highProteinChecked && postHighProtein === excludeMode) shouldDisplay = false;
 
       post.style.display = shouldDisplay ? 'block' : 'none';
 
@@ -464,6 +583,13 @@ layout: base
     if (postCountElement) {
       postCountElement.textContent = visibleCount + " result(s)";
     }
+
+    var selectedCount = document.querySelectorAll('.filter-checkboxes input:checked').length;
+    document.getElementById('filter-count').textContent = selectedCount + (selectedCount === 1 ? " filter selected" : " filters selected");
+    document.getElementById('filter-description').textContent = excludeMode
+      ? "Show recipes that do not meet the selected criteria."
+      : "Show recipes that meet the selected criteria.";
+    updateFilterLabels(excludeMode);
   }
 
   // Listen for changes to the filter checkboxes
