@@ -22,7 +22,10 @@ LINKS = {
         "high protein red velvet cheesecake",
         "high-protien red velvet cheesecake bars",
         "high-protien red velvet cheesecake bar",
-        "high-protein red velvet cheesecake"
+        "high-protein red velvet cheesecake",
+        "red velvet cheesecake bars",
+        "red velvet cheesecake bar",
+        "red velvet cheesecake"
     ],
     "/recipes/caramel-protein-bars": [
         "caramel protein bars",
