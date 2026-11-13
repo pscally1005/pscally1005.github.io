@@ -66,6 +66,10 @@ tags:
 - low-carb tortillas
 - whole wheat wraps
 - whole wheat tortillas
+- fiber chocolate spread
+- chocolate fiber spread
+- protein chocolate spread
+- chocolate protein spread
 Description: Here's a simple and quick chocolate spread that's <a href='/misc/hidden-sugar'>sugar-free</a>, <a href='/misc/dairy'>dairy-free</a>, high in <a href='/misc/protein'>protein</a>, and high in <a href='/misc/fiber'>fiber</a>. Simply mix <a href='/misc/dairy#pea-protein'>pea protein</a> and <a href='/misc/psyllium-husk'>psyllium husks</a> with <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/3Sg1Z7p'>sweetener</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a> for a thick, chocolatey spread. Enjoy it on its own, or spread it onto your favorite foods, such as a <a href='/recipes/copycat-carb-balance'>Copycat Carb Balance Wrap</a>! Each serving provides 10 g of <a href='/misc/protein'>protein</a> and 11 g of <a href='/misc/fiber'>fiber</a> in just 82 <a href='/misc/calories'>calories</a>.
 Instructions:
 - Add all ingredients to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.

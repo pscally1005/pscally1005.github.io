@@ -26,7 +26,6 @@ layout: base
   {% endif %}
 
   <!-- Recipe and article filters -->
-  {% unless page.title == "Archive" or page.title == "Hidden" or page.title == "Draft" or page.title == "Delete" %}
       <center>
         <details class='filter-options'>
           <summary>{% if is_misc_page %}Find Articles{% else %}Find Recipes{% endif %}</summary>
@@ -66,6 +65,7 @@ layout: base
               <option value='oldest'>Date (Oldest First)</option>
               <option value='abc'>Alphabetical (A–Z)</option>
               <option value='zyx'>Alphabetical (Z–A)</option>
+              <option value='relevant'>Most Relevant</option>
               <option value='random'>Random</option>
             </select>
           </div>
@@ -240,8 +240,6 @@ layout: base
         }
     </style>
 
-  {% endunless %}
-
   <script>
     // Function to sort posts by date or alphabetically
     function sortPosts(order) {
@@ -266,6 +264,8 @@ layout: base
             return new Date(a.dataset.date) - new Date(b.dataset.date);
           case 'random':
             return Math.random() - 0.5;
+          case 'relevant':
+            return Number(b.dataset.relevance || 0) - Number(a.dataset.relevance || 0);
           default:
             // Default: newest first
             return new Date(b.dataset.date) - new Date(a.dataset.date);
@@ -288,10 +288,13 @@ layout: base
     });
     window.addEventListener('load', function() {
       const saved = localStorage.getItem('sortOrder');
-      if (saved) {
-        document.getElementById('sortOrder').value = saved;
-        sortPosts(saved);
-      }
+        const searchInput = document.getElementById('search-input');
+        const hasQuery = searchInput && searchInput.value.trim();
+        const sortOrder = saved === 'relevant' && !hasQuery ? 'newest' : (saved || 'newest');
+        if (document.getElementById('sortOrder')) {
+          document.getElementById('sortOrder').value = sortOrder;
+          sortPosts(sortOrder);
+        }
     });
 
   </script>
@@ -513,10 +516,13 @@ layout: base
   if (shuffleButton) shuffleButton.addEventListener('click', function(event) {
     event.preventDefault();
 
-    // Get the posts that are currently displayed (visible) after filtering
-    var posts = document.querySelectorAll('.post-item');
+    var searchInput = document.getElementById('search-input');
+    var activeContainer = searchInput && searchInput.value.trim()
+      ? document.getElementById('results-container')
+      : document.getElementById('home-posts-container');
+    var posts = activeContainer ? activeContainer.querySelectorAll('.post-item') : [];
     var visiblePosts = Array.from(posts).filter(function(post) {
-      return post.style.display !== 'none'; // Only include posts that are visible
+      return window.getComputedStyle(post).display !== 'none';
     });
 
     // If there are any visible posts, shuffle one of them randomly
@@ -614,6 +620,9 @@ layout: base
     var nutFreeChecked = nutFreeElement ? nutFreeElement.checked : false;
     var sugarFreeChecked = sugarFreeElement ? sugarFreeElement.checked : false;
     var highProteinChecked = highProteinElement ? highProteinElement.checked : false;
+    var allergenFilterSelected = glutenFreeChecked || vegetarianChecked ||
+      dairyFreeChecked || veganChecked || nutFreeChecked ||
+      sugarFreeChecked || highProteinChecked;
     var contentTypeElement = document.getElementById('contentType');
     var contentType = contentTypeElement ? contentTypeElement.value : 'all';
 
@@ -638,6 +647,7 @@ layout: base
 
       var shouldDisplay = true;
 
+      if (allergenFilterSelected && postContentType !== 'recipe') shouldDisplay = false;
       if (glutenFreeChecked && postGlutenFree === excludeMode) shouldDisplay = false;
       if (vegetarianChecked && postVegetarian === excludeMode) shouldDisplay = false;
       if (dairyFreeChecked && postDairyFree === excludeMode) shouldDisplay = false;
@@ -647,7 +657,7 @@ layout: base
       if (highProteinChecked && postHighProtein === excludeMode) shouldDisplay = false;
       if (contentType !== 'all') {
         var matchesContentType = postContentType === contentType;
-        if ((excludeMode && matchesContentType) || (!excludeMode && !matchesContentType)) {
+        if (!matchesContentType) {
           shouldDisplay = false;
         }
       }
@@ -691,7 +701,15 @@ layout: base
       if (resultsCountElement) {
         resultsCountElement.style.display = filterPanel.open ? 'block' : 'none';
       }
-      if (filterPanel.open) filterPosts();
+      if (filterPanel.open) {
+        filterPosts();
+        if (window.matchMedia('(min-width: 769px)').matches) {
+          setTimeout(function() {
+            var searchInput = document.getElementById('search-input');
+            if (searchInput) searchInput.focus();
+          }, 0);
+        }
+      }
     });
   }
 

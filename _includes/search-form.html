@@ -285,9 +285,13 @@
         filterPosts();
         return;
       }
-      matches.forEach(item => container.appendChild(
-        Object.assign(document.createElement('div'), { innerHTML: compileTemplate(item) }).firstElementChild
-      ));
+      matches.forEach(item => {
+        const element = Object.assign(document.createElement('div'), {
+          innerHTML: compileTemplate(item)
+        }).firstElementChild;
+        element.dataset.relevance = relevanceScore(item, terms);
+        container.appendChild(element);
+      });
       updateResultsUI();
       filterPosts();
       if (typeof sortPosts === 'function') {
@@ -296,6 +300,17 @@
     }
 
     document.getElementById('search-input').addEventListener('input', function() {
+      const hadQuery = this.dataset.hasQuery === 'true';
+      const hasQuery = this.value.trim().length > 0;
+      this.dataset.hasQuery = hasQuery ? 'true' : 'false';
+      const sortOrder = document.getElementById('sortOrder');
+      if (sortOrder && hasQuery && !hadQuery) {
+        sortOrder.value = 'relevant';
+        localStorage.setItem('sortOrder', 'relevant');
+      } else if (sortOrder && !hasQuery) {
+        sortOrder.value = 'newest';
+        localStorage.setItem('sortOrder', 'newest');
+      }
       runSearch(this.value);
     });
 
