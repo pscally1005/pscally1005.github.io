@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Chocolate Fiber Protein Spread
-date:   2026-11-02 00:00:00 -0500
+date:   2026-11-13 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
