@@ -215,10 +215,22 @@
       const summary = document.querySelector('.filter-options summary');
       const isArticlePage = summary && summary.textContent.trim() === 'Find Articles';
       const isHomePage = Boolean(document.getElementById('contentType'));
-      const typeMatches = isHomePage
+      const statusPageTitles = ['Archive', 'Hidden', 'Draft', 'Delete'];
+      const pageTitle = document.querySelector('.page-title');
+      const statusPage = pageTitle && statusPageTitles.indexOf(pageTitle.textContent.trim()) !== -1;
+      const typeMatches = isHomePage || statusPage
         ? searchData
         : searchData.filter(item => isArticlePage ? isArticleItem(item) : !isArticleItem(item));
-      if (!pagePosts.length) return typeMatches;
+      if (!pagePosts.length) {
+        if (isHomePage) return typeMatches;
+        if (statusPage) {
+          const statusCategory = pageTitle.textContent.trim().toLowerCase();
+          return typeMatches.filter(item =>
+            (item.status_category || '').trim().toLowerCase() === statusCategory
+          );
+        }
+        return [];
+      }
 
       const pageUrls = new Set(Array.from(pagePosts).map(post =>
         normalizeSearchUrl(post.getAttribute('data-url'))
@@ -227,6 +239,12 @@
         const title = post.getAttribute('data-title') || '';
         return title.trim().replace(/\s+/g, ' ').toLowerCase();
       }));
+      if (statusPage) {
+        const statusCategory = pageTitle.textContent.trim().toLowerCase();
+        return typeMatches.filter(item =>
+          (item.status_category || '').trim().toLowerCase() === statusCategory
+        );
+      }
 
       const pageMatches = typeMatches.filter(item => {
         const hasMatchingUrl = pageUrls.has(normalizeSearchUrl(item.url));
@@ -235,7 +253,7 @@
         );
         return hasMatchingUrl || hasMatchingTitle;
       });
-      return pageMatches.length ? pageMatches : typeMatches;
+      return pageMatches;
     }
 
     fetch('{{ "/search.json" | relative_url }}')
