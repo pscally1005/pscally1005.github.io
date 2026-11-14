@@ -34,6 +34,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - index.markdown
+  - _pages/search.md
   - _pages/recipes.html
   - _pages/misc.html
   - _pages/about.html

@@ -218,9 +218,15 @@
       const statusPageTitles = ['Archive', 'Hidden', 'Draft', 'Delete'];
       const pageTitle = document.querySelector('.page-title');
       const statusPage = pageTitle && statusPageTitles.indexOf(pageTitle.textContent.trim()) !== -1;
+      const isStandaloneSearchPage = pageTitle && pageTitle.textContent.trim() === 'Search';
+      const liveSearchData = isStandaloneSearchPage
+        ? searchData.filter(item => !['archive', 'hidden', 'draft', 'delete'].includes(
+          (item.status_category || '').trim().toLowerCase()
+        ))
+        : searchData;
       const typeMatches = isHomePage || statusPage
-        ? searchData
-        : searchData.filter(item => isArticlePage ? isArticleItem(item) : !isArticleItem(item));
+        ? liveSearchData
+        : liveSearchData.filter(item => isArticlePage ? isArticleItem(item) : !isArticleItem(item));
       if (!pagePosts.length) {
         if (isHomePage) return typeMatches;
         if (statusPage) {

@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Peanut Butter Apple Wrap
-date:   2026-11-02 00:00:00 -0500
+date:   2026-11-14 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

@@ -48,7 +48,7 @@ layout: base
             <label><input type='checkbox' id='highProtein' /> <span id='highProteinLabel'>High-Protein</span></label>
           </div>
           {% endunless %}
-          {% if page.title == "Home" %}
+          {% if page.title == "Home" or page.title == "Search" %}
           <div class='content-type-filter'>
             <label for='contentType'>Content type:</label>
             <select id='contentType'>
@@ -78,9 +78,16 @@ layout: base
             <button type='button' id='clearFilters'>Clear Filters</button>
           {% endunless %}
           </div>
-          {% include search-form.html %}
+          {% unless page.title == "Search" %}
+            {% include search-form.html %}
+          {% endunless %}
           </div>
         </details>
+        {% if page.title == "Search" %}
+        <div class='standalone-search-bar'>
+          {% include search-form.html %}
+        </div>
+        {% endif %}
       </center>
       <div id="search-results-container">
         <ul id="results-container"></ul>
@@ -97,6 +104,16 @@ layout: base
           color: var(--default-text-color);
           border-radius: 8px;
           text-align: center;
+        }
+
+        .standalone-search-bar {
+          width: 100%;
+          max-width: 620px;
+          margin: 1em auto;
+        }
+
+        .standalone-search-bar #results-count {
+          display: block;
         }
 
         .filter-options summary {
@@ -669,7 +686,15 @@ layout: base
 
     var resultsCountElement = document.getElementById('results-count');
     if (resultsCountElement) {
-      resultsCountElement.textContent = visibleCount + " result(s) found";
+      var standaloneSearchBar = document.querySelector('.standalone-search-bar');
+      var hasQuery = searchInput && searchInput.value.trim();
+      if (standaloneSearchBar && !hasQuery) {
+        resultsCountElement.textContent = '';
+        resultsCountElement.style.display = 'none';
+      } else {
+        resultsCountElement.textContent = visibleCount + " result(s) found";
+        if (standaloneSearchBar) resultsCountElement.style.display = 'block';
+      }
     }
 
     var filterCountElement = document.getElementById('filter-count');
@@ -699,7 +724,15 @@ layout: base
     filterPanel.addEventListener('toggle', function() {
       var resultsCountElement = document.getElementById('results-count');
       if (resultsCountElement) {
-        resultsCountElement.style.display = filterPanel.open ? 'block' : 'none';
+        var standaloneSearchBar = document.querySelector('.standalone-search-bar');
+        var searchInput = document.getElementById('search-input');
+        var hasQuery = searchInput && searchInput.value.trim();
+        if (standaloneSearchBar && !hasQuery) {
+          resultsCountElement.textContent = '';
+          resultsCountElement.style.display = 'none';
+        } else {
+          resultsCountElement.style.display = filterPanel.open || standaloneSearchBar ? 'block' : 'none';
+        }
       }
       if (filterPanel.open) {
         filterPosts();

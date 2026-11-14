@@ -21,7 +21,7 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/chocolate-fiber-protein-spread
-image: /assets/Food/Sweet Spreads/Choc Fib Prot/untopped.jpg
+image: /assets/Food/Sweet Spreads/Choc Fib Prot/topped.jpg
 file: chocfibprotspread
 servingSize:
 section1:
@@ -76,7 +76,7 @@ Instructions:
 - <img src='/assets/Food/Sweet Spreads/Choc Fib Prot/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 - Here, I spread my Chocolate Fiber Protein Spread onto a <a href='/recipes/copycat-carb-balance'>Copycat Carb Balance Wrap</a>, and topped it with 5 g each of <a href='/misc/nuts#walnuts'>walnuts</a>, chocolate chips, and <a href='/misc/natural-sweeteners#honey'>honey</a>.
-- <img src='/assets/Food/Sweet Spreads/Choc Fib Prot/topped.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Sweet Spreads/Choc Fib Prot/untopped.jpg' alt='' class='instruction-image'>
 - |
   COMPARE(
     "chocfibprotspread",
