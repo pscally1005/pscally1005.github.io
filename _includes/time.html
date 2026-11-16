@@ -56,10 +56,11 @@
 
         <div class='recipe-section-bold'>Total Time:</div>
         <div class='recipe-section'>
-            {% if totaltime > 60 %}
+            {% assign total_hours = totaltime | divided_by: 60 %}
+            {% if total_hours > 1 %}
                 {{ totaltime | divided_by: 60}} hours
-            {% elsif totaltime == 60 %}
-                {{ totaltime | divided_by: 60}} hour
+            {% elsif total_hours == 1 %}
+                {{ total_hours }} hour
             {% endif %}
             {% if minutes > 0 %}
                 {{ minutes }} minutes
