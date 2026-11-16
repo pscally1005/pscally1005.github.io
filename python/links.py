@@ -13,6 +13,34 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/quinoa-scotcheroos": [
+        "popped quinoa scotcheroos",
+        "popped quinoa scotcheroo",
+        "puffed quinoa scotcheroos",
+        "puffed quinoa scotcheroo",
+        "quinoa scotcheroos",
+        "quinoa scotcheroo",
+        "chocolate peanut butter scotcheroos",
+        "chocolate peanut butter scotcheroo",
+        "peanut butter chocolate scotcheroos",
+        "peanut butter chocolate scotcheroo",
+        "chocolate peanut butter quinoa scotcheroos",
+        "chocolate peanut butter quinoa scotcheroo",
+        "peanut butter chocolate quinoa scotcheroos",
+        "peanut butter chocolate quinoa scotcheroo"
+        "chocolate quinoa scotcheroos",
+        "chocolate quinoa scotcheroo",
+        "peanut butter quinoa scotcheroos",
+        "peanut butter quinoa scotcheroo",
+        "healthy quinoa scotcheroos",
+        "healthy quinoa scotcheroo",
+        "homemade quinoa scotcheroos",
+        "homemade quinoa scotcheroo",
+        "healthy scotcheroos",
+        "healthy scotcheroo",
+        "homemade scotcheroos",
+        "homemade scotcheroo"
+    ],
     "/recipes/quinoa-crunch": [
       "copycat quinoa crunch bars",
       "copycat quinoa crunch bar",
@@ -9249,6 +9277,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "ridges on the side",
+    "quinoa base",
     "rich chocolate",
     "75% chocolate",
     "your chocolate",
@@ -11572,7 +11601,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-23")):
+            if not file.startswith(("2026-11-24")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 

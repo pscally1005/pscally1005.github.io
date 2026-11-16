@@ -52,11 +52,13 @@ tags:
 - trail mix
 - salad
 - chocolate quinoa crisps
-- quinoa scoteroos
+- quinoa scotcheroos
+- copycat
+- quinoa crunch bars
 Description: |
   Popped quinoa is a great crunchy way to add some <a href='/misc/carbs'>whole food carbs</a> and plant based <a href='/misc/protein'>protein</a> to your diet. It's super easy to prepare, and goes great in everything from <a href='/salad'>salads</a> and bowls to trail mixes and granola.<br><br>
 
-  For a homemade healthy <a href='https://link.amazon/B006FaR62'>crunch bar</a> using popped quinoa, check out my <a href='/recipes/quinoa-crunch'>Copycat Quinoa Crunch Bars</a>!
+  For a homemade healthy <a href='https://link.amazon/B006FaR62'>crunch bar</a> using popped quinoa, check out my <a href='/recipes/quinoa-crunch'>Copycat Quinoa Crunch Bars</a>! Or you can make <a href='/recipes/quinoa-scotcheroos'>Popped Quinoa Scotcheroos</a> using popped quinoa, <a href='/misc/chocolate-benefits'>chocolate</a>, and <a href='/misc/nuts#peanuts'>peanut butter</a>!
 Instructions:
 - Preheat a <a href='https://amzn.to/4pREQ61'>medium stainless steel pan</a> over medium heat without any oil.
 
