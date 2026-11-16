@@ -563,31 +563,6 @@ def grams(food, mass, vol):
         elif vol == "12 roll" or vol == "12 rolls":
             m = "954"
 
-    # Chicken fat
-    elif food == "Chicken fat" or food == "Extra virgin coconut oil":
-        if vol == "1 tsp":
-            m = "4"
-        elif vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
-            m = "7"
-        elif vol == "2 tsp":
-            m = "9"
-        elif vol == "1 tbsp":
-            m = "14"
-        elif vol == "2 tbsp":
-            m = "28"
-        elif vol == "3 tbsp":
-            m = "41"
-        elif vol == "4 tbsp" or vol == "1/4 cup":
-            m = "54"
-        elif vol == "5 tbsp":
-            m = "68"
-        elif vol == "6 tbsp":
-            m = "81"
-        elif vol == "7 tbsp":
-            m = "95"
-        elif vol == "8 tbsp" or vol == "1/2 cup":
-            m = "108"
-
     # Condensed milk
     elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free" or food == "Sugar free sweetened condensed milk" or food == "Maple syrup sweetenedcondensed milk" or food == "Honey sweetened condensed milk":
         if vol == "1 tbsp":
@@ -745,7 +720,7 @@ def grams(food, mass, vol):
             m = "320"
 
     # Oils
-    elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Unsalted butter" or food == "Salted butter":
+    elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Unsalted butter" or food == "Salted butter" or food == "Chicken fat":
         if vol == "1/2 tsp":
             m = "2.5"
         elif vol == "1 tsp":

@@ -13,6 +13,29 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/quinoa-crunch": [
+      "copycat quinoa crunch bars",
+      "copycat quinoa crunch bar",
+      "copycat quinoa crunch",
+      "quinoa crunch bars",
+      "quinoa crunch bar",
+      "quinoa crunch",
+      "copycat crunch bars",
+      "copycat crunch bar",
+      "copycat crunch",
+      "chocolate quinoa crunch bars",
+      "chocolate quinoa crunch bar",
+      "chocolate quinoa crunch",
+      "chocolate crunch bars",
+      "chocolate crunch bar",
+      "chocolate crunch",
+      "healthy crunch bars",
+      "healthy crunch bar",
+      "healthy crunch",
+      "homemade crunch bars",
+      "homemade crunch bar",
+      "homemade crunch"
+    ],
     "/recipes/red-velvet-cheesecake": [
         "protein red velvet cheesecake bars",
         "protein red velvet cheesecake bar",
@@ -6660,6 +6683,12 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://link.amazon/B006FaR62": [
+        "storebought crunch bars",
+        "storebought crunch bar",
+        "crunch bars",
+        "crunch bar"
+    ],
     "https://link.amazon/B005odqun": [
         "candy thermometer"
     ],
@@ -11539,7 +11568,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-12-04")):
+            if not file.startswith(("2026-11-23")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 

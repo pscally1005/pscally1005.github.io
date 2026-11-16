@@ -572,31 +572,6 @@ def vol_from_mass(food, mass, vol):
         elif mass == "954":
             v = "12 rolls"
 
-    # Chicken fat
-    elif food == "Chicken fat" or food == "Extra virgin coconut oil":
-        if mass == "4" or mass == "5":
-            v = "1 tsp"
-        elif mass == "7" or mass == "7.5":
-            v = "1/2 tbsp"
-        elif mass == "9" or mass == "10":
-            v = "2 tsp"
-        elif mass == "14" or mass == "15":
-            v = "1 tbsp"
-        elif mass == "27" or mass == "28":
-            v = "2 tbsp"
-        elif mass == "41" or mass == "42":
-            v = "3 tbsp"
-        elif mass == "54" or mass == "56" or mass == "55":
-            v = "1/4 cup"
-        elif mass == "68" or mass == "70":
-            v = "5 tbsp"
-        elif mass == "81" or mass == "84":
-            v = "6 tbsp"
-        elif mass == "95" or mass == "98":
-            v = "7 tbsp"
-        elif mass == "108" or mass == "112" or mass == "110":
-            v = "1/2 cup"
-
     # Condensed milk
     elif food == "Condensed milk" or food == "Sweetened condensed milk" or food == "Condensed milk, dairy free, sugar free" or food == "Condensed milk, sugar free" or food == "Sugar free sweetened condensed milk" or food == "Maple syrup sweetened condensed milk" or food == "Honey sweetened condensed milk":
         if mass == "19" or mass == "19.5" or mass == "20":
@@ -797,8 +772,34 @@ def vol_from_mass(food, mass, vol):
         elif mass == "160":
             v = "2 cup"
 
+
+    # Chicken fat
+    elif or food == "Extra virgin coconut oil":
+        if mass == "4" or mass == "5":
+            v = "1 tsp"
+        elif mass == "7" or mass == "7.5":
+            v = "1/2 tbsp"
+        elif mass == "9" or mass == "10":
+            v = "2 tsp"
+        elif mass == "14" or mass == "15":
+            v = "1 tbsp"
+        elif mass == "27" or mass == "28":
+            v = "2 tbsp"
+        elif mass == "41" or mass == "42":
+            v = "3 tbsp"
+        elif mass == "54" or mass == "56" or mass == "55":
+            v = "1/4 cup"
+        elif mass == "68" or mass == "70":
+            v = "5 tbsp"
+        elif mass == "81" or mass == "84":
+            v = "6 tbsp"
+        elif mass == "95" or mass == "98":
+            v = "7 tbsp"
+        elif mass == "108" or mass == "112" or mass == "110":
+            v = "1/2 cup"
+
     # Oils
-    elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Unsalted butter" or food == "Salted butter":
+    elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Unsalted butter" or food == "Salted butter" or food == "Chicken fat":
         if mass == "2.5":
             v = "1/2 tsp"
         elif mass == "5" or mass == "4":
@@ -819,7 +820,7 @@ def vol_from_mass(food, mass, vol):
             v = "6 tbsp"
         elif mass == "98":
             v = "7 tbsp"
-        elif mass == "112":
+        elif mass == "112" or mass == "108" or mass == "110" or mass == "113":
             v = "1/2 cup"
         elif mass == "126" or mass == "135":
             v = "9 tbsp"
