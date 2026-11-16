@@ -334,7 +334,8 @@ LINKS = {
     ],
     "#recipe": [
         # "recipe",
-        "this recipe"
+        "this recipe",
+        "homemade version"
     ],
     "#nutrition-facts": [
         "nutrition facts",
@@ -9248,6 +9249,9 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "ridges on the side",
+    "rich chocolate",
+    "75% chocolate",
+    "your chocolate",
     "hot syrup",
     "shape the cookie",
     "look like a pumpkin",
