@@ -14,6 +14,7 @@
 
 import os
 from PIL import Image
+# import traceback
 
 os.system('cls')
 
@@ -24,6 +25,7 @@ def scale_images_in_directory(directory):
                 continue
             elif filename.endswith(".jpg") or filename.endswith(".JPG") or filename.endswith(".png") or filename.endswith(".PNG") or filename.endswith(".jpeg"):
                 filepath = os.path.join(root, filename)
+                # print("Opening:", repr(filepath))
                 try:
                     img = Image.open(filepath)
 
@@ -45,8 +47,10 @@ def scale_images_in_directory(directory):
                     resized_img = img.resize((new_width, new_height), Image.LANCZOS)
                     # filepath = filepath[0:-4] + "_scaled.jpg"
                     resized_img.save(filepath)
+                    # resized_img.save(filepath + ".test.jpg")
                     print(f"{filename} scaled successfully")
                 except Exception as e:
+                    # traceback.print_exc()
                     print(f"Error scaling {filename}: {e}")
 
 # Replace 'path_to_your_directory' with the path to the directory containing your JPG images

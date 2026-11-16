@@ -39,7 +39,9 @@ LINKS = {
         "healthy scotcheroos",
         "healthy scotcheroo",
         "homemade scotcheroos",
-        "homemade scotcheroo"
+        "homemade scotcheroo",
+        "scotcheroos",
+        "scotcheroo"
     ],
     "/recipes/quinoa-crunch": [
       "copycat quinoa crunch bars",
@@ -6712,6 +6714,9 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://saltandbaker.com/scotcharoos/#recipe": [
+        "traditional scotcheroos"
+    ],
     "https://link.amazon/B006FaR62": [
         "storebought crunch bars",
         "storebought crunch bar",
@@ -9779,7 +9784,7 @@ EXCLUDED_PHRASES = [
     "trail mixes and granola",
     "quinoa seeds",
     "raw quinoa",
-    "quinoa scotcheroos",
+    # "quinoa scotcheroos",
     "taco spices",
     "taco night",
     "homemade broth, and delicious chicken fat",

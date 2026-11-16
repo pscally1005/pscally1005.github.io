@@ -772,32 +772,6 @@ def vol_from_mass(food, mass, vol):
         elif mass == "160":
             v = "2 cup"
 
-
-    # Chicken fat
-    elif or food == "Extra virgin coconut oil":
-        if mass == "4" or mass == "5":
-            v = "1 tsp"
-        elif mass == "7" or mass == "7.5":
-            v = "1/2 tbsp"
-        elif mass == "9" or mass == "10":
-            v = "2 tsp"
-        elif mass == "14" or mass == "15":
-            v = "1 tbsp"
-        elif mass == "27" or mass == "28":
-            v = "2 tbsp"
-        elif mass == "41" or mass == "42":
-            v = "3 tbsp"
-        elif mass == "54" or mass == "56" or mass == "55":
-            v = "1/4 cup"
-        elif mass == "68" or mass == "70":
-            v = "5 tbsp"
-        elif mass == "81" or mass == "84":
-            v = "6 tbsp"
-        elif mass == "95" or mass == "98":
-            v = "7 tbsp"
-        elif mass == "108" or mass == "112" or mass == "110":
-            v = "1/2 cup"
-
     # Oils
     elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Unsalted butter" or food == "Salted butter" or food == "Chicken fat":
         if mass == "2.5":
@@ -1232,7 +1206,7 @@ def vol_from_mass(food, mass, vol):
             v = "1 1/2 cup"
 
     # Nut butters & sauce
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter" or food == "Simple pasta sauce":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter" or food == "Simple pasta sauce" or food == "Creamy peanut butter":
         if mass == "5" or mass == "6":
             v = "1 tsp"
         elif mass == "8":
@@ -2179,6 +2153,8 @@ def vol_from_mass(food, mass, vol):
             v = "4 cup"
         elif mass == "80":
             v = "5 cup"
+        elif mass == "88":
+            v = "5 1/2 cup"
         elif mass == "96":
             v = "6 cup"
 

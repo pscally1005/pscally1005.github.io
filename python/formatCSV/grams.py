@@ -1202,7 +1202,7 @@ def grams(food, mass, vol):
             m = "94"
 
     # Nut butters & sauce
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter" or food == "Simple pasta sauce":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter" or food == "Simple pasta sauce" or food == "Creamy peanut butter":
         if vol == "1 tsp":
             m = "6"
         elif vol == "1/2 tbsp":
@@ -2434,6 +2434,8 @@ def grams(food, mass, vol):
             m = "64"
         elif vol == "5 cup":
             m = "80"
+        elif vol == "5 1/2 cup":
+            m = "88"
         elif vol == "6 cup":
             m = "96"
 
