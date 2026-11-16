@@ -37,7 +37,6 @@ header_pages:
   - _pages/search.md
   - _pages/recipes.html
   - _pages/misc.html
-  - _pages/about.html
   - _pages/amazon.html
 
 # Set to `true` to show excerpts on the homepage.
