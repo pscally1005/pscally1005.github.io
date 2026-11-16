@@ -9279,6 +9279,8 @@ EXCLUDED_PHRASES = [
     "ridges on the side",
     "quinoa base",
     "rich chocolate",
+    "no bake dessert",
+    "no-bake dessert",
     "75% chocolate",
     "your chocolate",
     "hot syrup",

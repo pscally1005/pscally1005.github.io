@@ -68,9 +68,9 @@ tags:
 - homemade scotcheroos bars
 - natural peanut butter
 Description: |
-  Scotcheroos are the lesser known but superior version of a homemade rice crispy treat. They're a no bake dessert made with a base of puffed rice and peanut butter, and with a layer of melted chocolate.
+  Scotcheroos are the lesser known but superior version of a <a href='/recipes/rice-crispy-treats'>homemade rice crispy treat</a>. They're a no bake dessert made with a base of <a href='https://link.amazon/B0hc1TDhB'>puffed rice</a> and <a href='/recipes/natural-peanut-butter'>peanut butter</a>, and with a layer of melted chocolate.
 
-  These healthy scotcheroos bars combine homemade chocolate with natural peanut butter and homemade  <a href='/recipes/popped-quinoa'>popped quinoa</a> for a delicious, crunchy treat. Naturally sweetened with <a href='/misc/natural-sweeteners#honey'>honey</a>, they're a refined sugar free alternative to typical scotcheroos with fewer <a href='/misc/calories'>calories</a> and less <a href='/misc/hidden-sugar'>added sugar</a>.<br><br>
+  These healthy scotcheroos bars combine <a href='/misc/chocolate-percentages'>homemade chocolate</a> with <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> and homemade <a href='/recipes/popped-quinoa'>popped quinoa</a> for a delicious, crunchy treat. Naturally sweetened with <a href='/misc/natural-sweeteners#honey'>honey</a>, they're a <a href='/misc/hidden-sugar'>refined sugar free</a> alternative to typical scotcheroos with fewer <a href='/misc/calories'>calories</a> and less <a href='/misc/hidden-sugar'>added sugar</a>.<br><br>
 
   For another <a href='/recipes/popped-quinoa'>popped quinoa</a> recipe, you can make <a href='/recipes/quinoa-crunch'>Copycat Quinoa Crunch Bars</a> using <a href='/recipes/popped-quinoa'>popped quinoa</a>, <a href='/misc/chocolate-benefits'>chocolate</a>, and <a href='/misc/nuts#coconut'>coconut oil</a>!
 Instructions:
@@ -80,15 +80,15 @@ Instructions:
   For a more in-depth guide, check out my <a href='/recipes/popped-quinoa'>Single Serving Popped Quinoa</a>.
 - <img src='/assets/Food/Finger Food/Quinoa Scotcheroos/quinoa.jpg' alt='' class='instruction-image'>
 
-- Combine the <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, until smooth.
+- Combine the <a href='/recipes/natural-peanut-butter'>peanut butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, until smooth.
 
 - Add the <a href='/recipes/popped-quinoa'>popped quinoa</a>, and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Finger Food/Quinoa Scotcheroos/bowl.jpg' alt='' class='instruction-image'>
 
-- Evenly spread the mixture into a parchment-lined 9" square pan, pressing it down firmly.
+- Evenly spread the mixture into a parchment-lined <a href='https://amzn.to/3YY2H9q'>9" square pan</a>, pressing it down firmly.
 - <img src='/assets/Food/Finger Food/Quinoa Scotcheroos/pan.jpg' alt='' class='instruction-image'>
 
-- Add melted coconut oil, cocoa powder, honey, and salt to a small bowl.
+- Add melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and salt to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>.
 
 - Evenly spread the melted chocolate over the quinoa base.
 
