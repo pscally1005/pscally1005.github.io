@@ -65,7 +65,7 @@ tags:
 Description: |
   These homemade Crunch bars combine rich chocolate with crispy <a href='/recipes/popped-quinoa'>popped quinoa</a> for a delicious, crunchy treat. Made with just a handful of simple ingredients and naturally sweetened with <a href='/misc/natural-sweeteners#honey'>honey</a>, they're a homemade alternative to traditional <a href='https://link.amazon/B006FaR62'>Crunch bars</a> with fewer <a href='/misc/calories'>calories</a> and less <a href='/misc/hidden-sugar'>added sugar</a>.<br><br>
 
-  For another <a href='/recipes/popped-quinoa'>popped quinoa</a> recipe, you can make <a href='/recipes/quinoa-scotcheroos'>Popped Quinoa Scotcheroos</a> using <a href='/recipes/popped-quinoa'>popped quinoa</a>, <a href='/misc/chocolate-benefits'>chocolate</a>, and <a href='/misc/nuts#peanuts'>peanut butter</a>!
+  For another <a href='/recipes/popped-quinoa'>popped quinoa</a> recipe, you can make <a href='/recipes/quinoa-scotcheroos'>Popped Quinoa Scotcheroos</a> using <a href='/recipes/popped-quinoa'>popped quinoa</a>, <a href='/misc/chocolate-benefits'>chocolate</a>, and <a href='/recipes/natural-peanut-butter'>peanut butter</a>!
 Instructions:
 - |
   Preheat a medium <a href='https://amzn.to/4pREQ61'>stainless steel pan</a> over medium heat without any oil. Add the <a href='/misc/grains#quinoa'>quinoa</a> to the pan, and shake to a single layer. Cook with frequent shaking for about 30 seconds, or until the popping sounds slow down and the <a href='/misc/grains#quinoa'>quinoa</a> starts to smell nutty. Transfer to a plate to cool at room temperature for about 5 minutes.<br><br>
@@ -100,7 +100,7 @@ Notes:
     "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
     "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a>",
     "<a href='/misc/natural-sweeteners#agave'>Agave</a>",
-    "<a href='/misc/natural-sweeteners#honey'>Sugar<br>Free<br>Syrup</a>";
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>";
 
     "Calories",
     "Protein",

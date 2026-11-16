@@ -3318,11 +3318,14 @@ LINKS = {
     ],
     "/recipes/trail-mix": [
         "homemade trail mix",
-        "mixed nuts & chocolate trail mix"
+        "mixed nuts & chocolate trail mix",
+        "trail mix",
+        "trail mixes"
     ],
     "/recipes/granola": [
         "homemade granola",
-        "low sugar granola"
+        "low sugar granola",
+        "granola"
     ],
     "/recipes/almond-flour-loaf": [
         "almond flour sandwich loaf",

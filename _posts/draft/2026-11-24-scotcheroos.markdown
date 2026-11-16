@@ -68,7 +68,7 @@ tags:
 - homemade scotcheroos bars
 - natural peanut butter
 Description: |
-  Scotcheroos are the lesser known but superior version of a <a href='/recipes/rice-crispy-treats'>homemade rice crispy treat</a>. They're a no bake dessert made with a base of <a href='https://link.amazon/B0hc1TDhB'>puffed rice</a> and <a href='/recipes/natural-peanut-butter'>peanut butter</a>, topped with a layer of chocolate.
+  Scotcheroos are the lesser known but superior version of a <a href='/recipes/rice-crispy-treats'>homemade rice crispy treat</a>. They're a no bake dessert made with a base of <a href='https://link.amazon/B0hc1TDhB'>puffed rice</a> and <a href='/recipes/natural-peanut-butter'>peanut butter</a>, topped with a layer of chocolate.<br><br>
 
   These healthy scotcheroos bars combine <a href='/misc/chocolate-percentages'>homemade chocolate</a> with <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> and homemade <a href='/recipes/popped-quinoa'>popped quinoa</a> for a delicious, crunchy treat. Naturally sweetened with <a href='/misc/natural-sweeteners#honey'>honey</a>, they're a <a href='/misc/hidden-sugar'>refined sugar free</a> alternative to <a href='https://saltandbaker.com/scotcharoos/#recipe'>traditional scotcheroos</a> with fewer <a href='/misc/calories'>calories</a> and less <a href='/misc/hidden-sugar'>added sugar</a>.<br><br>
 
@@ -113,7 +113,7 @@ Notes:
     "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
     "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a>",
     "<a href='/misc/natural-sweeteners#agave'>Agave</a>",
-    "<a href='/misc/natural-sweeteners#honey'>Sugar<br>Free<br>Syrup</a>";
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>";
 
     "Calories",
     "Protein",
@@ -124,7 +124,7 @@ Notes:
   )
 - <img src='/assets/Food/Finger Food/Quinoa Scotcheroos/plate.jpg' alt='' class='instruction-image'>
 
-- Compared to <a href='https://saltandbaker.com/scotcharoos/#recipe'>traditional scotcheroos</a>, my <a href='#recipe'>homemade version</a> contains significantly fewer calories and added sugar, while being higher in fiber, protein, and healthy fats.
+- Compared to <a href='https://saltandbaker.com/scotcharoos/#recipe'>traditional scotcheroos</a>, my <a href='#recipe'>homemade version</a> contains significantly fewer <a href='/misc/calories'>calories</a> and significantly less <a href='/misc/hidden-sugar'>added sugar</a>, while providing more <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>healthy fats</a>.
 - |
   COMPARE(
     "quinoascotcheroos",
