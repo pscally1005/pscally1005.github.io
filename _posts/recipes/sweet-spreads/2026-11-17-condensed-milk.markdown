@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Sugar Free Sweetened Condensed Milk
-date:   2026-11-08 00:00:00 -0500
+date:   2026-11-17 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
