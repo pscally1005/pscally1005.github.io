@@ -89,6 +89,9 @@ Notes:
 
   My problem with this is that it's a "<a href='/recipes/natural-peanut-butter'>peanut butter</a> alternative", but it has <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, so it isn't <a href='/misc/nuts'>nut</a> free. <a href='#recipe'>My recipe</a> solves this problem.
 - INGREDIENTS(beanutog)
+# - <img src='/assets/Food/Meme/Beanut Butter/og-processor.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/Beanut Butter/og-nobite.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Meme/Beanut Butter/og-bite.jpg' alt='' class='instruction-image'>
 
 - |
   COMPARE(
