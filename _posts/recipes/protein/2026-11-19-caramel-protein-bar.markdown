@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Caramel Protein Bars
-date:   2026-11-11 00:00:00 -0500
+date:   2026-11-19 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
