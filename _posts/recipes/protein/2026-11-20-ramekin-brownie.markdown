@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Air Fryer Ramekin Brownies (High Protein, High Fiber)
-date:   2026-11-09 00:00:00 -0500
+date:   2026-11-20 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
