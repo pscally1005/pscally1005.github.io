@@ -5,6 +5,7 @@ date:   2026-11-20 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
+- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -23,7 +24,7 @@ beans: no
 permalink: /recipes/whipped-evoo
 image: /assets/Misc/Unhealthy/Whipped EVOO/cover.jpg
 file: evoospread
-servingSize: 1 tbsp (14 g)
+servingSize: 1 tbsp (14.5 g)
 section1:
 start2:
 section2:
@@ -54,22 +55,22 @@ tags:
 - canola oil
 - margarine
 - butter
-Description: This dairy free butter alternative is made with heart healthy extra virgin olive oil. Packed with mono-unsaturated fats, this spread is far healthier than any butter, margarine, or canola oil based spread you can buy. This recipe is a plain base, but you can make any flavors if you wish, such as salted, garlic herb, or honey cinnamon!
+Description: This <a href='/misc/dairy'>dairy free</a> <a href='/misc/dairy#butter'>butter</a> alternative is made with heart-healthy <a href='/misc/olive-oil'>extra virgin olive oil</a>. Packed with <a href='/misc/fats'>monounsaturated fats</a> and lower in <a href='/misc/fats'>saturated fats</a> than traditional <a href='/misc/dairy#butter'>butter</a>, this <a href='/recipes/savory-sauces'>spread</a> is a great alternative for anyone looking to incorporate more <a href='/misc/olive-oil'>olive oil</a> into their diet. <a href='#recipe'>This recipe</a> is a plain base, but you can make any <a href='#notes'>flavors</a> if you wish, such as garlic herb or honey cinnamon!
 Instructions:
-- Add oil to an airtight container. Freeze overnight.
+- Add <a href='/misc/olive-oil'>oil</a> to an airtight container. Freeze overnight.
 - <img src='/assets/Misc/Unhealthy/Whipped EVOO/frozen.jpg' alt='' class='instruction-image'>
 
-- Transfer the oil to a small bowl. Microwave for 30 seconds, until slightly melted.
+- Transfer the <a href='/misc/olive-oil'>oil</a> to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Microwave for 30 seconds, until slightly melted.
 
-- Add the oil to a food processor along with salt. Blend on high for about 2 minutes, or until lighter in color and slightly airy.
+- Add the <a href='/misc/olive-oil'>oil</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a> along with salt. Blend on high for about 2 minutes, or until lighter in color and slightly airy.
 - <img src='/assets/Misc/Unhealthy/Whipped EVOO/processor.jpg' alt='' class='instruction-image'>
 
-- Optionally flavor with additional ingredients (see <a href='#notes'>notes</a> below).
+- Optionally flavor with additional ingredients (see the <a href='#notes'>notes</a> below).
 
-- Transfer to an airtight container.
+- Transfer back to your airtight container.
 - <img src='/assets/Misc/Unhealthy/Whipped EVOO/container.jpg' alt='' class='instruction-image'>
 
-- Freeze for 1 hour, then churn with a spoon. Return the oil to the freezer, and repeat this 2 more times.
+- Freeze for 1 hour, then churn with a spoon. Return the <a href='/misc/olive-oil'>oil</a> to the freezer, and repeat this 2 more times.
 - <img src='/assets/Misc/Unhealthy/Whipped EVOO/churn.jpg' alt='' class='instruction-image'>
 
 - Store the whipped oil in the freezer. Let it sit on the counter for 15 minutes to soften slightly before using.
@@ -78,7 +79,7 @@ Notes:
 - Garlic Herb Butter
 - INGREDIENTS(evoospreadherb)
 
-- Honey Cinnamon Butter
+- <a href='/misc/natural-sweeteners#honey'>Honey</a> Cinnamon <a href='/misc/dairy#butter'>Butter</a>
 - INGREDIENTS(evoospreadsweet)
 
 - |

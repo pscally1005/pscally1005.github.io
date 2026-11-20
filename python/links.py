@@ -21,7 +21,8 @@ LINKS = {
     "/recipes/whipped-evoo": [
         "whipped evoo spread",
         "whipped olive oil",
-        "whipped extra virgin olive oil"
+        "whipped extra virgin olive oil",
+        "whipped oil"
     ],
     "/recipes/fat-fiber-fudgies": [
         "fat fiber fudgies",
@@ -9346,7 +9347,10 @@ EXCLUDED_PHRASES = [
     "certainly be baking",
     "ridges on the side",
     "quinoa base",
+    "rarer side",
+    "rare side",
     "rich chocolate",
+    "salted, garlic herb, or honey cinnamon",
     "garlic herb butter",
     "honey cinnamonm butter",
     "no bake dessert",

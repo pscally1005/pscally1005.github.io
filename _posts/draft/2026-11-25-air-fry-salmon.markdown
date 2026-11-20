@@ -49,16 +49,16 @@ tags:
 - salmon
 - lemon pepper
 - vic
-Description: You should be air frying your salmon. It's dead simple and delicious, with a crispy crust and skin, and a flaky center. It's my preferred way of making any fish, but it's amazing for salmon in particular.
+Description: You should be <a href='https://amzn.to/3FuWETp'>air frying</a> your <a href='/misc/fish#salmon'>salmon</a>. It's dead simple and delicious, with a crispy crust and skin, and a flaky center. It's my preferred way of making any <a href='/misc/fish'>fish</a>, but it's amazing for <a href='/misc/fish#salmon'>salmon</a> in particular.
 Instructions:
-- Preheat your air fryer to 400F.
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F.
 
-- Add your salmon to an air fryer liner, and lightly season with lemon pepper (or whatever else you want).
+- Add your <a href='/misc/fish#salmon'>salmon</a> to an <a href='https://amzn.to/43AzcfI'>air fryer liner</a>, and lightly season with lemon pepper (or whatever else you want).
 - <img src='/assets/Food/Fish/Air Fry Salmon/raw.jpg' alt='' class='instruction-image'>
 
-- Air fry at 400F for about 15 minutes, or until crispy.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 15 minutes, or until crispy.
 - <img src='/assets/Food/Fish/Air Fry Salmon/cooked.jpg' alt='' class='instruction-image'>
 Notes:
-- I like 15 minutes at 400F for a crispy outside and a well done interior. Reduce the time if you like your salmon more on the rarer side, but then the outside won't be as crispy.
+- I like 15 minutes at 400F for a crispy outside and a well done interior. Reduce the cooking time if you prefer your <a href='/misc/fish#salmon'>salmon</a> on the rarer side, although then the outside won't be as crispy.
 - <img src='/assets/Food/Fish/Air Fry Salmon/plate.jpg' alt='' class='instruction-image'>
 ---

@@ -26,7 +26,7 @@ image: /assets/Food/Finger Food/FFF/cover.jpg
 file: fatfiberfudgies
 servingSize: 1 square (40 g)
 section1: Step 1
-start2: Cinnamon, ground
+start2: Cinnamon
 section2: Step 2
 start3: Pumpkin puree
 section3: Step 3
@@ -69,18 +69,23 @@ tags:
 - extra virgin olive oil
 - psyllium husks
 - oat fiber
-Description: These pumpkin spice bars are perfect for those on a Keto diet, or for those in bulking season. This high calorie snack is extremely high in fat and fiber, while super low in net carbs. They're packed with heart-healthy monounsaturated fats from extra virgin olive oil, insoluble fiber from oat fiber, moisture and creaminess from the pumpkin puree, and pumpkin spice flavor from the cinnamon, ginger, nutmeg, and cloves.  Each of these 25 squares has 100 calories with 10 g of fat and 11 g of fiber, with under 2 g of net carbs!
+Description: |
+  These pumpkin spice bars are perfect for those on a Keto diet, or for those in bulking season. This <a href='/misc/calories'>high calorie</a> snack is extremely high in <a href='/misc/fats'>fat</a> and <a href='/misc/fiber'>fiber</a>, while super low in <a href='/misc/carbs'>net carbs</a>.<br><br>
+
+  They're packed with <a href='/misc/fats'>heart-healthy monounsaturated fats</a> from <a href='/misc/olive-oil'>extra virgin olive oil</a>, <a href='/misc/fiber#insoluble'>insoluble fiber</a> from <a href='https://link.amazon/B04N3ngTi'>oat fiber</a>, moisture and creaminess from the <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, and pumpkin spice flavor from the cinnamon, ginger, nutmeg, and cloves.<br><br>
+
+  Each of these 25 squares has 100 <a href='/misc/calories'>calories</a> with 10 g of <a href='/misc/fats'>fat</a> and 11 g of <a href='/misc/fiber'>fiber</a>, with under 2 g of <a href='/misc/carbs'>net carbs</a>!
 Instructions:
-- Add oil to a small bowl, and microwave for 1 minute to warm it.
+- Add <a href='/misc/olive-oil'>oil</a> to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, and microwave for 1 minute to warm it.
 
-- Add the warm oil to a large bowl with the spices (cinnamon, ginger, nutmeg, cloves, and salt). Whisk together, and let it rest for about a minute so the spices can bloom in the oil.
+- Add the warm <a href='/misc/olive-oil'>oil</a> to a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with the spices (cinnamon, ginger, nutmeg, cloves, and salt). Whisk together, and let it rest for about a minute so the spices can bloom in the <a href='/misc/olive-oil'>oil</a>.
 
-- Add the liquid ingredients (pumpkin puree, vanilla extract, and liquid monk fruit) to the bowl. Whisk until smooth.
+- Add the wet ingredients (<a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>) to the bowl. Whisk until smooth.
 
-- Add in the psyllium husk and oat fiber. Fold together with a silicone spatula until fully combined.
+- Add the <a href='/misc/psyllium-husk'>psyllium husk</a> and <a href='https://link.amazon/B04N3ngTi'>oat fiber</a>. Fold with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined.
 - <img src='/assets/Food//Finger Food/FFF/bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer your dough to a parchment lined 9" square pan.
+- Transfer the mixture to a parchment-lined <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.
 - <img src='/assets/Food//Finger Food/FFF/pan.jpg' alt='' class='instruction-image'>
 
 - Freeze for 1 hour before slicing into 25 squares.
