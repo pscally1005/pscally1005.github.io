@@ -339,6 +339,8 @@ def grams(food, mass, vol):
             m = "15"
         elif vol == "4.5 tsp" or vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "22.5"
+        elif vol == "6 tsp" or vol == "2 tbsp":
+            m = "30"
 
 
     # Denser spices
@@ -1047,6 +1049,8 @@ def grams(food, mass, vol):
             m = "108"
         elif vol == "1 cup":
             m = "144"
+        elif vol == "1 2/3 cup":
+            m = "240"
 
 
     # Flours

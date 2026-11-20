@@ -1,0 +1,75 @@
+Nutrient,Amount,Unit,DV
+Calories,213,,
+"Vitamin A, RAE",18,mcg,2 %
+"Retinol",18,mcg,
+"Thiamin [Vitamin B1]",0.339,mg,28 %
+"Riboflavin [Vitamin B2]",0.57,mg,44 %
+"Niacin [Vitamin B3]",11.79,mg,74 %
+"Pantothenic acid [Vitamin B5]",2.496,mg,50 %
+"Vitamin B6",1.227,mg,72 %
+"Vitamin B12 [Cobalamin]",4.77,mcg,199 %
+"Folate, DFE [Vitamin B9]",38,mcg,10 %
+"Folate, food",38,mcg,
+"Folic acid",0,mcg,
+"Vitamin C [Ascorbic acid]",0,mg,0 %
+"Calcium",18,mg,1 %
+"Copper",0.38,mg,42 %
+"Iron",1.2,mg,7 %
+"Magnesium",44,mg,10 %
+"Manganese",0.024,mg,1 %
+"Phosphorus",300,mg,24 %
+"Potassium",735,mg,16 %
+"Selenium",54.75,mcg,100 %
+"Sodium",506,mg,22 %
+"Zinc",0.96,mg,9 %
+"Protein",29.76,g,60 %
+"Histidine",0.876,g,77 %
+"Isoleucine",1.371,g,88 %
+"Leucine",2.419,g,71 %
+"Lysine",2.733,g,88 %
+"Methionine",0.88,g,
+"Phenylalanine",1.163,g,
+"Threonine",1.305,g,80 %
+"Tryptophan",0.333,g,82 %
+"Valine",1.533,g,78 %
+"Phenylalanine + Tyrosine",2.168,g,80 %
+"Methionine + Cysteine",1.2,g,77 %
+"Arginine",1.781,g,
+"Cystine",0.32,g,
+"Glutamic acid",4.443,g,
+"Glycine",1.428,g,
+"Proline",1.053,g,
+"Tyrosine",1.005,g,
+"Alanine",1.8,g,
+"Aspartic acid",3.048,g,
+"Carbohydrate",0,g,0 %
+"Fiber",0,g,0 %
+"Sugars",0,g,
+"Sugars, added",0,g,0 %
+"Net carbs",0,g,
+"Fat",9.51,g,12 %
+"Saturated fatty acids",1.472,g,7 %
+"Tetradecanoic acid [Myristic acid]",0.206,g,
+"Hexadecanoic acid [Palmitic acid]",0.948,g,
+"Octadecanoic acid [Stearic acid]",0.318,g,
+"Monounsaturated fatty acids",3.155,g,
+"Hexadecenoic acid [mostly palmitoleic acid]",0.377,g,
+"Octadecenoic acid [mostly oleic acid]",2.026,g,
+"Eicosenoic acid [mostly gondoic acid]",0.335,g,
+"Docosenoic acid",0.419,g,
+"Polyunsaturated fatty acids",3.809,g,
+"Octadecadienoic acid [mostly linoleic acid]",0.258,g,
+"Octadecatrienoic acid [mostly α-linolenic acid]",0.443,g,
+"Octadecatetraenoic acid [Stearidonic acid (SDA)]",0.125,g,
+"Eicosatetraenoic acid [mostly arachidonic acid]",0.401,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.481,g,
+"Docosapentaenoic n-3 acid (DPA)",0.43,g,
+"Docosahexaenoic n-3 acid (DHA)",1.673,g,
+"Fatty acids, total trans",0,g,
+"Cholesterol",82,mg,27 %
+"Alcohol, ethyl",0,g,
+"Ash",3.81,g,
+"Caffeine",0,mg,
+"Serine",1.214,g,
+"Theobromine",0,mg,
+"Water",102.75,g,

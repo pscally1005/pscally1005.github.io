@@ -901,7 +901,7 @@ def ingredients(food):
         f = "Tomato Turkey Tacos"
     elif food == "Tilapia fillet" or food == "Fish, raw, tilapia":
         f = "Tilapia"
-    elif food == "Fish, raw, pink, salmon" or food == "Salmon fillet by WILD ALASKAN SOCKEYE":
+    elif food == "Fish, raw, pink, salmon" or food == "Salmon fillet by WILD ALASKAN SOCKEYE" or food == "Fish, raw, wild, Atlantic, salmon":
         f = "Salmon"
     elif food == "Smoked Salmon":
         f = "Smoked salmon"

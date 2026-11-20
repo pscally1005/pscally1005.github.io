@@ -1,0 +1,90 @@
+---
+layout: post
+title:  Fat Fiber Fudgies
+date:   2026-11-20 00:00:00 -0500
+categories:
+- Recipes
+- Finger Foods
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+beans: no
+permalink: /recipes/fat-fiber-fudgies
+image: /assets/Food/Finger Food/FFF/cover.jpg
+file: fatfiberfudgies
+servingSize: 1 square (40 g)
+section1: Step 1
+start2: Cinnamon, ground
+section2: Step 2
+start3: Pumpkin puree
+section3: Step 3
+start4: Psyllium husks, whole
+section4: Step 4
+start5:
+section5:
+Prep: 10
+Rest: 60
+Cook:
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/o5LXX
+tags:
+- fat fiber fudgies
+- fiber fat fudgies
+- fat fiber bombs
+- fiber fat bombs
+- fat bombs
+- fiber bombs
+- fat fudgies
+- fiber fudgies
+- pumpkin spice
+- pumpkin puree
+- cinnamon
+- nutmeg
+- ginger
+- cloves
+- high-fat
+- high fat
+- high calories
+- high-calores
+- high-fiber
+- high fiber
+- bulking
+- evoo
+- extra virgin olive oil
+- psyllium husks
+- oat fiber
+Description: These pumpkin spice bars are perfect for those on a Keto diet, or for those in bulking season. This high calorie snack is extremely high in fat and fiber, while super low in net carbs. They're packed with heart-healthy monounsaturated fats from extra virgin olive oil, insoluble fiber from oat fiber, moisture and creaminess from the pumpkin puree, and pumpkin spice flavor from the cinnamon, ginger, nutmeg, and cloves.  Each of these 25 squares has 100 calories with 10 g of fat and 11 g of fiber, with under 2 g of net carbs!
+Instructions:
+- Add oil to a small bowl, and microwave for 1 minute to warm it.
+
+- Add the warm oil to a large bowl with the spices (cinnamon, ginger, nutmeg, cloves, and salt). Whisk together, and let it rest for about a minute so the spices can bloom in the oil.
+
+- Add the liquid ingredients (pumpkin puree, vanilla extract, and liquid monk fruit) to the bowl. Whisk until smooth.
+
+- Add in the psyllium husk and oat fiber. Fold together with a silicone spatula until fully combined.
+- <img src='/assets/Food//Finger Food/FFF/bowl.jpg' alt='' class='instruction-image'>
+
+- Transfer your dough to a parchment lined 9" square pan.
+- <img src='/assets/Food//Finger Food/FFF/pan.jpg' alt='' class='instruction-image'>
+
+- Freeze for 1 hour before slicing into 25 squares.
+- <img src='/assets/Food//Finger Food/FFF/cut.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food//Finger Food/FFF/plate.jpg' alt='' class='instruction-image'>
+Notes:
+---

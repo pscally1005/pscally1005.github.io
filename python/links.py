@@ -13,6 +13,66 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/air-fried-salmon": [
+        "air fried salmon",
+        "air fryer salmon",
+        "you should be air frying your salmon"
+    ],
+    "/recipes/whipped-evoo": [
+        "whipped evoo spread",
+        "whipped olive oil",
+        "whipped extra virgin olive oil"
+    ],
+    "/recipes/fat-fiber-fudgies": [
+        "fat fiber fudgies",
+        "fiber fat fudgies",
+        "fat fiber fudgy",
+        "fiber fat fudgy",
+        "fat fiber bombs",
+        "fiber fat bombs",
+        "fat fiber bomb",
+        "fiber fat bomb",
+        "fat fudgies",
+        "fat fudgy",
+        "fat bombs",
+        "fat bomb",
+        "fiber fudgies",
+        "fiber fudgy",
+        "fiber bombs",
+        "fiber bomb",
+        "pumpkin spice fat fiber fudgies",
+        "pumpkin spice fiber fat fudgies",
+        "pumpkin spice fat fiber fudgy",
+        "pumpkin spice fiber fat fudgy",
+        "pumpkin spice fat fiber bombs",
+        "pumpkin spice fiber fat bombs",
+        "pumpkin spice fat fiber bomb",
+        "pumpkin spice fiber fat bomb",
+        "pumpkin spice fat fudgies",
+        "pumpkin spice fat fudgy",
+        "pumpkin spice fat bombs",
+        "pumpkin spice fat bomb",
+        "pumpkin spice fiber fudgies",
+        "pumpkin spice fiber fudgy",
+        "pumpkin spice fiber bombs",
+        "pumpkin spice fiber bomb",
+        "pumpkin fat fiber fudgies",
+        "pumpkin fiber fat fudgies",
+        "pumpkin fat fiber fudgy",
+        "pumpkin fiber fat fudgy",
+        "pumpkin fat fiber bombs",
+        "pumpkin fiber fat bombs",
+        "pumpkin fat fiber bomb",
+        "pumpkin fiber fat bomb",
+        "pumpkin fat fudgies",
+        "pumpkin fat fudgy",
+        "pumpkin fat bombs",
+        "pumpkin fat bomb",
+        "pumpkin fiber fudgies",
+        "pumpkin fiber fudgy",
+        "pumpkin fiber bombs",
+        "pumpkin fiber bomb"
+    ],
     "/recipes/quinoa-scotcheroos": [
         "popped quinoa scotcheroos",
         "popped quinoa scotcheroo",
@@ -9287,6 +9347,8 @@ EXCLUDED_PHRASES = [
     "ridges on the side",
     "quinoa base",
     "rich chocolate",
+    "garlic herb butter",
+    "honey cinnamonm butter",
     "no bake dessert",
     "no-bake dessert",
     "75% chocolate",
@@ -11611,7 +11673,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-24")):
+            if not file.startswith(("2026-11-25", "2026-11-26", "2026-11-27")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 
