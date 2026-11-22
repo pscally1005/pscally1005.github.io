@@ -985,7 +985,7 @@ def vol_from_mass(food, mass, vol):
             v = "1 cup"
 
     # Yogurt & cottage cheese
-    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Ricotta cheese, part skim" or food == "Vanilla Protein Greek Yogurt" or food == "Full fat cottage cheese" or food == "Vanilla nonfat greek yogurt" or food == "Plain low fat greek yogurt" or food == "Vanilla low fat greek yogurt" or food == "Vanilla whole milk greek yogurt":
+    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Ricotta cheese, part skim" or food == "Vanilla Protein Greek Yogurt" or food == "Full fat cottage cheese" or food == "Vanilla nonfat greek yogurt" or food == "Plain low fat greek yogurt" or food == "Vanilla low fat greek yogurt" or food == "Vanilla whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free":
         if mass == "14":
             v = "1 tbsp"
         elif mass == "28":
@@ -2159,6 +2159,15 @@ def vol_from_mass(food, mass, vol):
             v = "5 1/2 cup"
         elif mass == "96":
             v = "6 cup"
+
+    # Biscoff
+    elif food == "Biscoff cookies":
+        if mass == "7.75":
+            v = "1 cookie"
+        elif mass == "15.5":
+            v = "2 cookie"
+        elif mass == "100" or mass == "100.75":
+            v = "13 cookie"
 
     return v
 

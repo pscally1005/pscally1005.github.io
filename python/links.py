@@ -13,6 +13,27 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/biscoff-cheesecake": [
+        "2 ingredient cheesecake",
+        "two ingredient cheesecake",
+        "biscoff yogurt cheesecake",
+        "biscoff cheesecake",
+        "japanese yogurt cheesecake"
+    ],
+    "/recipes/banana-coconut-cookies": [
+        "banana coconut rum cookies",
+        "banana coconut rum cookie",
+        "coconut banana rum cookies",
+        "coconut banana rum cookie",
+        "banana coconut cookies",
+        "banana coconut cookie",
+        "coconut banana cookies",
+        "coconut banana cookie",
+        "banana rum cookies",
+        "banana rum cookie",
+        "coconut rum cookies",
+        "coconut rum cookie"
+    ],
     "/recipes/air-fried-salmon": [
         "air fried salmon",
         "air fryer salmon",
@@ -2152,7 +2173,9 @@ LINKS = {
     "/recipes/coconut-macaroons": [
         "Coconut Macaroons with Honey",
         "coconut macaroons",
-        "coconut macaroon"
+        "coconut macaroon",,
+        "coconut macarons",
+        "coconut macaron"
     ],
     "/recipes/coffee-loaf": [
         "Decaf Coffee Loaf",
@@ -6778,6 +6801,20 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/43NZ2On": [
+        "vanilla nonfat greek yogurt, sugar free",
+        "vanilla nonfat greek yogurt, sugar-free",
+        "sugar free vanilla nonfat greek yogurt",
+        "sugar-free vanilla nonfat greek yogurt",
+        "vanilla nonfat greek yogurt",
+        "sugar free vanilla greek yogurt",
+        "sugar-free vanilla greek yogurt",
+    ],
+    "https://link.amazon/B0gu10Yu2": [
+        "biscoff cookies",
+        "biscoff cookie",
+        "biscoff"
+    ],
     "https://saltandbaker.com/scotcharoos/#recipe": [
         "traditional scotcheroos"
     ],
@@ -10297,10 +10334,10 @@ EXCLUDED_PHRASES = [
     "oatmeal cookies",
     "oatmeal cookie",
     "cookie dough",
-    "coconut macaroons",
-    "coconut macarons",
-    "coconut macaroon",
-    "coconut macaron"
+    # "coconut macaroons",
+    # "coconut macarons",
+    # "coconut macaroon",
+    # "coconut macaron"
     "either mini muffins",
     "cookie cake",
     "split peas",
@@ -11677,7 +11714,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-25", "2026-11-26", "2026-11-27")):
+            if not file.startswith(("2026-12-05", "2026-12-06")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 
