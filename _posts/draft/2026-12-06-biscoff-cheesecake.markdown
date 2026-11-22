@@ -54,14 +54,14 @@ tags:
 - sugar free vanilla greek yogurt
 - cookie butter
 Description: |
-  <a href='https://www.instagram.com/reel/DTl2orMju4u/?cnvx=NTc4MTIwNjQ2YQ=='>This viral recipe</a> has been all over the internet lately. It's a 2 ingredient, healthier, Japanese Yogurt Cheesecake made by pressing Biscoff Cookies into yogurt, and letting it soften overnight!<br><br>
+  <a href='https://www.instagram.com/reel/DTl2orMju4u/?cnvx=NTc4MTIwNjQ2YQ=='>This viral recipe</a> has been all over the internet lately. It's a 2 ingredient, healthier, Japanese Yogurt Cheesecake made by pressing <a href='https://link.amazon/B0gu10Yu2'>Biscoff Cookies</a> into <a href='/misc/dairy#yogurt'>yogurt</a>, and letting it soften overnight!<br><br>
 
-  By using this sugar free vanilla Greek yogurt as the base, this healthy dessert is almost high in protein, with 14 g of protein in a 166 calorie serving!
+  By using this <a href='https://amzn.to/43NZ2On'>sugar free vanilla Greek yogurt</a> as the base, this <a href='/recipes/healthier-dessert'>healthy dessert</a> is almost <a href='/misc/high-protein'>high in protein</a>, with 14 g of <a href='/misc/protein'>protein</a> in a 166 <a href='/misc/calories'>calorie</a> serving! It's also significantly lower in <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>added sugar</a> than traditional cheesecake!
 Instructions:
-- Add your biscoff directly into the container of yogurt.
+- Add your <a href='https://link.amazon/B0gu10Yu2'>biscoff</a> directly into the container of <a href='/misc/dairy#yogurt'>yogurt</a>.
 - <img src='/assets/Food/Healthier Dessert/Biscoff Cheesecake/before.jpg' alt='' class='instruction-image'>
 
-- Cover and refrigerate overnight for the biscoff to soften.
+- Cover and refrigerate overnight for the <a href='https://link.amazon/B0gu10Yu2'>biscoff</a> to soften.
 - <img src='/assets/Food/Healthier Dessert/Biscoff Cheesecake/after.jpg' alt='' class='instruction-image'>
 Notes:
 ---

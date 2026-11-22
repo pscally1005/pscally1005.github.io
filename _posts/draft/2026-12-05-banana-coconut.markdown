@@ -64,25 +64,25 @@ tags:
 - banana coconut rum cookies
 - vic
 Description: |
-  Have you seen <a href='https://www.instagram.com/reel/DWG7wBuDuyf/?avpt=NTc4MTIwNjQ2YQ=='>these viral 2 Ingredient Coconut Cookies</a>? By combining just an overripe mashed banana, coconut flakes, and ("optional") chocolate chips, you can make a simple and healthy cookie.<br><br>
+  Have you seen <a href='https://www.instagram.com/reel/DWG7wBuDuyf/?avpt=NTc4MTIwNjQ2YQ=='>these viral 2 Ingredient Coconut Cookies</a>? By combining just an overripe mashed <a href='/misc/fruit#banana'>banana</a>, <a href='/misc/nuts#coconut'>coconut flakes</a>, and ("optional") chocolate chips, you can make a simple and <a href='/cookies'>healthy cookie</a>.<br><br>
 
-  I'm taking this simple concept to the next level with a pinch of salt, some baking powder, and (most importantly) a dash of rum extract. These Banana Coconut Rum Cookies are like a bite-sized healthy version of my Coconut Banana Rum Cake crossed with a Coconut Macaroon!
+  I'm taking this simple concept to the next level with a pinch of salt, some baking powder, and (most importantly) a dash of <a href='https://amzn.to/3TIq7QF'>rum extract</a>. These Banana Coconut Rum Cookies are like a bite-sized healthy version of my <a href='/recipes/coconut-banana-rum-cake'>Coconut Banana Rum Cake</a> crossed with a <a href='/recipes/coconut-macaroons'>Coconut Macaroon</a>!
 Instructions:
-- Preheat your oven to 350F. Line a large cookie sheet with parchment paper.
+- Preheat your oven to 350F. Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- Mash a banana in a medium bowl until smooth. Add in the salt, baking powder, rum extract, and coconut flakes. Mix together with a silicone spatula until you have a smooth and slightly sticky cookie dough.
+- Mash a <a href='/misc/fruit#banana'>banana</a> in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a> until smooth. Add in the salt, baking powder, <a href='https://amzn.to/3TIq7QF'>rum extract</a>, and <a href='/misc/nuts#coconut'>coconut flakes</a>. Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until you have a smooth and slightly sticky cookie dough.
 - <img src='/assets/Food/Healthier Dessert/Banana Coconut/bowl.jpg' alt='' class='instruction-image'>
 
-- Optionally, fold in 1/4 cup (45 g) chocolate chips
+- Optionally, fold in 1/4 cup (45 g) chocolate chips.
 - <img src='/assets/Food/Healthier Dessert/Banana Coconut/chocolate.jpg' alt='' class='instruction-image'>
 
 - Scoop your batter onto the pan into 6 servings, about <b>29 g</b> each (or <b>36 g</b> if using chocolate chips). Lightly wet your hands to prevent sticking, and flatten into a 1/4" thick cookie, about 2" diameter.
 - <img src='/assets/Food/Healthier Dessert/Banana Coconut/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for 12 minutes, or until golden brown and fully set
+- Bake at 350F for 12 minutes, or until golden brown and fully set.
 - <img src='/assets/Food/Healthier Dessert/Banana Coconut/baked.jpg' alt='' class='instruction-image'>
 
-- Transfer the cookies to a wire rack to totally cool. Store in the fridge.
+- Transfer the cookies to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to totally cool. Store in the fridge.
 - <img src='/assets/Food/Healthier Dessert/Banana Coconut/cooled.jpg' alt='' class='instruction-image'>
 Notes:
 - Below is a nutritional comparison both without and with chocolate chips (1/4 cup, 45 g).

@@ -2173,7 +2173,7 @@ LINKS = {
     "/recipes/coconut-macaroons": [
         "Coconut Macaroons with Honey",
         "coconut macaroons",
-        "coconut macaroon",,
+        "coconut macaroon",
         "coconut macarons",
         "coconut macaron"
     ],
@@ -9973,6 +9973,8 @@ EXCLUDED_PHRASES = [
     "pistachio dough",
     "in the chocolate",
     "chocolate candies",
+    "thick cookies",
+    "thick cookie",
     "excess chocolate",
     "blends of oils",
     "actual baked cookies",
