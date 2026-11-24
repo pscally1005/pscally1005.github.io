@@ -367,7 +367,7 @@ def ingredients(food):
         f = "Butternut squash puree"
     elif food == "Pumpkin, without salt, canned" or food == "Pumpkin puree by Whole Foods Market, Inc." or food == "Pumpkin puree, pumpkin by Goya Foods, Inc." or food == "Organic pumpkin puree by Pacific Foods of Oregon, Inc." or food == "pumpkin-puree":
         f = "Pumpkin puree"
-    elif food == "Potatoes, raw, flesh and skin":
+    elif food == "Potatoes, raw, flesh and skin" or food == "Potatoes, raw, flesh and skin, russet":
         f = "Potato"
     elif food == "Pure vanilla extract by CITLALI" or food == "Pure vanilla extract by FIRST STREET":
         f = "Vanilla extract"
@@ -917,6 +917,8 @@ def ingredients(food):
         f = "Shredded rotisserie chicken"
     elif food == "Extra firm tofu" or food == "Tofu, prepared with calcium sulfate, regular, raw":
         f = "Tofu, firm"
+    elif food == "silken-tofu":
+        f = "Tofu, silken"
 
     return f
 

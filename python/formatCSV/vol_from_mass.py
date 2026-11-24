@@ -1054,6 +1054,31 @@ def vol_from_mass(food, mass, vol):
         elif mass == "240":
             v = "1 2/3 cup"
 
+    # GF flour blend
+    elif food == "Gluten free flour blend":
+        if mass == "31":
+            v = "1/4 cup"
+        elif mass == "41":
+            v = "1/3 cup"
+        elif mass == "62":
+            v = "1/2 cup"
+        elif mass == "83":
+            v = "2/3 cup"
+        elif mass == "93":
+            v = "3/4 cup"
+        elif mass == "124":
+            v = "1 cup"
+        elif mass == "155":
+            v = "1 1/4 cup"
+        elif mass == "186":
+            v = "1 1/2 cup"
+        elif mass == "217":
+            v = "1 3/4 cup"
+        elif mass == "248":
+            v = "2 cup"
+        elif mass == "558":
+            v = "4 1/2 cup"
+
     # Flours
     elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Unsweetened coconut flakes" or food == "Sweetened coconut flakes":
         if mass == "2.5" or mass == "3":
@@ -1281,6 +1306,11 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 large"
         elif mass == "300":
             v = "1 large"
+
+    # Potatoes
+    elif food == "Potato":
+        if mass == "1476":
+            v = "4 large"
 
     # Sweet potatoes
     elif food == "Sweet potato":

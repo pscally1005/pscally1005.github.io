@@ -344,7 +344,7 @@ def grams(food, mass, vol):
 
 
     # Denser spices
-    elif food == "Nutmeg, ground" or food == "Garlic powder" or food == "Onion powder" or food == "Black pepper, ground" or food == "Paprika" or food == "Cumin, ground" or food == "Chili powder" or food == "Cayenne pepper" or food == "Old Bay" or food == "Turmeric, ground" or food == "Black pepper" or food == "Cinnamon, ground" or food == "Cinnamon":
+    elif food == "Nutmeg, ground" or food == "Garlic powder" or food == "Onion powder" or food == "Black pepper, ground" or food == "Paprika" or food == "Cumin, ground" or food == "Chili powder" or food == "Cayenne pepper" or food == "Old Bay" or food == "Turmeric, ground" or food == "Black pepper" or food == "Cinnamon, ground" or food == "Cinnamon" or food == "Xanthan gum":
         if vol == "1/16 tsp":
             m = "0.19"
         elif vol == "1/8 tsp":
@@ -1054,6 +1054,31 @@ def grams(food, mass, vol):
         elif vol == "1 2/3 cup":
             m = "240"
 
+    # GF flour blend
+    elif food == "Gluten free flour blend":
+        if vol == "1/4 cup":
+            m = "31"
+        elif vol == "1/3 cup":
+            m = "41"
+        elif vol == "1/2 cup":
+            m = "62"
+        elif vol == "2/3 cup":
+            m = "83"
+        elif vol == "3/4 cup":
+            m = "93"
+        elif vol == "1 cup":
+            m = "124"
+        elif vol == "1 1/4 cup":
+            m = "155"
+        elif vol == "1 1/2 cup":
+            m = "186"
+        elif vol == "1 3/4 cup":
+            m = "217"
+        elif vol == "2 cup":
+            m = "248"
+        elif vol == "4 1/2 cup":
+            m = "558"
+
 
     # Flours
     elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Unsweetened coconut flakes" or food == "Sweetened coconut flakes":
@@ -1385,6 +1410,11 @@ def grams(food, mass, vol):
             m = "150"
         elif vol == "1 cucumber":
             m = "300"
+
+    # Potatoes
+    elif food == "Potato":
+        if vol == "4 large" or vol == "4 potato large":
+            m = "1476"
 
     # Sweet potatoes
     elif food == "Sweet potato":

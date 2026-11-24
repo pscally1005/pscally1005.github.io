@@ -13,6 +13,39 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/gluten-free-hot-pretzels": [
+        "gluten free hot pretzels",
+        "gluten free pretzels",
+        "hot pretzels",
+        "gluten free hot pretzel",
+        "gluten free pretzel",
+        "hot pretzel",
+        "gluten-free hot pretzels",
+        "gluten-free pretzels",
+        "gluten-free hot pretzel",
+        "gluten-free pretzel",
+    ],
+    "/recipes/cauliflower-fudge": [
+        "cauliflower fudge",
+        "2 ingredient cauliflower fudge",
+        "two ingredient cauliflower fudge",
+        "2 ingredient fudge",
+        "two ingredient fudge"
+    ],
+    "/recipes/tater-tots": [
+        "air fryer frozen tater tots",
+        "air fryer tater tots",
+        "frozen tater tots",
+        "tater tots",
+        "air fryer frozen tater tot",
+        "air fryer tater tot",
+        "frozen tater tot",
+        "tater tot"
+    ],
+    "/recipes/tofu-brookie": [
+        "tofu brookie",
+        "tofu brookies"
+    ],
     "/recipes/biscoff-cheesecake": [
         "2 ingredient cheesecake",
         "two ingredient cheesecake",
@@ -6801,6 +6834,19 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://link.amazon/B02kdkQzE": [
+        "gluten-free flour blend",
+        "gluten free flour blend",
+        "king arthur flour",
+        "king arthur gluten-free flour",
+        "king arthur gluten free flour",
+        "king arthur gluten-free flour blend",
+        "king arthur gluten free flour blend"
+    ],
+    "https://link.amazon/B0ipykmPW": [
+        "xanthan gum",
+        "xanthan"
+    ],
     "https://amzn.to/43NZ2On": [
         "vanilla nonfat greek yogurt, sugar free",
         "vanilla nonfat greek yogurt, sugar-free",
@@ -11716,7 +11762,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-12-05", "2026-12-06")):
+            if not file.startswith(("2026-11-29", "2026-12-06", "2026-12-07", "2026-12-08")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 

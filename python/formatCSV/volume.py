@@ -112,6 +112,8 @@ def fix(vol):
         v = "3 cup"
     elif vol == "4.005 cup":
         v = "4 cup"
+    elif vol == "72 tbsp":
+        v = "4 1/2 cup"
     elif vol == "14 1/4 cup":
         v = "3 1/2 cup"
 

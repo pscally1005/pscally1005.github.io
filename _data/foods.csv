@@ -87,8 +87,11 @@ Puffed rice cereal,puffed-rice-cereal,28.49,"2,037.60",0.01398,4.9,82,TRUE,TRUE,
 Sourdough starter,sourdough-starter,2.79,"2,240.00",0.00125,8.5,54,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/misc/whole-wheat-sourdough#starter
 Sourdough Discard Flatbread,sourdough-flatbread,0.18,96.00,0.00188,8.2,54,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/sourdough-flatbread
 Phyllo dough,phyllo,2.99,454.00,0.00659,3.8,60,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,https://amzn.to/4uKqFT3
+Gluten free flour blend,gf-flour,6.31,"1,358.40",0.00465,5.0,65,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://link.amazon/B02kdkQzE
+Xanthan gum,xanthan,8.54,226.40,0.03772,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://link.amazon/B0ipykmPW
 Oat fiber,oat-fiber,30.95,"2,270.00",0.01363,9.4,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,1,https://link.amazon/B04N3ngTi
 Oat flour,oat-flour,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/misc/homemade-flours
+Oat Flour,oat-flour,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/misc/homemade-flours
 "Oat flour, or almond flour",oat-flour,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/misc/homemade-flours
 Rolled oats,oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Quick oats,oats,3.98,"1,176.00",0.00338,9.4,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
