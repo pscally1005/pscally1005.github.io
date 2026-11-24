@@ -72,7 +72,7 @@ Notes:
     "lowcalcookiedoughsugar";
 
     "<a href='#recipe'>SF</a>",
-    "<a href='#notes'>Sugar</a>";
+    "<a href='/misc/hidden-sugar'>Sugar</a>";
 
     "Calories",
     "Protein",
@@ -81,4 +81,24 @@ Notes:
     "Fiber",
     "Added Sugar"
   )
+
+- |
+  <div id='protein' class='table-of-contents-2'></div>
+  To make <a href='#recipe'>this</a> a <a href='/misc/protein'>protein</a> cookie dough, add 1 scoop (30 g) <a href='https://amzn.to/4llkGj5'>vanilla whey protein powder</a> and increase the <a href='/misc/dairy#almond-milk'>milk</a> from 2 tbsp (30 g) to 1/4 cup (60 g). Below is a comparison of the <a href='/misc/protein'>protein</a> version, both sugar-free and with <a href='/misc/hidden-sugar'>sugar</a>.
+- |
+  COMPARE(
+    "lowcalcookiedoughprotein",
+    "lowcalcookiedoughsugarprotein";
+
+    "<a href='#recipe'>SF</a><br><a href='/misc/protein'>Protein</a>",
+    "<a href='/misc/hidden-sugar'>Sugar</a><br><a href='/misc/protein'>Protein</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
+- <img src='/assets/Food/Healthier Dessert/Low Cal Cookie Dough/protein.jpg' alt='' class='instruction-image'>
 ---

@@ -1035,6 +1035,8 @@ def vol_from_mass(food, mass, vol):
             v = "1 tbsp"
         elif mass == "18":
             v = "2 tbsp"
+        elif mass == "22.5":
+            v = "2 1/2 tbsp"
         elif mass == "27":
             v = "3 tbsp"
         elif mass == "36":
