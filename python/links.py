@@ -2117,7 +2117,10 @@ LINKS = {
         "chicken noodle soup"
     ],
     "/recipes/chicken-nuggets": [
-        "Freezer Chicken Nuggets"
+        "Freezer Chicken Nuggets",
+        "freezer chicken nugget",
+        "chicken nuggets",
+        "chicken nugget"
     ],
     "/recipes/chicken-piccata": [
         "Quick, Easy, & Healthy Chicken Piccata",
@@ -6836,6 +6839,9 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4fopp1E": [
+        "lemon pepper"
+    ],
     "https://link.amazon/B0axrUhKN": [
         "box grater",
         "cheese grater"
@@ -11203,7 +11209,7 @@ EXCLUDED_PHRASES = [
     # "extra virgin olive oil",
     "soy sauce, low sodium, gluten free",
     "low sodium",
-    "lemon pepper",
+    # "lemon pepper",
     "lime pepper",
     "mango pepper",
     "cut side",
@@ -11368,8 +11374,8 @@ EXCLUDED_PHRASES = [
     "garlic-y",
     "garlicy",
     "wheat starch",
-    "chicken nuggets",
-    "chicken nugget",
+    # "chicken nuggets",
+    # "chicken nugget",
     "chicken fingers",
     "chicken finger",
     "fish sticks",

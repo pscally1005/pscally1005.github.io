@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/cauliflower-fudge
 image: /assets/Food/Meme/Cauli Fudge/cover.jpg
 file: caulifudge
-servingSize: 1 piece (27 g)
+servingSize: 1 piece (TODO g)
 section1:
 start2:
 section2:
@@ -59,7 +59,7 @@ Instructions:
 - Add <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4zyFnzN'>medium glass bowl</a>. Cover with a plate, and microwave for 10 minutes.
 - <img src='/assets/Food/Meme/Cauli Fudge/steam.jpg' alt='' class='instruction-image'>
 
-- Add <a href='/misc/veggies#cauliflower'>cauliflower</a> and chocolate chips to a <a href='https://amzn.to/3SsDLn7'>blender</a>, and blend until smooth.
+- Add the warm <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/3SsDLn7'>blender</a> with chocolate chips. Blend until smooth.
 - <img src='/assets/Food/Meme/Cauli Fudge/blend.jpg' alt='' class='instruction-image'>
 
 - Transfer to a parchment lined <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.

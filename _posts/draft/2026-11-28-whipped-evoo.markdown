@@ -79,7 +79,7 @@ Notes:
 - Garlic Herb Butter
 - INGREDIENTS(evoospreadherb)
 
-- <a href='/misc/natural-sweeteners#honey'>Honey</a> Cinnamon <a href='/misc/dairy#butter'>Butter</a>
+- Honey Cinnamon Butter
 - INGREDIENTS(evoospreadsweet)
 
 - |

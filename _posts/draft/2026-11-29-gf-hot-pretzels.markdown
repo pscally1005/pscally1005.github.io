@@ -59,7 +59,7 @@ tags:
 - xanthan gum
 - granulated monk fruit
 Description: |
-  These Gluten Free Hot Pretzels will remind you of all those baseball games and Auntie Ann's visits from before you were diagnosed with <a href='/misc/celiac'>Celiac disease</a>. They have that classic flavor, texture, and taste, but without any of the <a href='/misc/celiac'>gluten</a>.<br><br>
+  These Gluten Free Hot Pretzels will remind you of all those baseball games and Auntie Anne's visits from before you were diagnosed with <a href='/misc/celiac'>Celiac disease</a>. They have that classic flavor, texture, and taste, but without any of the <a href='/misc/celiac'>gluten</a>.<br><br>
   
   Using this <a href='https://link.amazon/B02kdkQzE'>King Arthur Gluten Free Flour Blend</a>, along with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> and <a href='/misc/olive-oil'>extra virgin olive oil</a>, we can create not only a gluten free hot pretzel, but a healthy one as well.<br><br>
   
@@ -90,9 +90,9 @@ Instructions:
 
 - Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool for 10 minutes before serving.
 Notes:
-- For a cinnamon sugar pretzel instead of a standard salted pretzel, mix together 2 tbsp (24 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with 1 tsp (3 g) cinnamon. Dip the boiled pretzels in the cinnamon sugarinstead of sprinkling them with coarse salt.
+- For a cinnamon sugar pretzel instead of a standard salted pretzel, mix together 2 tbsp (24 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with 1 tsp (3 g) cinnamon. Omit sprinkling the raw pretzels with salt. Lightly spray the baked pretzels with water, and coat them in the cinnamon sugar.
 
-- Either <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> or <a href='https://amzn.to/4mzsH5p'>allulose</a> will work as your sweetener, both in the pretzels, boiling water, and cinnamon sugar. You can also use <a href='/misc/hidden-sugar'>white or brown sugar</a> if you prefer, and don't mind the extra <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/calories'>calories</a>.
+- Either <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> or <a href='https://amzn.to/4mzsH5p'>allulose</a> will work as your sweetener in the pretzels, boiling water, and cinnamon sugar. You can also use <a href='/misc/hidden-sugar'>white or brown sugar</a> if you prefer and don't mind the extra <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/calories'>calories</a>.
 
 - |
   COMPARE(

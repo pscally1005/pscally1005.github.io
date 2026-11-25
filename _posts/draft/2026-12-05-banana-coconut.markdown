@@ -35,7 +35,7 @@ section4:
 start5:
 section5:
 Prep: 8
-Rest: 10
+Rest: 40
 Cook: 12
 Source1: https://www.instagram.com/reel/DWG7wBuDuyf/?avpt=NTc4MTIwNjQ2YQ==
 Source2: https://youtu.be/cogeTZEfmgA?t=537
@@ -73,7 +73,7 @@ Instructions:
 - Mash a <a href='/misc/fruit#banana'>banana</a> in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a> until smooth. Add in the salt, baking powder, <a href='https://amzn.to/3TIq7QF'>rum extract</a>, and <a href='/misc/nuts#coconut'>coconut flakes</a>. Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until you have a smooth and slightly sticky cookie dough.
 - <img src='/assets/Food/Healthier Dessert/Banana Coconut/bowl.jpg' alt='' class='instruction-image'>
 
-- Optionally, fold in 1/4 cup (45 g) chocolate chips.
+- Optionally, fold in 1/4 cup (45 g) chocolate chips. Chill the dough in the fridge for 30 minutes so it can absorb excess moisture.
 - <img src='/assets/Food/Healthier Dessert/Banana Coconut/chocolate.jpg' alt='' class='instruction-image'>
 
 - Scoop your batter onto the pan into 6 servings, about <b>29 g</b> each (or <b>36 g</b> if using chocolate chips). Lightly wet your hands to prevent sticking, and flatten into a 1/4" thick cookie, about 2" diameter.
@@ -85,6 +85,8 @@ Instructions:
 - Transfer the cookies to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to totally cool. Store in the fridge.
 - <img src='/assets/Food/Healthier Dessert/Banana Coconut/cooled.jpg' alt='' class='instruction-image'>
 Notes:
+- I'm using finely shredded <a href='https://amzn.to/4kyFvXL'>coconut flakes</a>. If yours are larger, I would recommend pulsing them in a <a href='https://amzn.to/4q0AUjI'>food processor</a>.
+
 - Below is a nutritional comparison both without and with chocolate chips (1/4 cup, 45 g).
 - |
   COMPARE(

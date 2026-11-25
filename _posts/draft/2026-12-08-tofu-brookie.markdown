@@ -84,9 +84,9 @@ Notes:
 - I'm using <a href='https://link.amazon/B0dAdVfzm'>cacao nibs</a> today, but you can also use either <a href='https://amzn.to/4kGEfC5'>sugar free</a> or regular chocolate chips (1/2 cup, 90 g).
 - |
   COMPARE(
-    "tofubrookies",
-    "tofubrookiessf",
-    "tofubrookiessugar";
+    "tofubrookie",
+    "tofubrookiesf",
+    "tofubrookiesugar";
 
     "<a href='https://link.amazon/B0dAdVfzm'>Cacao<br>Nibs</a>",
     "<a href='https://amzn.to/4kGEfC5'>SF<br>Chocolate</a>",

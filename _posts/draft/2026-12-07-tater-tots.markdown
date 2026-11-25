@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Air Fryer Frozen Tater Tots
-date:   2026-03-28 00:00:00 -0500
+date:   2026-11-24 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
@@ -54,12 +54,14 @@ tags:
 Description: |
     The <a href='https://amzn.to/3FuWETp'>air fryer</a> is the king of heating up frozen food. But instead of <a href='/misc/processed-foods'>ultra processed</a> frozen <a href='/misc/fake-healthy-foods'>junk food</a>, you can make your own homemade frozen food that's ready at a moment's notice.<br><br>
     
-    These crispy and fluffy tater tots are simple to make, store indefinitely in the freezer, and skip out on the deep frying, keeping them <a href='/misc/fats'>fat free</a> and lower in <a href='/misc/calories'>calories</a>!
+    These crispy and fluffy tater tots are simple to make, store indefinitely in the freezer, and skip out on the deep frying, keeping them <a href='/misc/fats'>fat free</a> and lower in <a href='/misc/calories'>calories</a>!<br><br>
+
+    For other <a href='https://amzn.to/3FuWETp'>air fryer</a> frozen meal prep recipes, check out my <a href='/recipes/chicken-nuggets'>Freezer Chicken Nuggets</a> and <a href='/recipes/broccoli-fries'>Air Fryer Broccoli Fries</a>!
 Instructions:
-- Cut the <a href='/misc/veggies#potato'>potatoes</a> in half, and add to a large pot of cold water. Bring to a boil over high heat, and cook for about 15 minutes, or until fork tender. Drain the <a href='/misc/veggies#potato'>potatoes</a>, and let them cool completely.
+- Cut the <a href='/misc/veggies#potato'>potatoes</a> in half, and add to a large pot of cold water. Bring to a boil over high heat, and cook for about 10-15 minutes, or until knife tender. Drain the <a href='/misc/veggies#potato'>potatoes</a>, and let them cool completely.
 - <img src='/assets/Food/Finger Food/Tater Tots/boiled.jpg' alt='' class='instruction-image'>
 
-- Remove the skins from the <a href='/misc/veggies#potato'>potatoes</a> with a knife. Grate the <a href='/misc/veggies#potato'>potatoes</a> using a <a href='https://link.amazon/B0axrUhKN'>>box grater</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>.
+- Remove the skins from the <a href='/misc/veggies#potato'>potatoes</a> with a knife. Grate the <a href='/misc/veggies#potato'>potatoes</a> using a <a href='https://link.amazon/B0axrUhKN'>box grater</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>.
 - <img src='/assets/Food/Finger Food/Tater Tots/grated.jpg' alt='' class='instruction-image'>
 
 - Firmly press the <a href='/misc/veggies#potato'>potatoes</a> into a <a href='https://link.amazon/B0g8FnFc3'>silicone ice cube mold</a>, and freeze overnight.

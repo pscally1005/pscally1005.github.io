@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/biscoff-cheesecake
 image: /assets/Food/Healthier Dessert/Biscoff Cheesecake/cover.jpg
 file: biscoffcheesecake
-servingSize: 1 cup (190 g)
+servingSize: 1 cup (202 g)
 section1:
 start2:
 section2:
@@ -54,7 +54,7 @@ tags:
 - sugar free vanilla greek yogurt
 - cookie butter
 Description: |
-  <a href='https://www.instagram.com/reel/DTl2orMju4u/?cnvx=NTc4MTIwNjQ2YQ=='>This viral recipe</a> has been all over the internet lately. It's a 2 ingredient, healthier, Japanese Yogurt Cheesecake made by pressing <a href='https://link.amazon/B0gu10Yu2'>Biscoff Cookies</a> into <a href='/misc/dairy#yogurt'>yogurt</a>, and letting it soften overnight!<br><br>
+  <a href='https://www.instagram.com/reel/DTl2orMju4u/?cnvx=NTc4MTIwNjQ2YQ=='>This viral recipe</a> has been all over the internet lately. It's a 2 ingredient, no-bake, healthier, Japanese Yogurt Cheesecake made by pressing <a href='https://link.amazon/B0gu10Yu2'>Biscoff Cookies</a> into <a href='/misc/dairy#yogurt'>yogurt</a>, and letting it soften overnight!<br><br>
 
   By using this <a href='https://amzn.to/43NZ2On'>sugar free vanilla Greek yogurt</a> as the base, this <a href='/recipes/healthier-dessert'>healthy dessert</a> is almost <a href='/misc/high-protein'>high in protein</a>, with 14 g of <a href='/misc/protein'>protein</a> in a 166 <a href='/misc/calories'>calorie</a> serving! It's also significantly lower in <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>added sugar</a> than traditional cheesecake!
 Instructions:
@@ -63,5 +63,7 @@ Instructions:
 
 - Cover and refrigerate overnight for the <a href='https://link.amazon/B0gu10Yu2'>biscoff</a> to soften.
 - <img src='/assets/Food/Healthier Dessert/Biscoff Cheesecake/after.jpg' alt='' class='instruction-image'>
+
+- Stir gently before serving, if desired.
 Notes:
 ---

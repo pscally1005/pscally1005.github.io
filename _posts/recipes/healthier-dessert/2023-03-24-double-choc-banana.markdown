@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/double-chocolate-banana-bread
 image: /assets/Food/Healthier Dessert/Choc Bread/choc-bread-cover.jpg
 file: chocbread
-servingSize: 1 slice
+servingSize: 1 slice (44 g)
 section1: Dry
 start2: Banana, overripe
 section2: Wet

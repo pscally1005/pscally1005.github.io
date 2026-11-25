@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  You Should Be Air Frying Your Salmon
-date:   2026-11-20 00:00:00 -0500
+date:   2026-11-25 00:00:00 -0500
 categories:
 - Recipes
 - Fish
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -53,7 +52,7 @@ Description: You should be <a href='https://amzn.to/3FuWETp'>air frying</a> your
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F.
 
-- Add your <a href='/misc/fish#salmon'>salmon</a> to an <a href='https://amzn.to/43AzcfI'>air fryer liner</a>, and lightly season with lemon pepper (or whatever else you want).
+- Add your <a href='/misc/fish#salmon'>salmon</a> to an <a href='https://amzn.to/43AzcfI'>air fryer liner</a>, and lightly season with <a href='https://amzn.to/4fopp1E'>lemon pepper</a> (or whatever else you want).
 - <img src='/assets/Food/Fish/Air Fry Salmon/raw.jpg' alt='' class='instruction-image'>
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 15 minutes, or until crispy.
