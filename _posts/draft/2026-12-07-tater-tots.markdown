@@ -51,22 +51,25 @@ tags:
 - air fried
 - meal prep
 - frozen
-Description: The air fryer is the king of heating up frozen food. But instead of ultra processed frozen junk food, you can make your own homemade frozen food that's ready at a moments notice. These crispy and fluffy tater tots are simple to make, store indefinitely in the freezer, and skip out on the frying, keeping them fat free and lower in calories!
+Description: |
+    The <a href='https://amzn.to/3FuWETp'>air fryer</a> is the king of heating up frozen food. But instead of <a href='/misc/processed-foods'>ultra processed</a> frozen <a href='/misc/fake-healthy-foods'>junk food</a>, you can make your own homemade frozen food that's ready at a moment's notice.<br><br>
+    
+    These crispy and fluffy tater tots are simple to make, store indefinitely in the freezer, and skip out on the deep frying, keeping them <a href='/misc/fats'>fat free</a> and lower in <a href='/misc/calories'>calories</a>!
 Instructions:
-- Cut the potatoes in half, and add to a large pot of cold water. Bring to a boil over high heat, and cook for about 15 minutes, or until fork tender. Drain the potatoes, and let them cool completely.
+- Cut the <a href='/misc/veggies#potato'>potatoes</a> in half, and add to a large pot of cold water. Bring to a boil over high heat, and cook for about 15 minutes, or until fork tender. Drain the <a href='/misc/veggies#potato'>potatoes</a>, and let them cool completely.
 - <img src='/assets/Food/Finger Food/Tater Tots/boiled.jpg' alt='' class='instruction-image'>
 
-- Remove the skins from the potatoes with a knife. Grate the potatoes using a box grater or food processor.
+- Remove the skins from the <a href='/misc/veggies#potato'>potatoes</a> with a knife. Grate the <a href='/misc/veggies#potato'>potatoes</a> using a <a href='https://link.amazon/B0axrUhKN'>>box grater</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>.
 - <img src='/assets/Food/Finger Food/Tater Tots/grated.jpg' alt='' class='instruction-image'>
 
-- Firmly press the potatoes into a silicone ice cube mold, and freeze overnight.
+- Firmly press the <a href='/misc/veggies#potato'>potatoes</a> into a <a href='https://link.amazon/B0g8FnFc3'>silicone ice cube mold</a>, and freeze overnight.
 - <img src='/assets/Food/Finger Food/Tater Tots/ice-cube.jpg' alt='' class='instruction-image'>
 
 - The next day, transfer all frozen potato cubes to an airtight bag. Store in the freezer.
 - <img src='/assets/Food/Finger Food/Tater Tots/bag.jpg' alt='' class='instruction-image'>
 
-- To heat, air fry at 360F for 18 minutes from frozen with a spray of oil. Sprinkle with salt after air frying.
+- To heat, <a href='https://amzn.to/3FuWETp'>air fry</a> at 360F for 18 minutes from frozen with a <a href='https://link.amazon/B00fjxkKE'>spray of oil</a>. Sprinkle with salt after <a href='https://amzn.to/3FuWETp'>air frying</a>.
 - <img src='/assets/Food/Finger Food/Tater Tots/air-fry.jpg' alt='' class='instruction-image'>
 Notes:
-- My TODO g of raw potatoes weighed TODO g after boiling, and TODO g after removing the skins. This recipe makes about TODO tater tots of TODO g each.
+- My TODO g of raw <a href='/misc/veggies#potato'>potatoes</a> weighed TODO g after boiling, and TODO g after removing the skins. <a href='#recipe'>This recipe</a> makes about TODO tater tots of TODO g each.
 ---

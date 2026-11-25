@@ -54,21 +54,21 @@ tags:
 - sugar-free chocolate chips
 - chocolate chips
 - frozen cauliflower
-Description: A new recipe just dropped that's shoving cauliflower into another place it doesn't belong. This time it's fudge, except it's actually delicious. Witch only steamed cauliflower and chocolate chips, you make a rich fudge that's lower in calories, sugar, and fat!
+Description: A new recipe just dropped that's shoving <a href='/misc/veggies#cauliflower'>cauliflower</a> into another place it doesn't belong. This time it's fudge, except it's actually delicious. With only steamed <a href='/misc/veggies#cauliflower'>cauliflower</a> and chocolate chips, you make a rich fudge that's lower in <a href='/misc/calories'>calories</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fats'>fat</a>!
 Instructions:
-- Add cauliflower to a medium glass bowl. Cover with a plate, and microwave for 10 minutes.
+- Add <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4zyFnzN'>medium glass bowl</a>. Cover with a plate, and microwave for 10 minutes.
 - <img src='/assets/Food/Meme/Cauli Fudge/steam.jpg' alt='' class='instruction-image'>
 
-- Add cauliflower and chocolate chips to a blender, and blend until smooth.
+- Add <a href='/misc/veggies#cauliflower'>cauliflower</a> and chocolate chips to a <a href='https://amzn.to/3SsDLn7'>blender</a>, and blend until smooth.
 - <img src='/assets/Food/Meme/Cauli Fudge/blend.jpg' alt='' class='instruction-image'>
 
-- Transfer to a parchment lined 9" square pan.
+- Transfer to a parchment lined <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.
 - <img src='/assets/Food/Meme/Cauli Fudge/pan.jpg' alt='' class='instruction-image'>
 
 - Chill in the fridge overnight before cutting into 25 squares.
 - <img src='/assets/Food/Meme/Cauli Fudge/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- Either sugar free chocolate chips or regular chocolate chips will work here.
+- Either <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a> or regular chocolate chips will work here.
 - |
   COMPARE(
     "caulifudge",

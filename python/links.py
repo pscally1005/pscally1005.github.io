@@ -24,6 +24,8 @@ LINKS = {
         "gluten-free pretzels",
         "gluten-free hot pretzel",
         "gluten-free pretzel",
+        "cinnamon sugar pretzels",
+        "cinnamon sugar pretzel"
     ],
     "/recipes/cauliflower-fudge": [
         "cauliflower fudge",
@@ -6834,6 +6836,16 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://link.amazon/B0axrUhKN": [
+        "box grater",
+        "cheese grater"
+    ],
+    "https://link.amazon/B0g8FnFc3": [
+        "ice cube mold",
+        "ice cube tray",
+        "silicone ice cube mold",
+        "silicone ice cube tray"
+    ],
     "https://link.amazon/B02kdkQzE": [
         "gluten-free flour blend",
         "gluten free flour blend",
@@ -9331,11 +9343,11 @@ LINKS = {
         "cornbread"
     ],
     "/misc/fake-healthy-foods#potatoes": [
+        # "tater tots",
+        # "tater tot",
         "fries",
         "french fries",
-        "french fry",
-        "tater tots",
-        "tater tot"
+        "french fry"
     ],
     "/misc/fake-healthy-foods#juice": [
         "fruit juices",
@@ -9428,7 +9440,17 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    'about 12" long',
+    "potato cubes",
+    "dip the boiled",
+    "boiled pretzels",
     "ridges on the side",
+    "into a pretzel",
+    "in the pretzels",
+    "salted pretzels",
+    "salted pretzel",
+    "add a pretzel",
+    "for another gluten free pretzel recipe",
     "quinoa base",
     "rarer side",
     "rare side",
