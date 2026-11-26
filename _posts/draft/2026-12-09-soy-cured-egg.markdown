@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Sides
 - Draft
-showPercentage: no
+showPercentage: vitMin
 hummus: no
 oatmeal: no
 yogurt: no
@@ -23,7 +23,7 @@ protein_bar: no
 beans: no
 permalink: /recipes/soy-cured-egg-yolks
 image: /assets/Food/Sides/Soy Cured/cover.jpg
-file: ssoycuredegg
+file: soycuredegg
 servingSize: 1 yolk (32 g)
 section1:
 start2:
@@ -60,23 +60,30 @@ tags:
 - soy cured eggs
 - sushi
 - raw eggs
-Description: These soy cured egg yolks are simply just raw egg yolks marinated in soy sauce for 24 hours. The result is creamy and hammy egg yolk that's my new favorite topping to literally anything. I'm not exaggerating. For a similar recipe, check out my Soy Marinated Eggs, which is a medium boiled egg that's marinated in soy sauce.
+Description: |
+  These soy cured egg yolks are simply just raw <a href='/misc/meat#eggs'>egg yolks</a> marinated in <a href='https://amzn.to/44VXByC'>soy sauce</a> for 24 hours. The result is creamy and jammy <a href='/misc/meat#eggs'>egg yolk</a> that's my new favorite topping to literally anything. I'm not exaggerating.<br><br>
+  
+  For a similar recipe, check out my <a href='/misc/cooking-eggs#soy-marinated'>Soy Marinated Eggs</a>, which is a <a href='/misc/cooking-eggs#hard-boiled'>medium boiled egg</a> that's marinated in <a href='https://amzn.to/44VXByC'>soy sauce</a>.
 Instructions:
-- Add egg yolks to a small shallow bowl. Add just enough soy sauce to cover the eggs.
+- Add <a href='/misc/meat#eggs'>egg yolks</a> to a small shallow bowl. Add just enough <a href='https://amzn.to/44VXByC'>soy sauce</a> to cover the <a href='/misc/meat#eggs'>eggs</a>.
 - <img src='/assets/Food/Sides/Soy Cured/before.jpg' alt='' class='instruction-image'>
 
-- Add a paper towel on top, and lightly press it down to cover the eggs. Let marinate for at least 24 hours in the fridge. Store them in the soy sauce.
+- Add a paper towel on top, and lightly press it down to cover the <a href='/misc/meat#eggs'>eggs</a>. Let marinate for at least 24 hours in the fridge. Store them in the <a href='https://amzn.to/44VXByC'>soy sauce</a>.
 - <img src='/assets/Food/Sides/Soy Cured/after.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Sides/Soy Cured/plate.jpg' alt='' class='instruction-image'>
 Notes:
-- I would recommend using pasteurized eggs since you'll be consuming the yolks raw.
+- I would recommend using pasteurized <a href='/misc/meat#eggs'>eggs</a> since you'll be consuming the <a href='/misc/meat#eggs'>yolks</a> raw.
 
 - |
-  <div id='whites' class='table-of-contents-2'></div>With the leftover egg whites, I scrambled them with some salt and pepper, and topped them with hot sauce.
+  <div id='whites' class='table-of-contents-2'></div>
+  With the leftover <a href='/misc/meat#egg-whites'>egg whites</a>, I scrambled them with some salt and pepper, and topped them with <a href='/recipes/hot-sauce'>hot sauce</a>.
 - <img src='/assets/Food/Sides/Soy Cured/whites.jpg' alt='' class='instruction-image'>
 
 - |
-  <div id='rice' class='table-of-contents-2'></div>Each egg yolk absorbed about 1 tbsp (15 g) of soy sauce, leaving behind 10 tbsp (150 g) soy sauce in the container. With this leftover soy sauce I made some rice using <b>2 cup (360 g) brown rice</b> and <b>3 cups + 6 tbsp (810 g) water</b>. This made about <b>6 cups (1,020 g) cooked rice</b>, where each cup is <b>170 g</b>.
+  <div id='rice' class='table-of-contents-2'></div>
+  Each <a href='/misc/meat#eggs'>egg yolk</a> absorbed about 1 tbsp (15 g) of <a href='https://amzn.to/44VXByC'>soy sauce</a>, leaving behind 10 tbsp (150 g) <a href='https://amzn.to/44VXByC'>soy sauce</a> in the container.<br><br>
+  
+  With this leftover <a href='https://amzn.to/44VXByC'>soy sauce</a> I made some <a href='/misc/grains#brown-rice'>rice</a> using <i>2 cup</i> (<i>360 g</i>) <a href='/misc/grains#brown-rice'>brown rice</a> and <i>3 cups + 6 tbsp</i> (<i>810 g</i>) water. This made about <i>6 cups</i> (<i>1,020 g</i>) cooked <a href='/misc/grains#brown-rice'>rice</a>, where each cup is <b>170 g</b>.
 - <img src='/assets/Food/Sides/Soy Cured/rice.jpg' alt='' class='instruction-image'>
 
 - |
@@ -85,14 +92,15 @@ Notes:
     "scrambledwhites",
     "soyrice";
 
-    "<a href='#recipe'>Soy<br>Egg</a><br><i>1 yolk<br>32 g</i>",
-    "<a href='#whites'>Scrambled<br>Egg<br>Whites</a><br><i>All 6</i>",
-    "<a href='#rice'>Soy<br>Rice</a><br><i>1 cup<br>170 g</i>;
+    "<a href='#recipe'>Egg<br>Yolks</a><br><i>1 yolk<br>32 g</i>",
+    "<a href='#whites'>Egg<br>Whites</a><br><i>Whole<br>Pan</i>",
+    "<a href='#rice'>Brown<br>Rice</a><br><i>1 cup<br>170 g</i>;
 
     "Calories",
     "Protein",
     "Fat",
     "Net Carbs",
-    "Fiber"
+    "Fiber",
+    "Sodium",
   )
 ---

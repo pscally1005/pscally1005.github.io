@@ -13,7 +13,7 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
-    "/recipes/soy-cureg-egg-yolks": [
+    "/recipes/soy-cured-egg-yolks": [
         "soy cured egg yolks",
         "soy cured egg yolk",
         "soy marinated egg yolks",
@@ -5750,10 +5750,17 @@ LINKS = {
         "fried eggs",
         "fried egg"
     ],
-    # "/misc/cooking-eggs#hard-boiled": [
-    #     "hard boiled eggs",
-    #     "hard boiled egg"
-    # ],
+    "/misc/cooking-eggs#hard-boiled": [
+        # "hard boiled eggs",
+        # "hard boiled egg",
+        # "hard boiled",
+        "medium boiled eggs",
+        "medium boiled egg",
+        "medium boiled",
+        "soft boiled eggs",
+        "soft boiled egg",
+        "soft boiled"
+    ],
     "/misc/cooking-eggs#hard-scrambled": [
         "scrambled eggs",
         "scrambled egg",

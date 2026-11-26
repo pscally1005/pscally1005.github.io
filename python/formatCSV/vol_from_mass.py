@@ -625,6 +625,10 @@ def vol_from_mass(food, mass, vol):
             v = "7 tbsp"
         elif mass == "120" or mass == "112":
             v = "1/2 cup"
+        elif mass == "135":
+            v = "9 tbsp"
+        elif mass == "150":
+            v = "1/2 cup + 2 tbsp"
         elif mass == "160":
             v = "2/3 cup"
         elif mass == "180":
@@ -647,12 +651,13 @@ def vol_from_mass(food, mass, vol):
             v = "2 1/2 cup"
         elif mass == "720":
             v = "3 cup"
+        elif mass == "810":
+            v = "3 cup + 6 tbsp"
         elif mass == "960":
             v = "4 cup"
         elif mass == "1200":
             v = "5 cup"
-        elif mass == "800" and food == "Simple pasta sauce":
-            v = "1 batch, 3 cup"
+        
 
     # Cottage cheese flatbread
     elif food == "Cottage cheese flatbread":
@@ -1929,6 +1934,8 @@ def vol_from_mass(food, mass, vol):
             v = "4 large"
         elif mass == "85":
             v = "5 large"
+        elif mass == "102":
+            v = "6 large"
 
     # Magnesium
     elif food == "Magnesium Glycinate":

@@ -618,6 +618,8 @@ def grams(food, mass, vol):
             m = "120"
         elif vol == "9 tbsp" or vol == "1/2 cup + 1 tbsp":
             m = "135"
+        elif vol == "10 tbsp" or vol == "1/2 cup + 2 tbsp":
+            m = "150"
         elif vol == "2/3 cup":
             m = "160"
         elif vol == "3/4 cup" or vol == "12 tbsp":
@@ -640,6 +642,8 @@ def grams(food, mass, vol):
             m = "600"
         elif vol == "3 cup":
             m = "720"
+        elif vol == "3.375 cup" or vol == "3 3/8 cup" or vol == "3 cup + 6 tbsp":
+            m = "810"
         elif vol == "4 cup":
             m = "960"
         elif vol == "5 cup":
@@ -2048,10 +2052,16 @@ def grams(food, mass, vol):
             m = "105"
         elif vol == "1/2 cup" or vol == "8 tbsp":
             m = "120"
+        elif vol == "4 large":
+            m = "132"
         elif vol == "2/3 cup":
             m = "160"
+        elif vol == "5 large":
+            m = "165"
         elif vol == "3/4 cup" or vol == "12 tbsp":
             m = "180"
+        elif vol == "6 large":
+            m = "198"
         elif vol == "1 cup":
             m = "240"
         elif vol == "1.25 cup" or vol == "1 1/4 cup":
@@ -2085,6 +2095,8 @@ def grams(food, mass, vol):
             m = "68"
         elif vol == "5 large":
             m = "85"
+        elif vol == "6 large":
+            m = "102"
 
     # Magnesium
     elif food == "Magnesium Glycinate":
