@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  'Peanut Butter & Jelly Cookies'
-date:   2026-11-24 00:00:00 -0500
+date:   2026-11-26 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
