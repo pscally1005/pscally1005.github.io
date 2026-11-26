@@ -13,6 +13,14 @@ DATA_DIR = r"C:\Users\mets1\Documents\website\_data"
 LINKS = {
 
     # RECIPES
+    "/recipes/soy-cureg-egg-yolks": [
+        "soy cured egg yolks",
+        "soy cured egg yolk",
+        "soy marinated egg yolks",
+        "soy marinated egg yolk",
+        "soy cured eggs",
+        "soy cured egg"
+    ],
     "/recipes/gluten-free-hot-pretzels": [
         "gluten free hot pretzels",
         "gluten free pretzels",
@@ -5755,6 +5763,10 @@ LINKS = {
         "hard scrambled egg",
         "american scrambled eggs",
         "american scrambled egg"
+    ],
+    "/misc/cooking-eggs#soy-marinated": [
+        "soy marinated eggs",
+        "soy marinated egg"
     ],
     "/misc/meat#egg-whites": [
         "liquid egg whites",
@@ -11790,7 +11802,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-11-29", "2026-12-06", "2026-12-07", "2026-12-08")):
+            if not file.startswith(("2026-12-09")):
             # if not file.startswith(("protein_bars", "quest_ranking")):
                 continue
 
